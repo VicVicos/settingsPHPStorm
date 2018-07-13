@@ -33,11 +33,11 @@
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
