@@ -1,0 +1,55 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log($END$);" description="log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+  <template name="for" value="for ($IN$) {&#10;    $END$&#10;}" description="for" toReformat="false" toShortenFQNames="true">
+    <variable name="IN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($IF$) {&#10;    $END$&#10;}" description="if" toReformat="false" toShortenFQNames="true">
+    <variable name="IF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ajax" value="    $.ajax({&#10;        url: '$PATH$',&#10;        type: '$TYPE$',&#10;        dataType: '$END$',&#10;        data: {param1: 'value1'}&#10;    })&#10;    .done(function() {&#10;        console.log(&quot;success&quot;);&#10;    })&#10;    .fail(function() {&#10;        console.log(&quot;error&quot;);&#10;    })&#10;    .always(function() {&#10;        console.log(&quot;complete&quot;);&#10;    });" description="ajax snippet" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ajax2" value="$.ajax({&#10;    url: '/path/to/file',&#10;    type: 'default GET (Other values: POST)',&#10;    dataType: 'default: Intelligent Guess (Other values: xml, json, script, or html)',&#10;    data: {param1: 'value1'}&#10;})&#10;.done(function() {&#10;    console.log(&quot;success&quot;);&#10;})&#10;.fail(function() {&#10;    console.log(&quot;error&quot;);&#10;})&#10;.always(function() {&#10;    console.log(&quot;complete&quot;);&#10;});" description="ajax" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jQuery" value="jQuery(document).ready(function($) {&#10;    $END$&#10;});" description="jQuery.ready" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reachGoal" value="jQuery(document).on('yacounter$ID$inited', function () {&#10;        var param = 0;&#10;        console.log('счетчик yaCounterXXXXX можно использовать');&#10;        $('.goal').on('click', function (event) {&#10;            event.preventDefault();&#10;            yaCounter26418777.reachGoal('$GOAL$', param, $END$);&#10;        })&#10;    });" description="Goal YMetrica" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GOAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ready" value="(function ($) {&#10;    $(function () {&#10;        $END$&#10;    });&#10;}(jQuery));" description="anonimus function and document ready" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="getParamForName" value="function getParameterByName(name, url) {&#10;    if (!url) url = window.location.href;&#10;    name = name.replace(/[\[\]]/g, &quot;\\$&amp;&quot;);&#10;    var regex = new RegExp(&quot;[?&amp;]&quot; + name + &quot;(=([^&amp;#]*)|&amp;|#|$)&quot;),&#10;        results = regex.exec(url);&#10;    if (!results) return null;&#10;    if (!results[2]) return '';&#10;    return decodeURIComponent(results[2].replace(/\+/g, &quot; &quot;));&#10;}&#10;$END$" description="Get param for Name" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

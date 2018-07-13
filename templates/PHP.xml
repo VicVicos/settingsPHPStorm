@@ -1,0 +1,74 @@
+<templateSet group="PHP">
+  <template name="dd" value="echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($END$);&#10;echo &quot;&lt;/pre&gt;&quot;;" description="var_dump()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="foreach ($ITERABLE$ as $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="foreachk" value="foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_KEY" expression="phpSuggestVariableName()" defaultValue="&quot;$index&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="echo" value="echo &quot;$END$&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="&lt;?php  ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="eph" value="&lt;?= $END$ ?&gt;" description="&lt;?=  ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $FUNC$&#10;} catch (Exception $e) {&#10;    $END$&#10;}" description="try catche" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="func" value="function $NAME$($PARAMS$) {&#10;    $END$&#10;}" description="function () {}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($VAR$) {&#10;    case '$VAR$':&#10;        $CODE$&#10;        break;&#10;    &#10;    default:&#10;        $END$&#10;        break;&#10;}" description="switch (){}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="loadModules" value="$document = &amp;JFactory::getDocument();&#10;$renderer = $document-&gt;loadRenderer('modules');&#10;$options = array('style' =&gt; '$STYLE$');&#10;$position = '$END$';&#10;echo $renderer-&gt;render($position, $options, null);" description="Load Modules for Joomla" toReformat="false" toShortenFQNames="true">
+    <variable name="STYLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="curlInit" value="$curlInit = curl_init();&#10;curl_setopt_array($curlInit, array(&#10;    CURLOPT_URL =&gt; '$URL$',&#10;    CURLOPT_RETURNTRANSFER =&gt; true,&#10;    CURLOPT_POST =&gt; true,&#10;    CURLOPT_POSTFIELDS =&gt; http_build_query(array(&#10;        $END$&#10;    ))&#10;));&#10;$response = curl_exec($curlInit);&#10;curl_close($curlInit);" description="curl init" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="error_report" value="error_reporting(E_ALL);&#10;ini_set('display_errors', 1);&#10;ini_set('display_startup_errors', 1);" description="Display errors" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

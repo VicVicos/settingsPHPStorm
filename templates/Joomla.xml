@@ -1,0 +1,304 @@
+<templateSet group="Joomla">
+  <template name="doc" value="$doc = JFactory::getDocument();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eq" value="echo str_replace('#__', '$var$', $query);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="get" value="$this-&gt;$var$ = $this-&gt;get('$var$');$END$&#10;" description="get view var" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="input" value="$input = JFactory::getApplication()-&gt;input;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="route" value="/**&#10;* @var array List Id depending of view component&#10;*/&#10;static $menuIds = array();&#10;&#10;/**&#10;* Create sef links&#10;* @param $option string&#10;* @param $view string&#10;* @param $query string&#10;* @return JRoute link&#10;* @throws Exception&#10;*/&#10;static function getRoute( $option, $view, $query = '' )&#10;{&#10;&#9;if ( empty( self::$menuIds[$option . '.' . $view] ) ) {&#10;&#9;&#9;$items = JMenuSite::getInstance( 'site' )-&gt;getItems( 'component', $option );&#10;&#9;&#9;foreach ( $items as $item ) {&#10;&#9;&#9;&#9;if ( isset( $item-&gt;query['view'] ) &amp;&amp; $item-&gt;query['view'] === $view ) {&#10;&#9;&#9;&#9;&#9;self::$menuIds[$option . '.' . $view] = $item-&gt;id;&#10;&#9;&#9;&#9;}&#10;&#9;&#9;}&#10;&#9;}&#10;&#9;return JRoute::_( 'index.php?view=' . $view . $query . '&amp;Itemid=' . self::$menuIds[$option . '.' . $view] );&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="query" value="$query = $this-&gt;getDbo()-&gt;getQuery( true )&#10;&#9;&#9;&#9;-&gt;$CURSOR$;&#10;$list = $this-&gt;getDbo()-&gt;setQuery( $query )-&gt;loadObjectList();" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="base" value="$baseUrl = JUri::base();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="cur" value="$currentUrl = JUri::current();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pathway" value="$pathway = JFactory::getApplication()-&gt;getPathway();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
+  <template name="db" value="$db = JFactory::getDbo();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tpl" value="&lt;?php echo $this-&gt;loadTemplate('$NAME$'); $END$ ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="je" value="&lt;?php&#10;defined( '_JEXEC' ) or die; // No direct access" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="jdoc" value="&lt;jdoc:include type=&quot;$TYPE$&quot; name=&quot;$NAME$&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="cache" value="$cache = JFactory::getCache( '$COMPONENT$.$VIEW$', '' );&#10;//$cache-&gt;setCaching( true );&#10;if ( !( $item = $cache-&gt;get( $this-&gt;getState( 'item.id' ), '$COMPONENT$.$VIEW$' ) ) ) {&#10;    $END$&#10;    $cache-&gt;store( $item, $this-&gt;getState( 'item.id', 0 ), '$COMPONENT$.$VIEW$' );&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="session" value="$session = JFactory::getSession();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_" value="echo JRoute::_($END$);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ajax" value="public function getAjax()&#10;{&#10;&#9;$input = JFactory::getApplication()-&gt;input;&#10;&#9;$model = $this-&gt;getModel( '$NAME$' );&#10;&#9;$action = $input-&gt;getCmd( 'action' );&#10;&#9;$reflection = new ReflectionClass( $model );&#10;&#9;$methods = $reflection-&gt;getMethods( ReflectionMethod::IS_PUBLIC );&#10;&#9;$methodList = array();&#10;&#9;foreach ( $methods as $method ) {&#10;&#9;&#9;$methodList[] = $method-&gt;name;&#10;&#9;}&#10;&#9;if ( in_array( $action, $methodList ) ) {&#10;&#9;&#9;$model-&gt;$action();&#10;&#9;}&#10;&#9;exit;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="json" value="/**&#10; * Вывод JSON данных&#10; * @param $message&#10; * @param bool $result&#10; * @param array $custom&#10; */&#10;private function printJson( $message, $result = false, $custom = array() )&#10;{&#10;&#9;$jsonData = array( 'result' =&gt; $result, 'message' =&gt; $message );&#10;&#9;foreach ( $custom as $key =&gt; $value ) {&#10;&#9;&#9;$jsonData[$key] = $value;&#10;&#9;}&#10;&#9;echo json_encode( $jsonData );&#10;&#9;exit;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="render" value="function renderModules( $position, $style = '' )&#10;{&#10;&#9;$modules = JModuleHelper::getModules( $position );&#10;&#9;foreach ( $modules as $module ) {&#10;&#9;&#9;echo JModuleHelper::renderModule( $module, array( 'style' =&gt; $style ) );&#10;&#9;}&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="jquery" value="JHtml::_( 'jquery.framework', false, null, false );" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="date" value="echo JHtml::_('date', $VAR$, 'd.m.Y | H:i');$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
+  <template name="prepare" value="JHtml::_('content.prepare', $TEXT$); $END$&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="token" value="&lt;?php echo JHtml::_( 'form.token' ); ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="check" value="if(!JSession::checkToken()) exit;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="field" value="&lt;field&#10;    name=&quot;$NAME$&quot;&#10;    type=&quot;$TYPE$&quot;&#10;    label=&quot;$LABEL$&quot;/&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="yn" value="&lt;field&#10;        name=&quot;$NAME$&quot;&#10;        type=&quot;list&quot;&#10;        label=&quot;$LABEL$&quot;&#10;        default=&quot;0&quot;&gt;&#10;    &lt;option value=&quot;0&quot;&gt;JNO&lt;/option&gt;&#10;    &lt;option value=&quot;1&quot;&gt;JYES&lt;/option&gt;&#10;&lt;/field&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="mailer" value="$config = JFactory::getConfig(); //получаем настройки сайта&#10;$mailer = JFactory::getMailer(); //Получаем экземпляр класса JMail&#10;$mailer-&gt;IsHTML( true ); //Указываем что письмо будет в формате HTML&#10;$mailer-&gt;setSender( array( $config-&gt;get( 'mailfrom' ), $config-&gt;get( 'fromname' ) ) ); //Указываем отправителя письма&#10;$mailer-&gt;addRecipient( $config-&gt;get( 'mailfrom' ) ); //указываем получателя письма&#10;$mailer-&gt;setSubject($THEME$); //Тема письма&#10;$mailer-&gt;setBody($BODY$); //Добавляем текст письма&#10;$mailer-&gt;send(); //Отправляем письмо" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="THEME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="getinput" value="&lt;div class=&quot;control-group&quot;&gt;&#10;    &lt;div class=&quot;control-label&quot;&gt;&lt;?php echo $this-&gt;form-&gt;getLabel( '$NAME$' ); ?&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;controls&quot;&gt;&lt;?php echo $this-&gt;form-&gt;getInput( '$NAME$' ); ?&gt;&lt;/div&gt;&#10;&lt;/div&gt;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="group" value="&lt;?php foreach ($this-&gt;form-&gt;getGroup('$GROUP$') as $field) : ?&gt;&#10;    &lt;?php echo $field-&gt;getControlGroup(); ?&gt;&#10;&lt;?php endforeach; ?&gt;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="GROUP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="tab" value="&lt;?php echo JHtml::_( 'bootstrap.addTab', 'myTab', '$NAME$', JText::_( '$TITLE$') ); ?&gt;&#10;$END$&#10;&lt;?php echo JHtml::_( 'bootstrap.endTab' ); ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jimage" value="try {&#10;&#9;$imagePath = JPATH_SITE . '/images/wssGallery/';&#10;&#9;jimport( 'joomla.filesystem.folder' );&#10;&#9;if ( !JFolder::exists( $imagePath ) ) JFolder::create( $imagePath );&#10;&#9;$name = md5( mktime() . mt_rand( 0, 9999 ) . $file['tmp_name'] ) . '.jpg';&#10;&#9;$image = new JImage( $file );&#10;&#9;$image-&gt;toFile( $imagePath . $name );&#10;} catch (Exception $ex) {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="jq" value="&lt;script&gt;&#10;&#9;jQuery(document).ready(function ($) {&#10;&#10;&#9;});&#10;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="click" value="$('.$SELECTOR$').on('click', function(){&#10;    $END$&#10;});" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="select" value="$query = $this-&gt;getDbo()-&gt;getQuery(true)&#10;&#9;-&gt;select('$SELECT$')&#10;    -&gt;from('#__$TABLE$')&#10;    -&gt;where('$WHERE$'); $END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SELECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHERE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="delete" value="$query = $this-&gt;getDbo()-&gt;getQuery(true)&#10;&#9;-&gt;delete('#__$TABLE$')&#10;&#9;-&gt;where('$WHERE$');$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHERE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="update" value="$query = $this-&gt;getDbo()-&gt;getQuery(true)&#10;&#9;-&gt;update('#__$TABLE$')&#10;&#9;-&gt;set('$SET$')&#10;&#9;-&gt;where('$WHERE$');$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SET" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHERE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="insert" value="$query = $this-&gt;getDbo()-&gt;getQuery(true)&#10;&#9;-&gt;insert('#__$TABLE$')&#10;&#9;-&gt;columns('$COLUMNS$')&#10;&#9;-&gt;values('$VALUES$');$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLUMNS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUES" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="loadObjectList" value="$this-&gt;getDbo()-&gt;setQuery( $query )-&gt;loadObjectList();$END$&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="execute" value="$this-&gt;getDbo()-&gt;setQuery( $query )-&gt;execute();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="loadObject" value="$this-&gt;getDbo()-&gt;setQuery( $query )-&gt;loadObject();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="loadResult" value="$this-&gt;getDbo()-&gt;setQuery( $query )-&gt;loadResult();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dbloadObject" value="$db-&gt;setQuery( $query )-&gt;loadObject();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dbloadObjectList" value="$db-&gt;setQuery( $query )-&gt;loadObjectList();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dbloadResult" value="$db-&gt;setQuery( $query )-&gt;loadResult();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dbexecute" value="$db-&gt;setQuery( $query )-&gt;execute();$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="clearTags" value="$input = JFactory::getApplication()-&gt;input;&#10;$db = JFactory::getDbo();&#10;if ( $input-&gt;getCmd( 'task' ) === 'start' ) {&#10;&#9;$query = $db-&gt;getQuery( true )-&gt;select( 'tag_id' )&#10;&#9;&#9;-&gt;from( '#__contentitem_tag_map' )&#10;&#9;&#9;-&gt;where( 'type_id=1' )&#10;&#9;&#9;-&gt;order( 'tag_id' );&#10;&#9;$tags = $db-&gt;setQuery( $query )-&gt;loadObjectList();&#10;&#9;$tagList = array();&#10;&#9;foreach ( $tags as $tag ) {&#10;&#9;&#9;$tagList[] = $tag-&gt;tag_id;&#10;&#9;}&#10;&#9;$tagList[] = 1;&#10;&#9;$query = $db-&gt;getQuery( true )&#10;&#9;&#9;-&gt;select( 'id, title' )&#10;&#9;&#9;-&gt;from( '#__tags' )&#10;&#9;&#9;-&gt;where( 'id NOT IN(' . implode( ',', $tagList ) . ')' );&#10;&#9;$tagsNotUsed = $db-&gt;setQuery( $query )-&gt;loadObjectList();&#10;&#10;&#9;include_once JPATH_SITE . '/administrator/components/com_tags/tables/tag.php';&#10;&#10;&#9;foreach ( $tagsNotUsed as $tagToDelete ) {&#10;&#9;&#9;$tableTags = new TagsTableTag( $db );&#10;&#9;&#9;if ( $tableTags-&gt;load( $tagToDelete-&gt;id ) ) {&#10;&#9;&#9;&#9;if ( $tableTags-&gt;delete( $tagToDelete-&gt;id ) ) {&#10;&#9;&#9;&#9;&#9;echo 'тег ' . $tagToDelete-&gt;title . ' удален!&lt;br /&gt;';&#10;&#9;&#9;&#9;}&#10;&#9;&#9;&#9;else{&#10;&#9;&#9;&#9;&#9;echo 'тег ' . $tagToDelete-&gt;title . ' не удалось удалить!&lt;br /&gt;';&#10;&#9;&#9;&#9;}&#10;&#9;&#9;}&#10;&#9;}&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="jtable" value="&lt;?php&#10;defined( '_JEXEC' ) or die; // No direct access&#10;$$$NAME$ = trim( $this-&gt;item-&gt;$NAME$ ) === '' ? array() : json_decode( $this-&gt;item-&gt;$NAME$ );&#10;JHtml::_( 'jquery.framework' );&#10;JHtml::_( 'jquery.ui', array( 'core', 'sortable' ) );&#10;JHtml::script( 'jui/sortablelist.js', false, true );&#10;?&gt;&#10;&lt;table class=&quot;table table-bordered table-condensed table-striped table-hover table-$NAME$&quot; style=&quot;width: 500px;&quot;&gt;&#10;&#9;&lt;thead&gt;&#10;&#9;&lt;tr&gt;&#10;&#9;&#9;&lt;th&gt;&lt;/th&gt;&#10;&#9;&#9;&lt;th&gt;$TITLE$&lt;/th&gt;&#10;&#9;&#9;&lt;th&gt;$DESC$&lt;/th&gt;&#10;&#9;&#9;&lt;th&gt;&lt;/th&gt;&#10;&#9;&lt;/tr&gt;&#10;&#9;&lt;/thead&gt;&#10;&#9;&lt;tbody&gt;&#10;&#9;&lt;?php foreach ( $videos as $key =&gt; $video ): ?&gt;&#10;&#9;&#9;&lt;tr&gt;&#10;&#9;&#9;&#9;&lt;td&gt;&lt;i class=&quot;icon-menu&quot;&gt;&lt;/i&gt;&lt;input type=&quot;hidden&quot; name=&quot;$NAME$[order][]&quot; class=&quot;position-field&quot; value=&quot;&lt;?php echo $key; ?&gt;&quot;&gt;&lt;/td&gt;&#10;&#9;&#9;&#9;&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;$NAME$[url][]&quot; value=&quot;&lt;?php echo $video-&gt;title; ?&gt;&quot; /&gt;&lt;/td&gt;&#10;&#9;&#9;&#9;&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;$NAME$[text][]&quot; value=&quot;&lt;?php echo $video-&gt;name; ?&gt;&quot; /&gt;&lt;/td&gt;&#10;&#9;&#9;&#9;&lt;td&gt;&lt;input type=&quot;button&quot; value=&quot;Удалить&quot; class=&quot;btn btn-danger btn-remove-$NAME$&quot; /&gt;&lt;/td&gt;&#10;&#9;&#9;&lt;/tr&gt;&#10;&#9;&lt;?php endforeach; ?&gt;&#10;&#9;&lt;/tbody&gt;&#10;&lt;/table&gt;&#10;&lt;input type=&quot;button&quot; value=&quot;Добавить&quot; class=&quot;btn btn-primary btn-add-$NAME$&quot; /&gt;&#10;&lt;script&gt;&#10;&#9;jQuery(document).ready(function ($) {&#10;&#9;&#9;jQuery(&quot;.table-$NAME$ tbody&quot;).sortable({&#10;&#9;&#9;&#9;update: function (event, ui) {&#10;&#10;&#9;&#9;&#9;}&#10;&#9;&#9;});&#10;&#9;&#9;$(document).on('click', '.btn-add-$NAME$', function () {&#10;&#9;&#9;&#9;$('.table-videos tbody').append('&lt;tr&gt;' +&#10;&#9;&#9;&#9;'&lt;td&gt;&lt;i class=&quot;icon-menu&quot;&gt;&lt;/i&gt;&lt;input type=&quot;hidden&quot; name=&quot;$NAME$[order][]&quot; class=&quot;position-field&quot; value=&quot;&quot;&gt;&lt;/td&gt;' +&#10;&#9;&#9;&#9;'&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;$NAME$[url][]&quot;/&gt;&lt;/td&gt;' +&#10;&#9;&#9;&#9;'&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;$NAME$[text][]&quot;/&gt;&lt;/td&gt;' +&#10;&#9;&#9;&#9;'&lt;td&gt;&lt;input type=&quot;button&quot; value=&quot;Удалить&quot;  class=&quot;btn btn-danger btn-remove-$NAME$&quot;/&gt;&lt;/td&gt;' +&#10;&#9;&#9;&#9;'&lt;/tr&gt;');&#10;&#9;&#9;});&#10;&#9;&#9;$(document).on('click', '.btn-remove-$NAME$', function () {&#10;&#9;&#9;&#9;$(this).closest('tr').remove();&#10;&#9;&#9;});&#10;&#9;});&#10;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="?e" value="&lt;?php echo $$$END$; ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="write" value="$$$VAR$ = fopen('1.text', 'w');&#10;fwrite($$$VAR$, print_r($_REQUEST, true));&#10;flush();&#10;fclose($$$VAR$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="crop" value="$input = JFactory::getApplication()-&gt;input;&#10;if ( $input-&gt;getCmd( 'task' ) === 'prepare' ) {&#10;&#9;set_time_limit( 0 );&#10;&#9;jimport( 'joomla.filesystem.folder' );&#10;&#9;$files = JFolder::files( JPATH_BASE . '/images', '\.jpg$', true, true );&#10;&#10;&#9;foreach ( $files as $file ) {&#10;&#9;&#9;try {&#10;&#9;&#9;&#9;$image = new JImage( $file );&#10;&#9;&#9;&#9;if ( $image-&gt;getWidth() &gt; 800 || $image-&gt;getHeight() &gt; 600 ) {&#10;&#9;&#9;&#9;&#9;$image-&gt;resize( 800, 600, false );&#10;&#9;&#9;&#9;&#9;$image-&gt;toFile( $file );&#10;&#9;&#9;&#9;&#9;echo $file . '&lt;br /&gt;';&#10;&#9;&#9;&#9;}&#10;&#9;&#9;} catch ( Exception $ex ) {&#10;&#9;&#9;}&#10;&#9;}&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
+  <template name="jlayout" value="echo JLayoutHelper::render( '$VAR1$', $VAR22$, JPATH_ROOT . '/components/com_$VAR3$/layouts/' );" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR22" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
