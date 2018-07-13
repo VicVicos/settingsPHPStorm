@@ -47,9 +47,4 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="getParamForName" value="function getParameterByName(name, url) {&#10;    if (!url) url = window.location.href;&#10;    name = name.replace(/[\[\]]/g, &quot;\\$&amp;&quot;);&#10;    var regex = new RegExp(&quot;[?&amp;]&quot; + name + &quot;(=([^&amp;#]*)|&amp;|#|$)&quot;),&#10;        results = regex.exec(url);&#10;    if (!results) return null;&#10;    if (!results[2]) return '';&#10;    return decodeURIComponent(results[2].replace(/\+/g, &quot; &quot;));&#10;}&#10;$END$" description="Get param for Name" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
 </templateSet>
