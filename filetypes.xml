@@ -15,6 +15,7 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".passwd" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="date" type="PLAIN_TEXT" />
     </extensionMap>
