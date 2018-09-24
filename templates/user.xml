@@ -46,4 +46,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="apacheAuth" value="AuthType Basic&#10;AuthName &quot;$TEXT$&quot;&#10;AuthUserFile /$END$/.htpasswd&#10;Require valid-user" description="Apache Authorization" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
