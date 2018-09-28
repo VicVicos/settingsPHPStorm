@@ -53,4 +53,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="jsToday" value="var today = new Date();&#10;var dd = today.getDate();&#10;var mm = today.getMonth()+1;&#10;var yyyy = today.getFullYear();&#10;&#10;if(dd&lt;10) {&#10;    dd = '0'+dd&#10;}             &#10;if(mm&lt;10) {&#10;    mm = '0'+mm&#10;} &#10;today = mm + '/' + dd + '/' + yyyy;&#10;console.log($END$);" description="currend date from js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
