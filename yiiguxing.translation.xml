@@ -4,6 +4,7 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="romanomsk@gmail.com" />
       <item value="handles math equations, variable dereferences, and the like." />
       <item value="formatter, like `scss_formatter` which then outputs CSS as a string." />
       <item value="The return value of ceil is still of type * float as the value range of float is * usually bigger than that of integer." />
@@ -16,7 +17,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="7" />
-        <entry key="RUSSIAN" value="7" />
+        <entry key="RUSSIAN" value="9" />
       </map>
     </option>
   </component>
