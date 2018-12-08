@@ -4,6 +4,8 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="Document instance of $this to allow chaining" />
+      <item value="Adds a script to the page" />
       <item value="romanomsk@gmail.com" />
       <item value="handles math equations, variable dereferences, and the like." />
       <item value="formatter, like `scss_formatter` which then outputs CSS as a string." />
@@ -16,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="RUSSIAN" value="9" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="RUSSIAN" value="10" />
       </map>
     </option>
   </component>
