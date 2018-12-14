@@ -76,4 +76,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="cast_test" value="if (!function_exists('fsockopen')) {&#10;    echo 'fsockopen не работает!';&#10;    return;&#10;}&#10;//Используем определённые сервера на которых точно открыты нужные порты&#10;$tests = array(&#10;    25 =&gt; 'smtp.yandex.ru',&#10;    //465 =&gt; 'ssl://smtp.yandex.ru',&#10;    465 =&gt; 'ssl://smtp.gmail.com',&#10;    //587 =&gt; 'tsl://smtp.yandex.ru',&#10;    587 =&gt; 'smtp.yandex.ru',&#10;);&#10;//По циклу тестируем&#10;foreach ($tests as $port =&gt; $server) {&#10;    //Соединяемся&#10;    $fp = @fsockopen($server, $port, $errno, $errstr, 5);&#10;    //Если удачное соединение&#10;    if ($fp) {&#10;        echo 'Post ' . $port . ' open!' . &quot;&lt;br/&gt;&quot;;&#10;        fclose($fp);&#10;    }&#10;//Если неудачное соединение&#10;    else {&#10;        echo 'Port' . $port . ' close!' . &quot;&lt;br/&gt;&quot;;&#10;        //Вывод номера и причины ошибки&#10;        echo &quot; error num: &quot; . $errno . ' : ' . $errstr . &quot;&lt;br/&gt;&quot;;&#10;    }&#10;}$END$" description="Test ports" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
