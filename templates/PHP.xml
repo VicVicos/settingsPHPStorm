@@ -71,7 +71,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="mvd" value="if (isset($_GET['dev'])) {&#10;    echo &quot;&lt;pre&gt;&quot;;&#10;    var_dump($END$);&#10;    echo &quot;&lt;/pre&gt;&quot;;&#10;}" description="var_dump developer" toReformat="false" toShortenFQNames="true">
+  <template name="mvd" value="if (isset($_GET['dev'])) {&#10;    echo &quot;&lt;pre&gt;&quot;;&#10;    var_dump($END$);&#10;    echo &quot;&lt;/pre&gt;&quot;;&#10;    echo('File name: '.dirname(__FILE__).'/'.basename(__FILE__).' Line: '.__LINE__);&#10;}" description="var_dump developer" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
