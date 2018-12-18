@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="MainForm" value="import javax.swing.JFrame;&#10;import javax.swing.JPanel;&#10;import javax.swing.WindowConstants;&#10;&#10;public class Form extends JFrame {&#10;    private JPanel rootPanel;&#10;&#10;    {&#10;        setContentPane(rootPanel);&#10;        setSize(800, 600);$END$&#10;    }&#10;&#10;    public static void main(String[] args) {&#10;        Form frame = new Form();&#10;&#10;        frame.setLocationRelativeTo(null);&#10;        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);&#10;        frame.setVisible(true);&#10;    }&#10;&#10;    private void createUIComponents() {&#10;        // TODO: place custom component creation code here&#10;    }&#10;}" description="Origin window app" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
