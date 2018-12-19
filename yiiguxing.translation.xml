@@ -4,6 +4,7 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="smart Cutting" />
       <item value="good morning" />
       <item value="Document instance of $this to allow chaining" />
       <item value="Adds a script to the page" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="11" />
-        <entry key="RUSSIAN" value="11" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="RUSSIAN" value="12" />
       </map>
     </option>
   </component>
