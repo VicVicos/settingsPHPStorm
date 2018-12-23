@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @param modal specifies whether dialog blocks input to other windows * when shown; calling to &lt;code&gt;setModal(true)&lt;/code&gt; is equivalent to * &lt;code&gt;setModalityType(Dialog.DEFAULT_MODALITY_TYPE)&lt;/code&gt;, and * calling to &lt;code&gt;setModal(false)&lt;/code&gt; is equvivalent to * &lt;code&gt;setModalityType(Dialog.ModalityType.MODELESS)&lt;/code&gt;" />
       <item value="gap" />
       <item value="The close operation can be overridden at this point." />
       <item value="Revalidates the component hierarchy up to the nearest validate root. * &lt;p&gt; * This method first invalidates the component hierarchy starting from this * component up to the nearest validate root. Afterwards, the component * hierarchy is validated starting from the nearest validate root. * &lt;p&gt; * This is a convenience method supposed to help application developers * avoid looking for validate roots manually. Basically, it's equivalent to * first calling the {@link #invalidate()} method on this component, and * then calling the {@link #validate()} method on the nearest validate * root." />
@@ -9,8 +10,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="5" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="RUSSIAN" value="6" />
       </map>
     </option>
   </component>
