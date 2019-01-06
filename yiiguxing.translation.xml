@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MISS" />
       <item value="patronymic" />
       <item value="invoked when an action occurs." />
       <item value="Sets the pressed icon for the button." />
@@ -16,9 +17,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="ALBANIAN" value="1" />
-        <entry key="RUSSIAN" value="11" />
+        <entry key="RUSSIAN" value="12" />
       </map>
     </option>
   </component>
