@@ -4,6 +4,7 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="simbol" />
       <item value="ERR CONNECTION REFUSED" />
       <item value="lunch" />
       <item value="lunche" />
@@ -25,7 +26,8 @@
       <map>
         <entry key="ENGLISH" value="14" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="14" />
+        <entry key="RUSSIAN" value="15" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
