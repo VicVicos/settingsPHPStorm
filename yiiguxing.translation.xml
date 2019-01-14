@@ -4,6 +4,9 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="Eet" />
+      <item value="Eaet" />
+      <item value="elems Eaet" />
       <item value="Fight Nigth" />
       <item value="Figth Nigth" />
       <item value="string String on which to perform the search." />
@@ -30,7 +33,10 @@
       <map>
         <entry key="ENGLISH" value="18" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="18" />
+        <entry key="RUSSIAN" value="19" />
+        <entry key="FRISIAN" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
