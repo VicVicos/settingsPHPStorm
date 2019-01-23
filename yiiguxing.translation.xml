@@ -4,6 +4,8 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="Do no touch" />
+      <item value="Do can touch" />
       <item value="наличие" />
       <item value="Eet" />
       <item value="Eaet" />
@@ -32,9 +34,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="21" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="20" />
+        <entry key="RUSSIAN" value="21" />
         <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
