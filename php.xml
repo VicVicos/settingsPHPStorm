@@ -5,11 +5,6 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\OSPanel\modules\php\PHP-5.6\php.exe" id="f680f18c-5b3d-46d6-a1e2-ea6f5d3cd74f" name="PHP" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
