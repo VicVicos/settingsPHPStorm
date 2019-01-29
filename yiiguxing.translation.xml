@@ -4,6 +4,7 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="Fixed attributes images" />
       <item value="Meta generation for Product" />
       <item value="Meta genered for Product" />
       <item value="Meta generated for Product" />
