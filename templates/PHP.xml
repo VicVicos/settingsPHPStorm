@@ -81,4 +81,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="mve" value="file_put_contents($_SERVER['DOCUMENT_ROOT'].'/dump/var_dump-'.date(&quot;Y-m-d-H-i-s&quot;).'.txt', var_export($END$, true));" description="Dev var_export" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
