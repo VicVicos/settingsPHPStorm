@@ -4,6 +4,7 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="revoke api key" />
       <item value="рекетир" />
       <item value="Title With Price" />
       <item value="Fixed attributes images" />
@@ -42,10 +43,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="25" />
+        <entry key="RUSSIAN" value="26" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
