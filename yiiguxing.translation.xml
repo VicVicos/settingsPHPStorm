@@ -4,6 +4,7 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="FIX bug CMS crunch" />
       <item value="This function is used to calculate the shipping cost. Within this function we can check for weights, dimensions and other parameters." />
       <item value="revoke api key" />
       <item value="рекетир" />
@@ -44,10 +45,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="27" />
+        <entry key="RUSSIAN" value="28" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
