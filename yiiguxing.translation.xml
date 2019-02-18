@@ -4,6 +4,7 @@
       <language-pair source="RUSSIAN" target="ENGLISH" />
     </option>
     <histories>
+      <item value="Настройки соответствуют. В wp_debug есть ошибки в apply_filters('http_request_args')&#10;https://api.envato.com/v2/market/buyer/list-purchases?filter_by=wordpress-plugins&#10;403 error" />
       <item value="точная дата" />
       <item value="FIX bug CMS crunch" />
       <item value="This function is used to calculate the shipping cost. Within this function we can check for weights, dimensions and other parameters." />
@@ -46,10 +47,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="30" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="29" />
+        <entry key="RUSSIAN" value="31" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
