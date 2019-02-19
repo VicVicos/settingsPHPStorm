@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="make" />
       <item value="mileage" />
       <item value="точная дата" />
       <item value="FIX bug CMS crunch" />
@@ -44,10 +45,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="29" />
+        <entry key="RUSSIAN" value="30" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
