@@ -1,9 +1,41 @@
 <application>
   <component name="AppStorage">
-    <option name="lastLanguages">
-      <language-pair source="RUSSIAN" target="ENGLISH" />
-    </option>
     <histories>
+      <item value="февраль" />
+      <item value="febrau" />
+      <item value="fuel" />
+      <item value="двигатель" />
+      <item value="serie" />
+      <item value="make" />
+      <item value="set Result For Key" />
+      <item value="точная дата" />
+      <item value="FIX bug CMS crunch" />
+      <item value="This function is used to calculate the shipping cost. Within this function we can check for weights, dimensions and other parameters." />
+      <item value="revoke api key" />
+      <item value="рекетир" />
+      <item value="Title With Price" />
+      <item value="Fixed attributes images" />
+      <item value="Meta generation for Product" />
+      <item value="Meta genered for Product" />
+      <item value="Meta generated for Product" />
+      <item value="generate Description" />
+      <item value="wrp-order-submit-btn" />
+      <item value="Do no touch" />
+      <item value="Do can touch" />
+      <item value="наличие" />
+      <item value="Eet" />
+      <item value="Eaet" />
+      <item value="elems Eaet" />
+      <item value="Fight Nigth" />
+      <item value="Figth Nigth" />
+      <item value="string String on which to perform the search." />
+      <item value="Returns a Boolean value that indicates whether or not a pattern exists in a searched string." />
+      <item value="simbol" />
+      <item value="ERR CONNECTION REFUSED" />
+      <item value="lunch" />
+      <item value="lunche" />
+      <item value="smart Cutting" />
+      <item value="good morning" />
       <item value="Document instance of $this to allow chaining" />
       <item value="Adds a script to the page" />
       <item value="romanomsk@gmail.com" />
@@ -18,8 +50,16 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="RUSSIAN" value="10" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="POLISH" value="2" />
+        <entry key="RUSSIAN" value="34" />
+        <entry key="FRISIAN" value="1" />
+        <entry key="KAZAKH" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
