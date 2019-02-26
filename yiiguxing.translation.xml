@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paid" />
       <item value="февраль" />
       <item value="febrau" />
       <item value="fuel" />
@@ -50,7 +51,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="RUSSIAN" value="34" />
