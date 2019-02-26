@@ -71,17 +71,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="mvd" value="if (isset($_GET['dev'])) {&#10;    echo &quot;&lt;pre&gt;&quot;;&#10;    var_dump($END$);&#10;    echo &quot;&lt;/pre&gt;&quot;;&#10;    echo('File name: '.dirname(__FILE__).'/'.basename(__FILE__).' Line: '.__LINE__);&#10;}" description="var_dump developer" toReformat="false" toShortenFQNames="true">
+  <template name="mvd" value="if (isset($_GET['dev'])) {&#10;    echo &quot;&lt;pre&gt;&quot;;&#10;    var_dump($END$);&#10;    echo &quot;&lt;/pre&gt;&quot;;&#10;}" description="var_dump developer" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="cast_test" value="if (!function_exists('fsockopen')) {&#10;    echo 'fsockopen не работает!';&#10;    return;&#10;}&#10;//Используем определённые сервера на которых точно открыты нужные порты&#10;$tests = array(&#10;    25 =&gt; 'smtp.yandex.ru',&#10;    //465 =&gt; 'ssl://smtp.yandex.ru',&#10;    465 =&gt; 'ssl://smtp.gmail.com',&#10;    //587 =&gt; 'tsl://smtp.yandex.ru',&#10;    587 =&gt; 'smtp.yandex.ru',&#10;);&#10;//По циклу тестируем&#10;foreach ($tests as $port =&gt; $server) {&#10;    //Соединяемся&#10;    $fp = @fsockopen($server, $port, $errno, $errstr, 5);&#10;    //Если удачное соединение&#10;    if ($fp) {&#10;        echo 'Post ' . $port . ' open!' . &quot;&lt;br/&gt;&quot;;&#10;        fclose($fp);&#10;    }&#10;//Если неудачное соединение&#10;    else {&#10;        echo 'Port' . $port . ' close!' . &quot;&lt;br/&gt;&quot;;&#10;        //Вывод номера и причины ошибки&#10;        echo &quot; error num: &quot; . $errno . ' : ' . $errstr . &quot;&lt;br/&gt;&quot;;&#10;    }&#10;}$END$" description="Test ports" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="mve" value="file_put_contents($_SERVER['DOCUMENT_ROOT'].'/dump/var_dump-'.date(&quot;Y-m-d-H-i-s&quot;).'.txt', var_export($END$, true));" description="Dev var_export" toReformat="false" toShortenFQNames="true">
+  <template name="singleton" value="private static $_instance = null;&#10;&#10;private function __construct() {}&#10;&#10;protected function __clone() {}&#10;&#10;static public function getInstance() {&#10;    if(is_null(self::$_instance))&#10;    {&#10;        self::$_instance = new self();&#10;    }&#10;    return self::$_instance;&#10;}$END$" description="Singleton Base" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
