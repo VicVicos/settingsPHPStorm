@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Здравствуйте!&#10;Переустановили всё на чистую версию и всё заработало." />
       <item value="touch me" />
       <item value="paid" />
       <item value="февраль" />
@@ -55,7 +56,7 @@
         <entry key="ENGLISH" value="35" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="35" />
+        <entry key="RUSSIAN" value="36" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
