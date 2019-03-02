@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="нет на складе" />
+      <item value="out stock" />
       <item value="от" />
       <item value="ОТ" />
       <item value="туалет" />
@@ -49,15 +51,13 @@
       <item value="Adds a script to the page" />
       <item value="romanomsk@gmail.com" />
       <item value="handles math equations, variable dereferences, and the like." />
-      <item value="formatter, like `scss_formatter` which then outputs CSS as a string." />
-      <item value="The return value of ceil is still of type * float as the value range of float is * usually bigger than that of integer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="41" />
+        <entry key="RUSSIAN" value="42" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
