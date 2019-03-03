@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mega crutch" />
+      <item value="Мега костыль" />
+      <item value="Mega Сrutch" />
+      <item value="Mega Crunch" />
       <item value="нет на складе" />
       <item value="out stock" />
       <item value="от" />
@@ -47,22 +51,18 @@
       <item value="lunche" />
       <item value="smart Cutting" />
       <item value="good morning" />
-      <item value="Document instance of $this to allow chaining" />
-      <item value="Adds a script to the page" />
-      <item value="romanomsk@gmail.com" />
-      <item value="handles math equations, variable dereferences, and the like." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="44" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="42" />
+        <entry key="RUSSIAN" value="44" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
