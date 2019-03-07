@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="март" />
+      <item value="марта" />
+      <item value="march" />
       <item value="crutch" />
       <item value="обработчик" />
       <item value="Do you confirm generation" />
@@ -48,16 +51,13 @@
       <item value="elems Eaet" />
       <item value="Fight Nigth" />
       <item value="Figth Nigth" />
-      <item value="string String on which to perform the search." />
-      <item value="Returns a Boolean value that indicates whether or not a pattern exists in a searched string." />
-      <item value="simbol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="49" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="47" />
+        <entry key="RUSSIAN" value="50" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
