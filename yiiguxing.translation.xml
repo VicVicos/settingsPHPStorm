@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crutch" />
       <item value="обработчик" />
       <item value="Do you confirm generation" />
       <item value="Cannot create new column. When data source in an object, you can only have as much columns as defined in first data row, data schema or in the 'columns' setting.If you want to be able to add new columns, you have to use array datasource." />
@@ -50,11 +51,10 @@
       <item value="string String on which to perform the search." />
       <item value="Returns a Boolean value that indicates whether or not a pattern exists in a searched string." />
       <item value="simbol" />
-      <item value="ERR CONNECTION REFUSED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="RUSSIAN" value="47" />
