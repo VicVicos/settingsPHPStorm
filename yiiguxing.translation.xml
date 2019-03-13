@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GOLFES-WITH-OPEN-NOSE-1-CLASS-OF-COMPRESSION-INTEX" />
       <item value="телепорт" />
       <item value="телепортация" />
       <item value="телепортирация" />
@@ -50,14 +51,13 @@
       <item value="Title With Price" />
       <item value="Fixed attributes images" />
       <item value="Meta generation for Product" />
-      <item value="Meta genered for Product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="56" />
+        <entry key="RUSSIAN" value="57" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
