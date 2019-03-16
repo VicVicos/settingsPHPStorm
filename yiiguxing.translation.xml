@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="преимущества" />
+      <item value="homes" />
       <item value="Returns nothing." />
       <item value="переделать на ajax" />
       <item value="column value precision. First parameter passed to the column type, e.g. DATETIME(precision)." />
@@ -49,15 +51,13 @@
       <item value="двигатель" />
       <item value="serie" />
       <item value="make" />
-      <item value="set Result For Key" />
-      <item value="точная дата" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="63" />
+        <entry key="RUSSIAN" value="65" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
