@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please contact us if you think this is a server error. Thank you." />
+      <item value="The above error occurred while the Web server was processing your request." />
       <item value="Акции" />
       <item value="преимущества" />
       <item value="homes" />
@@ -49,15 +51,13 @@
       <item value="февраль" />
       <item value="febrau" />
       <item value="fuel" />
-      <item value="двигатель" />
-      <item value="serie" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="65" />
+        <entry key="ENGLISH" value="67" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="66" />
+        <entry key="RUSSIAN" value="67" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />

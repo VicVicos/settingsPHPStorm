@@ -86,4 +86,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="widgetYii2" value="namespace $NAMESPACE$&#10;&#10;use yii\base\Widget;&#10;&#10;class $CLASS$ extends Widget&#10;{&#10;    private $layout = 'default';&#10;&#10;    /**&#10;     * @return string&#10;     */&#10;    public function getLayout (): string&#10;    {&#10;        return $this-&gt;layout;&#10;    }&#10;&#10;    /**&#10;     * @param string $layout&#10;     */&#10;    public function setLayout (string $layout)&#10;    {&#10;        $this-&gt;layout = $layout;&#10;    }&#10;&#10;    public function init()&#10;    {&#10;        parent::init();&#10;    }&#10;&#10;    public function run()&#10;    {&#10;        return $this-&gt;render($this-&gt;getLayout(), [&#10;            $END$&#10;        ]);&#10;    }&#10;}" description="template for widget Yii2" toReformat="false" toShortenFQNames="true">
+    <variable name="NAMESPACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
