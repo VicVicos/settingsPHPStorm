@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Акции" />
       <item value="преимущества" />
       <item value="homes" />
       <item value="Returns nothing." />
@@ -50,14 +51,13 @@
       <item value="fuel" />
       <item value="двигатель" />
       <item value="serie" />
-      <item value="make" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="65" />
+        <entry key="RUSSIAN" value="66" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
