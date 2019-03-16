@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns nothing." />
+      <item value="переделать на ajax" />
       <item value="column value precision. First parameter passed to the column type, e.g. DATETIME(precision)." />
       <item value="additional" />
       <item value="and should not proceed further. All other return values mean the migration succeeds." />
@@ -49,15 +51,13 @@
       <item value="make" />
       <item value="set Result For Key" />
       <item value="точная дата" />
-      <item value="FIX bug CMS crunch" />
-      <item value="This function is used to calculate the shipping cost. Within this function we can check for weights, dimensions and other parameters." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="62" />
+        <entry key="RUSSIAN" value="63" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
