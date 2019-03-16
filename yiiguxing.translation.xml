@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="and should not proceed further. All other return values mean the migration succeeds." />
       <item value="создатель" />
       <item value="Retrieve theme directory URI" />
       <item value="GOLFES-WITH-OPEN-NOSE-1-CLASS-OF-COMPRESSION-INTEX" />
@@ -50,11 +51,10 @@
       <item value="This function is used to calculate the shipping cost. Within this function we can check for weights, dimensions and other parameters." />
       <item value="revoke api key" />
       <item value="рекетир" />
-      <item value="Title With Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="RUSSIAN" value="60" />
