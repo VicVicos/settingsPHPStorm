@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="реквизиты" />
       <item value="Please contact us if you think this is a server error. Thank you." />
       <item value="The above error occurred while the Web server was processing your request." />
       <item value="Акции" />
@@ -20,7 +21,6 @@
       <item value="телепортирующийся" />
       <item value="Incorrect username/password" />
       <item value="Aggregate Offer" />
-      <item value="реквизиты" />
       <item value="requesits" />
       <item value="корзина" />
       <item value="cart" />
@@ -57,7 +57,7 @@
         <entry key="ENGLISH" value="67" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="67" />
+        <entry key="RUSSIAN" value="68" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
