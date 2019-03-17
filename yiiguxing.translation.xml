@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="for the mailer to send real emails." />
       <item value="реквизиты" />
       <item value="Please contact us if you think this is a server error. Thank you." />
       <item value="The above error occurred while the Web server was processing your request." />
@@ -50,11 +51,10 @@
       <item value="paid" />
       <item value="февраль" />
       <item value="febrau" />
-      <item value="fuel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="RUSSIAN" value="68" />
