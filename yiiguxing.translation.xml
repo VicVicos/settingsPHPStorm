@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="свойство" />
       <item value="характеристики" />
       <item value="safe" />
       <item value="patch" />
@@ -50,14 +51,13 @@
       <item value="ванная" />
       <item value="спальни" />
       <item value="Здравствуйте!&#10;Переустановили всё на чистую версию и всё заработало." />
-      <item value="touch me" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="70" />
+        <entry key="RUSSIAN" value="71" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
