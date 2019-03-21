@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="свойство" />
       <item value="характеристики" />
+      <item value="свойство" />
       <item value="safe" />
       <item value="patch" />
       <item value="for the mailer to send real emails." />
@@ -54,10 +54,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="71" />
+        <entry key="RUSSIAN" value="72" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
