@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Great, I am glad it worked. Let me know if you have any other questions, comments, or concerns in the future." />
+      <item value="Нет, просто упёрся в лимит памяти, закрыл лишние приложения и проблема не повторяется." />
+      <item value="Hello, we are very sorry for this inconvenience. Could you describe exactly how this error occurred? For example, were you trying to open a specific design? If so, does this error occur every time you try to open it? Please, let us know and we'll try to fix the issue as soon as possible." />
       <item value="закончилась оперативная память" />
       <item value="failed to add the foreigen key constaint. MIssing index for constaint" />
       <item value="missing index for constraint" />
@@ -48,16 +51,13 @@
       <item value="Mega Crunch" />
       <item value="нет на складе" />
       <item value="out stock" />
-      <item value="от" />
-      <item value="ОТ" />
-      <item value="туалет" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="76" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="74" />
+        <entry key="RUSSIAN" value="76" />
         <entry key="FRISIAN" value="1" />
         <entry key="KAZAKH" value="1" />
         <entry key="DUTCH" value="1" />
