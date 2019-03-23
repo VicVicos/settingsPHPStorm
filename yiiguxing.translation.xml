@@ -1,70 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Cannot add foreign key constraint" />
-      <item value="The SQL being executed was" />
-      <item value="failed to add the foreigen key constaint. MIssing index for constaint" />
-      <item value="missing index for constraint" />
-      <item value="характеристики" />
-      <item value="свойство" />
-      <item value="safe" />
-      <item value="patch" />
-      <item value="for the mailer to send real emails." />
-      <item value="реквизиты" />
-      <item value="Please contact us if you think this is a server error. Thank you." />
-      <item value="The above error occurred while the Web server was processing your request." />
-      <item value="Акции" />
-      <item value="преимущества" />
-      <item value="homes" />
-      <item value="Returns nothing." />
-      <item value="переделать на ajax" />
-      <item value="column value precision. First parameter passed to the column type, e.g. DATETIME(precision)." />
-      <item value="additional" />
-      <item value="and should not proceed further. All other return values mean the migration succeeds." />
-      <item value="создатель" />
-      <item value="Retrieve theme directory URI" />
-      <item value="GOLFES-WITH-OPEN-NOSE-1-CLASS-OF-COMPRESSION-INTEX" />
-      <item value="телепорт" />
-      <item value="телепортация" />
-      <item value="телепортирация" />
-      <item value="телепортирующийся" />
-      <item value="Incorrect username/password" />
-      <item value="Aggregate Offer" />
-      <item value="requesits" />
-      <item value="корзина" />
-      <item value="cart" />
-      <item value="card" />
-      <item value="pushed" />
-      <item value="март" />
-      <item value="марта" />
-      <item value="march" />
-      <item value="crutch" />
-      <item value="обработчик" />
-      <item value="Do you confirm generation" />
-      <item value="Cannot create new column. When data source in an object, you can only have as much columns as defined in first data row, data schema or in the 'columns' setting.If you want to be able to add new columns, you have to use array datasource." />
-      <item value="дольки" />
-      <item value="Mega crutch" />
-      <item value="Мега костыль" />
-      <item value="Mega Сrutch" />
-      <item value="Mega Crunch" />
-      <item value="нет на складе" />
-      <item value="out stock" />
-      <item value="от" />
-      <item value="ОТ" />
+      <item value="proof" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="75" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="POLISH" value="2" />
-        <entry key="RUSSIAN" value="75" />
-        <entry key="FRISIAN" value="1" />
-        <entry key="KAZAKH" value="1" />
-        <entry key="DUTCH" value="1" />
-        <entry key="LATIN" value="1" />
-        <entry key="SERBIAN" value="4" />
-        <entry key="ITALIAN" value="2" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
   </component>
