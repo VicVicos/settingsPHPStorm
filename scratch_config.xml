@@ -4,6 +4,8 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="scratch.html" />
+        <option value="scratch.jql" />
+        <option value="scratch.sql" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
