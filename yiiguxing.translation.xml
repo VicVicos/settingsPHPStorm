@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Send notification to managers" />
+      <item value="Анкета" />
+      <item value="Questing" />
+      <item value="анкета" />
+      <item value="Anketa" />
       <item value="With kind regards" />
       <item value="фундамент" />
       <item value="ceil" />
@@ -14,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="RUSSIAN" value="11" />
       </map>
     </option>
   </component>
