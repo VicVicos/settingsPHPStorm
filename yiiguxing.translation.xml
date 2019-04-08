@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Праздник" />
+      <item value="Свадьба" />
+      <item value="подарки" />
       <item value="спасибо" />
       <item value="Просто открепить карту надо, после как согласятся оплачивать, подключим новую." />
       <item value="Я хотел бы отменить свою подписку, потому что данные для новой карты должен предоставить работодатель, но пока он этого не сделал" />
@@ -23,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="RUSSIAN" value="15" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="RUSSIAN" value="18" />
       </map>
     </option>
   </component>
