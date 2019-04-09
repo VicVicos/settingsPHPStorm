@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Copy rich text by default" />
       <item value="Prepare need data" />
       <item value="Prepare data" />
       <item value="подтверждение" />
@@ -8,7 +9,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="3" />
+        <entry key="RUSSIAN" value="4" />
       </map>
     </option>
   </component>
