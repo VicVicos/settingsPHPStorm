@@ -21,6 +21,7 @@
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="date" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="arc" type="Smarty" />
       <mapping ext="eml" type="XHTML" />
     </extensionMap>
