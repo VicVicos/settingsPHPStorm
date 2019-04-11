@@ -16,8 +16,8 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.*</mask>
     <mask>*.js</mask>
+    <mask>*.*</mask>
     <mask>*.php</mask>
   </component>
 </application>
