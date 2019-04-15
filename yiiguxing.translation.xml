@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="checkout as" />
+      <item value="compare with local" />
       <item value="Открытка" />
       <item value="customer service" />
       <item value="Crutch" />
@@ -32,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="22" />
-        <entry key="RUSSIAN" value="23" />
+        <entry key="ENGLISH" value="24" />
+        <entry key="RUSSIAN" value="24" />
       </map>
     </option>
   </component>
