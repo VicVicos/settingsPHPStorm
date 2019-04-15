@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Открытка" />
       <item value="customer service" />
       <item value="Crutch" />
       <item value="bool whether to show an empty list view if [[dataProvider]] returns no data. * The default value is false which displays an element according to the [[emptyText]] * and [[emptyTextOptions]] properties." />
@@ -32,7 +33,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="22" />
-        <entry key="RUSSIAN" value="22" />
+        <entry key="RUSSIAN" value="23" />
       </map>
     </option>
   </component>
