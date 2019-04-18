@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="balls" />
+      <item value="trable" />
       <item value="move posts draft" />
       <item value="draft posts" />
       <item value="checkout as" />
@@ -36,8 +38,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="26" />
-        <entry key="RUSSIAN" value="26" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="RUSSIAN" value="27" />
+        <entry key="CZECH" value="1" />
       </map>
     </option>
   </component>
