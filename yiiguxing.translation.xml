@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Translation set not known in Flower Shop Child" />
       <item value="balls" />
       <item value="trable" />
       <item value="move posts draft" />
@@ -38,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="27" />
-        <entry key="RUSSIAN" value="27" />
+        <entry key="ENGLISH" value="28" />
+        <entry key="RUSSIAN" value="28" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
