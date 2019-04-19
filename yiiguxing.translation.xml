@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please continue to the checkout and enter your full address to see if there are any available shipping methods." />
       <item value="Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our" />
       <item value="Translation set not known in Flower Shop Child" />
       <item value="balls" />
@@ -40,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="29" />
-        <entry key="RUSSIAN" value="29" />
+        <entry key="ENGLISH" value="30" />
+        <entry key="RUSSIAN" value="30" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
