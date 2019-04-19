@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it." />
       <item value="Please continue to the checkout and enter your full address to see if there are any available shipping methods." />
       <item value="Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our" />
       <item value="Translation set not known in Flower Shop Child" />
@@ -14,7 +15,6 @@
       <item value="customer service" />
       <item value="Crutch" />
       <item value="bool whether to show an empty list view if [[dataProvider]] returns no data. * The default value is false which displays an element according to the [[emptyText]] * and [[emptyTextOptions]] properties." />
-      <item value="We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it." />
       <item value="Whether to flush the deferred term counts too. Default false." />
       <item value="Праздник" />
       <item value="Свадьба" />
@@ -41,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="30" />
-        <entry key="RUSSIAN" value="30" />
+        <entry key="ENGLISH" value="31" />
+        <entry key="RUSSIAN" value="31" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
