@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Older Comments" />
+      <item value="This post is password protected. Enter the password to view comments." />
+      <item value="Save my name, email, and website in this browser for the next time I comment" />
+      <item value="You must be" />
+      <item value="logged in" />
+      <item value="to post a comment" />
+      <item value="Logged in as" />
+      <item value="Log out of this account" />
+      <item value="Your email address will not be published" />
+      <item value="Leave a Reply" />
+      <item value="Leave your comment to" />
+      <item value="Cancel Reply" />
+      <item value="Reply" />
+      <item value="Newer Comments" />
+      <item value="About author" />
+      <item value="Our Services" />
       <item value="There are no reviews yet" />
       <item value="Leave a Reply to" />
       <item value="Be the first to review" />
@@ -35,20 +51,11 @@
       <item value="анкета" />
       <item value="Anketa" />
       <item value="With kind regards" />
-      <item value="фундамент" />
-      <item value="ceil" />
-      <item value="этажность" />
-      <item value="площадь" />
-      <item value="порода" />
-      <item value="сечение" />
-      <item value="склад" />
-      <item value="реализация" />
-      <item value="proof" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="38" />
-        <entry key="RUSSIAN" value="38" />
+        <entry key="ENGLISH" value="55" />
+        <entry key="RUSSIAN" value="55" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
