@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There are no reviews yet" />
+      <item value="Leave a Reply to" />
+      <item value="Be the first to review" />
       <item value="We're sorry, but the page you were looking for doesn't exist." />
       <item value="Create new Brunch from SEO" />
       <item value="Parameter must be an array or an object that implements Countable" />
@@ -44,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="34" />
-        <entry key="RUSSIAN" value="34" />
+        <entry key="ENGLISH" value="38" />
+        <entry key="RUSSIAN" value="38" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
