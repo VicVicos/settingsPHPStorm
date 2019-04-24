@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill" />
+      <item value="uniform" />
       <item value="Demo Panel Listener" />
       <item value="concrete" />
       <item value="После трех уже поздно" />
@@ -11,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="RUSSIAN" value="6" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="RUSSIAN" value="8" />
       </map>
     </option>
   </component>
