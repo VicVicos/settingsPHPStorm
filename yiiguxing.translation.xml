@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get products from categories" />
       <item value="Comment on" />
       <item value="Older Comments" />
       <item value="This post is password protected. Enter the password to view comments." />
@@ -50,12 +51,11 @@
       <item value="Анкета" />
       <item value="Questing" />
       <item value="анкета" />
-      <item value="Anketa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="58" />
-        <entry key="RUSSIAN" value="58" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="RUSSIAN" value="59" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
