@@ -1,50 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="жена" />
-      <item value="муж" />
-      <item value="hasband" />
-      <item value="balls" />
-      <item value="trable" />
-      <item value="move posts draft" />
-      <item value="draft posts" />
-      <item value="checkout as" />
-      <item value="compare with local" />
-      <item value="Открытка" />
-      <item value="customer service" />
-      <item value="Crutch" />
-      <item value="bool whether to show an empty list view if [[dataProvider]] returns no data. * The default value is false which displays an element according to the [[emptyText]] * and [[emptyTextOptions]] properties." />
-      <item value="We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it." />
-      <item value="Whether to flush the deferred term counts too. Default false." />
-      <item value="Праздник" />
-      <item value="Свадьба" />
-      <item value="подарки" />
-      <item value="спасибо" />
-      <item value="Просто открепить карту надо, после как согласятся оплачивать, подключим новую." />
-      <item value="Я хотел бы отменить свою подписку, потому что данные для новой карты должен предоставить работодатель, но пока он этого не сделал" />
-      <item value="I would like to cancel my subscription because" />
-      <item value="Send notification to managers" />
-      <item value="Анкета" />
-      <item value="Questing" />
-      <item value="анкета" />
-      <item value="Anketa" />
-      <item value="With kind regards" />
-      <item value="фундамент" />
-      <item value="ceil" />
-      <item value="этажность" />
-      <item value="площадь" />
-      <item value="порода" />
-      <item value="сечение" />
-      <item value="склад" />
-      <item value="реализация" />
-      <item value="proof" />
+      <item value="The file will have its original line endings in your working directory.&#10;warning: LF will be replaced by CRLF in top-bonus.php." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="30" />
-        <entry key="RUSSIAN" value="31" />
-        <entry key="CZECH" value="1" />
-        <entry key="HINDI" value="1" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
   </component>
