@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="вырезать" />
+      <item value="cut" />
       <item value="reCAPTCHA v3 doesn’t need a CAPTCHA widget (the “I’m not a robot” checkbox used in reCAPTCHA v2) to work, so [recaptcha] form-tags are no longer necessary. If [recaptcha] form-tags are found in a form template, Contact Form 7 5.1 or higher ignores them and replaces them with an empty string." />
       <item value="Note: API keys for reCAPTCHA v3 are different from those for v2; keys for v2 don’t work with the v3 API. You need to register your sites again to get new keys for v3." />
       <item value="get products from categories" />
@@ -49,13 +51,11 @@
       <item value="Просто открепить карту надо, после как согласятся оплачивать, подключим новую." />
       <item value="Я хотел бы отменить свою подписку, потому что данные для новой карты должен предоставить работодатель, но пока он этого не сделал" />
       <item value="I would like to cancel my subscription because" />
-      <item value="Send notification to managers" />
-      <item value="Анкета" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="64" />
-        <entry key="RUSSIAN" value="61" />
+        <entry key="ENGLISH" value="65" />
+        <entry key="RUSSIAN" value="63" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
