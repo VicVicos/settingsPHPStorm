@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I’m not sure I understand. Are you initiating BlockUI (http://malsup.com/jquery/block/) when the checkout button is clicked manually using your own jQuery?" />
       <item value="вырезать" />
       <item value="cut" />
       <item value="reCAPTCHA v3 doesn’t need a CAPTCHA widget (the “I’m not a robot” checkbox used in reCAPTCHA v2) to work, so [recaptcha] form-tags are no longer necessary. If [recaptcha] form-tags are found in a form template, Contact Form 7 5.1 or higher ignores them and replaces them with an empty string." />
@@ -50,12 +51,11 @@
       <item value="спасибо" />
       <item value="Просто открепить карту надо, после как согласятся оплачивать, подключим новую." />
       <item value="Я хотел бы отменить свою подписку, потому что данные для новой карты должен предоставить работодатель, но пока он этого не сделал" />
-      <item value="I would like to cancel my subscription because" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="65" />
-        <entry key="RUSSIAN" value="63" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="RUSSIAN" value="64" />
         <entry key="CZECH" value="1" />
       </map>
     </option>
