@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="you can't see me!" />
+      <item value="Invoked when a window is in the process of being closed. * The close operation can be overridden at this point." />
+      <item value="Invoked when a window has been closed." />
       <item value="fill" />
       <item value="uniform" />
       <item value="Demo Panel Listener" />
@@ -13,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="RUSSIAN" value="11" />
       </map>
     </option>
   </component>
