@@ -1,25 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Ошибка получения шрифта" />
-      <item value="Error get font" />
-      <item value="you can't see me!" />
-      <item value="Invoked when a window is in the process of being closed. * The close operation can be overridden at this point." />
-      <item value="Invoked when a window has been closed." />
-      <item value="fill" />
-      <item value="uniform" />
-      <item value="Demo Panel Listener" />
-      <item value="concrete" />
-      <item value="После трех уже поздно" />
-      <item value="Copy rich text by default" />
-      <item value="Prepare need data" />
-      <item value="Prepare data" />
-      <item value="подтверждение" />
+      <item value="surname Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="RUSSIAN" value="13" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
   </component>
