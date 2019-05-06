@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Проекты вне блога" />
+      <item value="чек об оплате во вложении" />
+      <item value="Здравствуйте! Сделал заказ, оплатил картой примерно в 22:30 по Москве в списках заказов ни чего не отображается.&#10;Логин Vicos, почта vicos-bv@yandex.ru" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="RUSSIAN" value="2" />
       </map>
     </option>
   </component>
