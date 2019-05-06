@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="dd" value="echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($END$);&#10;echo &quot;&lt;/pre&gt;&quot;;" description="var_dump()" toReformat="false" toShortenFQNames="true">
+  <template name="dd" value="echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($END$);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;echo (&quot;File name: &quot;.dirname(__FILE__).&quot;/&quot;.basename(__FILE__).&quot; Line: &quot;.__LINE__);" description="var_dump()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -71,7 +71,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="mvd" value="if (isset($_GET['dev'])) {&#10;    echo &quot;&lt;pre&gt;&quot;;&#10;    var_dump($END$);&#10;    echo &quot;&lt;/pre&gt;&quot;;&#10;}" description="var_dump developer" toReformat="false" toShortenFQNames="true">
+  <template name="mvd" value="if (isset($_GET['dev'])) {&#10;    echo &quot;&lt;pre&gt;&quot;;&#10;    var_dump($END$);&#10;    echo &quot;&lt;/pre&gt;&quot;;&#10;    echo (&quot;File name: &quot;.dirname(__FILE__).&quot;/&quot;.basename(__FILE__).&quot; Line: &quot;.__LINE__);&#10;}" description="var_dump developer" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
