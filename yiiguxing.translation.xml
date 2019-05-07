@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Что там с моим заказом?" />
       <item value="Хотелось бы узнать судьбу своего заказа?" />
       <item value="И всё же хотелось бы узнать судьбу своего заказа?" />
       <item value="И всё жк хотелось бы узнать судьбу своего заказа?" />
@@ -13,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="RUSSIAN" value="9" />
       </map>
     </option>
   </component>
