@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Здравствуйте! Что на счёт купона на скидку? Обидно потерять такую возможность взять товар по такой цене." />
       <item value="get Loggined User" />
       <item value="lagged User" />
       <item value="loggined User" />
@@ -36,7 +37,7 @@
         <entry key="ENGLISH" value="25" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="25" />
+        <entry key="RUSSIAN" value="26" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
