@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Exluded Page" />
       <item value="Египет" />
       <item value="What is your favorite flower" />
       <item value="Form Subject" />
@@ -17,7 +18,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="RUSSIAN" value="11" />
       </map>
     </option>
