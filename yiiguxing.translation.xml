@@ -1,27 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="worst Rating" />
-      <item value="Получить категории из Wordpress Woocommerce" />
-      <item value="is Exluded Page" />
-      <item value="Египет" />
-      <item value="What is your favorite flower" />
-      <item value="Form Subject" />
-      <item value="Что там с моим заказом?" />
-      <item value="Хотелось бы узнать судьбу своего заказа?" />
-      <item value="И всё же хотелось бы узнать судьбу своего заказа?" />
-      <item value="И всё жк хотелось бы узнать судьбу своего заказа?" />
-      <item value="adding in process" />
-      <item value="add in process" />
-      <item value="лето" />
-      <item value="sweet" />
-      <item value="чек об оплате во вложении" />
-      <item value="Здравствуйте! Сделал заказ, оплатил картой примерно в 22:30 по Москве в списках заказов ни чего не отображается.&#10;Логин Vicos, почта vicos-bv@yandex.ru" />
+      <item value="The converter could not locate source file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="RUSSIAN" value="12" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
   </component>
