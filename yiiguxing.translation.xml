@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Producers" />
       <item value="The converter could not locate source file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="RUSSIAN" value="2" />
       </map>
     </option>
   </component>
