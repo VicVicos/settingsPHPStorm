@@ -1,12 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the name of the file input field." />
+      <item value="inputmask not defined" />
+      <item value="характеристики" />
+      <item value="Use up()/down() to run migration code without a transaction." />
+      <item value="with message 'Failed to instantiate component or class" />
+      <item value="Producers" />
       <item value="The converter could not locate source file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="RUSSIAN" value="7" />
       </map>
     </option>
   </component>
