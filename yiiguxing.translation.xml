@@ -1,62 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="I’m not sure I understand. Are you initiating BlockUI (http://malsup.com/jquery/block/) when the checkout button is clicked manually using your own jQuery?" />
-      <item value="вырезать" />
-      <item value="cut" />
-      <item value="reCAPTCHA v3 doesn’t need a CAPTCHA widget (the “I’m not a robot” checkbox used in reCAPTCHA v2) to work, so [recaptcha] form-tags are no longer necessary. If [recaptcha] form-tags are found in a form template, Contact Form 7 5.1 or higher ignores them and replaces them with an empty string." />
-      <item value="Note: API keys for reCAPTCHA v3 are different from those for v2; keys for v2 don’t work with the v3 API. You need to register your sites again to get new keys for v3." />
-      <item value="get products from categories" />
-      <item value="Comment on" />
-      <item value="Older Comments" />
-      <item value="This post is password protected. Enter the password to view comments." />
-      <item value="Save my name, email, and website in this browser for the next time I comment" />
-      <item value="You must be" />
-      <item value="logged in" />
-      <item value="to post a comment" />
-      <item value="Logged in as" />
-      <item value="Log out of this account" />
-      <item value="Your email address will not be published" />
-      <item value="Leave a Reply" />
-      <item value="Leave your comment to" />
-      <item value="Cancel Reply" />
-      <item value="Reply" />
-      <item value="Newer Comments" />
-      <item value="About author" />
-      <item value="Our Services" />
-      <item value="There are no reviews yet" />
-      <item value="Leave a Reply to" />
-      <item value="Be the first to review" />
-      <item value="We're sorry, but the page you were looking for doesn't exist." />
-      <item value="Create new Brunch from SEO" />
-      <item value="Parameter must be an array or an object that implements Countable" />
-      <item value="We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it." />
-      <item value="Please continue to the checkout and enter your full address to see if there are any available shipping methods." />
-      <item value="Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our" />
-      <item value="Translation set not known in Flower Shop Child" />
-      <item value="balls" />
-      <item value="trable" />
-      <item value="move posts draft" />
-      <item value="draft posts" />
-      <item value="checkout as" />
-      <item value="compare with local" />
-      <item value="Открытка" />
-      <item value="customer service" />
-      <item value="Crutch" />
-      <item value="bool whether to show an empty list view if [[dataProvider]] returns no data. * The default value is false which displays an element according to the [[emptyText]] * and [[emptyTextOptions]] properties." />
-      <item value="Whether to flush the deferred term counts too. Default false." />
-      <item value="Праздник" />
-      <item value="Свадьба" />
-      <item value="подарки" />
-      <item value="спасибо" />
-      <item value="Просто открепить карту надо, после как согласятся оплачивать, подключим новую." />
-      <item value="Я хотел бы отменить свою подписку, потому что данные для новой карты должен предоставить работодатель, но пока он этого не сделал" />
+      <item value="the name of the file input field." />
+      <item value="inputmask not defined" />
+      <item value="характеристики" />
+      <item value="Use up()/down() to run migration code without a transaction." />
+      <item value="with message 'Failed to instantiate component or class" />
+      <item value="Producers" />
+      <item value="The converter could not locate source file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="66" />
-        <entry key="RUSSIAN" value="64" />
-        <entry key="CZECH" value="1" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="RUSSIAN" value="7" />
       </map>
     </option>
   </component>
