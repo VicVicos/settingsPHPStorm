@@ -13,6 +13,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="default" type="PHP" />
       <mapping pattern="magickqEqOFl" type="PLAIN_TEXT" />
       <mapping pattern=".passwd" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
