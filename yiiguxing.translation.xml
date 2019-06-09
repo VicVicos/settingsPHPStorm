@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="odd" />
       <item value="get Value For Product" />
       <item value="how mutch is that fish" />
       <item value="Generates a form field. * A form field is associated with a model and an attribute. It contains a label, an input and an error message * and use them to interact with end users to collect their inputs for the attribute." />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="RUSSIAN" value="14" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="RUSSIAN" value="15" />
       </map>
     </option>
   </component>
