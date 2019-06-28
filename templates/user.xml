@@ -10,7 +10,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="the_loop" value="&lt;?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?&gt;&#10;&#9;$END$&#10;&lt;?php endwhile; ?&gt;&#10;&lt;!-- post navigation --&gt;&#10;&lt;?php else: ?&gt;&#10;&lt;!-- no posts found --&gt;&#10;&lt;?php endif; ?&gt;" description="WP loop" toReformat="false" toShortenFQNames="true">
+  <template name="the_loop" value="if ( have_posts() ) : while ( have_posts() ) : the_post(); ?&gt;&#10;&#9;$END$&#10;&lt;?php endwhile; ?&gt;&#10;&lt;!-- post navigation --&gt;&#10;&lt;?php else: ?&gt;&#10;&lt;!-- no posts found --&gt;&#10;&lt;?php endif;" description="WP loop" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>

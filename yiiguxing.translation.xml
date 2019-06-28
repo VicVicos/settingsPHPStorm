@@ -1,18 +1,68 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="the name of the file input field." />
-      <item value="inputmask not defined" />
-      <item value="характеристики" />
-      <item value="Use up()/down() to run migration code without a transaction." />
-      <item value="with message 'Failed to instantiate component or class" />
-      <item value="Producers" />
-      <item value="The converter could not locate source file" />
+      <item value="crutch" />
+      <item value="костыль" />
+      <item value="crunch" />
+      <item value="honey" />
+      <item value="employed" />
+      <item value="employe" />
+      <item value="employ" />
+      <item value="Here could info about employees" />
+      <item value="excerpt" />
+      <item value="review" />
+      <item value="recenzy" />
+      <item value="speciality" />
+      <item value="cpeciality" />
+      <item value="personals-handler" />
+      <item value="excluded menu and other small fix" />
+      <item value="exclude" />
+      <item value="return fetched content" />
+      <item value="nothing to do.. can be redefined in subclasses" />
+      <item value="All seems fine, pass the request to FrontController of an active app" />
+      <item value="split" />
+      <item value="auto-puth" />
+      <item value="weight" />
+      <item value="cargo" />
+      <item value="получить" />
+      <item value="Need Fix for Ajax" />
+      <item value="Объём" />
+      <item value="Объем груза" />
+      <item value="Высота" />
+      <item value="Ширина" />
+      <item value="length" />
+      <item value="city-town" />
+      <item value="Плавающий" />
+      <item value="flex" />
+      <item value="flat catalog" />
+      <item value="building" />
+      <item value="Строительство" />
+      <item value="add viewed portfolio in category" />
+      <item value="viewed" />
+      <item value="add viwed portfolio in category" />
+      <item value="join" />
+      <item value="объеденить" />
+      <item value="with" />
+      <item value="PLG RECAPTCHA ERROR EMPTY SOLUTION" />
+      <item value="response" />
+      <item value="responsive" />
+      <item value="Сравнение" />
+      <item value="Сomparison" />
+      <item value="modal-view" />
+      <item value="абзац" />
+      <item value="курьер" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="RUSSIAN" value="7" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="DANISH" value="1" />
+        <entry key="RUSSIAN" value="47" />
+        <entry key="FRENCH" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CZECH" value="1" />
+        <entry key="CORSICAN" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
