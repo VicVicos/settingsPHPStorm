@@ -15,8 +15,10 @@
         <option value="scratch_3.html" />
         <option value="scratch_4.html" />
         <option value="scratch_2.php" />
+        <option value="scratch_3.php" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="scratch_1.php" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
