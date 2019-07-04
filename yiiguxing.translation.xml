@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="need refactor this conditional" />
+      <item value="entity Id" />
       <item value="hosting-form-callback" />
       <item value="need more time" />
       <item value="crutch" />
@@ -49,14 +51,12 @@
       <item value="response" />
       <item value="responsive" />
       <item value="Сравнение" />
-      <item value="Сomparison" />
-      <item value="modal-view" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="49" />
+        <entry key="ENGLISH" value="51" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="49" />
+        <entry key="RUSSIAN" value="51" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
