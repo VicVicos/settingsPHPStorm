@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixed title in gallery pages" />
+      <item value="fix title in gallery pages" />
       <item value="behance:origin" />
       <item value="need refactor this conditional" />
       <item value="entity Id" />
@@ -49,8 +51,6 @@
       <item value="объеденить" />
       <item value="with" />
       <item value="PLG RECAPTCHA ERROR EMPTY SOLUTION" />
-      <item value="response" />
-      <item value="responsive" />
     </histories>
     <option name="languageScores">
       <map>
