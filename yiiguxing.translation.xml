@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href." />
       <item value="This message is from a private conversation, so it can only be shared with" />
       <item value="fixed title in gallery pages" />
       <item value="fix title in gallery pages" />
@@ -50,13 +51,12 @@
       <item value="add viwed portfolio in category" />
       <item value="join" />
       <item value="объеденить" />
-      <item value="with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="52" />
+        <entry key="RUSSIAN" value="53" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
