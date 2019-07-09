@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid parameter" />
+      <item value="Need Refactor this method" />
       <item value="здесь должен быть автозагрузчик" />
       <item value="that need autoloader" />
       <item value="this need autoloader" />
@@ -49,14 +51,12 @@
       <item value="city-town" />
       <item value="Плавающий" />
       <item value="flex" />
-      <item value="flat catalog" />
-      <item value="building" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="57" />
+        <entry key="ENGLISH" value="59" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="58" />
+        <entry key="RUSSIAN" value="59" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
