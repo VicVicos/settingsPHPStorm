@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parts" />
       <item value="invalid parameter" />
       <item value="Need Refactor this method" />
       <item value="здесь должен быть автозагрузчик" />
@@ -50,13 +51,12 @@
       <item value="length" />
       <item value="city-town" />
       <item value="Плавающий" />
-      <item value="flex" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="59" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="59" />
+        <entry key="RUSSIAN" value="60" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
