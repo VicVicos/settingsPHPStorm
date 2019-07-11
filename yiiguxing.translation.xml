@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="пост данные переденные через ajax методом serializeArray" />
       <item value="parts" />
       <item value="invalid parameter" />
       <item value="Need Refactor this method" />
@@ -50,13 +51,12 @@
       <item value="Ширина" />
       <item value="length" />
       <item value="city-town" />
-      <item value="Плавающий" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="60" />
+        <entry key="RUSSIAN" value="61" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
