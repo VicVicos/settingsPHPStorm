@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synch" />
       <item value="пост данные переденные через ajax методом serializeArray" />
       <item value="parts" />
       <item value="invalid parameter" />
@@ -50,7 +51,6 @@
       <item value="Высота" />
       <item value="Ширина" />
       <item value="length" />
-      <item value="city-town" />
     </histories>
     <option name="languageScores">
       <map>
