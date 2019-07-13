@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restrict user" />
       <item value="pay" />
       <item value="page" />
       <item value="pay-page" />
@@ -50,13 +51,12 @@
       <item value="split" />
       <item value="auto-puth" />
       <item value="weight" />
-      <item value="cargo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="64" />
+        <entry key="RUSSIAN" value="65" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
