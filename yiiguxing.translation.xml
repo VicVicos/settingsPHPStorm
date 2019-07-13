@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trouble" />
       <item value="time Expire" />
       <item value="synch" />
       <item value="пост данные переденные через ajax методом serializeArray" />
@@ -50,13 +51,12 @@
       <item value="Объём" />
       <item value="Объем груза" />
       <item value="Высота" />
-      <item value="Ширина" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="61" />
+        <entry key="RUSSIAN" value="62" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
