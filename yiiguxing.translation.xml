@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pay" />
+      <item value="page" />
+      <item value="pay-page" />
       <item value="Read more about handling dismissals" />
       <item value="I was closed by the timer" />
       <item value="trouble" />
@@ -48,9 +51,6 @@
       <item value="auto-puth" />
       <item value="weight" />
       <item value="cargo" />
-      <item value="получить" />
-      <item value="Need Fix for Ajax" />
-      <item value="Объём" />
     </histories>
     <option name="languageScores">
       <map>
