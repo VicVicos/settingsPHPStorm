@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RC Form Payment on SberBank" />
+      <item value="RC Form Payment to SberBank" />
+      <item value="RC Form Payment in SberBank" />
       <item value="Please tell me who you are. Run git config --global user.email &quot;you@example.com&quot; git config --global user.name &quot;Your Name&quot; to set your account's default identity.&#10;Omit --global to set the identity only in this repository. fatal: unable to auto-detect email address (got)" />
       <item value="Please tell me who you are. Run git config --global user.email &quot;you@example.com&quot; git config --global user.name &quot;Your Name&quot; to set your account's default identity.&#10;Omit --global to set the identity only in this repository. fatal: unable to auto-detect email address (got 'www-data@2efbc6f18ce7.(none)')" />
       <item value="restrict user" />
@@ -48,15 +51,12 @@
       <item value="excluded menu and other small fix" />
       <item value="exclude" />
       <item value="return fetched content" />
-      <item value="nothing to do.. can be redefined in subclasses" />
-      <item value="All seems fine, pass the request to FrontController of an active app" />
-      <item value="split" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="65" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="65" />
+        <entry key="RUSSIAN" value="66" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
