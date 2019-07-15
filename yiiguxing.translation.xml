@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recipients" />
+      <item value="получатели" />
       <item value="notify" />
       <item value="some code" />
       <item value="date" />
@@ -49,14 +51,12 @@
       <item value="excerpt" />
       <item value="review" />
       <item value="recenzy" />
-      <item value="speciality" />
-      <item value="cpeciality" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="66" />
+        <entry key="RUSSIAN" value="67" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
