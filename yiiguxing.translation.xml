@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notify" />
+      <item value="some code" />
+      <item value="date" />
       <item value="discount" />
       <item value="RC Form Payment on SberBank" />
       <item value="RC Form Payment to SberBank" />
@@ -48,13 +51,10 @@
       <item value="recenzy" />
       <item value="speciality" />
       <item value="cpeciality" />
-      <item value="personals-handler" />
-      <item value="excluded menu and other small fix" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="66" />
         <entry key="FRENCH" value="1" />
