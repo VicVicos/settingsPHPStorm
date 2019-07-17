@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="debug здесь не место" />
       <item value="Multi validate phone number" />
       <item value="Wondering who can read your recent message? This channel is open to all members of your workspace, so your message might be seen by any of your teammates. Open conversations build your team’s collective knowledge, so keep up the good work!" />
       <item value="recipients" />
@@ -50,7 +51,6 @@
       <item value="employe" />
       <item value="employ" />
       <item value="Here could info about employees" />
-      <item value="excerpt" />
     </histories>
     <option name="languageScores">
       <map>
