@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wondering who can read your recent message? This channel is open to all members of your workspace, so your message might be seen by any of your teammates. Open conversations build your team’s collective knowledge, so keep up the good work!" />
       <item value="recipients" />
       <item value="получатели" />
       <item value="notify" />
@@ -50,13 +51,12 @@
       <item value="Here could info about employees" />
       <item value="excerpt" />
       <item value="review" />
-      <item value="recenzy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="67" />
+        <entry key="RUSSIAN" value="68" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
