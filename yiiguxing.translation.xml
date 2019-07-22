@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="договор-оферта" />
+      <item value="offer" />
       <item value="Отчество" />
       <item value="Фамилия" />
       <item value="wy ar u running" />
@@ -49,12 +51,11 @@
       <item value="need more time" />
       <item value="crutch" />
       <item value="костыль" />
-      <item value="crunch" />
-      <item value="honey" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="70" />
         <entry key="FRENCH" value="1" />
