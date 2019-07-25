@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legacy" />
+      <item value="фича калькулятора" />
       <item value="volume Change" />
       <item value="instruction" />
       <item value="оплата допилена" />
@@ -49,15 +51,13 @@
       <item value="this need autoloader" />
       <item value="merchant" />
       <item value="Function will fire for each target element &quot;item.el&quot; is a target DOM element (if present) &quot;item.src&quot; is a source that you may modify" />
-      <item value="Payment Form" />
-      <item value="Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="79" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="77" />
+        <entry key="RUSSIAN" value="79" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
