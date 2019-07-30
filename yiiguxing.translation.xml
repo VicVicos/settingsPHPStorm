@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="message to customer" />
       <item value="расписание" />
       <item value="credential" />
       <item value="is done" />
@@ -50,11 +51,10 @@
       <item value="synch" />
       <item value="пост данные переденные через ajax методом serializeArray" />
       <item value="parts" />
-      <item value="invalid parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="84" />
