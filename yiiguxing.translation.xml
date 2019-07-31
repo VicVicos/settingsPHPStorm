@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="база костылей для редиректов" />
+      <item value="base to crutch for rederect" />
+      <item value="base of crutch for rederect" />
+      <item value="база" />
+      <item value="main of crutch for rederect" />
+      <item value="crutch" />
+      <item value="crunch" />
+      <item value="base crunch for rederect" />
       <item value="message to customer" />
       <item value="расписание" />
       <item value="credential" />
@@ -43,21 +51,13 @@
       <item value="restrict user" />
       <item value="pay" />
       <item value="page" />
-      <item value="pay-page" />
-      <item value="Read more about handling dismissals" />
-      <item value="I was closed by the timer" />
-      <item value="trouble" />
-      <item value="time Expire" />
-      <item value="synch" />
-      <item value="пост данные переденные через ajax методом serializeArray" />
-      <item value="parts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="91" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="84" />
+        <entry key="RUSSIAN" value="92" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
