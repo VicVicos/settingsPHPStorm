@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Forks the currently running process * @link https://php.net/manual/en/function.pcntl-fork.php * @return int On success, the PID of the child process is returned in the * parent's thread of execution, and a 0 is returned in the child's * thread of execution. On failure, a -1 will be returned in the * parent's context, no child process will be created, and a PHP * error is raised." />
       <item value="расширение" />
       <item value="exclude" />
       <item value="checkexclude" />
@@ -50,11 +51,10 @@
       <item value="RC Form Payment to SberBank" />
       <item value="RC Form Payment in SberBank" />
       <item value="Please tell me who you are. Run git config --global user.email &quot;you@example.com&quot; git config --global user.name &quot;Your Name&quot; to set your account's default identity.&#10;Omit --global to set the identity only in this repository. fatal: unable to auto-detect email address (got)" />
-      <item value="Please tell me who you are. Run git config --global user.email &quot;you@example.com&quot; git config --global user.name &quot;Your Name&quot; to set your account's default identity.&#10;Omit --global to set the identity only in this repository. fatal: unable to auto-detect email address (got 'www-data@2efbc6f18ce7.(none)')" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="94" />
