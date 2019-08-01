@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crutch" />
       <item value="matches" />
       <item value="flag crutch route" />
       <item value="allow Params" />
@@ -13,7 +14,6 @@
       <item value="base of crutch for rederect" />
       <item value="база" />
       <item value="main of crutch for rederect" />
-      <item value="crutch" />
       <item value="crunch" />
       <item value="base crunch for rederect" />
       <item value="message to customer" />
@@ -54,10 +54,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="98" />
+        <entry key="RUSSIAN" value="99" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
