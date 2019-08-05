@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Everything up-to-date" />
       <item value="to production" />
       <item value="you need to resolve your current index first" />
       <item value="non exist id should lead to error 404" />
@@ -50,14 +51,13 @@
       <item value="Wondering who can read your recent message? This channel is open to all members of your workspace, so your message might be seen by any of your teammates. Open conversations build your team’s collective knowledge, so keep up the good work!" />
       <item value="recipients" />
       <item value="получатели" />
-      <item value="notify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="102" />
+        <entry key="RUSSIAN" value="103" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
