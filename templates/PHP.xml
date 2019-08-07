@@ -104,4 +104,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="file_get_content-context" value="$url = &quot;$URL$&quot;&#10;$auth = base64_encode(&quot;$USER$:$PASS$&quot;);&#10;$context = stream_context_create([&#10;    &quot;http&quot; =&gt; [&#10;        &quot;header&quot; =&gt; &quot;Authorization: Basic $auth&quot;&#10;    ]&#10;]);&#10;file_get_contents($url, false, $context);$END$" description="file get content with context" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
