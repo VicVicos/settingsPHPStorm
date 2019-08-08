@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="half pack" />
+      <item value="self pack" />
       <item value="TransliteratorHelper transliterates UTF-8 encoded text to US-ASCII. Based on Drupal's transliteration module, which * is based on UtfNormal.php from MediaWiki (http://www.mediawiki.org)." />
       <item value="Everything up-to-date" />
       <item value="to production" />
@@ -49,15 +51,13 @@
       <item value="do it" />
       <item value="debug здесь не место" />
       <item value="Multi validate phone number" />
-      <item value="Wondering who can read your recent message? This channel is open to all members of your workspace, so your message might be seen by any of your teammates. Open conversations build your team’s collective knowledge, so keep up the good work!" />
-      <item value="recipients" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="106" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="104" />
+        <entry key="RUSSIAN" value="106" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
