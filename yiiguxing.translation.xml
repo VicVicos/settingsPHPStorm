@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="favorites count update in mini cart" />
       <item value="half pack" />
       <item value="self pack" />
       <item value="TransliteratorHelper transliterates UTF-8 encoded text to US-ASCII. Based on Drupal's transliteration module, which * is based on UtfNormal.php from MediaWiki (http://www.mediawiki.org)." />
@@ -50,14 +51,13 @@
       <item value="wy ar u running" />
       <item value="do it" />
       <item value="debug здесь не место" />
-      <item value="Multi validate phone number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="106" />
+        <entry key="RUSSIAN" value="107" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
