@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="What does JVM include?" />
+      <item value="you can experiment here, it won’t be checked" />
       <item value="path To" />
       <item value="File Already Exists Exception" />
       <item value="conversation" />
@@ -49,16 +51,14 @@
       <item value="Sets the pressed icon for the button." />
       <item value="puth" />
       <item value="Произвольный" />
-      <item value="* @param modal specifies whether dialog blocks input to other windows * when shown; calling to &lt;code&gt;setModal(true)&lt;/code&gt; is equivalent to * &lt;code&gt;setModalityType(Dialog.DEFAULT_MODALITY_TYPE)&lt;/code&gt;, and * calling to &lt;code&gt;setModal(false)&lt;/code&gt; is equvivalent to * &lt;code&gt;setModalityType(Dialog.ModalityType.MODELESS)&lt;/code&gt;" />
-      <item value="gap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="52" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="49" />
+        <entry key="RUSSIAN" value="51" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
