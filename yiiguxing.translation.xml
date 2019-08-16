@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="buyer" />
+      <item value="payer" />
       <item value="This is probably not a problem with npm. There is likely additional logging output above." />
       <item value="info it worked if it ends with ok" />
       <item value="Already up-to-date" />
@@ -49,16 +51,14 @@
       <item value="legacy" />
       <item value="фича калькулятора" />
       <item value="volume Change" />
-      <item value="instruction" />
-      <item value="оплата допилена" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="121" />
-        <entry key="FRENCH" value="1" />
+        <entry key="RUSSIAN" value="122" />
+        <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
