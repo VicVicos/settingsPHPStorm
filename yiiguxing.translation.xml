@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Already up-to-date" />
       <item value="product Crumb" />
       <item value="product Crumbs" />
       <item value="genered" />
@@ -50,14 +51,13 @@
       <item value="оплата допилена" />
       <item value="оплата доработана" />
       <item value="some code" />
-      <item value="come code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="118" />
+        <entry key="RUSSIAN" value="119" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
