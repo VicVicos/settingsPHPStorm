@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Url generate bug" />
+      <item value="Url generate bag" />
+      <item value="Url generate" />
       <item value="prod Items Storage" />
       <item value="date" />
       <item value="buyer" />
@@ -48,16 +51,13 @@
       <item value="credential" />
       <item value="is done" />
       <item value="customer" />
-      <item value="Replace single occurance of CAP with cap, then process next Rule." />
-      <item value="refactoring" />
-      <item value="legacy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="127" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="124" />
+        <entry key="RUSSIAN" value="127" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
