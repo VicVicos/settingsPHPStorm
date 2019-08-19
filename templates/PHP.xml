@@ -112,4 +112,5 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="protocol_check" value="((!empty($_SERVER['HTTPS']) &amp;&amp; $_SERVER['HTTPS'] !== 'off') || $_SERVER['SERVER_PORT'] == 443)$END$" description="Check protocol" toReformat="false" toShortenFQNames="true" />
 </templateSet>
