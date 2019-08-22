@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixed / pushed" />
+      <item value="отправлено" />
       <item value="возвращение" />
       <item value="splice params" />
       <item value="Url generate bug" />
@@ -49,15 +51,13 @@
       <item value="crunch" />
       <item value="base crunch for rederect" />
       <item value="message to customer" />
-      <item value="расписание" />
-      <item value="credential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="128" />
+        <entry key="ENGLISH" value="130" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="129" />
+        <entry key="RUSSIAN" value="130" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
