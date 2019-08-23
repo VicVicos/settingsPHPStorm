@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Access denied" />
       <item value="new Features" />
       <item value="new Feature Fields" />
       <item value="items grouping filters" />
@@ -50,14 +51,13 @@
       <item value="расширение" />
       <item value="exclude" />
       <item value="checkexclude" />
-      <item value="база костылей для редиректов" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="137" />
+        <entry key="RUSSIAN" value="138" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
