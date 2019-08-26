@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="engry" />
       <item value="form 251 is send" />
       <item value="forced" />
       <item value="Access denied" />
@@ -50,20 +51,20 @@
       <item value="flag crutch route" />
       <item value="allow Params" />
       <item value="* Forks the currently running process * @link https://php.net/manual/en/function.pcntl-fork.php * @return int On success, the PID of the child process is returned in the * parent's thread of execution, and a 0 is returned in the child's * thread of execution. On failure, a -1 will be returned in the * parent's context, no child process will be created, and a PHP * error is raised." />
-      <item value="расширение" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="140" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="140" />
+        <entry key="RUSSIAN" value="141" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
