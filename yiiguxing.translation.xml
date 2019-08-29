@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="акция" />
       <item value="Register a new order using a 2-step payment process." />
       <item value="dump payment" />
       <item value="решение логической задачи с противоречиями" />
@@ -50,14 +51,13 @@
       <item value="TransliteratorHelper transliterates UTF-8 encoded text to US-ASCII. Based on Drupal's transliteration module, which * is based on UtfNormal.php from MediaWiki (http://www.mediawiki.org)." />
       <item value="Everything up-to-date" />
       <item value="to production" />
-      <item value="you need to resolve your current index first" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="144" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="144" />
+        <entry key="RUSSIAN" value="145" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
