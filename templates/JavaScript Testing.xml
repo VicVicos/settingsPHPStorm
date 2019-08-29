@@ -1,0 +1,7 @@
+<templateSet group="JavaScript Testing">
+  <template name="count_templater" value="//https://gist.github.com/realmyst/1262561&#10;function declOfNum(number, titles) {&#10;    cases = [2, 0, 1, 1, 1, 2];&#10;    return titles[ (number%100&gt;4 &amp;&amp; number%100&lt;20)? 2 : cases[(number%10&lt;5)?number%10:5] ];&#10;}&#10;&#10;use: declOfNum(count, [$END$'найдена', 'найдено', 'найдены']);" description="Count Templater" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
