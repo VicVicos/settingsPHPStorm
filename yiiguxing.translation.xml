@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="показать" />
+      <item value="display" />
+      <item value="viewed" />
+      <item value="view" />
       <item value="fixed trouble in" />
       <item value="fixed trouble in goryachaya-akciya" />
       <item value="акция" />
@@ -47,17 +51,13 @@
       <item value="how to render last link - as link or simple text" />
       <item value="crutch" />
       <item value="depth" />
-      <item value="favorites count update in mini cart" />
-      <item value="half pack" />
-      <item value="self pack" />
-      <item value="TransliteratorHelper transliterates UTF-8 encoded text to US-ASCII. Based on Drupal's transliteration module, which * is based on UtfNormal.php from MediaWiki (http://www.mediawiki.org)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="145" />
+        <entry key="ENGLISH" value="148" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="146" />
+        <entry key="RUSSIAN" value="149" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
