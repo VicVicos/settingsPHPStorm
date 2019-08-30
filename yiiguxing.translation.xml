@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="moved" />
+      <item value="REFUNDED" />
       <item value="APPROVED" />
+      <item value="moved" />
       <item value="get All Not Completed Order" />
       <item value="не завершённый" />
       <item value="Order Status Validate" />
@@ -50,14 +51,13 @@
       <item value="genered" />
       <item value="crumbs" />
       <item value="dynamic url, skip it for breadcrumb, must be set manually from view" />
-      <item value="hint: Updates were rejected because the remote contains work that you do&#10;not have locally. This is usually caused by another repository pushing&#10;to the same ref. You may want to first merge the remote changes (e.g.,&#10;'git pull') before pushing again.&#10;See the 'Note about fast-forwards' in 'git push --help' for details." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="154" />
+        <entry key="ENGLISH" value="156" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="154" />
+        <entry key="RUSSIAN" value="156" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
