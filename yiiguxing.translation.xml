@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DECLINED" />
       <item value="GK Template Conditions" />
       <item value="embed mode" />
       <item value="как на этом видео" />
@@ -50,14 +51,13 @@
       <item value="payer" />
       <item value="This is probably not a problem with npm. There is likely additional logging output above." />
       <item value="info it worked if it ends with ok" />
-      <item value="Already up-to-date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="160" />
+        <entry key="RUSSIAN" value="161" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
