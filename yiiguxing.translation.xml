@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="embed mode" />
       <item value="как на этом видео" />
       <item value="Здравствуйте! Мне нужна материнская плата для ноутбука HP Pavilion 15-n029er" />
       <item value="система уведомлений" />
@@ -50,11 +51,10 @@
       <item value="info it worked if it ends with ok" />
       <item value="Already up-to-date" />
       <item value="product Crumb" />
-      <item value="product Crumbs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="159" />
