@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no-gutters" />
       <item value="recommended-products" />
       <item value="corrections" />
       <item value="мелкие исправления" />
@@ -50,14 +51,13 @@
       <item value="Url generate bug" />
       <item value="Url generate bag" />
       <item value="Url generate" />
-      <item value="prod Items Storage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="165" />
+        <entry key="RUSSIAN" value="166" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
