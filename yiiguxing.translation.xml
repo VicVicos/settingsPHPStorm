@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corrections" />
+      <item value="мелкие исправления" />
+      <item value="исправления" />
+      <item value="правки" />
       <item value="DECLINED" />
       <item value="GK Template Conditions" />
       <item value="embed mode" />
@@ -47,17 +51,13 @@
       <item value="Url generate" />
       <item value="prod Items Storage" />
       <item value="date" />
-      <item value="buyer" />
-      <item value="payer" />
-      <item value="This is probably not a problem with npm. There is likely additional logging output above." />
-      <item value="info it worked if it ends with ok" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="161" />
+        <entry key="ENGLISH" value="164" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="161" />
+        <entry key="RUSSIAN" value="164" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
