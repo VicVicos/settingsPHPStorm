@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Restouran" />
       <item value="удалил emeil проджект менеджера проекта" />
       <item value="datum" />
       <item value="rate" />
@@ -50,7 +51,6 @@
       <item value="feeds get product features" />
       <item value="regected" />
       <item value="fixed / pushed" />
-      <item value="отправлено" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="HINDI" value="1" />
