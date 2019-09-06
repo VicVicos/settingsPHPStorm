@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="удалил emeil проджект менеджера проекта" />
       <item value="datum" />
       <item value="rate" />
       <item value="fix http root mapped to a joomla subfolder with .htaccess" />
@@ -50,15 +51,14 @@
       <item value="regected" />
       <item value="fixed / pushed" />
       <item value="отправлено" />
-      <item value="возвращение" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="169" />
+        <entry key="RUSSIAN" value="170" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
