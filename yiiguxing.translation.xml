@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product features" />
+      <item value="features" />
       <item value="allow Key" />
       <item value="is Restouran" />
       <item value="удалил emeil проджект менеджера проекта" />
@@ -49,16 +51,14 @@
       <item value="items grouping filters" />
       <item value="grouping items filters" />
       <item value="group items filters" />
-      <item value="feeds get product features" />
-      <item value="regected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="170" />
+        <entry key="ENGLISH" value="172" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="170" />
+        <entry key="RUSSIAN" value="172" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
