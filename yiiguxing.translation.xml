@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allow Key" />
       <item value="is Restouran" />
       <item value="удалил emeil проджект менеджера проекта" />
       <item value="datum" />
@@ -50,11 +51,10 @@
       <item value="group items filters" />
       <item value="feeds get product features" />
       <item value="regected" />
-      <item value="fixed / pushed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
