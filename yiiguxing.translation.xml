@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="отсёк страницу" />
       <item value="форма оплаты доработки" />
       <item value="some code" />
       <item value="aliases" />
@@ -50,15 +51,14 @@
       <item value="fixed condition viewed payment btn" />
       <item value="fixed cond viewed payment btn" />
       <item value="engry" />
-      <item value="form 251 is send" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="179" />
+        <entry key="RUSSIAN" value="180" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
