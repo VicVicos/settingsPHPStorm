@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="min delivery price cond" />
       <item value="отсёк страницу" />
       <item value="форма оплаты доработки" />
       <item value="some code" />
@@ -50,11 +51,10 @@
       <item value="решение логической задачи с противоречиями" />
       <item value="fixed condition viewed payment btn" />
       <item value="fixed cond viewed payment btn" />
-      <item value="engry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
