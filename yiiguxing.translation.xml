@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delivery" />
       <item value="Здравствуйте! Я очень надеюсь что не разочаруюсь в том что купил и это и правда была проверка, а не возврат БУ товара." />
       <item value="min delivery price cond" />
       <item value="отсёк страницу" />
@@ -50,11 +51,10 @@
       <item value="Register a new order using a 2-step payment process." />
       <item value="dump payment" />
       <item value="решение логической задачи с противоречиями" />
-      <item value="fixed condition viewed payment btn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
