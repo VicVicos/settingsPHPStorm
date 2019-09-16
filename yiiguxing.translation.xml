@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fixed empty post data from tpl" />
       <item value="shopper" />
       <item value="купюра" />
       <item value="наличные" />
@@ -50,15 +51,14 @@
       <item value="view" />
       <item value="fixed trouble in" />
       <item value="fixed trouble in goryachaya-akciya" />
-      <item value="акция" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="183" />
+        <entry key="RUSSIAN" value="184" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
