@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$path" />
       <item value="Я писал вам утром в Вашем магазине на aliexpress." />
       <item value="Добрый день! Прикрепляю фото материнской платы которая нужна. Точно не могу сказать на базе какого процессора она, надеюсь вы поймёте.&#10;Так же продублирую фото по почте от vicos-bv@yandex.ru там будет архив с фотографиями." />
       <item value="Generated" />
@@ -50,11 +51,10 @@
       <item value="Order Status Verify" />
       <item value="Order Status Extended" />
       <item value="показать" />
-      <item value="display" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
