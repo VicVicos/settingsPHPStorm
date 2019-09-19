@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current page ancestor" />
+      <item value="дистанционное обучение" />
+      <item value="очное обучение" />
       <item value="текст с коммментариями" />
       <item value="А вы не могли бы описать характеристики по которым мне надо искать такую материнскую плату?&#10;Или что можно докупить к материнской плате что имееются в наличии?" />
       <item value="$path" />
@@ -48,17 +51,14 @@
       <item value="APPROVED" />
       <item value="moved" />
       <item value="get All Not Completed Order" />
-      <item value="не завершённый" />
-      <item value="Order Status Validate" />
-      <item value="Order Status Verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="189" />
+        <entry key="ENGLISH" value="192" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="190" />
+        <entry key="RUSSIAN" value="192" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
