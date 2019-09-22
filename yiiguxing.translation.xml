@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$cart" />
       <item value="add check for all events validate" />
       <item value="all event validate" />
       <item value="restaurant" />
@@ -50,15 +51,14 @@
       <item value="мелкие исправления" />
       <item value="исправления" />
       <item value="правки" />
-      <item value="DECLINED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="197" />
+        <entry key="RUSSIAN" value="198" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
