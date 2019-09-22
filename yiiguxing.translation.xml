@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="вызвать уведомление" />
+      <item value="call notification" />
+      <item value="call notice" />
+      <item value="call" />
+      <item value="call Notification" />
+      <item value="call Notice" />
       <item value="_confirm Done" />
       <item value="Check if data has changed meanwhile" />
       <item value="* Here are the last checks done by payment plugins. * The mails are created and send to vendor and shopper * will show the orderdone page (thank you page)" />
@@ -45,20 +51,14 @@
       <item value="product features" />
       <item value="features" />
       <item value="allow Key" />
-      <item value="is Restouran" />
-      <item value="удалил emeil проджект менеджера проекта" />
-      <item value="datum" />
-      <item value="rate" />
-      <item value="fix http root mapped to a joomla subfolder with .htaccess" />
-      <item value="удиница веса" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="205" />
+        <entry key="ENGLISH" value="210" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="205" />
+        <entry key="RUSSIAN" value="211" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
