@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_confirm Done" />
       <item value="Check if data has changed meanwhile" />
       <item value="* Here are the last checks done by payment plugins. * The mails are created and send to vendor and shopper * will show the orderdone page (thank you page)" />
       <item value="This function is called, when the order is confirmed by the shopper." />
@@ -50,15 +51,14 @@
       <item value="rate" />
       <item value="fix http root mapped to a joomla subfolder with .htaccess" />
       <item value="удиница веса" />
-      <item value="no-gutters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="204" />
+        <entry key="RUSSIAN" value="205" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
