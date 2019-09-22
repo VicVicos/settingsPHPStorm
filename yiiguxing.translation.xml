@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shipment Method" />
       <item value="$cart" />
       <item value="add check for all events validate" />
       <item value="all event validate" />
@@ -50,15 +51,14 @@
       <item value="corrections" />
       <item value="мелкие исправления" />
       <item value="исправления" />
-      <item value="правки" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="198" />
+        <entry key="RUSSIAN" value="199" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
