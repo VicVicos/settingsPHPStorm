@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="buyer In Dirizhable" />
+      <item value="buyerindirizhable" />
+      <item value="buyer" />
+      <item value="покупать" />
       <item value="bill" />
       <item value="checkout Order" />
       <item value="вызвать уведомление" />
@@ -47,18 +51,14 @@
       <item value="some code" />
       <item value="aliases" />
       <item value="some plugin code" />
-      <item value="some code plugins" />
-      <item value="исключить существующие" />
-      <item value="исключить имеющиеся" />
-      <item value="product features" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="212" />
+        <entry key="ENGLISH" value="214" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="212" />
+        <entry key="RUSSIAN" value="214" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
@@ -66,6 +66,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
