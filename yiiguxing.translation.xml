@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update all hash for old order" />
       <item value="error update miniCart" />
       <item value="digit" />
       <item value="rating Value" />
@@ -50,15 +51,14 @@
       <item value="наличные" />
       <item value="delivery" />
       <item value="Здравствуйте! Я очень надеюсь что не разочаруюсь в том что купил и это и правда была проверка, а не возврат БУ товара." />
-      <item value="min delivery price cond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="219" />
+        <entry key="RUSSIAN" value="220" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
