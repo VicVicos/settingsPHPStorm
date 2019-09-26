@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixed create url there" />
       <item value="filtered Uri" />
       <item value="update all hash for old order" />
       <item value="error update miniCart" />
@@ -50,11 +51,10 @@
       <item value="shopper" />
       <item value="купюра" />
       <item value="наличные" />
-      <item value="delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
