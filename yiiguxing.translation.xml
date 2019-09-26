@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spoiler" />
+      <item value="collapse" />
       <item value="fixed create url there" />
       <item value="filtered Uri" />
       <item value="update all hash for old order" />
@@ -49,16 +51,14 @@
       <item value="order checkout" />
       <item value="Fixed empty post data from tpl" />
       <item value="shopper" />
-      <item value="купюра" />
-      <item value="наличные" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="221" />
+        <entry key="ENGLISH" value="223" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="221" />
+        <entry key="RUSSIAN" value="223" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
