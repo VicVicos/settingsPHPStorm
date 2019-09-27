@@ -14,6 +14,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="magickqEqOFl" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2019-09-27-17-51-55" type="PLAIN_TEXT" />
       <mapping pattern=".passwd" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern="magickh2hSoB" type="PLAIN_TEXT" />
