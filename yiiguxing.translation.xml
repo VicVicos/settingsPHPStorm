@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exclude product pages from filter, as they are more or less 100% sure" />
       <item value="Хорошо. Т.е. материнская плата идёт вместе с процессором? И заплатив 90 USD + 20 за радиатор я получаю всё что нужно что бы восстановить работу ноутбука. У которого в материнской плате сгорел мост." />
       <item value="on" />
       <item value="to " />
@@ -50,11 +51,10 @@
       <item value="А вы не могли бы описать характеристики по которым мне надо искать такую материнскую плату?&#10;Или что можно докупить к материнской плате что имееются в наличии?" />
       <item value="$path" />
       <item value="Я писал вам утром в Вашем магазине на aliexpress." />
-      <item value="Добрый день! Прикрепляю фото материнской платы которая нужна. Точно не могу сказать на базе какого процессора она, надеюсь вы поймёте.&#10;Так же продублирую фото по почте от vicos-bv@yandex.ru там будет архив с фотографиями." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
