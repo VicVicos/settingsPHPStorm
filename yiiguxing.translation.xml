@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Или где товар на i3?" />
+      <item value="так а с этим что?" />
       <item value="add title for form" />
       <item value="add title from form" />
       <item value="Exclude product pages from filter, as they are more or less 100% sure" />
@@ -49,16 +51,14 @@
       <item value="current page ancestor" />
       <item value="дистанционное обучение" />
       <item value="очное обучение" />
-      <item value="текст с коммментариями" />
-      <item value="А вы не могли бы описать характеристики по которым мне надо искать такую материнскую плату?&#10;Или что можно докупить к материнской плате что имееются в наличии?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="229" />
+        <entry key="RUSSIAN" value="231" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
