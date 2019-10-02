@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insurance" />
+      <item value="сargo-insurance" />
       <item value="Или где товар на i3?" />
       <item value="так а с этим что?" />
       <item value="add title for form" />
@@ -49,22 +51,20 @@
       <item value="authorize" />
       <item value="Я правильно понимаю что к материнской плате за 128 USD надо будет купить ещё и процессор?&#10;Или материнская плата идёт со встроенным процессором?" />
       <item value="current page ancestor" />
-      <item value="дистанционное обучение" />
-      <item value="очное обучение" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="230" />
+        <entry key="ENGLISH" value="232" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="231" />
+        <entry key="RUSSIAN" value="232" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
