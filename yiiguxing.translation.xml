@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /var/www/html/zooalfa/gooru/modules/Shop/iml/ShopDelivery_iml.php on line 428" />
       <item value="finds Li" />
       <item value="insurance" />
       <item value="сargo-insurance" />
@@ -50,11 +51,10 @@
       <item value="авторизация" />
       <item value="autentificate" />
       <item value="authorize" />
-      <item value="Я правильно понимаю что к материнской плате за 128 USD надо будет купить ещё и процессор?&#10;Или материнская плата идёт со встроенным процессором?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
