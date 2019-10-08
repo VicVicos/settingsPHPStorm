@@ -13,10 +13,13 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="var_dump-2019-10-07-15-08-55" type="PLAIN_TEXT" />
       <mapping pattern="magickqEqOFl" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2019-10-07-15-09-48" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-09-27-17-51-55" type="PLAIN_TEXT" />
       <mapping pattern=".passwd" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2019-10-07-16-29-09" type="PLAIN_TEXT" />
       <mapping pattern="magickh2hSoB" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
