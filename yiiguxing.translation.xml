@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Консоль почините! Она лагает и часто открывается белым окном, да и в последнее время окно мастер пароля так же стал.&#10;Я конечно попробую сбросить браузер и запустить его чистым, но всё же посмотрите на этот момент." />
       <item value="Оставил заказ. А что есть на i3?" />
       <item value="+ радиатор" />
       <item value="Предоставьте пожалуйста ссылки." />
@@ -50,15 +51,14 @@
       <item value="фундамент" />
       <item value="Listener" />
       <item value="First View Listener" />
-      <item value="that provides the displayed * list of items" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="63" />
+        <entry key="RUSSIAN" value="64" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
