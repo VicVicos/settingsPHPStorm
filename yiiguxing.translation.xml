@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only re-render when snackbar is going from closed to open" />
       <item value="disable payment cash for regionm" />
       <item value="disable payment cash from regionm" />
       <item value="disable payment cash fr regionm" />
@@ -50,15 +51,14 @@
       <item value="Check if data has changed meanwhile" />
       <item value="* Here are the last checks done by payment plugins. * The mails are created and send to vendor and shopper * will show the orderdone page (thank you page)" />
       <item value="This function is called, when the order is confirmed by the shopper." />
-      <item value="confirmed Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="243" />
+        <entry key="RUSSIAN" value="244" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
