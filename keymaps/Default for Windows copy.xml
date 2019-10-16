@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="PublishGroup.CompareLocalVsRemote">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
+  <action id="PublishGroup.CompareLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
+</keymap>
