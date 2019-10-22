@@ -5,4 +5,10 @@
   <action id="PublishGroup.CompareLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="WebDeployment.ToggleAutoUpload">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
 </keymap>
