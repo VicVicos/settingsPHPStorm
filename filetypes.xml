@@ -14,11 +14,11 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="var_dump-2019-10-07-15-08-55" type="PLAIN_TEXT" />
       <mapping pattern="magickqEqOFl" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-10-07-15-09-48" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-09-27-17-51-55" type="PLAIN_TEXT" />
       <mapping pattern=".passwd" type="PLAIN_TEXT" />
-      <mapping pattern="var_dump-2019-10-07-15-08-55" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-10-07-16-29-09" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
