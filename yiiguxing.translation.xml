@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Debug Order" />
       <item value="stashed" />
       <item value="Dimensions" />
       <item value="formatted Menu" />
@@ -50,15 +51,14 @@
       <item value="call notice" />
       <item value="call" />
       <item value="call Notification" />
-      <item value="call Notice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="248" />
+        <entry key="RUSSIAN" value="249" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
