@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Will Receive" />
       <item value="reaper" />
       <item value="is Debug Order" />
       <item value="stashed" />
@@ -50,15 +51,14 @@
       <item value="вызвать уведомление" />
       <item value="call notification" />
       <item value="call notice" />
-      <item value="call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="250" />
+        <entry key="RUSSIAN" value="251" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
