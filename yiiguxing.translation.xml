@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="город прибытия" />
+      <item value="город отправки" />
       <item value="Will Receive" />
       <item value="reaper" />
       <item value="is Debug Order" />
@@ -49,16 +51,14 @@
       <item value="bill" />
       <item value="checkout Order" />
       <item value="вызвать уведомление" />
-      <item value="call notification" />
-      <item value="call notice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="251" />
+        <entry key="RUSSIAN" value="253" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
