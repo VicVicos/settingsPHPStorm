@@ -5,6 +5,9 @@
   <action id="PublishGroup.CompareLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
+  <action id="RemoteHostView.EditRemoteFile">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id="WebDeployment.BrowseServers">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
