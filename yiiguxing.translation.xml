@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REFERER" />
+      <item value="CURLOPT REFERER" />
       <item value="город прибытия" />
       <item value="город отправки" />
       <item value="Will Receive" />
@@ -49,16 +51,14 @@
       <item value="buyer" />
       <item value="покупать" />
       <item value="bill" />
-      <item value="checkout Order" />
-      <item value="вызвать уведомление" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="252" />
+        <entry key="ENGLISH" value="254" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="253" />
+        <entry key="RUSSIAN" value="254" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
