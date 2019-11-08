@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="groot" />
+      <item value="i'm is root" />
       <item value="sort raw row" />
       <item value="REFERER" />
       <item value="CURLOPT REFERER" />
@@ -49,18 +51,16 @@
       <item value="worst Rating" />
       <item value="buyer In Dirizhable" />
       <item value="buyerindirizhable" />
-      <item value="buyer" />
-      <item value="покупать" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="255" />
+        <entry key="RUSSIAN" value="257" />
         <entry key="FRENCH" value="2" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
