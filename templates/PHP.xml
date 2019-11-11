@@ -113,4 +113,9 @@
     </context>
   </template>
   <template name="protocol_check" value="((!empty($_SERVER['HTTPS']) &amp;&amp; $_SERVER['HTTPS'] !== 'off') || $_SERVER['SERVER_PORT'] == 443)$END$" description="Check protocol" toReformat="false" toShortenFQNames="true" />
+  <template name="backtrace" value="$backtrace = debug_backtrace();&#10;foreach($backtrace as $arr){&#10;  $str = '';&#10;  if(isset($arr['file'])) $str.= 'file: ' . $arr['file'];&#10;  if(isset($arr['line'])) $str.= '&lt;br/&gt; line: ' . $arr['line'];&#10;  if(isset($arr['function'])) $str.= '&lt;br/&gt; function: ' . $arr['function'];&#10;  if(isset($arr['args'])){      &#10;    $str.= '&lt;br/&gt; args: ';&#10;    foreach($arr['args'] as $key =&gt; $value){&#10;      $value = (is_object($value)) ? get_class($value) : $value;&#10;      $str.= &quot;[{$key}] =&gt; &quot; . $value . '  ';&#10;    }&#10;  }&#10;  echo  $str . '&lt;br/&gt;&lt;br/&gt;';   &#10;} &#10;exit;$END$" description="backrace_dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
