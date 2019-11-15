@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Noun Pluralization" />
+      <item value="Noun Declension" />
+      <item value="First Names Inflection" />
       <item value="Adjective Pluralization" />
       <item value="Combining these two methods (controllerRun, metaRun) comming soon" />
       <item value="comming soon" />
@@ -48,17 +51,14 @@
       <item value="filtered Uri" />
       <item value="update all hash for old order" />
       <item value="error update miniCart" />
-      <item value="digit" />
-      <item value="rating Value" />
-      <item value="rating Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="259" />
+        <entry key="ENGLISH" value="262" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="259" />
+        <entry key="RUSSIAN" value="262" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
