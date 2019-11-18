@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count Crumbs" />
       <item value="Noun Pluralization" />
       <item value="Noun Declension" />
       <item value="First Names Inflection" />
@@ -50,15 +51,14 @@
       <item value="fixed create url there" />
       <item value="filtered Uri" />
       <item value="update all hash for old order" />
-      <item value="error update miniCart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="262" />
+        <entry key="RUSSIAN" value="263" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
