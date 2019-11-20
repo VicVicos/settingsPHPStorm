@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Сonditioning" />
+      <item value="is Param Color For H 1" />
+      <item value="is Param Color Not H 1" />
       <item value="check Trainig Form" />
       <item value="training" />
       <item value="count Crumbs" />
@@ -48,17 +51,14 @@
       <item value="on" />
       <item value="to " />
       <item value="replace let to var" />
-      <item value="spoiler" />
-      <item value="collapse" />
-      <item value="fixed create url there" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="265" />
+        <entry key="ENGLISH" value="268" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="265" />
+        <entry key="RUSSIAN" value="267" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
