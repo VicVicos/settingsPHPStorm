@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deliveri" />
+      <item value="total Summa" />
+      <item value="totalsumma" />
+      <item value="total Summ" />
       <item value="Сonditioning" />
       <item value="is Param Color For H 1" />
       <item value="is Param Color Not H 1" />
@@ -47,25 +51,22 @@
       <item value="add title for form" />
       <item value="add title from form" />
       <item value="Exclude product pages from filter, as they are more or less 100% sure" />
-      <item value="Хорошо. Т.е. материнская плата идёт вместе с процессором? И заплатив 90 USD + 20 за радиатор я получаю всё что нужно что бы восстановить работу ноутбука. У которого в материнской плате сгорел мост." />
-      <item value="on" />
-      <item value="to " />
-      <item value="replace let to var" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="267" />
+        <entry key="RUSSIAN" value="269" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
+        <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
