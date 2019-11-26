@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hi there, Alex! Thank you for reaching out and reporting the issue. We’re truly sorry for the inconvenience you’re facing. Our tech team have already identified the root cause of the issue and are now doing their best to resolve this for you. Hopefully, this won’t take too much time, so please bear with us! We will keep you updated on our progress." />
       <item value="keeper" />
       <item value="Доставка не осуществляется" />
       <item value="Delivery not support" />
@@ -50,11 +51,10 @@
       <item value="merge into master" />
       <item value="is not a valid command. In Slack, all messages that start with the &quot;/&quot; character are interpreted as commands." />
       <item value="Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /var/www/html/zooalfa/gooru/modules/Shop/iml/ShopDelivery_iml.php on line 428" />
-      <item value="finds Li" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
