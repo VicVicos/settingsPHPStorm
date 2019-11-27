@@ -1,6 +1,4 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
-  <action id="GotoTest" />
-  <action id="Images.ShowThumbnails" />
   <action id="PublishGroup.CompareLocalVsRemote">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
@@ -10,10 +8,6 @@
   <action id="RemoteHostView.EditRemoteFile">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
-  <action id="RunDashboard.ShowConfigurations" />
   <action id="WebDeployment.BrowseServers">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
