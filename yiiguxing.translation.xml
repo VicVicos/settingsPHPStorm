@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order data" />
+      <item value="единица измерения" />
+      <item value="PAL" />
+      <item value="sold to" />
       <item value="списокРазрешённого" />
       <item value="Hi there, Alex! Thank you for reaching out and reporting the issue. We’re truly sorry for the inconvenience you’re facing. Our tech team have already identified the root cause of the issue and are now doing their best to resolve this for you. Hopefully, this won’t take too much time, so please bear with us! We will keep you updated on our progress." />
       <item value="keeper" />
@@ -47,18 +51,14 @@
       <item value="Здравствуйте! Заказ оплачен. Что с отправкой?" />
       <item value="Copy to clipboard with span" />
       <item value="citi link" />
-      <item value="слэш на конце для категорий" />
-      <item value="вынос форм" />
-      <item value="merge into master" />
-      <item value="is not a valid command. In Slack, all messages that start with the &quot;/&quot; character are interpreted as commands." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="276" />
+        <entry key="ENGLISH" value="279" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="277" />
+        <entry key="RUSSIAN" value="279" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
