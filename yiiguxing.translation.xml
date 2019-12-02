@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sign In" />
       <item value="раскладка" />
       <item value="density" />
       <item value="Creater Item" />
@@ -50,11 +51,10 @@
       <item value="Dimensions" />
       <item value="formatted Menu" />
       <item value="get OC Filter Options" />
-      <item value="Only re-render when snackbar is going from closed to open" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
