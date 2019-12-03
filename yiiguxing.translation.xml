@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add a &quot;deleted at&quot; timestamp for the table." />
       <item value="via Request" />
       <item value="Register the typical authentication routes for an application." />
       <item value="Next, you may define every authentication guard for your application. | Of course, a great default configuration has been defined for you | here which uses session storage and the Eloquent user provider." />
@@ -50,15 +51,14 @@
       <item value="comming soon" />
       <item value="groot" />
       <item value="i'm is root" />
-      <item value="sort raw row" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="296" />
+        <entry key="RUSSIAN" value="297" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
