@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="турникет" />
       <item value="get Index Of History" />
       <item value="get Index History" />
       <item value="get Index From History" />
@@ -50,7 +51,6 @@
       <item value="is Param Color For H 1" />
       <item value="is Param Color Not H 1" />
       <item value="check Trainig Form" />
-      <item value="training" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,7 @@
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MACEDONIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="TELUGU" value="1" />
