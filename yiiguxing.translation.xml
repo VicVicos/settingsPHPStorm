@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Index Of History" />
+      <item value="get Index History" />
+      <item value="get Index From History" />
       <item value="aplly-lazyload" />
       <item value="makeup" />
       <item value="Cannot use object of type stdClass as array" />
@@ -48,17 +51,14 @@
       <item value="is Param Color Not H 1" />
       <item value="check Trainig Form" />
       <item value="training" />
-      <item value="count Crumbs" />
-      <item value="Noun Pluralization" />
-      <item value="Noun Declension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="303" />
+        <entry key="ENGLISH" value="306" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="303" />
+        <entry key="RUSSIAN" value="306" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
