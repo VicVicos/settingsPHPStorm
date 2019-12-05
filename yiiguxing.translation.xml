@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expires:" />
       <item value="Determine if the request is the result of an PJAX call." />
       <item value="Determine if the route name matches a given pattern." />
       <item value="турникет" />
@@ -50,15 +51,14 @@
       <item value="totalsumma" />
       <item value="total Summ" />
       <item value="Сonditioning" />
-      <item value="is Param Color For H 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="308" />
+        <entry key="RUSSIAN" value="309" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
