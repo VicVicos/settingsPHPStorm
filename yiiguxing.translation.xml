@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exceeded 16 live WebGL contexts for this principal, losing the least recently used one." />
       <item value="Expires:" />
       <item value="Determine if the request is the result of an PJAX call." />
       <item value="Determine if the route name matches a given pattern." />
@@ -50,15 +51,14 @@
       <item value="total Summa" />
       <item value="totalsumma" />
       <item value="total Summ" />
-      <item value="Сonditioning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="309" />
+        <entry key="ENGLISH" value="310" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="309" />
+        <entry key="RUSSIAN" value="310" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
