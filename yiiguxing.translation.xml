@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="isfavories" />
       <item value="Exceeded 16 live WebGL contexts for this principal, losing the least recently used one." />
       <item value="Expires:" />
       <item value="Determine if the request is the result of an PJAX call." />
@@ -50,7 +51,6 @@
       <item value="deliveri" />
       <item value="total Summa" />
       <item value="totalsumma" />
-      <item value="total Summ" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,9 +58,9 @@
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="310" />
+        <entry key="RUSSIAN" value="311" />
         <entry key="FRENCH" value="2" />
-        <entry key="DUTCH" value="2" />
+        <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
