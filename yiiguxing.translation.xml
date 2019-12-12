@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gross Weight" />
       <item value="img on page" />
       <item value="общее" />
       <item value="Prepare Items" />
@@ -50,15 +51,14 @@
       <item value="sold to" />
       <item value="списокРазрешённого" />
       <item value="Hi there, Alex! Thank you for reaching out and reporting the issue. We’re truly sorry for the inconvenience you’re facing. Our tech team have already identified the root cause of the issue and are now doing their best to resolve this for you. Hopefully, this won’t take too much time, so please bear with us! We will keep you updated on our progress." />
-      <item value="keeper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="323" />
+        <entry key="RUSSIAN" value="324" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
