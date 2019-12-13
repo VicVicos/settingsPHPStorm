@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compute discount" />
       <item value="кто это наделал" />
       <item value="gross Weight" />
       <item value="img on page" />
@@ -50,11 +51,10 @@
       <item value="единица измерения" />
       <item value="PAL" />
       <item value="sold to" />
-      <item value="списокРазрешённого" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
