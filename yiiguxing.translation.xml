@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Noun Declension" />
+      <item value="Noun Pluralization" />
       <item value="has models discounts" />
       <item value="has discount" />
       <item value="compute discount" />
@@ -49,16 +51,14 @@
       <item value="storage path" />
       <item value="order Searcher" />
       <item value="this file not reload" />
-      <item value="order data" />
-      <item value="единица измерения" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="327" />
+        <entry key="ENGLISH" value="329" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="327" />
+        <entry key="RUSSIAN" value="329" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
