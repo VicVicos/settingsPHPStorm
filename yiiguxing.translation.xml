@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Карточки" />
+      <item value="carts" />
+      <item value="CARTS" />
       <item value="Костыль имени Елены Емышевой" />
       <item value="set From" />
       <item value="If we're still here" />
@@ -48,17 +51,14 @@
       <item value="allow" />
       <item value="keepers" />
       <item value="The attributes excluded from the model's JSON form." />
-      <item value="The attributes that are mass assignable." />
-      <item value="Sign In" />
-      <item value="раскладка" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="332" />
+        <entry key="ENGLISH" value="334" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="333" />
+        <entry key="RUSSIAN" value="335" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
