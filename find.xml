@@ -21,6 +21,7 @@
     <mask>*.css</mask>
     <mask>*.php</mask>
     <mask>*.xsl</mask>
+    <mask>*.ini</mask>
     <mask>*.*</mask>
   </component>
 </application>
