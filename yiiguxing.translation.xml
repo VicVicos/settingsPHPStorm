@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets the named column metadata." />
       <item value="Карточки" />
       <item value="carts" />
       <item value="CARTS" />
@@ -50,11 +51,10 @@
       <item value="Boot the authentication services for the application." />
       <item value="allow" />
       <item value="keepers" />
-      <item value="The attributes excluded from the model's JSON form." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
