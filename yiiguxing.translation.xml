@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="согласие на рассылку" />
       <item value="Deny from" />
+      <item value="согласие на рассылку" />
       <item value="photos From Reviews" />
       <item value="Binary safe string comparison" />
       <item value="remove resipient" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
