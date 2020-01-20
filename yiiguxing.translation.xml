@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batts" />
+      <item value="pipes" />
       <item value="Creater Item" />
       <item value="$item Creater" />
       <item value="compose" />
-      <item value="pipes" />
       <item value="was Recently Created" />
       <item value="multiplier" />
       <item value="elongation" />
@@ -50,16 +51,15 @@
       <item value="This is related to npm not being able to find a file." />
       <item value="is Favorite" />
       <item value="isfavories" />
-      <item value="Exceeded 16 live WebGL contexts for this principal, losing the least recently used one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="360" />
+        <entry key="ENGLISH" value="362" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="360" />
+        <entry key="RUSSIAN" value="362" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
