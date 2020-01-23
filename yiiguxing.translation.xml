@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$directions" />
       <item value="If you already configured then provide data in context for debug" />
       <item value="Забытое" />
       <item value="density" />
@@ -50,16 +51,15 @@
       <item value="Noun Pluralization" />
       <item value="has models discounts" />
       <item value="has discount" />
-      <item value="compute discount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="374" />
+        <entry key="RUSSIAN" value="375" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
