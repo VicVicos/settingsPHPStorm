@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'rockpack.rockwool.loc'" />
-    <option name="defaultScopeName" value="Project 'rockpack.rockwool.loc'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'rockpack.rockwool.loc'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
