@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="animate" />
+      <item value="need-more" />
       <item value="expires" />
       <item value="свойство" />
       <item value="fix cached pages in favorites" />
@@ -49,23 +51,21 @@
       <item value="uncovering" />
       <item value="along" />
       <item value="SyntaxError: Identifier 'pathname' has already been declared" />
-      <item value="path For Ajax Query" />
-      <item value="провал" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="392" />
+        <entry key="RUSSIAN" value="394" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="MACEDONIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="2" />
