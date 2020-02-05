@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="btn-default" />
       <item value="Разместить объявление" />
       <item value="tool-item" />
       <item value="Fit view" />
@@ -50,11 +51,10 @@
       <item value="photos From Reviews" />
       <item value="Binary safe string comparison" />
       <item value="remove resipient" />
-      <item value="removing resipient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
