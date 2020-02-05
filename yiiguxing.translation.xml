@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="свойство" />
       <item value="fix cached pages in favorites" />
       <item value="расширенный" />
       <item value="exchanged search" />
@@ -21,7 +22,6 @@
       <item value="$calculation Response" />
       <item value="$calculate Response" />
       <item value="non stock" />
-      <item value="свойство" />
       <item value="$directions" />
       <item value="If you already configured then provide data in context for debug" />
       <item value="Забытое" />
@@ -59,7 +59,7 @@
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="391" />
+        <entry key="RUSSIAN" value="392" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
