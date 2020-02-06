@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="login" />
       <item value="animate" />
       <item value="need-more" />
       <item value="expires" />
@@ -50,11 +51,10 @@
       <item value="$cities" />
       <item value="uncovering" />
       <item value="along" />
-      <item value="SyntaxError: Identifier 'pathname' has already been declared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
