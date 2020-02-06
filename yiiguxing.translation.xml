@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Webinars" />
       <item value="часы" />
       <item value="login" />
       <item value="animate" />
@@ -50,11 +51,10 @@
       <item value="multiplier" />
       <item value="elongation" />
       <item value="$cities" />
-      <item value="uncovering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
