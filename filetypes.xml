@@ -4,6 +4,8 @@
       <mapping pattern="var_dump-2019-12-24-12-36-14" type="Native" />
       <mapping pattern="var_dump-2019-12-24-12-06-22" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="WnF6vhKV8Pk33xINGszstAJWdS9vd2GQhlbdOLp4" type="PLAIN_TEXT" />
+      <mapping pattern="haaLFgHGS531R8OymgdsKCDj6Ux5zmdbxzvCDebU" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-12-24-12-05-44" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-12-24-12-36-00" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
