@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fix 404 status in cached pages" />
+      <item value="headers" />
+      <item value="This option determines how your cookies behave when cross-site requests take place, and can be used to mitigate CSRF attacks. By default, we do not enable this as other CSRF protection services are in place." />
+      <item value="Whether the cookie will be available for cross-site requests" />
+      <item value="Whether the cookie value should be sent with no url encoding" />
+      <item value="Whether the cookie will be made accessible only through the HTTP protocol" />
       <item value="сноска" />
       <item value="smaller" />
       <item value="smellow" />
@@ -51,12 +57,12 @@
       <item value="get Cust Name" />
       <item value="remaining Items" />
       <item value="difference" />
+      <item value="разница" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="407" />
         <entry key="AZERBAIJANI" value="4" />
-        <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
