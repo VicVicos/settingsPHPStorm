@@ -27,6 +27,10 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_KEEP_BLANK_LINES" value="4" />
   </HTMLCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
+  </ScssCodeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
