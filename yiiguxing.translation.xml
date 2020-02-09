@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Обложка" />
       <item value="wrp-items-on-page" />
       <item value="your-face" />
       <item value="outer" />
@@ -50,7 +51,6 @@
       <item value="штук" />
       <item value="Webpack it is Good" />
       <item value="this is magic out of Hogvards" />
-      <item value="this is magic" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,7 +59,7 @@
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="413" />
+        <entry key="RUSSIAN" value="414" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
