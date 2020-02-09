@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Расчетный счет" />
+      <item value="your-address" />
       <item value="Обложка" />
       <item value="wrp-items-on-page" />
       <item value="your-face" />
@@ -49,17 +51,15 @@
       <item value="One or more node_modules have been detected and will be removed. This operation may take some time." />
       <item value="UNIT" />
       <item value="штук" />
-      <item value="Webpack it is Good" />
-      <item value="this is magic out of Hogvards" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="414" />
+        <entry key="RUSSIAN" value="415" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
