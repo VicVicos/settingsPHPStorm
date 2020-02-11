@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\env(key,default)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
