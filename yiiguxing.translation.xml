@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This array of class aliases will be registered when this application is started. However, feel free to register as many as you wish as the aliases are &quot;lazy&quot; loaded so they don't hinder performance." />
       <item value="webinars" />
       <item value="breadcrumbs" />
       <item value="Объявления" />
@@ -50,11 +51,10 @@
       <item value="fix cached pages in favorites" />
       <item value="расширенный" />
       <item value="exchanged search" />
-      <item value="бледный" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
