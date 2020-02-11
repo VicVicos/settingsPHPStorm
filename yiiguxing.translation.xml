@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="breadcrumbs" />
       <item value="Объявления" />
       <item value="tickets" />
       <item value="Фамилия" />
@@ -50,11 +51,10 @@
       <item value="exchanged search" />
       <item value="бледный" />
       <item value="btn-default" />
-      <item value="Разместить объявление" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="419" />
+        <entry key="ENGLISH" value="420" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
