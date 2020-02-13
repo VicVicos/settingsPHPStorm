@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thank you" />
       <item value="Image is too large for resize" />
       <item value="get Access To Webinar" />
       <item value="register User To Webinar" />
@@ -50,15 +51,10 @@
       <item value="Webinars" />
       <item value="часы" />
       <item value="login" />
-      <item value="animate" />
-      <item value="need-more" />
-      <item value="expires" />
-      <item value="свойство" />
-      <item value="fix cached pages in favorites" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
