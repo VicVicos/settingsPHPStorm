@@ -1,0 +1,12 @@
+<templateSet group="custom">
+  <template name="reader" value="BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));&#10;&#10;String $END$ = reader.readLine();" description="BufferedReader" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="scaner" value="Scanner scanner = new Scanner(System.in);&#10;String $END$ = scanner.nextLine();" description="Scaner SystemIn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
