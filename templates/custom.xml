@@ -9,4 +9,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="theLoop" value="boolean isExit = false;&#10;while (!isExit)&#10;{&#10;    String s = buffer.readLine();&#10;    isExit = s.equals(&quot;exit&quot;);&#10;}" description="The Loop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
