@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Data From Cache" />
       <item value="Access to debugger is denied due to IP address restriction" />
       <item value="email notification addresses" />
       <item value="https" />
@@ -50,16 +51,15 @@
       <item value="callable custom functions" />
       <item value="fix 404 status in cached pages" />
       <item value="headers" />
-      <item value="This option determines how your cookies behave when cross-site requests take place, and can be used to mitigate CSRF attacks. By default, we do not enable this as other CSRF protection services are in place." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="434" />
+        <entry key="RUSSIAN" value="435" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
