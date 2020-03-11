@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove to production" />
+      <item value="remove on production" />
+      <item value="remove in production" />
+      <item value="crutch" />
       <item value="without cache" />
       <item value="with cache" />
       <item value="data Chunk" />
@@ -47,19 +51,15 @@
       <item value="Обложка" />
       <item value="wrp-items-on-page" />
       <item value="your-face" />
-      <item value="outer" />
-      <item value="Приглашение участникам" />
-      <item value="company" />
-      <item value="вызов" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="439" />
+        <entry key="ENGLISH" value="443" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="439" />
+        <entry key="RUSSIAN" value="443" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
