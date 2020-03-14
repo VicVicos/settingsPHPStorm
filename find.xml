@@ -18,10 +18,10 @@
     <mask>*.</mask>
     <mask>*.css</mask>
     <mask>*.ini</mask>
-    <mask>*.js</mask>
     <mask>*.tpl</mask>
     <mask>*.xsl</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.*</mask>
   </component>
 </application>
