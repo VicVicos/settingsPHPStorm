@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Не переданы обязательные парметры" />
+      <item value="Here we will make some assumptions about the operator. If only 2 values are passed to the method, we will assume that the operator is an equals sign and keep going. Otherwise, we'll require the operator to be passed in." />
       <item value="patronymic" />
       <item value="flush Cache" />
       <item value="error load tabs" />
@@ -49,17 +51,15 @@
       <item value="Фамилия" />
       <item value="Here you may change the name of the cookie used to identify a session instance by ID. The name specified here will get used every time a new session cookie is created by the framework for every driver." />
       <item value="Setting this value to true will prevent JavaScript from accessing the value of the cookie and the cookie will only be accessible through the HTTP protocol. You are free to modify this option if needed." />
-      <item value="Creates an array by using one array for keys and another for its values" />
-      <item value="Расчетный счет" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="445" />
+        <entry key="RUSSIAN" value="447" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
