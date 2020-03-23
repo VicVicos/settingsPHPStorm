@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to" />
       <item value="get Response" />
       <item value="request" />
       <item value="Get the needed authorization credentials from the request." />
@@ -50,16 +51,15 @@
       <item value="This array of class aliases will be registered when this application is started. However, feel free to register as many as you wish as the aliases are &quot;lazy&quot; loaded so they don't hinder performance." />
       <item value="breadcrumbs" />
       <item value="Объявления" />
-      <item value="tickets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="449" />
+        <entry key="RUSSIAN" value="450" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
