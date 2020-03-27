@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place" />
       <item value="lecture" />
       <item value="get Name From Url" />
       <item value="Allow NULL values to be inserted into the column" />
@@ -50,11 +51,10 @@
       <item value="register User To Webinar" />
       <item value="крест" />
       <item value="раздел" />
-      <item value="category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
