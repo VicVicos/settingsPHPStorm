@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Record To Training" />
       <item value="Get a validator for an incoming registration request." />
       <item value="tags relations" />
       <item value="A Token was not found in the TokenStorage." />
@@ -50,16 +51,15 @@
       <item value="чистый" />
       <item value="Главные закупки" />
       <item value="остаток" />
-      <item value="Image is too large for resize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="458" />
+        <entry key="ENGLISH" value="459" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="458" />
+        <entry key="RUSSIAN" value="459" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
