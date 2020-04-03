@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="question" />
+      <item value="quest" />
       <item value="Untracked" />
       <item value="pipes" />
       <item value="pallet Stacking" />
@@ -49,17 +51,15 @@
       <item value="Deny" />
       <item value="Allow" />
       <item value="darkest" />
-      <item value="darknest" />
-      <item value="Pattern mask with defined blocks, default is" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="462" />
+        <entry key="ENGLISH" value="464" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="462" />
+        <entry key="RUSSIAN" value="464" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
