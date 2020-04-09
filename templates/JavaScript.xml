@@ -17,15 +17,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ajax" value="    $.ajax({&#10;        url: '$PATH$',&#10;        type: '$TYPE$',&#10;        dataType: '$END$',&#10;        data: {param1: 'value1'}&#10;    })&#10;    .done(function() {&#10;        console.log(&quot;success&quot;);&#10;    })&#10;    .fail(function() {&#10;        console.log(&quot;error&quot;);&#10;    })&#10;    .always(function() {&#10;        console.log(&quot;complete&quot;);&#10;    });" description="ajax snippet" toReformat="false" toShortenFQNames="true">
-    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ajax2" value="$.ajax({&#10;    url: '/path/to/file',&#10;    type: 'default GET (Other values: POST)',&#10;    dataType: 'default: Intelligent Guess (Other values: xml, json, script, or html)',&#10;    data: {param1: 'value1'}&#10;})&#10;.done(function() {&#10;    console.log(&quot;success&quot;);&#10;})&#10;.fail(function() {&#10;    console.log(&quot;error&quot;);&#10;})&#10;.always(function() {&#10;    console.log(&quot;complete&quot;);&#10;});" description="ajax" toReformat="false" toShortenFQNames="true">
+  <template name="ajax" value="$.ajax({&#10;    url: '/path/to/file',&#10;    type: 'default GET (Other values: POST)',&#10;    dataType: 'default: Intelligent Guess (Other values: xml, json, script, or html)',&#10;    data: {param1: 'value1'}&#10;})&#10;.done(function() {&#10;    console.log(&quot;success&quot;);&#10;})&#10;.fail(function() {&#10;    console.log(&quot;error&quot;);&#10;})&#10;.always(function() {&#10;    console.log(&quot;complete&quot;);&#10;});" description="ajax" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -42,7 +34,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ready" value="(function ($) {&#10;    $(function () {&#10;        $END$&#10;    });&#10;}(jQuery));" description="anonimus function and document ready" toReformat="false" toShortenFQNames="true">
+  <template name="ready" value="document.addEventListener(&quot;DOMContentLoaded&quot;, function(event) {&#10;    $END$&#10;});" description="anonimus function and document ready" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
