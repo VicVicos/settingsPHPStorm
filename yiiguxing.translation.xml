@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Url From Param" />
       <item value="the configuration of the identity cookie. This property is used only when [[enableAutoLogin]] is `true`." />
       <item value="Checks if the user can perform the operation as specified by the given permission." />
       <item value="Returns GET parameter with a given name. If name isn't specified, returns an array of all GET parameters." />
@@ -50,16 +51,15 @@
       <item value="remove in production" />
       <item value="without cache" />
       <item value="with cache" />
-      <item value="data Chunk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="484" />
+        <entry key="RUSSIAN" value="485" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
