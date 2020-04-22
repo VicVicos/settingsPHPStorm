@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bathroom" />
       <item value="Срок" />
       <item value="площадь" />
       <item value="Спален" />
@@ -50,11 +51,10 @@
       <item value="Get a validator for an incoming registration request." />
       <item value="tags relations" />
       <item value="A Token was not found in the TokenStorage." />
-      <item value="place" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
