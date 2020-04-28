@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Webp Thumbnailer" />
       <item value="is Guest" />
       <item value="$is Guest" />
       <item value="Get the URL for the previous request." />
@@ -50,16 +51,15 @@
       <item value="lecturer" />
       <item value=":attribute must be a valid email address" />
       <item value="The given data was invalid" />
-      <item value="error exception errors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="514" />
+        <entry key="RUSSIAN" value="515" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
