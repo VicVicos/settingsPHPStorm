@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serve webp image, converting first if neccessary. If an image already exists, it will be served, unless it is older or larger than the source. (If it is larger, the original is served, if it is older, the existing webp will be deleted and a fresh conversion will be made and served). In case of error, the action indicated in the 'fail' option will be triggered (default is to serve the original). Look up the ServeConvertedWebP:serve() and the ServeConvertedWebPWithErrorHandling::serve() methods to learn more." />
       <item value="Webp Thumbnailer" />
       <item value="is Guest" />
       <item value="$is Guest" />
@@ -50,16 +51,15 @@
       <item value="send" />
       <item value="lecturer" />
       <item value=":attribute must be a valid email address" />
-      <item value="The given data was invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="515" />
+        <entry key="RUSSIAN" value="516" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
