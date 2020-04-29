@@ -20,8 +20,8 @@
     <mask>*.ini</mask>
     <mask>*.tpl</mask>
     <mask>*.xsl</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.*</mask>
   </component>
 </application>
