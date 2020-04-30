@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="In the console environment, some path aliases may not exist. Please define these:" />
       <item value="This URL is used by the console to properly generate URLs when using the Artisan command line tool. You should set this to the root of your application so that it is used when running Artisan tasks." />
       <item value="wending" />
       <item value="Write your own macroses here" />
@@ -50,17 +51,16 @@
       <item value="answer" />
       <item value="crutch" />
       <item value="crunch" />
-      <item value="Должность" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="ENGLISH" value="522" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="521" />
+        <entry key="RUSSIAN" value="522" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
