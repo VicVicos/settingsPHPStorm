@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Monday" />
+      <item value="sunday" />
       <item value="daughter Name" />
       <item value="Returns the value of the first argument raised to the power of the second argument. Special cases:" />
       <item value="Returns the correctly rounded positive square root of a" />
@@ -49,16 +51,14 @@
       <item value="learn of assert" />
       <item value="Здравствуйте! Что на счёт купона на скидку? Обидно потерять такую возможность взять товар по такой цене." />
       <item value="get Loggined User" />
-      <item value="lagged User" />
-      <item value="loggined User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="69" />
         <entry key="ALBANIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="67" />
+        <entry key="RUSSIAN" value="69" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
