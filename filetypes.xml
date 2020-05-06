@@ -8,6 +8,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="kOAa4t8unJ0SRxj7FYyDUarvbDnpP3LmDoa03Hkr" type="PLAIN_TEXT" />
       <mapping pattern="WnF6vhKV8Pk33xINGszstAJWdS9vd2GQhlbdOLp4" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-05-06-16-01-23" type="PLAIN_TEXT" />
       <mapping pattern="haaLFgHGS531R8OymgdsKCDj6Ux5zmdbxzvCDebU" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-12-24-12-05-44" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-12-24-12-36-00" type="PLAIN_TEXT" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="views products" />
+      <item value="view products" />
       <item value="$avg Min Price Coefficient" />
       <item value="greed selecter" />
       <item value="primorie" />
@@ -49,18 +51,16 @@
       <item value="Check for Windows to find and replace the %e modifier correctly." />
       <item value="sitemap is succesfull generated" />
       <item value="sitemap is generated" />
-      <item value="Sitemap Generated" />
-      <item value="Sitemap Generate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="ENGLISH" value="534" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="532" />
+        <entry key="RUSSIAN" value="534" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
