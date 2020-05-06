@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optional. If specified, only update existing metadata entries with this value. Otherwise, update all entries." />
       <item value="Last Purchase" />
       <item value="views products" />
       <item value="view products" />
@@ -50,17 +51,16 @@
       <item value="to run migration code without a transaction." />
       <item value="month List" />
       <item value="Check for Windows to find and replace the %e modifier correctly." />
-      <item value="sitemap is succesfull generated" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="535" />
+        <entry key="RUSSIAN" value="536" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
