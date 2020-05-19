@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@return mixed The current function simply returns the value of the array element that's currently being pointed to by the internal pointer. It does not move the pointer in any way. If the internal pointer points beyond the end of the elements list or the array is empty, current returns false." />
       <item value="inset" />
       <item value="outbound" />
       <item value="DEFLATE" />
@@ -50,17 +51,16 @@
       <item value="Срок" />
       <item value="площадь" />
       <item value="Спален" />
-      <item value="Этажей" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="ENGLISH" value="548" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="547" />
+        <entry key="RUSSIAN" value="548" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
