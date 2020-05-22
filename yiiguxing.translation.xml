@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@var string[]|string list of factors that would cause the variation of the content being cached. Each factor is a string representing a variation (e.g. the language, a GET parameter). The following variation setting will cause the content to be cached in different versions according to the current application language:" />
+      <item value="Page cache version, to detect incompatibilities in cached values when the data format of the cache changes." />
       <item value="Making directory if needed" />
       <item value="sanitized query string, if there is a query to prepare." />
       <item value="Sanitized query string, if there is a query to prepare." />
@@ -49,18 +51,16 @@
       <item value="prepare Image Path To Name" />
       <item value="some-repeating-fields" />
       <item value="bedroom" />
-      <item value="need Properties" />
-      <item value="$need Props" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="ENGLISH" value="554" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="551" />
+        <entry key="RUSSIAN" value="554" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
