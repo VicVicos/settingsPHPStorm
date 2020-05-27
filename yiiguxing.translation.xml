@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Payer" />
       <item value="Story" />
       <item value="prepare Links" />
       <item value="СВЕДЕНИЯ ОБ ОБРАЗОВАТЕЛЬНОЙ ОРГАНИЗАЦИИ" />
@@ -50,7 +51,6 @@
       <item value="Disallow" />
       <item value="couch" />
       <item value="wooman" />
-      <item value="block-answers" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="562" />
+        <entry key="RUSSIAN" value="563" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
