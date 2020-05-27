@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gutenberg blocks" />
       <item value="Payer" />
       <item value="Story" />
       <item value="prepare Links" />
@@ -50,12 +51,11 @@
       <item value="Write your own macroses here" />
       <item value="Disallow" />
       <item value="couch" />
-      <item value="wooman" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="ENGLISH" value="563" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
