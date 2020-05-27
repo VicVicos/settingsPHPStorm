@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prepare Links" />
       <item value="СВЕДЕНИЯ ОБ ОБРАЗОВАТЕЛЬНОЙ ОРГАНИЗАЦИИ" />
       <item value="exclude" />
       <item value="posts in page" />
@@ -50,12 +51,11 @@
       <item value="wooman" />
       <item value="block-answers" />
       <item value="Serve webp image, converting first if neccessary. If an image already exists, it will be served, unless it is older or larger than the source. (If it is larger, the original is served, if it is older, the existing webp will be deleted and a fresh conversion will be made and served). In case of error, the action indicated in the 'fail' option will be triggered (default is to serve the original). Look up the ServeConvertedWebP:serve() and the ServeConvertedWebPWithErrorHandling::serve() methods to learn more." />
-      <item value="Webp Thumbnailer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
