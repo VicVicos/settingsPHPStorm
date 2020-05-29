@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Filials" />
       <item value="folow" />
       <item value="Add need class to thumbnails" />
       <item value="Supports feature" />
@@ -50,7 +51,6 @@
       <item value="$avg Min Price Coefficient" />
       <item value="greed selecter" />
       <item value="primorie" />
-      <item value="target" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
         <entry key="RUSSIAN" value="575" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
-        <entry key="CATALAN" value="1" />
+        <entry key="CATALAN" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="3" />
