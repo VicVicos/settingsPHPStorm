@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ёмкость" />
+      <item value="event value" />
       <item value="сourse" />
       <item value="group-galleries" />
       <item value="group-gallery" />
@@ -49,18 +51,16 @@
       <item value="Trying to get a js files to which the specified path as the remote file, skchat him to her." />
       <item value="Time in seconds for reading each asset file" />
       <item value="list With Handle" />
-      <item value="siblings" />
-      <item value="Optional. If specified, only update existing metadata entries with this value. Otherwise, update all entries." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="578" />
+        <entry key="RUSSIAN" value="580" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
