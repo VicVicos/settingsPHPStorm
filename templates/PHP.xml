@@ -123,4 +123,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="autoloader" value="function loadInc($class) {&#10;    $path = __DIR__ . '/inc/';&#10;    $parts = explode('\\', $class);&#10;    require_once $path . end($parts) . '.php';&#10;}&#10;&#10;spl_autoload_register('loadInc');&#10;$END$" description="spl_autoload" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
