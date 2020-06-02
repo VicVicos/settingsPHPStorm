@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Importer Bid Spirit" />
+      <item value="do something" />
       <item value="Note that due to the way WP typically generates a sum of timestamp and offset with `strtotime()`, it implies offset added at a _current_ time, not at the time the timestamp represents. Storing such timestamps or calculating them differently will lead to invalid output." />
       <item value="crb event graphic" />
       <item value="study" />
@@ -49,18 +51,16 @@
       <item value="Making directory if needed" />
       <item value="sanitized query string, if there is a query to prepare." />
       <item value="Sanitized query string, if there is a query to prepare." />
-      <item value="further variables to substitute into the query's placeholders if being called wih individual arguments." />
-      <item value="@return mixed The current function simply returns the value of the array element that's currently being pointed to by the internal pointer. It does not move the pointer in any way. If the internal pointer points beyond the end of the elements list or the array is empty, current returns false." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="589" />
+        <entry key="ENGLISH" value="591" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="589" />
+        <entry key="RUSSIAN" value="591" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
