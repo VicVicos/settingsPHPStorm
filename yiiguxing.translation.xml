@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select from settings to plugin" />
+      <item value="select from settings plugin" />
+      <item value="select from settings plugins" />
+      <item value="get User Id Admin" />
+      <item value="get User Id With Admin" />
+      <item value="view Only" />
       <item value="data" />
       <item value="auction Processing" />
       <item value="Importer" />
@@ -45,22 +51,16 @@
       <item value="with Credentials" />
       <item value="Set template for custom taxonomy and post_type" />
       <item value="gutenberg blocks" />
-      <item value="Payer" />
-      <item value="Story" />
-      <item value="prepare Links" />
-      <item value="СВЕДЕНИЯ ОБ ОБРАЗОВАТЕЛЬНОЙ ОРГАНИЗАЦИИ" />
-      <item value="exclude" />
-      <item value="posts in page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="ENGLISH" value="607" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="601" />
+        <entry key="RUSSIAN" value="607" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
