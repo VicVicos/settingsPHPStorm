@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Поиск значения lastUpadte по id поста" />
+      <item value="Поиск лота по id поста" />
+      <item value="Поиск лотов по id категории" />
+      <item value="Поиск записи в БД по id bidsirit" />
+      <item value="Get auction name" />
+      <item value="Поиск аукциона в БД по его номеру" />
+      <item value="Status auction" />
+      <item value="Номер аукциона" />
+      <item value="Инициализация свойст объекта" />
+      <item value="Получить id администратора сайта" />
+      <item value="Get name table" />
+      <item value="Первичная инициализация переменных" />
+      <item value="Initialization variable primary" />
+      <item value="Initialization primary variable" />
+      <item value="Имя таблицы для хранения данных с сервера bidspirit" />
+      <item value="Инициализация первичных параметров" />
       <item value="Prepare url for images" />
       <item value="Get instance Lot" />
       <item value="Setting post id" />
@@ -35,32 +51,16 @@
       <item value="Tags of Auctions" />
       <item value="capability type" />
       <item value="Remove this file before load production" />
-      <item value="use auctions/getAllAuctions request for import taxonomies" />
-      <item value="Initialize SessionId and run process" />
-      <item value="check on update" />
-      <item value="select from settings to plugin" />
-      <item value="select from settings plugin" />
-      <item value="select from settings plugins" />
-      <item value="get User Id Admin" />
-      <item value="get User Id With Admin" />
-      <item value="view Only" />
-      <item value="data" />
-      <item value="auction Processing" />
-      <item value="Importer" />
-      <item value="auctions not found or sessionId not set" />
-      <item value="success import" />
-      <item value="save to log about trouble" />
-      <item value="save log about trouble" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="ENGLISH" value="654" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="643" />
+        <entry key="RUSSIAN" value="655" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
