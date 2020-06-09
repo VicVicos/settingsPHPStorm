@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not sync title" />
       <item value="создаем экземпляр и сохраним его дальше выведем" />
       <item value="Create instance and save for after use" />
       <item value="Bulk" />
@@ -50,12 +51,11 @@
       <item value="Processing data list before insert/update lots and tags" />
       <item value="Получить мета поля для лота" />
       <item value="Подготовка данных и вставка/обновление поста и связных мета данных" />
-      <item value="Processing data and insert/update categories/auctions in site" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
