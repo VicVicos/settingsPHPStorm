@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Здравствуйте! Работаю с Вашим API на проекте https://web2-qa.bidspirit.com/ . Хотел бы уточнить как происходит смена статусов для аукционов на READY с PENDING. Данные что приходят при запросе auctions/getAllAuctions.api. В системе создано несколько тестовых аукционов. Аукцион с индексом 5 был и он имеет статус READY. Аукцион 3 создал как тестовый и опубликовал кнопкой, смотреть вложение 1, одижал что это сменит статус аукциону, но уже прошло достаточно времени, а статус остался неизменным." />
       <item value="Опубликовать аукцион в системе bidspirit. После синхронизации все лоты аукциона станут опубликованы на сайте." />
       <item value="All statuses" />
       <item value="state Status" />
@@ -50,17 +51,16 @@
       <item value="Экземпляр класса Lot" />
       <item value="Идентификатор записи на сайте" />
       <item value="Обновление записи в таблице о состоянии процесса импорта" />
-      <item value="Обновление записи в таблице в состоянии процесса импорта" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="ENGLISH" value="671" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="671" />
+        <entry key="RUSSIAN" value="672" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
