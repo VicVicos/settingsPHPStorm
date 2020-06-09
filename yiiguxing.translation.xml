@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="administrator id" />
+      <item value="user administrator id" />
+      <item value="id user administrator" />
       <item value="not sync title" />
       <item value="создаем экземпляр и сохраним его дальше выведем" />
       <item value="Create instance and save for after use" />
@@ -48,19 +51,16 @@
       <item value="Найти запись аукциона по actionIndex" />
       <item value="Подготовка данных и обновление тегов для записи" />
       <item value="Preparing data and inserting / updating post and related meta data" />
-      <item value="Processing data list before insert/update lots and tags" />
-      <item value="Получить мета поля для лота" />
-      <item value="Подготовка данных и вставка/обновление поста и связных мета данных" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="665" />
+        <entry key="ENGLISH" value="668" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="665" />
+        <entry key="RUSSIAN" value="668" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
