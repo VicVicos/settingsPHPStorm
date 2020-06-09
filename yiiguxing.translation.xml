@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All statuses" />
+      <item value="state Status" />
       <item value="administrator id" />
       <item value="user administrator id" />
       <item value="id user administrator" />
@@ -49,18 +51,16 @@
       <item value="Обновление записи в таблице о состоянии процесса импорта" />
       <item value="Обновление записи в таблице в состоянии процесса импорта" />
       <item value="Найти запись аукциона по actionIndex" />
-      <item value="Подготовка данных и обновление тегов для записи" />
-      <item value="Preparing data and inserting / updating post and related meta data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="ENGLISH" value="670" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="668" />
+        <entry key="RUSSIAN" value="670" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
