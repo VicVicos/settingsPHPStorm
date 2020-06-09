@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="page settings and other small fixs" />
       <item value="Интеграция опций с импортом bidspirit" />
       <item value="format Sql For Filter Date" />
       <item value="formatted Sql For Filter Date" />
@@ -50,12 +51,11 @@
       <item value="Delete old attachment for posts" />
       <item value="Префикс изображения" />
       <item value="Параметры для скачиваемых картинок с bidspirit системы" />
-      <item value="Список изображений" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="ENGLISH" value="674" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
