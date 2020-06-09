@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bulk" />
       <item value="Показывать на странице" />
       <item value="smashing filter posts columns" />
       <item value="Time created at" />
@@ -50,12 +51,11 @@
       <item value="Processing data and insert/update categories/auctions in site" />
       <item value="Initialize SessionId to Bidspirit API and run process import" />
       <item value="Initialize SessionId and run process import" />
-      <item value="Bid Spirit Request" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="662" />
+        <entry key="ENGLISH" value="663" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
