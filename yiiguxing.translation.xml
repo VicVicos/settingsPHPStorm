@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Удалить аукцион и все его лоты" />
+      <item value="Delete auction and attachment lots" />
+      <item value="Id auction on site" />
       <item value="Url for request to API Bidspirit server" />
       <item value="провести тест" />
       <item value="wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks." />
@@ -48,19 +51,16 @@
       <item value="Первичная инициализация переменных" />
       <item value="Initialization variable primary" />
       <item value="Initialization primary variable" />
-      <item value="Имя таблицы для хранения данных с сервера bidspirit" />
-      <item value="Инициализация первичных параметров" />
-      <item value="Prepare url for images" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="ENGLISH" value="684" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="682" />
+        <entry key="RUSSIAN" value="685" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
