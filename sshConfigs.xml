@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="tw1.designschool.ru" id="5c733ab0-770a-4a70-899b-3ed013355c76" keyPath="C:\Users\vicos\Documents\webit\putty\designschool.ru.ppk" port="22" customName="designschool_pred_prod" nameFormat="CUSTOM" username="designschool" />
+    </configs>
+  </component>
+</application>
