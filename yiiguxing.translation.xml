@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The operation of the option Synchronize Images was supplemented and found a moment that breaks all other import options. The &quot;Delete hidden lots&quot; option redraws the logic of other options. It is necessary to refine the moment that if this option is active, then other options do not get on the access bar." />
+      <item value="Тестировал импорт без активной опции &quot;Delete hidden lots&quot; и проблемы нет, при активации её вся логика работы опций синхронизации не действительна." />
+      <item value="Тестировал импорт без активной опции &quot;Delete hidden lots&quot; и проблемы нет, при активации её вся логика работы опций не действительна." />
+      <item value="Тестировал импорт без активной опции &quot;Delete hidden lots&quot; и проблем нет, при активации её вся логика работы опций не действительна." />
+      <item value="Работу опции Синхронизировать картинки дополнил и нашёл момент что ломает все другие опции импорта. Опция &quot;Delete hidden lots&quot; перечрёкивает логику работы других опций. Надо доработать момент что если эта опция активна, то другие опции не становятся на достпуны." />
       <item value="Добавлено отображение картинок лотов в админке" />
       <item value="Изображения лота" />
       <item value="Images lot" />
@@ -46,21 +51,16 @@
       <item value="state Status" />
       <item value="administrator id" />
       <item value="user administrator id" />
-      <item value="id user administrator" />
-      <item value="not sync title" />
-      <item value="создаем экземпляр и сохраним его дальше выведем" />
-      <item value="Create instance and save for after use" />
-      <item value="Bulk" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="702" />
+        <entry key="ENGLISH" value="707" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="703" />
+        <entry key="RUSSIAN" value="707" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
