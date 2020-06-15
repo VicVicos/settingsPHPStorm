@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="smashing" />
+      <item value="Требуется доработать мета поля для аукционов" />
       <item value="To attend this auction live or leave absentee bids" />
       <item value="Leading bid" />
       <item value="Upcoming auctions" />
@@ -49,19 +51,17 @@
       <item value="The slug-name of the settings page on which to show the section. Built-in pages include 'general', 'reading', 'writing', 'discussion', 'media', etc. Create your own using add_options_page();" />
       <item value="page settings and other small fixs" />
       <item value="Интеграция опций с импортом bidspirit" />
-      <item value="format Sql For Filter Date" />
-      <item value="formatted Sql For Filter Date" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="712" />
+        <entry key="RUSSIAN" value="713" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
