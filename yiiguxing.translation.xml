@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Заполняем аукцион лотами и всей сопутствующей информацией. Важно указать дату проведения аукциона и комиссию аукционного дома. После можно будет перевести аукцион в статус READY, нажав кнопку &quot;Publish to bidspirit portal&quot; во вкладке &quot;Catalog&quot;. После следующей синхронизации аукцион и все его лоты станут доступны пользователям сайта." />
+      <item value="во вкладке" />
+      <item value="Аукцион с этим статусом не будет доступен пользователям сайта, его лоты сможет увидеть только администратор сайта." />
+      <item value="Create a new auction in Bidspirit and click on the Publish to bidspirit portal button. The auction we created will receive PENDING status." />
+      <item value="If we just save" />
+      <item value="Создаём новый аукцион в Bidspirit и нажимаем на кнопку Publish to bidspirit portal. Созданный нами аукцион получит статус PENDING. В случае если мы просто сохраним, то аукцион будет иметь статус ARCHIVED и при импорте не попадёт на сайт." />
       <item value="Управление статусами аукционов происходит полностью на стороне Bidspirit System. Изменения на сайте произойдут при следующей синхронизации." />
       <item value="What for you used the plugin" />
       <item value="Сделать изменения полей аукциона на bidspirit, сделать импорт и увидеть отображение новых полей в админке сайта на странице редактирования аукциона" />
@@ -45,23 +51,17 @@
       <item value="$setting" />
       <item value="auction Lots" />
       <item value="lots Auction" />
-      <item value="Язык при импорте" />
-      <item value="Language in import" />
-      <item value="Скрытые лоты в bidspirit будут удалены" />
-      <item value="Удалять скрытые лоты" />
-      <item value="Удалить аукцион и все его лоты" />
-      <item value="Delete auction and attachment lots" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="ENGLISH" value="725" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="721" />
+        <entry key="RUSSIAN" value="726" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
