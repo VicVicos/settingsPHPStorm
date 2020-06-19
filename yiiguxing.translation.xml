@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Хорошо. С гитом у нас проблем нет. А как нам подключиться к тестовой зоне чтобы начать разработку?" />
+      <item value="Get value option type import" />
+      <item value="Получить список исключённых из импорта аукционов" />
+      <item value="Преобразование строкового значения параметра в boolean" />
+      <item value="Get option value by option name" />
+      <item value="Prepare name to file name" />
+      <item value="Render view file" />
+      <item value="Преобразование boolean в строку" />
       <item value="Формирование строки запроса для фильтра по дате" />
       <item value="Формирование условия запроса" />
       <item value="Получить количество строк по передаваемым параметрам" />
@@ -43,25 +51,17 @@
       <item value="Leading bid" />
       <item value="Upcoming auctions" />
       <item value="Please register or login" />
-      <item value="z" />
-      <item value="settings Btn" />
-      <item value="The operation of the option Synchronize Images was supplemented and found a moment that breaks all other import options. The &quot;Delete hidden lots&quot; option redraws the logic of other options. It is necessary to refine the moment that if this option is active, then other options do not get on the access bar." />
-      <item value="Тестировал импорт без активной опции &quot;Delete hidden lots&quot; и проблемы нет, при активации её вся логика работы опций синхронизации не действительна." />
-      <item value="Тестировал импорт без активной опции &quot;Delete hidden lots&quot; и проблемы нет, при активации её вся логика работы опций не действительна." />
-      <item value="Тестировал импорт без активной опции &quot;Delete hidden lots&quot; и проблем нет, при активации её вся логика работы опций не действительна." />
-      <item value="Работу опции Синхронизировать картинки дополнил и нашёл момент что ломает все другие опции импорта. Опция &quot;Delete hidden lots&quot; перечрёкивает логику работы других опций. Надо доработать момент что если эта опция активна, то другие опции не становятся на достпуны." />
-      <item value="Добавлено отображение картинок лотов в админке" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="ENGLISH" value="748" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="743" />
+        <entry key="RUSSIAN" value="749" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
