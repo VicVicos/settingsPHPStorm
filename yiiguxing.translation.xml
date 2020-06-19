@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Сообщение" />
+      <item value="Body message" />
+      <item value="We've just noticed you got your Moodo device(s)! We hope you'll enjoy it very much!" />
+      <item value="So when, and only when there is at least 1 Moodo device in the order, please send a new mail to the customer with custom text we can edit and link to unboxing video, like:" />
+      <item value="After parcel was delivered, we auto-update the status of the order to &quot;delivered&quot;, but no email is being sent.and we need another email to be auto-sent with the following block above the order details:" />
+      <item value="Then, after the warehouse ships the parcel, we auto-update the order with the tracking number and carrier, and change the status to &quot;shipped&quot; (renamed from completed) and customer gets another email with tracking link, like in attached &quot;shipped&quot; image" />
+      <item value="After the successful payment, customer will get an email for the order, like attached &quot;processing&quot; image." />
+      <item value="Please check the unboxing video below to get your Moodo device connected with your mobile application:" />
       <item value="Add Emails into the previewer." />
       <item value="Looking for Structure that looks like this:" />
       <item value="Delivered Note" />
@@ -43,25 +51,17 @@
       <item value="во вкладке" />
       <item value="Аукцион с этим статусом не будет доступен пользователям сайта, его лоты сможет увидеть только администратор сайта." />
       <item value="Create a new auction in Bidspirit and click on the Publish to bidspirit portal button. The auction we created will receive PENDING status." />
-      <item value="If we just save" />
-      <item value="Создаём новый аукцион в Bidspirit и нажимаем на кнопку Publish to bidspirit portal. Созданный нами аукцион получит статус PENDING. В случае если мы просто сохраним, то аукцион будет иметь статус ARCHIVED и при импорте не попадёт на сайт." />
-      <item value="Управление статусами аукционов происходит полностью на стороне Bidspirit System. Изменения на сайте произойдут при следующей синхронизации." />
-      <item value="What for you used the plugin" />
-      <item value="Сделать изменения полей аукциона на bidspirit, сделать импорт и увидеть отображение новых полей в админке сайта на странице редактирования аукциона" />
-      <item value="nicename" />
-      <item value="commission" />
-      <item value="Адрес проведения" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="ENGLISH" value="767" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="759" />
+        <entry key="RUSSIAN" value="768" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
