@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="link to video" />
       <item value="Сообщение" />
       <item value="Body message" />
       <item value="We've just noticed you got your Moodo device(s)! We hope you'll enjoy it very much!" />
@@ -50,12 +51,11 @@
       <item value="Заполняем аукцион лотами и всей сопутствующей информацией. Важно указать дату проведения аукциона и комиссию аукционного дома. После можно будет перевести аукцион в статус READY, нажав кнопку &quot;Publish to bidspirit portal&quot; во вкладке &quot;Catalog&quot;. После следующей синхронизации аукцион и все его лоты станут доступны пользователям сайта." />
       <item value="во вкладке" />
       <item value="Аукцион с этим статусом не будет доступен пользователям сайта, его лоты сможет увидеть только администратор сайта." />
-      <item value="Create a new auction in Bidspirit and click on the Publish to bidspirit portal button. The auction we created will receive PENDING status." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="767" />
+        <entry key="ENGLISH" value="768" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
