@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="tw1.designschool.ru" id="5c733ab0-770a-4a70-899b-3ed013355c76" keyPath="C:\Users\vicos\Documents\webit\putty\designschool.ru.ppk" port="22" customName="designschool_pred_prod" nameFormat="CUSTOM" username="designschool" />
+      <sshConfig authType="PASSWORD" host="vicosb.beget.tech" id="bf16afbb-ad23-4cf8-9b3e-3e05599de790" port="22" nameFormat="DESCRIPTIVE" username="vicosb_moodo" />
     </configs>
   </component>
 </application>
