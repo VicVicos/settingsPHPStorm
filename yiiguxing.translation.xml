@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Изменил описание поля" />
+      <item value="Defaults to mail of the user who placed the order." />
+      <item value="почта пользователя оформившего заказ" />
       <item value="I am using different repo for staging and production, and merge the &quot;master&quot; from development you have access to. If you wish, you can create as many branches you want, but i will use only master to be deployed... Thanks!" />
       <item value="5 minutes. I forgot about this field and it is not used in any way. I'll fix it now." />
       <item value="5 минут. Я зыбыл про это поле и оно ни как не используется. Сейчас исправлю." />
@@ -48,20 +51,17 @@
       <item value="Сообщение" />
       <item value="Body message" />
       <item value="We've just noticed you got your Moodo device(s)! We hope you'll enjoy it very much!" />
-      <item value="So when, and only when there is at least 1 Moodo device in the order, please send a new mail to the customer with custom text we can edit and link to unboxing video, like:" />
-      <item value="After parcel was delivered, we auto-update the status of the order to &quot;delivered&quot;, but no email is being sent.and we need another email to be auto-sent with the following block above the order details:" />
-      <item value="Then, after the warehouse ships the parcel, we auto-update the order with the tracking number and carrier, and change the status to &quot;shipped&quot; (renamed from completed) and customer gets another email with tracking link, like in attached &quot;shipped&quot; image" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="ENGLISH" value="806" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="805" />
+        <entry key="RUSSIAN" value="807" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
