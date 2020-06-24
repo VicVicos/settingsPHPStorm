@@ -39,8 +39,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="formparse" value="var oldForm = document.forms.[$FORMID$],&#10;    formData = new FormData(oldForm),&#10;    dataForm = {}&#10;;&#10;formData.forEach(function (value, index) {&#10;    dataForm[index] = value;&#10;});&#10;&#10;console.log($END$);" description="FormData getAll data" toReformat="false" toShortenFQNames="true">
-    <variable name="FORMID" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="formparse2" value="var forms = document.forms;&#10;&#10;[].forEach.call(forms, function(form, index) {&#10;    if (form.getAttribute('id') === $END$) {&#10;        var oldForm = document.forms[index],&#10;            formData = new FormData(oldForm),&#10;            dataForm = {},&#10;            newDataForm = new FormData()&#10;        ;&#10;        &#10;        formData.forEach(function (value, i) {&#10;            dataForm[i] = value;&#10;        });&#10;        &#10;        console.log(dataForm);&#10;    }&#10;});" description="FormData getAll data by id form" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
