@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="adjacent" />
       <item value="the adjacent post link" />
       <item value="Изменил описание поля" />
       <item value="Defaults to mail of the user who placed the order." />
@@ -50,18 +51,17 @@
       <item value="Delivered Shipping" />
       <item value="link to video" />
       <item value="Сообщение" />
-      <item value="Body message" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="807" />
+        <entry key="ENGLISH" value="808" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="807" />
+        <entry key="RUSSIAN" value="808" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
