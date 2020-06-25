@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Sold" />
+      <item value="self Absentee Bid" />
+      <item value="Ваша ставка в $3,000 оказалась победной" />
+      <item value="Your bid of $3,000 has been outbid by a higher bid" />
       <item value="you Buys" />
       <item value="you Buy" />
       <item value="Sold to you for" />
@@ -19,7 +23,6 @@
       <item value="Returns a string representation of a date. The format of the string depends on the locale." />
       <item value="Your bid has been outbid by an earlier bid" />
       <item value="Ваш высший бид" />
-      <item value="self Absentee Bid" />
       <item value="handle Submit Response" />
       <item value="Something went wrong" />
       <item value="INCOMPLETE PROFILE" />
@@ -48,20 +51,17 @@
       <item value="$author lot" />
       <item value="To attend this auction live or leave absentee bids" />
       <item value="The auction will start in 50 days and 3 hours" />
-      <item value="Добавляем атрибут defer к скриптам" />
-      <item value="Добавляем атрибут preload к файлам стилей" />
-      <item value="Returns the theme's post templates for a given post type." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="ENGLISH" value="833" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="830" />
+        <entry key="RUSSIAN" value="833" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
