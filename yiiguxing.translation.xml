@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="На доработку ранее не учтённых моментов" />
+      <item value="To finalize previously unaccounted for moments" />
+      <item value="На доработка ранее не учтённых моментов" />
       <item value="Select item" />
       <item value="Upcoming auctions" />
       <item value="As a result, it’s not the leader of the bet and guests see the leading bet one step ahead of the previous bet. In short, leadingBid.price does not contain up-to-date information. Additionally, I attach pictures with request responses for different users." />
@@ -48,20 +51,17 @@
       <item value="5 минут. Я зыбыл про это поле и оно ни как не используется. Сейчас исправлю." />
       <item value="If i will leave the Recipient(s) field empty and it will get to the customer - it's perfect! Is there any code fix to be done or just to change the text in the red box i showed in the screenshot? Thanks!" />
       <item value="And I would like to clarify one organizational point. Can I create a separate branch in the repository and work with it, and you would merge the edits from it. I locally merged edits from the master locally." />
-      <item value="И хотелось бы уточнить один организационный момент. Могу ли я создать отдельную ветку в репозитории и работать с ней, а Вы бы сливали правки из неё. Я же локально у себя сливал правки с мастера." />
-      <item value="The Recipients field was by default, now it is not used. Let's do it this way: if you specify email's in this field, separated by a comma, then the notification will come to the indicated addresses. If empty then to the user’s email that completed the order." />
-      <item value="The Recipients field was by default, now it is not used. Let's do it this way: if you specify email's in this field, separated by a comma, then the notification will come to the indicated addresses. If empty, then to the user’s email that completed the order." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="844" />
+        <entry key="ENGLISH" value="845" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="844" />
+        <entry key="RUSSIAN" value="846" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
