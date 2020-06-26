@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="header-simple" />
       <item value="Page auction\'s" />
       <item value="Page auction" />
       <item value="Your bid of $3000 has been outbid by a higher bid" />
@@ -50,18 +51,17 @@
       <item value="please clarify: if Recipient(s) in the settings set to vladi@moodo.co will customer get the email? if yes, how do i unsubscribe myself from this mail... What i want to achieve is: 1) to test the mail with my inbox only 2) after the required changes to switch the recipient to the &quot;user-&gt;billing_email&quot; (and stop receiving it), but only and only after it passes Q/A Please advise... Thanks!" />
       <item value="Email получаем их user billing address, уведомление уходит на этот email. Надо сделать дополнительно что бы уходило и администратору?" />
       <item value="Loading auction items info use items/getItemsInfo api to load items info. this will supply all data needed for viewing and placing absentee bids including: Lots start prices Lots leading bids Self absentee bids Sold lots Favorite items Indication if an auction is live (to enable redirection to bidspirit live auction server) Current live bid" />
-      <item value="Response: an array of stepsInfo where each stepInfo is an array of two integers in the format [fromPrice, stepPrice] . to build possible bid values from the increments step you can look at the initIncrementSteps() function in the working example which is sent to you (in case you didn't get it, please ask for it)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="839" />
+        <entry key="RUSSIAN" value="840" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
