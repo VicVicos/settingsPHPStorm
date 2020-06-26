@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Select item" />
+      <item value="Upcoming auctions" />
       <item value="As a result, it’s not the leader of the bet and guests see the leading bet one step ahead of the previous bet. In short, leadingBid.price does not contain up-to-date information. Additionally, I attach pictures with request responses for different users." />
       <item value="Hello! Found not a big bug associated with the request items/getItemsInfo.api There is no correct information about the leading bid for the lot that comes in the field: leadingBid.price. selfAbsenteeBid.price comes for the authorized user and the leader of the bet, and there is already relevant information about the leading bid for the leader himself. The problem arises if the user leaves the bet a few steps forward. As a result, it’s not the leader of the bet and guests see the leading bet one step ahead of the previous bet. In short, leadingBid.price does not contain up-to-date information. Additionally, I attach pictures with request responses for different users." />
       <item value="Здравствуйте! Обнаружили не большой баг связанный с запросом items/getItemsInfo Нет корректной информации о лидирующей ставке для лота которая приходит в поле: leadingBid.price. Для авторизованного пользователя и лидера ставки приходит selfAbsenteeBid.price и тут уже актуальная информация о лидирующей ставке для самого лидера. Проблема возникает если пользователь оставляет ставку на несколько шагов вперёд. В итоге не лидер ставки и гости видят лидирующую ставку на один шаг вперёд относите прошлой ставки. Если в коротко то, leadingBid.price содержит не совсем актуальную информацию. Дополнительно прикладываю картинки с ответами запроса для разных пользователей." />
@@ -49,19 +51,17 @@
       <item value="И хотелось бы уточнить один организационный момент. Могу ли я создать отдельную ветку в репозитории и работать с ней, а Вы бы сливали правки из неё. Я же локально у себя сливал правки с мастера." />
       <item value="The Recipients field was by default, now it is not used. Let's do it this way: if you specify email's in this field, separated by a comma, then the notification will come to the indicated addresses. If empty then to the user’s email that completed the order." />
       <item value="The Recipients field was by default, now it is not used. Let's do it this way: if you specify email's in this field, separated by a comma, then the notification will come to the indicated addresses. If empty, then to the user’s email that completed the order." />
-      <item value="The Recipients field was by default, now it is not used. Let's do it this way: if you specify email's in this floor, separated by a comma, then the notification will come to the indicated addresses. If empty, then to the user’s email that completed the order." />
-      <item value="Поле Получатели по умолчанию было, сейчас оно не используется. Давайте сделаем так: если в этом полу указать email's через запятую, то уведомление будет приходить по указанным адресам. Если пусто, то на email пользователя что осуществил заказ." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="ENGLISH" value="844" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="842" />
+        <entry key="RUSSIAN" value="844" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
