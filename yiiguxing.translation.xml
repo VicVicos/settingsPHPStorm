@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Определяет будут ли картинки синхронизироваться с системой bidspirit" />
+      <item value="Определяет будут ли дополнительные поля синхронизироваться с системой bidspirit" />
+      <item value="Определяет будут ли описания лотов синхронизироваться с системой bidspirit" />
+      <item value="Determines whether lot headers will be synchronized with the bidspirit system" />
+      <item value="Определяет будут ли заголовки лотов синхронизироваться с системой bidspirit" />
+      <item value="Настройка" />
+      <item value="Image 5 - New item menu" />
+      <item value="After activating the plugin, we will have a new menu item in the administrative part of the site (Image 5)." />
+      <item value="После активации плагина у нас появится новый пункт меню в административной части сайта (Изображение 5)." />
+      <item value="После активации плагина у нас появится новый пункт меню в административной части сайта (Изображение 1)." />
+      <item value="Expected result is: [What is expected result]" />
+      <item value="Для того, чтобы иметь возможность установить плагин, пользователь должен быть авторизованным пользователем с правами администратора. Алгоритм: В административной части сайта переходим в меню &quot;Plugins&quot; (изображение 1) и выбираем &quot;Add New&quot; (изображение 2). После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot; (изображение 3), выбираем архив с нужным плагином и нажимаем &quot;Install Now&quot;. В случае успешной установки получим соответствующее уведомление (изображение 4). После остаётся активировать плагин и настроить его." />
+      <item value="In order to be able to install the plugin, the user must be an authorized user with administrator rights. Algorithm: In the administrative part of the site, go to the &quot;Plugins&quot; menu (image 1) and select &quot;Add New&quot; (image 2). After that, click &quot;Upload Plugins&quot; - &quot;Browse&quot; (image 3), select the archive with the desired plugin and click &quot;Install Now&quot;. In the event of a successful installation, we will receive a notification (image 4)." />
+      <item value="Для того, чтобы иметь возможность установить плагин, пользователь должен быть авторизованным пользователем с правами администратора. Алгоритм: В административной части сайта переходим в меню &quot;Plugins&quot; (изображение 1) и выбираем &quot;Add New&quot; (изображение 2). После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot; (изображение 3), выбираем архив с нужным плагином и нажимаем &quot;Install Now&quot;. В случае успешной установки получим соответствующее уведомление (изображение 4)." />
+      <item value="In order to be able to install the plugin, the user must be an authorized user with administrator rights. Algorithm: In the administrative part of the site, go to the &quot;Plugins&quot; menu (image 1) and select &quot;Add New&quot; (image 2). After that, click &quot;Upload Plugins&quot; - &quot;Browse&quot; (image 3) and select the archive with the desired plugin." />
+      <item value="Для того, чтобы иметь возможность установить плагин, пользователь должен быть авторизованным пользователем с правами администратора. Алгоритм: В административной части сайта переходим в меню &quot;Plugins&quot; (изображение 1) и выбираем &quot;Add New&quot; (изображение 2). После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot; (изображение 3) и выбираем архив с нужным плагином." />
+      <item value="The plugin installation process is standard as for all other WordPress plugins. In the administrative part of the site, you must be an authorized user with administrator rights, go to the &quot;Plugins&quot; menu, image 1, and select &quot;Add New&quot;, image 2. After that, click &quot;Upload Plugins&quot; - &quot;Browse&quot;, image 3. And select the archive with our plugin." />
+      <item value="Процесс установки плагина проходит стандартно как для всех других плагинов на WordPress. В административной части сайта, надо быть авторизованным пользователем с правами администратора, переходим в меню &quot;Plugins&quot;, изображение 1, и выбираем &quot;Add New&quot;, изображение 2. После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot;, изображение 3. И выбираем архив с нашим плагином." />
+      <item value="Данный плагин предназначен для интеграции функционала аукционного дома bidspirit с вашим сайтом на CMS WordPress." />
+      <item value="Process: Installation" />
+      <item value="Explain in 2-3 lines what this module for" />
+      <item value="Purpose The purpose of this document is to explain how to use new module." />
+      <item value="Approvals" />
       <item value="Check your mail to complete the registration and be able to participate in auctions" />
       <item value="Проверьте свою почту чтобы завершить регистрацию и иметь возможность участвовать в аукционах" />
       <item value="Register finished" />
@@ -28,40 +51,17 @@
       <item value="Reliability Rating on New Code" />
       <item value="agree Bid" />
       <item value="primal" />
-      <item value="I don't Agree" />
-      <item value="Number lot's" />
-      <item value="Name lot's" />
-      <item value="Name lot" />
-      <item value="Your bid:" />
-      <item value="modal title without-logo" />
-      <item value="You lider" />
-      <item value="Highest bid:" />
-      <item value="Returns a string representation of a date. The format of the string depends on the locale." />
-      <item value="Your bid has been outbid by an earlier bid" />
-      <item value="Ваш высший бид" />
-      <item value="handle Submit Response" />
-      <item value="Something went wrong" />
-      <item value="INCOMPLETE PROFILE" />
-      <item value="You are not approved to place absentee bids" />
-      <item value="sold Bid" />
-      <item value="adjacent" />
-      <item value="the adjacent post link" />
-      <item value="Изменил описание поля" />
-      <item value="Defaults to mail of the user who placed the order." />
-      <item value="почта пользователя оформившего заказ" />
-      <item value="I am using different repo for staging and production, and merge the &quot;master&quot; from development you have access to. If you wish, you can create as many branches you want, but i will use only master to be deployed... Thanks!" />
-      <item value="5 minutes. I forgot about this field and it is not used in any way. I'll fix it now." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="ENGLISH" value="863" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="847" />
+        <entry key="RUSSIAN" value="864" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
