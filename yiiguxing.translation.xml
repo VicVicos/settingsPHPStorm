@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Page synchronization history bidspirit" />
+      <item value="Page history synchronization bidspirit" />
+      <item value="Image 1 - Page history bidspirit" />
+      <item value="Image 1 - Page history bidspirit plugin" />
+      <item value="Go to the History page of the Bidspirit plugin. On this page (Figure 1), data on past imports will be displayed." />
+      <item value="We’ll go to the History page of the Bidspirit plugin. On this page (Figure 1), data on past imports will be displayed." />
+      <item value="Перейдём на страницу &quot;История&quot; плагина Bidspirit. На этой странице (картинка 1) будут отображены данные о прошедших импортах." />
+      <item value="Sinchronization" />
+      <item value="Идентификаторы аукционов которые не будут синхронизироваться, в системе bidspirit представлены как &quot;Auction Number&quot; отображено на картинке 3. На сайте это поле slug аукциона, отображено на картинке 4." />
+      <item value="Язык синхронизации по умолчанию." />
+      <item value="Sync type - Determines the status of lots during synchronization. Auto: The statuses of all lots will be according to the settings in bidspirit (Recommended). Publish: All lots will have the status &quot;Publish&quot;, regardless of their bidspirit settings. Draft: All lots will be published with the status of &quot;Draft&quot;." />
+      <item value="Sync type - Определяет статусы лотов при синхронизации. Auto: Статусы всех лотов будут согласно настройкам в bidspirit (Рекомендуется). Publish: Все лоты будут иметь статус &quot;Publish&quot;, вне зависимости от их настроек bidspirit. Draft: Все лоты будут публиковаться со статусом &quot;Draft&quot;." />
+      <item value="Field auction slug in site Wordpress" />
+      <item value="Field slug auction in site Wordpress" />
+      <item value="Field slug in site Wordpress" />
+      <item value="Auction number field in bidspirit system" />
       <item value="Select import language" />
       <item value="Optional fields" />
       <item value="Настройка не обязательных полей: Все необязательные поля представлены на изображении 2." />
@@ -35,39 +51,24 @@
       <item value="Register finished" />
       <item value="На доработку ранее не учтённых моментов" />
       <item value="To finalize previously unaccounted for moments" />
-      <item value="На доработка ранее не учтённых моментов" />
-      <item value="Select item" />
-      <item value="Upcoming auctions" />
-      <item value="As a result, it’s not the leader of the bet and guests see the leading bet one step ahead of the previous bet. In short, leadingBid.price does not contain up-to-date information. Additionally, I attach pictures with request responses for different users." />
-      <item value="Hello! Found not a big bug associated with the request items/getItemsInfo.api There is no correct information about the leading bid for the lot that comes in the field: leadingBid.price. selfAbsenteeBid.price comes for the authorized user and the leader of the bet, and there is already relevant information about the leading bid for the leader himself. The problem arises if the user leaves the bet a few steps forward. As a result, it’s not the leader of the bet and guests see the leading bet one step ahead of the previous bet. In short, leadingBid.price does not contain up-to-date information. Additionally, I attach pictures with request responses for different users." />
-      <item value="Здравствуйте! Обнаружили не большой баг связанный с запросом items/getItemsInfo Нет корректной информации о лидирующей ставке для лота которая приходит в поле: leadingBid.price. Для авторизованного пользователя и лидера ставки приходит selfAbsenteeBid.price и тут уже актуальная информация о лидирующей ставке для самого лидера. Проблема возникает если пользователь оставляет ставку на несколько шагов вперёд. В итоге не лидер ставки и гости видят лидирующую ставку на один шаг вперёд относите прошлой ставки. Если в коротко то, leadingBid.price содержит не совсем актуальную информацию. Дополнительно прикладываю картинки с ответами запроса для разных пользователей." />
-      <item value="header-simple" />
-      <item value="Page auction\'s" />
-      <item value="Page auction" />
-      <item value="Your bid of $3000 has been outbid by a higher bid" />
-      <item value="currency" />
-      <item value="self Absentee Bid" />
-      <item value="is Sold" />
-      <item value="Ваша ставка в $3,000 оказалась победной" />
-      <item value="Your bid of $3,000 has been outbid by a higher bid" />
-      <item value="you Buys" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="ENGLISH" value="883" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="869" />
+        <entry key="RUSSIAN" value="883" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="KURDISH" value="1" />
+        <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MACEDONIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
