@@ -1,6 +1,39 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="don't load directly" />
+      <item value="Sample command code" />
+      <item value="Примерные коды команд:" />
+      <item value="For automatic synchronization, send a request to the technical support of the hosting or to the administrator of your server so that they perform the following steps. Add sheduled tasks (cron) to run two files from the plugin in the specified sequence with an interval of 1 hour, with a frequency of once a day at night." />
+      <item value="Для автоматической синхронизации отправьте запрос в технической поддержке хостинга или администратору Вашего сервера что бы они выполнили следующие действия. Добавить sheduled tasks (cron) на запуск два файла из плагина в заданной последовательности с интервалом 1 час, с периодичностью один раз в сутки в ночное время." />
+      <item value="For automatic synchronization, send a request to those. support for the hosting or the administrator of your server so that they perform the following steps. Add sheduled tasks (cron) to run two files from the plugin in the specified sequence with an interval of 1 hour, with a frequency of once a day at night." />
+      <item value="Для автоматической синхронизации отправьте запрос в тех. поддержку хостинга или администратору Вашего сервера что бы они выполнили следующие действия. Добавить sheduled tasks (cron) на запуск два файла из плагина в заданной последовательности с интервалом 1 час, с периодичностью один раз в сутки в ночное время." />
+      <item value="sheduled tasks" />
+      <item value="Как автоматизировать процесс, было описано ранее." />
+      <item value="We have access to the &quot;Sync Now&quot; button which will start the import process in manual mode. How to automate the process will be described later. After clicking on the &quot;Sync Now&quot; button, we will be greeted by a notification (Figure 2) and will offer to start importing. We agree and wait for the completion of the first stage of import. The essence of the first stage of import is to get data from bidspirit, this information will be displayed on the &quot;History&quot; page with the status of &quot;new&quot;." />
+      <item value="Registration and authorization can be completed by filling out one of the appropriate forms." />
+      <item value="Регистрацию и авторизацию можно пройти заполнив одну из соответствующих форм." />
+      <item value="3 type: Lot page. Here you can leave the preliminary bids per lot." />
+      <item value="3 тип: Страница лота. Здесь можно будет оставить предварительные ставки на лот." />
+      <item value="Type 2: Auction page, depending on the status of the auction, different functions are available on them." />
+      <item value="2 тип: Страница аукциона, в зависимости от статуса аукциона на них доступны разные функции." />
+      <item value="1 type: List of auctions, active and archive, previously we created separate pages for them, to display which we need to add them to the site menu." />
+      <item value="1 type: List of auctions, active and archive auctions, previously we created separate pages for them, to display which we need to add them to the site menu." />
+      <item value="1 тип: Список аукционов, активные и архивные аукционы, ранее мы создавали для них отдельные страницы, для отображения которых надо добавить их в меню сайта." />
+      <item value="There are 3 types of auction pages available for user interaction." />
+      <item value="Для взаимодействия пользователей доступны 3 типа страниц с аукционами." />
+      <item value="In order for the user to interact with the auction, he must be registered in the bidspirit system and confirm his email by clicking on the link that will come to his e-mail specified during registration, then he will be able to log in and get full access to the bidspirit system functionality." />
+      <item value="Что бы пользователь мог взаимодействовать с аукционом он должен быть зарегистрирован в системе bidspirit и подтвердить свой email перейдя по ссылке что придёт ему на почту указанной при регистрации, после он сможет авторизоваться и получит полный доступ к функционалу системы bidspirit." />
+      <item value="In order for the user to interact with the auction, he must be registered in the bidspirit system and confirm his email by the link that will come to his e-mail specified during registration, after that he will be able to log in and get full access to the bidspirit system functionality. There are 3 types of auction pages available for user interaction. 1 type: List of auctions, active and archive auctions, previously we created separate pages for them, to display which we need to add them to the site menu. Type 2: Auction page, depending on the status of the auction, different functions are available on them. 3 type: Lot page. Here you can leave the preliminary bids per lot. When the auction starts, a button will appear on the page of the corresponding auction and its lots to go to the bidspirit website where the auction will be held." />
+      <item value="Что бы пользователь мог взаимодействовать с аукционом он должен быть зарегистрирован в системе bidspirit и подтвердить свой email по ссылке что придёт ему на почту указанной при регистрации, после он сможет авторизоваться и получит полный доступ к функционалу системы bidspirit. Для взаимодействия пользователей доступны 3 типа страниц с аукционами. 1 тип: Список аукционов, активные и архивные аукционы, ранее мы создавали для них отдельные страницы, для отображения которых надо добавить их в меню сайта. 2 тип: Страница аукциона, в зависимости от статуса аукциона на них доступны разные функции. 3 тип: Страница лота. Здесь можно будет оставить предварительные ставки на лот. Когда аукцион начнётся, на странице соответствующего аукциона и его лотах появится кнопка перейти на сайт bidspirit где будут проходить торги." />
+      <item value="Взаимодействие пользователей" />
+      <item value="If import is successfully completed on the &quot;History&quot; page, records that previously had the status of &quot;new&quot; will be replaced by the status of &quot;finished&quot;. If at some of the stages an error occurs, the type of error will be displayed in the corresponding field." />
+      <item value="В случае успешного завершения импорта на странице &quot;History&quot; записи что ранее имели статус &quot;new&quot; сменятся на статус &quot;finished&quot;. В случае если на каком то из этапов произойдёт ошибка тип ошибки будет отображён в соответствующем поле." />
+      <item value="Начало второго этапа синхронизации" />
+      <item value="After that you can proceed to the second stage of synchronization (picture 3). We agree, are waiting and the import process is completed. Now all auctions and their lots will be displayed on the site." />
+      <item value="After that you can proceed to the second stage of synchronization (picture 3). We agree, we are waiting and the import process is completed. Now all auctions and their lots will be displayed on the site." />
+      <item value="После можно приступить ко второму этапу синхронизации (картинка 3). Соглашаемся, ждём и процесс импорта завершён. Теперь все аукционы и принадлежащие им лоты будут отображены на сайте." />
+      <item value="Нам доступна кнопка &quot;Sync Now&quot; которая запустит процесс импорта в ручном режиме. Как автоматизировать процесс будет рассказано далее. После нажатия на кнопку &quot;Sync Now&quot; нас встретит уведомление (Картинка 2) и предложит начать импорт. Соглашаемся и ждём завершения первой стадии импорта. Суть первой стадии импорта заключается в том чтобы получить данные с bidspirit, эта информация будет отображена на странице &quot;History&quot; со статусом &quot;new&quot;." />
       <item value="Page synchronization history bidspirit" />
       <item value="Page history synchronization bidspirit" />
       <item value="Image 1 - Page history bidspirit" />
@@ -18,50 +51,17 @@
       <item value="Field slug in site Wordpress" />
       <item value="Auction number field in bidspirit system" />
       <item value="Select import language" />
-      <item value="Optional fields" />
-      <item value="Настройка не обязательных полей: Все необязательные поля представлены на изображении 2." />
-      <item value="Determines whether lot headers will be synchronized with the bidspirit system" />
-      <item value="Required settings:" />
-      <item value="Mandatory settings:" />
-      <item value="Предварительно надо создать две страницы для отображения активных и архивных аукционов. После переходим на страницу &quot;Settings&quot; плагина Bidspirit (Изображение 1). Перед нами открывается страница с доступными настройками, те что отмечены символом &quot;*&quot; являются обязательными. 1) Обязательные настройки: a) Server. Укажите здесь url вашего аукционного дома зарегистрированного в системе bidspirit. b) Page auction's. Укажите здесь, ранее созданную, страницу для отображения активных аукционов. с) Page archive auction's. Укажите здесь, ранее созданную, страницу для отображения архивных аукционов." />
-      <item value="Определяет будут ли картинки синхронизироваться с системой bidspirit" />
-      <item value="Определяет будут ли дополнительные поля синхронизироваться с системой bidspirit" />
-      <item value="Определяет будут ли описания лотов синхронизироваться с системой bidspirit" />
-      <item value="Определяет будут ли заголовки лотов синхронизироваться с системой bidspirit" />
-      <item value="Настройка" />
-      <item value="Image 5 - New item menu" />
-      <item value="After activating the plugin, we will have a new menu item in the administrative part of the site (Image 5)." />
-      <item value="После активации плагина у нас появится новый пункт меню в административной части сайта (Изображение 5)." />
-      <item value="После активации плагина у нас появится новый пункт меню в административной части сайта (Изображение 1)." />
-      <item value="Expected result is: [What is expected result]" />
-      <item value="Для того, чтобы иметь возможность установить плагин, пользователь должен быть авторизованным пользователем с правами администратора. Алгоритм: В административной части сайта переходим в меню &quot;Plugins&quot; (изображение 1) и выбираем &quot;Add New&quot; (изображение 2). После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot; (изображение 3), выбираем архив с нужным плагином и нажимаем &quot;Install Now&quot;. В случае успешной установки получим соответствующее уведомление (изображение 4). После остаётся активировать плагин и настроить его." />
-      <item value="In order to be able to install the plugin, the user must be an authorized user with administrator rights. Algorithm: In the administrative part of the site, go to the &quot;Plugins&quot; menu (image 1) and select &quot;Add New&quot; (image 2). After that, click &quot;Upload Plugins&quot; - &quot;Browse&quot; (image 3), select the archive with the desired plugin and click &quot;Install Now&quot;. In the event of a successful installation, we will receive a notification (image 4)." />
-      <item value="Для того, чтобы иметь возможность установить плагин, пользователь должен быть авторизованным пользователем с правами администратора. Алгоритм: В административной части сайта переходим в меню &quot;Plugins&quot; (изображение 1) и выбираем &quot;Add New&quot; (изображение 2). После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot; (изображение 3), выбираем архив с нужным плагином и нажимаем &quot;Install Now&quot;. В случае успешной установки получим соответствующее уведомление (изображение 4)." />
-      <item value="In order to be able to install the plugin, the user must be an authorized user with administrator rights. Algorithm: In the administrative part of the site, go to the &quot;Plugins&quot; menu (image 1) and select &quot;Add New&quot; (image 2). After that, click &quot;Upload Plugins&quot; - &quot;Browse&quot; (image 3) and select the archive with the desired plugin." />
-      <item value="Для того, чтобы иметь возможность установить плагин, пользователь должен быть авторизованным пользователем с правами администратора. Алгоритм: В административной части сайта переходим в меню &quot;Plugins&quot; (изображение 1) и выбираем &quot;Add New&quot; (изображение 2). После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot; (изображение 3) и выбираем архив с нужным плагином." />
-      <item value="The plugin installation process is standard as for all other WordPress plugins. In the administrative part of the site, you must be an authorized user with administrator rights, go to the &quot;Plugins&quot; menu, image 1, and select &quot;Add New&quot;, image 2. After that, click &quot;Upload Plugins&quot; - &quot;Browse&quot;, image 3. And select the archive with our plugin." />
-      <item value="Процесс установки плагина проходит стандартно как для всех других плагинов на WordPress. В административной части сайта, надо быть авторизованным пользователем с правами администратора, переходим в меню &quot;Plugins&quot;, изображение 1, и выбираем &quot;Add New&quot;, изображение 2. После нажимаем &quot;Upload Plugins&quot; - &quot;Browse&quot;, изображение 3. И выбираем архив с нашим плагином." />
-      <item value="Данный плагин предназначен для интеграции функционала аукционного дома bidspirit с вашим сайтом на CMS WordPress." />
-      <item value="Process: Installation" />
-      <item value="Explain in 2-3 lines what this module for" />
-      <item value="Purpose The purpose of this document is to explain how to use new module." />
-      <item value="Approvals" />
-      <item value="Check your mail to complete the registration and be able to participate in auctions" />
-      <item value="Проверьте свою почту чтобы завершить регистрацию и иметь возможность участвовать в аукционах" />
-      <item value="Register finished" />
-      <item value="На доработку ранее не учтённых моментов" />
-      <item value="To finalize previously unaccounted for moments" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="883" />
+        <entry key="ENGLISH" value="904" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="883" />
+        <entry key="RUSSIAN" value="904" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
