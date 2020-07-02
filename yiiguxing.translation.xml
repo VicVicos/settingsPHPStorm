@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Surname" />
       <item value="טלפון" />
       <item value="cover" />
       <item value="How many News to display?" />
@@ -50,18 +51,17 @@
       <item value="If import is successfully completed on the &quot;History&quot; page, records that previously had the status of &quot;new&quot; will be replaced by the status of &quot;finished&quot;. If at some of the stages an error occurs, the type of error will be displayed in the corresponding field." />
       <item value="В случае успешного завершения импорта на странице &quot;History&quot; записи что ранее имели статус &quot;new&quot; сменятся на статус &quot;finished&quot;. В случае если на каком то из этапов произойдёт ошибка тип ошибки будет отображён в соответствующем поле." />
       <item value="Начало второго этапа синхронизации" />
-      <item value="After that you can proceed to the second stage of synchronization (picture 3). We agree, are waiting and the import process is completed. Now all auctions and their lots will be displayed on the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="924" />
+        <entry key="ENGLISH" value="925" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="924" />
+        <entry key="RUSSIAN" value="925" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
