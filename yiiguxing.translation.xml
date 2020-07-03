@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INCOMPLETE PROFILE" />
       <item value="Problems to form send to phones" />
       <item value="Problems to form send to mobile" />
       <item value="Problems to form send on mobile" />
@@ -50,18 +51,17 @@
       <item value="In order for the user to interact with the auction, he must be registered in the bidspirit system and confirm his email by clicking on the link that will come to his e-mail specified during registration, then he will be able to log in and get full access to the bidspirit system functionality." />
       <item value="Что бы пользователь мог взаимодействовать с аукционом он должен быть зарегистрирован в системе bidspirit и подтвердить свой email перейдя по ссылке что придёт ему на почту указанной при регистрации, после он сможет авторизоваться и получит полный доступ к функционалу системы bidspirit." />
       <item value="In order for the user to interact with the auction, he must be registered in the bidspirit system and confirm his email by the link that will come to his e-mail specified during registration, after that he will be able to log in and get full access to the bidspirit system functionality. There are 3 types of auction pages available for user interaction. 1 type: List of auctions, active and archive auctions, previously we created separate pages for them, to display which we need to add them to the site menu. Type 2: Auction page, depending on the status of the auction, different functions are available on them. 3 type: Lot page. Here you can leave the preliminary bids per lot. When the auction starts, a button will appear on the page of the corresponding auction and its lots to go to the bidspirit website where the auction will be held." />
-      <item value="Что бы пользователь мог взаимодействовать с аукционом он должен быть зарегистрирован в системе bidspirit и подтвердить свой email по ссылке что придёт ему на почту указанной при регистрации, после он сможет авторизоваться и получит полный доступ к функционалу системы bidspirit. Для взаимодействия пользователей доступны 3 типа страниц с аукционами. 1 тип: Список аукционов, активные и архивные аукционы, ранее мы создавали для них отдельные страницы, для отображения которых надо добавить их в меню сайта. 2 тип: Страница аукциона, в зависимости от статуса аукциона на них доступны разные функции. 3 тип: Страница лота. Здесь можно будет оставить предварительные ставки на лот. Когда аукцион начнётся, на странице соответствующего аукциона и его лотах появится кнопка перейти на сайт bidspirit где будут проходить торги." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="929" />
+        <entry key="ENGLISH" value="930" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="929" />
+        <entry key="RUSSIAN" value="930" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
