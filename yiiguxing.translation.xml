@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hi, Please tell me or create an endpoint in wordpress, so i could send a request with payload including html (for example: Here is your invoice: &lt;a href=&quot;https://link.moodo.co/invoice/?h=XrKZUK_vogsHS1Qy&amp;u=4h7ija8XQud5wEJVTv&quot;&gt;DOWNLOAD&lt;/a&gt; ) As a result, WooCommerce should send a mail to customer with custom text along with order details, like it does today with tracking number. Please estimate the work before begin and let me know for approval." />
       <item value="Please complete your details" />
       <item value="Изменения сохранены" />
       <item value="INCOMPLETE PROFILE" />
@@ -50,18 +51,17 @@
       <item value="1 тип: Список аукционов, активные и архивные аукционы, ранее мы создавали для них отдельные страницы, для отображения которых надо добавить их в меню сайта." />
       <item value="There are 3 types of auction pages available for user interaction." />
       <item value="Для взаимодействия пользователей доступны 3 типа страниц с аукционами." />
-      <item value="In order for the user to interact with the auction, he must be registered in the bidspirit system and confirm his email by clicking on the link that will come to his e-mail specified during registration, then he will be able to log in and get full access to the bidspirit system functionality." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="ENGLISH" value="932" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="931" />
+        <entry key="RUSSIAN" value="932" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
