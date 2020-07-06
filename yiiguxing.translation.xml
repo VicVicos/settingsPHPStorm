@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do linker" />
       <item value="Requirements for the request: Must be in json format with all the information you want to transfer. orderId: order id, message: content, and more." />
       <item value="Требования к запросу: Должен быть в json формате со всей информация которую хотите передавать. orderId: id заказа, message: контент, и прочее." />
       <item value="Please tell me or create an endpoint in wordpress, so i could send a request with payload including html ( for example: Here is your invoice: &lt;a href=&quot;https://link.moodo.co/invoice/?h=XrKZUK_vogsHS1Qy&amp;u=4h7ija8XQud5wEJVTv&quot;&gt;DOWNLOAD&lt;/a&gt; ) As a result, WooCommerce should send a mail to customer with custom text along with order details, like it does today with tracking number. Please estimate the work before begin and let me know for approval." />
@@ -50,18 +51,17 @@
       <item value="Type 2: Auction page, depending on the status of the auction, different functions are available on them." />
       <item value="2 тип: Страница аукциона, в зависимости от статуса аукциона на них доступны разные функции." />
       <item value="1 type: List of auctions, active and archive, previously we created separate pages for them, to display which we need to add them to the site menu." />
-      <item value="1 type: List of auctions, active and archive auctions, previously we created separate pages for them, to display which we need to add them to the site menu." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="936" />
+        <entry key="ENGLISH" value="937" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="936" />
+        <entry key="RUSSIAN" value="937" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
