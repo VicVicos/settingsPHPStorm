@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comma" />
       <item value="Black Lives Matter" />
       <item value="sold" />
       <item value="badge soldLot" />
@@ -50,7 +51,6 @@
       <item value="Для автоматической синхронизации отправьте запрос в технической поддержке хостинга или администратору Вашего сервера что бы они выполнили следующие действия. Добавить sheduled tasks (cron) на запуск два файла из плагина в заданной последовательности с интервалом 1 час, с периодичностью один раз в сутки в ночное время." />
       <item value="For automatic synchronization, send a request to those. support for the hosting or the administrator of your server so that they perform the following steps. Add sheduled tasks (cron) to run two files from the plugin in the specified sequence with an interval of 1 hour, with a frequency of once a day at night." />
       <item value="Для автоматической синхронизации отправьте запрос в тех. поддержку хостинга или администратору Вашего сервера что бы они выполнили следующие действия. Добавить sheduled tasks (cron) на запуск два файла из плагина в заданной последовательности с интервалом 1 час, с периодичностью один раз в сутки в ночное время." />
-      <item value="sheduled tasks" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="945" />
+        <entry key="RUSSIAN" value="946" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
@@ -78,6 +78,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="HEBREW" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="2" />
       </map>
