@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sold" />
       <item value="badge soldLot" />
       <item value="Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for." />
       <item value="Confirm Password" />
@@ -50,18 +51,17 @@
       <item value="Для автоматической синхронизации отправьте запрос в тех. поддержку хостинга или администратору Вашего сервера что бы они выполнили следующие действия. Добавить sheduled tasks (cron) на запуск два файла из плагина в заданной последовательности с интервалом 1 час, с периодичностью один раз в сутки в ночное время." />
       <item value="sheduled tasks" />
       <item value="Как автоматизировать процесс, было описано ранее." />
-      <item value="We have access to the &quot;Sync Now&quot; button which will start the import process in manual mode. How to automate the process will be described later. After clicking on the &quot;Sync Now&quot; button, we will be greeted by a notification (Figure 2) and will offer to start importing. We agree and wait for the completion of the first stage of import. The essence of the first stage of import is to get data from bidspirit, this information will be displayed on the &quot;History&quot; page with the status of &quot;new&quot;." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="943" />
+        <entry key="ENGLISH" value="944" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="943" />
+        <entry key="RUSSIAN" value="944" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
