@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Confirm Password" />
       <item value="winnings" />
       <item value="Возможно ваш аккаунт был авторизован ранее" />
       <item value="Ошибка запроса" />
@@ -50,18 +51,17 @@
       <item value="We have access to the &quot;Sync Now&quot; button which will start the import process in manual mode. How to automate the process will be described later. After clicking on the &quot;Sync Now&quot; button, we will be greeted by a notification (Figure 2) and will offer to start importing. We agree and wait for the completion of the first stage of import. The essence of the first stage of import is to get data from bidspirit, this information will be displayed on the &quot;History&quot; page with the status of &quot;new&quot;." />
       <item value="Registration and authorization can be completed by filling out one of the appropriate forms." />
       <item value="Регистрацию и авторизацию можно пройти заполнив одну из соответствующих форм." />
-      <item value="3 type: Lot page. Here you can leave the preliminary bids per lot." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="ENGLISH" value="941" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="940" />
+        <entry key="RUSSIAN" value="941" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
