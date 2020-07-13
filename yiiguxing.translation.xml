@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="השאירו כאן פרטים או התקשרו אלינו עכשיו לטלפון:" />
       <item value="Hello! So why not rule out steps 4,000 and 4,200 for the next user? And immediately display for him the maximum bid of 4400. In the end, it's up to you. It seemed to me a mistake." />
       <item value="Здравствуйте! Так а почему бы не исключить для следующего пользователя шаги в 4000 и 4200? И сразу отобразить для него максимальную ставку в 4400. В итоге решать Вам. Мне показалось это ошибкой." />
       <item value="Hello! So why not rule out steps 4,000 and 4,200 for the next user? And immediately display for him the maximum bid of 4400. As a result, it is up to you to decide, it seemed to me a mistake." />
@@ -50,7 +51,6 @@
       <item value="Please estimate the following task before starting: We need to create RMA process, like follows: 1) Customer purchases broken item with order number: 12345 2) Creates a ticket in ZenDesk and asks for replacement 3a) We send the customer return labels to ship the item to our warehouse 3b) We send the customer reference number so he could go into the distributor's store and then give them this number (so they could verify its validity) and once this number will be correct, item will be replaced with a new one. 3c) We ship a new item with a delivery person, who takes the broken item back 4) New item should be a NEW order, but with relation to the OLD one. Please feel free to ask questions" />
       <item value="Hi, Please estimate the following task before starting: We need to create RMA process, like follows: 1) Customer purchases broken item with order number: 12345 2) Creates a ticket in ZenDesk and asks for replacement 3a) We send the customer return labels to ship the item to our warehouse 3b) We send the customer reference number so he could go into the distributor's store and then give them this number (so they could verify its validity) and once this number will be correct, item will be replaced with a new one. 3c) We ship a new item with a delivery person, who takes the broken item back 4) New item should be a NEW order, but with relation to the OLD one. Please feel free to ask questions" />
       <item value="One of the values to compare" />
-      <item value="View Homepage Lot" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="2" />
+        <entry key="HEBREW" value="3" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="2" />
