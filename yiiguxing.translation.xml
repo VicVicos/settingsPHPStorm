@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="some kind of hash with &quot;RMA&quot; and &quot;Zendesk Ticket number&quot;" />
+      <item value="2) Also coupon should also have all 3 fields and once coupon is used in checkout, it should add automatically them to order too" />
+      <item value="1) It could be just new 3 meta fields for each order, like:" />
+      <item value="1) Customer purchases broken item with order number: 12345 2) Creates a ticket in ZenDesk and asks for replacement 3a) We send the customer return labels to ship the item to our warehouse 3b) We send the customer reference number so he could go into the distributor's store and then give them this number (so they could verify its validity) and once this number will be correct, item will be replaced with a new one. 3c) We ship a new item with a delivery person, who takes the broken item back 4) New item should be a NEW order, but with relation to the OLD one." />
+      <item value="We need to create RMA process, like follows:" />
+      <item value="Please estimate the following task before starting:" />
+      <item value="to ask questions" />
+      <item value="feel free" />
+      <item value="Please feel free to ask questions" />
       <item value="We get data from Bidspirit and added it to sync table." />
       <item value="Do you want to update site now?" />
       <item value="You won't be able to revert this!" />
@@ -9,7 +18,6 @@
       <item value="Search Categories" />
       <item value="Search Auctions" />
       <item value="Search Category\'s" />
-      <item value="Please feel free to ask questions" />
       <item value="We need to create RMA process, like follows: 1) Customer purchases broken item with order number: 12345 2) Creates a ticket in ZenDesk and asks for replacement 3a) We send the customer return labels to ship the item to our warehouse 3b) We send the customer reference number so he could go into the distributor's store and then give them this number (so they could verify its validity) and once this number will be correct, item will be replaced with a new one. 3c) We ship a new item with a delivery person, who takes the broken item back 4) New item should be a NEW order, but with relation to the OLD one. Please feel free to ask questions" />
       <item value="Please estimate the following task before starting: We need to create RMA process, like follows: 1) Customer purchases broken item with order number: 12345 2) Creates a ticket in ZenDesk and asks for replacement 3a) We send the customer return labels to ship the item to our warehouse 3b) We send the customer reference number so he could go into the distributor's store and then give them this number (so they could verify its validity) and once this number will be correct, item will be replaced with a new one. 3c) We ship a new item with a delivery person, who takes the broken item back 4) New item should be a NEW order, but with relation to the OLD one. Please feel free to ask questions" />
       <item value="Hi, Please estimate the following task before starting: We need to create RMA process, like follows: 1) Customer purchases broken item with order number: 12345 2) Creates a ticket in ZenDesk and asks for replacement 3a) We send the customer return labels to ship the item to our warehouse 3b) We send the customer reference number so he could go into the distributor's store and then give them this number (so they could verify its validity) and once this number will be correct, item will be replaced with a new one. 3c) We ship a new item with a delivery person, who takes the broken item back 4) New item should be a NEW order, but with relation to the OLD one. Please feel free to ask questions" />
@@ -43,25 +51,17 @@
       <item value="טלפון" />
       <item value="cover" />
       <item value="How many News to display?" />
-      <item value="for videos" />
-      <item value="extends" />
-      <item value="expansion" />
-      <item value="расширение" />
-      <item value="exchange" />
-      <item value="sibling" />
-      <item value="profile-account-section" />
-      <item value="my-account-section" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="962" />
+        <entry key="ENGLISH" value="971" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="962" />
+        <entry key="RUSSIAN" value="971" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
