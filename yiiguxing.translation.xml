@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! So why not rule out steps 4,000 and 4,200 for the next user? And immediately display for him the maximum bid of 4400. In the end, it's up to you. It seemed to me a mistake." />
+      <item value="Здравствуйте! Так а почему бы не исключить для следующего пользователя шаги в 4000 и 4200? И сразу отобразить для него максимальную ставку в 4400. В итоге решать Вам. Мне показалось это ошибкой." />
+      <item value="Hello! So why not rule out steps 4,000 and 4,200 for the next user? And immediately display for him the maximum bid of 4400. As a result, it is up to you to decide, it seemed to me a mistake." />
+      <item value="Здравствуйте! Так а почему бы не исключить для следующего пользователя шаги в 4000 и 4200? И сразу отобразить для него максимальную ставку в 4400. В итоге решать Вам, мне показалось это ошибкой." />
+      <item value="Hello! So why not rule out steps 4,000 and 4,200 for the next user? And immediately display for him a maximum bid of 4400." />
+      <item value="Здравствуйте! Так а почему бы не исключить для следующего пользователя шаги в 4000 и 4200? И сразу отобразить для него максимальную ставку в 4400." />
+      <item value="Hello! So why not rule out steps for 4000 and 4200 for the end user? And immediately display for him a maximum bid of 4400." />
+      <item value="Здравствуйте! Так а почему бы не исключить для конечного пользователя шаги в 4000 и 4200? И сразу отобразить для него максимальную ставку в 4400." />
+      <item value="Hi, I missed that email - do you still think there is a problem here? We are talking about max bids - the max bid is above the leading bid and we show only the leading bid to the public. In your example: Start price = 1800 First user put 3800 and the second one put 4400, so the leading bid we display is 4000 (and not 4400)" />
       <item value="כל הזכויות שמורות למכון מופ&quot;ת 2019 | זכויות יוצרים לשימוש באתר | טלפון:" />
       <item value="Sorry! Solved the issue with this file. It is not affiliated with api." />
       <item value="Простите! Решили вопрос с этим файлом. Он ни как не связанан с api." />
@@ -42,26 +51,17 @@
       <item value="Hi, Please estimate the following task before starting: We need to create RMA process, like follows: 1) Customer purchases broken item with order number: 12345 2) Creates a ticket in ZenDesk and asks for replacement 3a) We send the customer return labels to ship the item to our warehouse 3b) We send the customer reference number so he could go into the distributor's store and then give them this number (so they could verify its validity) and once this number will be correct, item will be replaced with a new one. 3c) We ship a new item with a delivery person, who takes the broken item back 4) New item should be a NEW order, but with relation to the OLD one. Please feel free to ask questions" />
       <item value="One of the values to compare" />
       <item value="View Homepage Lot" />
-      <item value="Lot View Homepage" />
-      <item value="verify this came from the our screen and with proper authorization, because save_post can be triggered at other times" />
-      <item value="comma" />
-      <item value="Black Lives Matter" />
-      <item value="sold" />
-      <item value="badge soldLot" />
-      <item value="Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for." />
-      <item value="Confirm Password" />
-      <item value="winnings" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="ENGLISH" value="996" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="989" />
+        <entry key="RUSSIAN" value="996" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
