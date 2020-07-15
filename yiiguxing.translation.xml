@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="קובץ קורות חיים" />
       <item value="your-profession" />
       <item value="חיפוש מוצרים…" />
       <item value="חיפוש ספרים או פעילויות להרשמה?" />
@@ -50,7 +51,6 @@
       <item value="to ask questions" />
       <item value="feel free" />
       <item value="Please feel free to ask questions" />
-      <item value="We get data from Bidspirit and added it to sync table." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="5" />
+        <entry key="HEBREW" value="6" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="2" />
