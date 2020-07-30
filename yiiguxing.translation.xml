@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hey there! We're excited to help you out. Let us know your email address so that we can follow up in case we get disconnected." />
+      <item value="Поддерживает ли ваша система умный поиск?" />
       <item value="eye" />
       <item value="eyee" />
       <item value="The auction has moved in archive" />
@@ -49,19 +51,17 @@
       <item value="השאירו כאן פרטים או התקשרו אלינו עכשיו לטלפון:" />
       <item value="Hello! So why not rule out steps 4,000 and 4,200 for the next user? And immediately display for him the maximum bid of 4400. In the end, it's up to you. It seemed to me a mistake." />
       <item value="Здравствуйте! Так а почему бы не исключить для следующего пользователя шаги в 4000 и 4200? И сразу отобразить для него максимальную ставку в 4400. В итоге решать Вам. Мне показалось это ошибкой." />
-      <item value="Hello! So why not rule out steps 4,000 and 4,200 for the next user? And immediately display for him the maximum bid of 4400. As a result, it is up to you to decide, it seemed to me a mistake." />
-      <item value="Здравствуйте! Так а почему бы не исключить для следующего пользователя шаги в 4000 и 4200? И сразу отобразить для него максимальную ставку в 4400. В итоге решать Вам, мне показалось это ошибкой." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1027" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1028" />
+        <entry key="RUSSIAN" value="1029" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
