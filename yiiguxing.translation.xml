@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! It is necessary to update the SP address for the tzefunot.com domain - 5.189.179.106. We tried to change hosting and again encountered CORS error." />
+      <item value="Здравствуйте! Надо обновить ип адрес для домена tzefunot.com - 5.189.179.106. Мы попробовали поменять хостинг и снова выстретили CORS ошибку" />
+      <item value="3) What is the frontend part based on?" />
+      <item value="3) На чём основана frontend часть?" />
+      <item value="Hello! We would like to buy your product https://codecanyon.net/item/acc-advanced-crypto-converter/25731209 And before buying, we would like to find out a couple of points. 1) What is your development based on? frameworks? 2) Is there support for the latest PHP 7.3.x and beyond?" />
+      <item value="And before buying, we would like to find out a couple of points." />
+      <item value="И перед покупкой хотели бы выяснить пару моментов." />
+      <item value="Hello! We would like to buy your product https://codecanyon.net/item/acc-advanced-crypto-converter/25731209 And we would like to draw out a couple of points before buying. 1) What is your development based on? frameworks? 2) Is there support for the latest PHP 7.3.x and beyond?" />
+      <item value="Здравствуйте! Мы хотели бы купить Ваш продукт https://codecanyon.net/item/acc-advanced-crypto-converter/25731209 И перед покупкой хотели бы выянить пару моментов. 1) На чём основана ваша разработка? frameworks? 2) Если ли поддержка последних версий PHP 7.3.x и далее?" />
       <item value="Hello! Having problems adding a new domain tzefunot.ln12.tempurl.info?" />
       <item value="Здравствуйте! Возникли проблемы с добавлением нового домена tzefunot.ln12.tempurl.info?" />
       <item value="uco-extend" />
@@ -42,26 +51,17 @@
       <item value="pending" />
       <item value="lot-ready" />
       <item value="קובץ קורות חיים" />
-      <item value="your-profession" />
-      <item value="חיפוש מוצרים…" />
-      <item value="חיפוש ספרים או פעילויות להרשמה?" />
-      <item value="modal pin-to-top" />
-      <item value="Sold for" />
-      <item value="Sold to you for" />
-      <item value="болванка" />
-      <item value="Catalog Link" />
-      <item value="Свяжитесь с нами" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1032" />
+        <entry key="ENGLISH" value="1037" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1032" />
+        <entry key="RUSSIAN" value="1037" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
