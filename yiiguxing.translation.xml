@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The following are examples of action callbacks and content filters you can use to customize this service." />
+      <item value="Text to expect from the return-result indicating submission success. Leave blank to ignore." />
       <item value="i will done" />
       <item value="i will" />
       <item value="update that" />
@@ -49,19 +51,17 @@
       <item value="Hello! I know of a problem with the site. To solve it, fill in the original database dump without changing it." />
       <item value="Для её решения залейте оригинальный дамп базы данных не изменяя его." />
       <item value="Hello! I know of a problem with the site. To solve it, fill in the database dump without changing it. Next, in the wp_options table, change the domain values from old to new in the two fields &quot;siteurl&quot; and &quot;home&quot;. After that you will have the opportunity to get into the site admin panel. Install this plugin: https://ru.wordpress.org/plugins/better-search-replace/ Then activate it and go to the settings: Tools -&gt; Better Search Replace. Fill in the settings as shown in the picture and Run Search / Replace. After that, everything should fall into place." />
-      <item value="Здравствуйте! Мне известна проблема что возникла с сайтом. Для её решения залейте дамп базы данных не изменяя его. Далее в таблице wp_options измените значения домена со старого на новое в двух полях &quot;siteurl&quot; и &quot;home&quot;. После у Вас будет возможность попасть в админку сайта. Установите вот этот плагин: https://ru.wordpress.org/plugins/better-search-replace/ После активируйте его и перейдите в настройки: Tools -&gt; Better Search Replace. Заполните настройки как показано на картинке и Run Search/Replace. После этого всё должно встать на свои места." />
-      <item value="and the production" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1082" />
+        <entry key="ENGLISH" value="1084" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1082" />
+        <entry key="RUSSIAN" value="1084" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
