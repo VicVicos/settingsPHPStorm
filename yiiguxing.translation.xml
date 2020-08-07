@@ -1,67 +1,67 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="The following are examples of action callbacks and content filters you can use to customize this service." />
-      <item value="Text to expect from the return-result indicating submission success. Leave blank to ignore." />
-      <item value="i will done" />
-      <item value="i will" />
-      <item value="update that" />
-      <item value="check on update" />
-      <item value="Исправили. Активировали лицензию." />
-      <item value="Yes. How to set up all auctions, you will need to transfer the NS records of your domain to the current server in order to completely complete the move." />
-      <item value="Да. Как настроим полностью аукционы надо будет перевести NS записи Вашего домена на текущий сервер что бы полностью завершить переезд." />
-      <item value="How to work with content in the admin panel can be found here:" />
-      <item value="Как работать в админ панели с контентом можете ознакомится здесь:" />
-      <item value="If something is more complicated, then top up your bank of hours" />
-      <item value="то пополните банк часов." />
-      <item value="то пополните" />
-      <item value="то купите пополните банк часов." />
-      <item value="If something is more complicated, then in buy bank of hours." />
-      <item value="Create new contact page to the one listed as an example 5 hours." />
-      <item value="Create new contact page to the one listed as an example 5 hours. Those a form with a similar design and the ability to attach files." />
-      <item value="On account of changes on the site and other questions of interest to you, you can write to the mail or write in the WhatsApp group that was created earlier. For the changes that were sent." />
-      <item value="but you need to buy a bank of hours." />
-      <item value="buy bank of hours." />
-      <item value="bank hours" />
-      <item value="but надо купить банк часов" />
-      <item value="if you still want it we will do it, but for additional hours." />
-      <item value="Need logo with white text for to place it in the basement of the site." />
-      <item value="Need logo with white text is required to place it in the basement of the site." />
-      <item value="Logo with white text is required to place it in the basement of the site." />
-      <item value="A logo with white text is required to place it in the basement of the site." />
-      <item value="1) Требуется лого с белым текстом для размещения его в подвальной части сайта." />
-      <item value="Дополнительно:" />
-      <item value="Additionals" />
-      <item value="Please note: We can do any content change you like if you will buy hour bank. Try to make changes in by yourself before you asking for our payed help." />
-      <item value="Please watch this videos before you starting to change site content." />
-      <item value="Please add auctions in bid-spirit admin and them will be synced to site automatically every hour. Please do not try to make changes in auction and lot pages on site." />
-      <item value="Redesign the contact page to the one listed as an example 5 hours. Those. a form with a similar design and the ability to attach files." />
-      <item value="Переделать страницу контактов на ту что указана как пример 5 часов. Т.е. форма с похожим дизайном и возможностью прикреплять файлы." />
-      <item value="It is not entirely clear what you want to add. If you need to add a simple page with text, you can do it yourself. If something is more complicated, then in separate hours." />
-      <item value="Тут не совсем ясно что Вы хотите добавить. Если нужно добавить простую страницу с текстом, то Вы можете сделать это самостоятельно. Если что-то более сложное, то за отдельные часы." />
-      <item value="You can do it yourself in the site admin panel." />
-      <item value="Вы можете сделать это самостоятельно в админке сайта." />
-      <item value="It is not recommended to use more than one google font on the site, if you still want it we will do it, but for additional hours." />
-      <item value="1) Шрифты. Не рекомендуется использовать более одного google font на сайте, если вы всё же этого хотите то сделаем, но за дополнительные часы." />
-      <item value="Hello! On account of changes on the site and other questions of interest to you, you can write to the mail or write in the WhatsApp group that was created earlier. For the changes that were sent." />
-      <item value="Здравствуйте! На счёт изменений по сайту и другим интересующим Вас вопросам вы можете писать на почту или писать в WhatsApp группе что была создана ранее. По изменениям что прислали." />
-      <item value="Hello! I know of a problem with the site. To solve it, fill in the original database dump without changing it. Next, in the wp_options table, change the domain values from old to new in the two fields &quot;siteurl&quot; and &quot;home&quot;. After that you will have the opportunity to get into the site admin panel. Install this plugin: https://ru.wordpress.org/plugins/better-search-replace/ Then activate it and go to the settings: Tools -&gt; Better Search Replace. Fill in the settings as shown in the picture and Run Search / Replace. After that, everything should fall into place." />
-      <item value="Install this plugin: https://ru.wordpress.org/plugins/better-search-replace/ Then activate it and go to the settings: Tools -&gt; Better Search Replace. Fill in the settings as shown in the picture and Run Search / Replace. After that, everything should fall into place." />
-      <item value="After that you will have the opportunity to get into the site admin panel." />
-      <item value="Hello! I know of a problem with the site. To solve it, fill in the original database dump without changing it." />
-      <item value="Для её решения залейте оригинальный дамп базы данных не изменяя его." />
-      <item value="Hello! I know of a problem with the site. To solve it, fill in the database dump without changing it. Next, in the wp_options table, change the domain values from old to new in the two fields &quot;siteurl&quot; and &quot;home&quot;. After that you will have the opportunity to get into the site admin panel. Install this plugin: https://ru.wordpress.org/plugins/better-search-replace/ Then activate it and go to the settings: Tools -&gt; Better Search Replace. Fill in the settings as shown in the picture and Run Search / Replace. After that, everything should fall into place." />
+      <item value="SIGNED" />
+      <item value="UNSIGNED" />
+      <item value="беззанковое" />
+      <item value="unsign" />
+      <item value="знак" />
+      <item value="summa" />
+      <item value="amount" />
+      <item value="On the &quot;Lead List&quot; page, you can search for leads." />
+      <item value="On the Lead List page, вы можете осуществить поиск по лидам." />
+      <item value="you can specify parameters for displaying specific posts." />
+      <item value="На странице &quot;Profile&quot; у пользователя есть возможность редактировать свои данные: Name, Email, Password" />
+      <item value="On the &quot;Update Company&quot; page, fill in the appropriate fields and click the save button." />
+      <item value="After that, the amount is credited or debited to the client's balance." />
+      <item value="Admin on the &quot;User Transactions&quot; page. Presses the &quot;New transaction&quot; button and fills in the fields according to the received bank transfer." />
+      <item value="После на баланс клиента засчитывается или списывается сумма." />
+      <item value="Админ на странице &quot;Транзакции пользователя&quot;. Нажимает кнопку &quot;New transaction&quot; и заполняет поля в соответствии пришедшим банковским переводом." />
+      <item value="bank transfer" />
+      <item value="Админ на странице &quot;Транзакции пользователя&quot;" />
+      <item value="Админ на странице &quot;Транзакции&quot;" />
+      <item value="On the &quot;transactions&quot; page, a filter is available by transaction parameters and by date. After specifying the required parameters and clicking on the &quot;Filter&quot; button, the corresponding entries will be displayed." />
+      <item value="На странице &quot;транзакции&quot; доступен фильтр по параметрам транзакций и по дате. Задав нужные параметры и нажав на кнопку &quot;Filter&quot; отобразятся соответствующие записи." />
+      <item value="On the &quot;transactions&quot; page, a filter is available by transaction parameters, as well as by date. After specifying the required parameters and clicking on the &quot;Filter&quot; button, the corresponding entries will be displayed." />
+      <item value="На странице &quot;транзакции&quot; доступен фильтр по параметрам транзакций, а так же по дате. Задав нужные параметры и нажав на кнопку &quot;Filter&quot; отобразятся соответствующие записи." />
+      <item value="The transactions page displays the transactions of the current user / company." />
+      <item value="На странице &quot;транзакции&quot; отображены транзакции текущего пользователя/компании." />
+      <item value="Stage 1" />
+      <item value="On the Lead List page, you can download a file with the data of the marked entries." />
+      <item value="На странице &quot;Список лидов&quot; можно скачать файл с данными отмеченных записями." />
+      <item value="On the Lead List page, you can download a file with tagged entries." />
+      <item value="На странице &quot;Список лидов&quot; можно скачать файл с отмеченными записями." />
+      <item value="On the Lead List page, you can specify parameters for displaying specific posts." />
+      <item value="На странице &quot;Список лидов&quot; можно указать параметры для отображение определённых записей." />
+      <item value="On the Lead List page, you can specify parameters for displaying clients for specific records." />
+      <item value="На странице &quot;Список лидов&quot; можно указать параметры для отображение клиентов определённых записей." />
+      <item value="On the Lead List page, you can select specific customers." />
+      <item value="На странице &quot;Список лидов&quot; можно выбрать определённых клиентов." />
+      <item value="On the page of the selected lead, you can download the data file." />
+      <item value="На странице выбранного потенциального клиента можно скачать файл с данными." />
+      <item value="On the leads list page" />
+      <item value="On the prospect list page, you can select a detailed view of the client." />
+      <item value="На странице списка потенциальных клиентов можно выбрать детальный просмотр клиента." />
+      <item value="На странице списка потенциальных клиентов можно выбрать детальный просмотр клиента и скачать файл с данными конкретного клиента. Так-же на странице списка потенциальных клиентов можно указать параметры для отображение клиентов отвечающим указанным параметрам в фмльтре." />
+      <item value="На странице списка потенциальных клиентов" />
+      <item value="Process: See Leads" />
+      <item value="On the &quot;Companies&quot; page, click to &quot;Create Company&quot;, after on the &quot;Create Company&quot; page, fill in the appropriate fields and click the save button." />
+      <item value="On the &quot;Companies&quot; page, click to &quot;Create Company&quot;, after On the &quot;Create Company&quot; page, fill in the appropriate fields and click the save button." />
+      <item value="On the &quot;List of Companies&quot; page, select the one you need and go to on the &quot;Update Company&quot; page, fill in the appropriate fields and click the save button." />
+      <item value="На странице &quot;Список компаний&quot; выбираем нужную и перейдя на on the &quot;Update Company&quot; page, fill in the appropriate fields and click the save button." />
+      <item value="Update Company" />
+      <item value="Update campaign" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="ENGLISH" value="1153" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1084" />
+        <entry key="RUSSIAN" value="1153" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
@@ -80,7 +80,7 @@
         <entry key="HEBREW" value="6" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
