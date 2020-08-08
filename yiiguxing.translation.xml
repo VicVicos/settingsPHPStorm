@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="leads" />
+      <item value="campain" />
+      <item value="campaign" />
+      <item value="compaign" />
       <item value="SIGNED" />
       <item value="UNSIGNED" />
       <item value="беззанковое" />
@@ -47,21 +51,17 @@
       <item value="Process: See Leads" />
       <item value="On the &quot;Companies&quot; page, click to &quot;Create Company&quot;, after on the &quot;Create Company&quot; page, fill in the appropriate fields and click the save button." />
       <item value="On the &quot;Companies&quot; page, click to &quot;Create Company&quot;, after On the &quot;Create Company&quot; page, fill in the appropriate fields and click the save button." />
-      <item value="On the &quot;List of Companies&quot; page, select the one you need and go to on the &quot;Update Company&quot; page, fill in the appropriate fields and click the save button." />
-      <item value="На странице &quot;Список компаний&quot; выбираем нужную и перейдя на on the &quot;Update Company&quot; page, fill in the appropriate fields and click the save button." />
-      <item value="Update Company" />
-      <item value="Update campaign" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1153" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1153" />
+        <entry key="RUSSIAN" value="1157" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
@@ -71,6 +71,7 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MACEDONIAN" value="2" />
+        <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="3" />
