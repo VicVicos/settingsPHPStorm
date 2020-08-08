@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shipping" />
+      <item value="tax" />
+      <item value="revenue" />
+      <item value="affiliation" />
       <item value="purchase" />
       <item value="leads" />
       <item value="campain" />
@@ -47,21 +51,17 @@
       <item value="On the leads list page" />
       <item value="On the prospect list page, you can select a detailed view of the client." />
       <item value="На странице списка потенциальных клиентов можно выбрать детальный просмотр клиента." />
-      <item value="На странице списка потенциальных клиентов можно выбрать детальный просмотр клиента и скачать файл с данными конкретного клиента. Так-же на странице списка потенциальных клиентов можно указать параметры для отображение клиентов отвечающим указанным параметрам в фмльтре." />
-      <item value="На странице списка потенциальных клиентов" />
-      <item value="Process: See Leads" />
-      <item value="On the &quot;Companies&quot; page, click to &quot;Create Company&quot;, after on the &quot;Create Company&quot; page, fill in the appropriate fields and click the save button." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1158" />
+        <entry key="ENGLISH" value="1162" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1158" />
+        <entry key="RUSSIAN" value="1162" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
