@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Теперь всё нормально." />
+      <item value="Hello! Indeed, sorry for not being attentive." />
+      <item value="Hello! Действительно, простите за не внимательность." />
       <item value="Total transaction value (incl. tax and shipping)" />
       <item value="shipping" />
       <item value="tax" />
@@ -48,20 +51,17 @@
       <item value="On the Lead List page, you can select specific customers." />
       <item value="На странице &quot;Список лидов&quot; можно выбрать определённых клиентов." />
       <item value="On the page of the selected lead, you can download the data file." />
-      <item value="На странице выбранного потенциального клиента можно скачать файл с данными." />
-      <item value="On the leads list page" />
-      <item value="On the prospect list page, you can select a detailed view of the client." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1163" />
+        <entry key="ENGLISH" value="1164" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1163" />
+        <entry key="RUSSIAN" value="1165" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
