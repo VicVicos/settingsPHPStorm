@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="affiliation" />
       <item value="Ошибка проектирования" />
       <item value="Design error" />
       <item value="Ошибка при проектировании" />
@@ -11,7 +12,6 @@
       <item value="shipping" />
       <item value="tax" />
       <item value="revenue" />
-      <item value="affiliation" />
       <item value="purchase" />
       <item value="leads" />
       <item value="campain" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1166" />
+        <entry key="ENGLISH" value="1167" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
