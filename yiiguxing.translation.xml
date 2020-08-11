@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount" />
       <item value="Получение правок" />
       <item value="I will create a separate branch and upload all changes there." />
       <item value="Я создам отдельную ветку и все изменения буду заливать туда." />
@@ -36,7 +37,6 @@
       <item value="unsign" />
       <item value="знак" />
       <item value="summa" />
-      <item value="amount" />
       <item value="On the &quot;Lead List&quot; page, you can search for leads." />
       <item value="On the Lead List page, вы можете осуществить поиск по лидам." />
       <item value="you can specify parameters for displaying specific posts." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1174" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
