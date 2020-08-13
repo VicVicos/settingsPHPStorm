@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Take it from this web page:" />
+      <item value="discount on yearly payment 540 EUR per year" />
       <item value="found" />
       <item value="Returns the raw sign up fee value (ignoring tax) by filtering the products price." />
       <item value="продвигаемый товар" />
@@ -49,19 +51,17 @@
       <item value="you can specify parameters for displaying specific posts." />
       <item value="На странице &quot;Profile&quot; у пользователя есть возможность редактировать свои данные: Name, Email, Password" />
       <item value="On the &quot;Update Company&quot; page, fill in the appropriate fields and click the save button." />
-      <item value="After that, the amount is credited or debited to the client's balance." />
-      <item value="Admin on the &quot;User Transactions&quot; page. Presses the &quot;New transaction&quot; button and fills in the fields according to the received bank transfer." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1180" />
+        <entry key="ENGLISH" value="1182" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1181" />
+        <entry key="RUSSIAN" value="1182" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
