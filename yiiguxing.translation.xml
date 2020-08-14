@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The one in the picture is a test one. And the one with which we have a problem is the client's auction: https://soaresmendonca.bidspirit.com/ And he has such auctions here: see the attached picture. How did he create them?" />
+      <item value="Тот что на картинке это тестовый. А тот с которым у нас проблема аукцион клиента: https://soaresmendonca.bidspirit.com/ И у него есть вот такие вот аукционы: смотреть в приложенной картинке. Как он их создал?" />
       <item value="We have another question. The client has created auctions with names that are underlined in the picture. When I created test auctions I could not give them a non-numeric value. When importing, we expect that the auction index will be a number, in this regard, a problem arises and we need to understand how to solve it so that this problem does not arise in the future." />
       <item value="При импорте мы ожидаем что индекс аукциона будет числом, в связи с этим возникает проблема и надо понять как её решить чтобы в дальнейшем этой проблемы не возникало." />
       <item value="We have another question. The client has created auctions with names that are underlined in the picture. When I created test auctions I could not give them a non-numeric value. Our import is calculated that the auction index will be a number, in this regard, a problem arises and you need to understand how to solve it so that this problem does not arise in the future." />
@@ -49,19 +51,17 @@
       <item value="SIGNED" />
       <item value="UNSIGNED" />
       <item value="беззанковое" />
-      <item value="unsign" />
-      <item value="знак" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1185" />
+        <entry key="ENGLISH" value="1186" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1185" />
+        <entry key="RUSSIAN" value="1186" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
