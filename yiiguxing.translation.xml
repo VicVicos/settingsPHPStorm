@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! During import there are problems with auctions, or rather with their naming. We contacted bidspirit technical support and they confirmed the issues. We need permission from you so that we can make the necessary changes to your auction house https://soaresmendonca.bidspirit.com/ to solve this problem." />
+      <item value="Здравствуйте! Во время импорта возникают проблемы с аукционами а точнее с их именование. Мы связались с технической поддержкой bidspirit и они подтвердили проблемы. Нам требуется разрешение от Вас что бы мы смогли внести нужные изменения в вашем аукционном доме https://soaresmendonca.bidspirit.com/ для решения этой проблемы." />
+      <item value="I'll check everything now." />
+      <item value="Сheck everything now." />
+      <item value="Сейчас всё проверю." />
       <item value="תקנון משתמש" />
       <item value="שאלות נפוצות" />
       <item value="רשימת המשאלות" />
@@ -46,22 +51,17 @@
       <item value="We have another question. The client has created auctions with names that are underlined in the picture. When I created test auctions I could not give them a non-numeric value. Our import is calculated that the auction index will be a number, in this regard, a problem arises and you need to understand how to solve it so that this problem does not arise in the future." />
       <item value="У нас ещё вопрос. У клиента созданы аукционы с именами что подчёркнуты на картинке. Когда я создавал тестовые аукционы не мог задать им не числовое значение. Импорт у нас расчитан что индекс аукциона будет числом, в связи с этим возникает проблема и надо понять как её решить чтобы в дальнейшем этой проблемы не возникало." />
       <item value="allow mimes type" />
-      <item value="Отправить сообщение человеку из Bidspirit" />
-      <item value="Take it from this web page:" />
-      <item value="discount on yearly payment 540 EUR per year" />
-      <item value="found" />
-      <item value="Returns the raw sign up fee value (ignoring tax) by filtering the products price." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1205" />
+        <entry key="ENGLISH" value="1210" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1205" />
+        <entry key="RUSSIAN" value="1210" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
