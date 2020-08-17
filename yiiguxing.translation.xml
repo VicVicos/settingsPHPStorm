@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Спасибо за понимание!" />
+      <item value="Hello! Let's get back to the question about auctions for the client https://soaresmendonca.bidspirit.com/. I do not have access to his bidspirit account, so I only show what came via import. Solved some of the problems with the indexes of auctions in import. But a couple of problems remain. 1) The client has 4 &quot;Online&quot; auctions, i.e. &quot;Auction number&quot; is not checked for uniqueness on the bidspirit side. See attachment 1. The problem with this auction is that when we request it from the API to get its lots, we receive a response: {&quot;success&quot;:false,&quot;errorMessage&quot;:&quot;4 entries found, only 1 is allowed&quot;,&quot;errorCode&quot;:&quot;DUPLICATE&quot;} 2) This client has auctions with a non-numeric &quot;Auction number&quot; value. See attachment 2. When I tried to create an auction in bidspirit without specifying or entering symbolic values in the &quot;Auction number&quot; field, I got errors when saving. 1) Error: Auction number cannot be empty because it might be used as a key by external api 2) Auction number must be a number" />
+      <item value="When I tried to create an auction in bidspirit without specifying or entering symbolic values in the &quot;Auction number&quot; field, I got errors when saving." />
+      <item value="When I tried to create an auction in bidspirit without specifying or entering symbolic values ​​in the &quot;Auction number&quot; field, I got errors when saving." />
+      <item value="Сам же когда пытался создать аукцион в bidspirit не указывая или вводя символьные значения в поле &quot;Auction number&quot; получал ошибки при сохранении." />
+      <item value="This client has auctions with a non-numeric &quot;Auction number&quot; value. See attachment 2." />
+      <item value="This customer has auctions with a non-numeric &quot;Auction number&quot; value. See attachment 2." />
+      <item value="У этого клиента есть аукционы со значением &quot;Auction number&quot; не числового значения. See attachment 2." />
+      <item value="The problem with this auction is that when we request it from the API to get its lots, we receive a response:" />
+      <item value="Проблема этого аукциона в том что при запросе в API получить его лоты нам приходит в ответ:" />
+      <item value="1) The client has 4 &quot;Online&quot; auctions, i.e. &quot;Auction number&quot; is not checked for uniqueness on the bidspirit side." />
+      <item value="1) У клиента есть 4 аукциона &quot;Online&quot;, т.е. &quot;Auction number&quot; не проверяется на уникальность на стороне bidspirit." />
+      <item value="Solved some of the problems with the indexes of auctions in import. But a couple of problems remain." />
+      <item value="Решил частью проблем с индексами аукционов в импорте. Но остаётся пара проблем." />
+      <item value="Solved some of the problems at the expense of the auction indices in import. But a couple of problems remain." />
+      <item value="Решил частью проблем на счёт индексов аукционов в импорте. Но остаётся пара проблем." />
+      <item value="i figured out some of the problems with the import auction index. but a couple of problems remain." />
+      <item value="Разобрался с частью проблем на счёт индекса аукционов в импорте. Но остаётся пара проблем." />
+      <item value="Let's get back to the question about auctions for the client https://soaresmendonca.bidspirit.com/. I do not have access to his bidspirit account, so I only show what came via import, see attachment 1." />
       <item value="Error: Auction number cannot be empty because it might be used as a key by external api" />
       <item value="see attachment 1." />
       <item value="see Appendix 1." />
@@ -32,36 +51,17 @@
       <item value="Я создам отдельную ветку и все изменения буду заливать туда." />
       <item value="After I clone the project, create a separate branch and upload all changes there." />
       <item value="После я склонирую проект создам отдельную ветку и все изменения буду заливать туда." />
-      <item value="Hello! There are edits in files with a fixed file field, displaying that the file was selected. It would be nice to use Git to push changes. Please create. After cloning the project, I will create a separate branch and upload all changes there." />
-      <item value="Создайте пожалуйста." />
-      <item value="Hello! There are edits in files with a fixed file field, displaying that the file was selected. It would be nice to use Git to push changes. Will you do it? After cloning the project, I will create a separate branch and upload all changes there." />
-      <item value="Hello! Есть правки в файлах с фиксом поля файл, отображение того что файл был выбран. Было бы удобно использовать Git для передачи изменений. Сделаете? Я после склонирую проект создам отдельную ветку и все изменения буду заливать туда." />
-      <item value="Hello! There are edits in files with a fixed file field, displaying that the file was selected." />
-      <item value="Hello! Есть правки в файлах с фиксом поля файл, отображение того что файл был выбран." />
-      <item value="acknowleged response body" />
-      <item value="which happens automatically on upgrade, but not FTP or other direct file changes" />
-      <item value="affiliation" />
-      <item value="Ошибка проектирования" />
-      <item value="Design error" />
-      <item value="Ошибка при проектировании" />
-      <item value="Теперь всё нормально." />
-      <item value="Hello! Indeed, sorry for not being attentive." />
-      <item value="Hello! Действительно, простите за не внимательность." />
-      <item value="Total transaction value (incl. tax and shipping)" />
-      <item value="shipping" />
-      <item value="tax" />
-      <item value="revenue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1193" />
+        <entry key="ENGLISH" value="1205" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1193" />
+        <entry key="RUSSIAN" value="1205" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
