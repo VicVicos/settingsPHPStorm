@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="תקנון משתמש" />
+      <item value="שאלות נפוצות" />
+      <item value="רשימת המשאלות" />
+      <item value="קנה עכשיו" />
+      <item value="קופה" />
+      <item value="צור קשר" />
+      <item value="עגלת קניות" />
+      <item value="מחקרים ומאמרים" />
+      <item value="החשבון שלי" />
+      <item value="דף בית" />
+      <item value="אודות" />
       <item value="Спасибо за понимание!" />
       <item value="Hello! Let's get back to the question about auctions for the client https://soaresmendonca.bidspirit.com/. I do not have access to his bidspirit account, so I only show what came via import. Solved some of the problems with the indexes of auctions in import. But a couple of problems remain. 1) The client has 4 &quot;Online&quot; auctions, i.e. &quot;Auction number&quot; is not checked for uniqueness on the bidspirit side. See attachment 1. The problem with this auction is that when we request it from the API to get its lots, we receive a response: {&quot;success&quot;:false,&quot;errorMessage&quot;:&quot;4 entries found, only 1 is allowed&quot;,&quot;errorCode&quot;:&quot;DUPLICATE&quot;} 2) This client has auctions with a non-numeric &quot;Auction number&quot; value. See attachment 2. When I tried to create an auction in bidspirit without specifying or entering symbolic values in the &quot;Auction number&quot; field, I got errors when saving. 1) Error: Auction number cannot be empty because it might be used as a key by external api 2) Auction number must be a number" />
       <item value="When I tried to create an auction in bidspirit without specifying or entering symbolic values in the &quot;Auction number&quot; field, I got errors when saving." />
@@ -40,17 +51,6 @@
       <item value="discount on yearly payment 540 EUR per year" />
       <item value="found" />
       <item value="Returns the raw sign up fee value (ignoring tax) by filtering the products price." />
-      <item value="продвигаемый товар" />
-      <item value="инициализация" />
-      <item value="biach" />
-      <item value="beach" />
-      <item value="Subscription" />
-      <item value="amount" />
-      <item value="Получение правок" />
-      <item value="I will create a separate branch and upload all changes there." />
-      <item value="Я создам отдельную ветку и все изменения буду заливать туда." />
-      <item value="After I clone the project, create a separate branch and upload all changes there." />
-      <item value="После я склонирую проект создам отдельную ветку и все изменения буду заливать туда." />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,7 +79,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="6" />
+        <entry key="HEBREW" value="17" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
