@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! Uploaded the edits to the repository." />
+      <item value="Здравствуйте! Залил в репозиторий правки." />
       <item value="resolved" />
       <item value="Hello! The issue with duplicate auctions has been resolved." />
       <item value="Здравствуйте! Проблема с дублями аукционов решена." />
@@ -49,19 +51,17 @@
       <item value="Разобрался с частью проблем на счёт индекса аукционов в импорте. Но остаётся пара проблем." />
       <item value="Let's get back to the question about auctions for the client https://soaresmendonca.bidspirit.com/. I do not have access to his bidspirit account, so I only show what came via import, see attachment 1." />
       <item value="Error: Auction number cannot be empty because it might be used as a key by external api" />
-      <item value="see attachment 1." />
-      <item value="see Appendix 1." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1219" />
+        <entry key="ENGLISH" value="1220" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1219" />
+        <entry key="RUSSIAN" value="1220" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
