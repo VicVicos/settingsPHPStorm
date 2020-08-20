@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! Good. We need this functionality to complete the site for Soares Mendonca" />
+      <item value="Здравствуйте! Хорошо. Нам нужен этот функционал чтобы закончить сайт для Soares Mendonca" />
       <item value="without Subscribe" />
       <item value="without Subscribe Price" />
       <item value="I can't find how to get its link in the API. Will it be possible to add the link to come when requesting auctions / getAllAuctions.api? Thank!" />
@@ -49,19 +51,17 @@
       <item value="Спасибо за понимание!" />
       <item value="Hello! Let's get back to the question about auctions for the client https://soaresmendonca.bidspirit.com/. I do not have access to his bidspirit account, so I only show what came via import. Solved some of the problems with the indexes of auctions in import. But a couple of problems remain. 1) The client has 4 &quot;Online&quot; auctions, i.e. &quot;Auction number&quot; is not checked for uniqueness on the bidspirit side. See attachment 1. The problem with this auction is that when we request it from the API to get its lots, we receive a response: {&quot;success&quot;:false,&quot;errorMessage&quot;:&quot;4 entries found, only 1 is allowed&quot;,&quot;errorCode&quot;:&quot;DUPLICATE&quot;} 2) This client has auctions with a non-numeric &quot;Auction number&quot; value. See attachment 2. When I tried to create an auction in bidspirit without specifying or entering symbolic values in the &quot;Auction number&quot; field, I got errors when saving. 1) Error: Auction number cannot be empty because it might be used as a key by external api 2) Auction number must be a number" />
       <item value="When I tried to create an auction in bidspirit without specifying or entering symbolic values in the &quot;Auction number&quot; field, I got errors when saving." />
-      <item value="When I tried to create an auction in bidspirit without specifying or entering symbolic values ​​in the &quot;Auction number&quot; field, I got errors when saving." />
-      <item value="Сам же когда пытался создать аукцион в bidspirit не указывая или вводя символьные значения в поле &quot;Auction number&quot; получал ошибки при сохранении." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1232" />
+        <entry key="ENGLISH" value="1233" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1232" />
+        <entry key="RUSSIAN" value="1233" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
