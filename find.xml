@@ -21,8 +21,8 @@
     <mask>*.xsl</mask>
     <mask>*</mask>
     <mask>*.js</mask>
-    <mask>*.*</mask>
     <mask>*.php</mask>
+    <mask>*.*</mask>
     <mask>*.css</mask>
   </component>
 </application>
