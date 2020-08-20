@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A term with the name provided already exists with this parent." />
       <item value="Hello! When would you like to change NS records?" />
       <item value="Когда вы хотите что бы изменили NS записи?" />
       <item value="Ask him when he like us to change it?" />
@@ -50,18 +51,17 @@
       <item value="קופה" />
       <item value="צור קשר" />
       <item value="עגלת קניות" />
-      <item value="מחקרים ומאמרים" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1239" />
+        <entry key="ENGLISH" value="1240" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1239" />
+        <entry key="RUSSIAN" value="1240" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
