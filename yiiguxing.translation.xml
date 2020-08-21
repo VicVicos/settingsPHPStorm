@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replace link to pdf if auction in archive" />
+      <item value="View pdf if auction in archive" />
+      <item value="View pdf only for archived auction" />
+      <item value="View pdf only" />
       <item value="Id Entity on site" />
       <item value="Replace link of catalog for on pdf file for archived auction" />
       <item value="Display pdf file link" />
@@ -47,21 +51,17 @@
       <item value="Background for lots. Default value" />
       <item value="It is necessary to rename everything so that there are no errors &quot;duplicate&quot; when requesting lots. But I have not yet received permission to change the auction titles from the client." />
       <item value="It is necessary to rename everything so that there are no duplicate errors when requesting lots. But I have not yet received permission to change the auction titles from the client." />
-      <item value="Надо переименовать все что бы не возникало ошибки с дублированием при запросе лотов. Но я ещё не получил разрешения на изменение заголовков аукционов у клиента." />
-      <item value="Title of auctions to we have problem with synch we have to need to change title of auctions to https://soaresmendonca.bidspirit.com/ Please approve." />
-      <item value="Title of auctions to we have problem with synch we haven to need to change title of auctions to https://soaresmendonca.bidspirit.com/ Please approve." />
-      <item value="Title of auctions from we have problem with synch we have to need to change of title auctions to https://soaresmendonca.bidspirit.com/ Please approve." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="ENGLISH" value="1258" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1254" />
+        <entry key="RUSSIAN" value="1258" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
