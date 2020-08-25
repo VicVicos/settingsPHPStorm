@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="4) bring two columns closer together so that there's equal spacing around" />
+      <item value="3) order should be: image text" />
+      <item value="same button width slightly smaller text throughout entre site for all buttons" />
+      <item value="Lighter grey outline - like images bellow wider boxes (see screenshot from original design in the next page)" />
+      <item value="Please make buttons same width. Match &quot;Buy Now&quot; to &quot;Learn More&quot;" />
       <item value="Comment for both landing page and home page: add white space to bottom to match top padding" />
       <item value="Hello! For a fairhillauction.com client, add the https://www.fairhillauction.com domain to the allowed ones. IP old: 5.189.179.106" />
       <item value="Здравствуйте! Для клиента fairhillauction.com надо добавить домен https://www.fairhillauction.com в разрешённые. IP прежний: 5.189.179.106" />
@@ -46,22 +51,17 @@
       <item value="Здравствуйте! При создании аукциона можно загрузить pdf файл для аукциона. В API не найду как получить его ссылку. Можно будет добавить что бы ссылка приходила при запросе auctions/getAllAuctions.api ? Спасибо!" />
       <item value="Нашли pdf файлы в bidspirit. Извините!" />
       <item value="Нашли pdf файлы в bidspirit." />
-      <item value="Здравствуйте! Нам нужны pdf файлы всех аукционов что были." />
-      <item value="Hello! We need to finalize the localization of the plugin. Andrey Druz said to contact you. The priority now is to make localization into Portuguese." />
-      <item value="Здравствуйте! Нам нужно доделать локализацию плагина. Andrey Druz сказал обратиться с вам. В приоритете сейчас сделать локализацию на португальский язык." />
-      <item value="Hello! We need to finalize the localization of the plugin. Andrey Druz said to contact you. We now need Portuguese localization." />
-      <item value="Здравствуйте! Нам нужно доделать локализацию плагина. Andrey Druz сказал обратиться с вам. Сейчас нам требуется локализация на португальский язык." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1266" />
+        <entry key="ENGLISH" value="1271" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1266" />
+        <entry key="RUSSIAN" value="1271" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
