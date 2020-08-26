@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is very long, can I change the order? If necessary, paying extra." />
+      <item value="Это очень долго, можно ли изменить заказ? При необходимости доплатив." />
+      <item value="Hello! I wanted to clarify about the product: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-2 Article: No. 90765618 In the report on the order says that the goods will arrive 09/17/2020. It is very long, is it possible to change the order with a surcharge if necessary? For example, this one: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-da Article: No. 90765609" />
+      <item value="I wanted to clarify about the product:" />
+      <item value="Здравствуйте! Хотел уточнить насчёт товара:" />
+      <item value="Hello! I wanted to clarify on the account of the goods: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-2 Article: No. 90765618 In the report on the order says that the goods will arrive 09/17/2020. It is very long, is it possible to change the order with a surcharge if necessary? For example, this one: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-da Article: No. 90765609" />
+      <item value="Здравствуйте! Хотел уточнить на счёт товара: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-2 Артикул: № 90765618 В отчёте по заказу говорится что товар прибудет 17.09.2020. Это очень долго, можно ли изменить заказ с доплатой в случае необходимости? К примеру на вот этот: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-da Артикул: № 90765609" />
+      <item value="Здравствуйте! Хотел уточнить на счёт товара: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-2 Артикул: № 90765618 В отчёте по заказу говорится что товар прибудет 17.09.2020. Это очень долго, можно ли изменить заказ? К примеру на вот этот: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-da Артикул: № 90765609" />
+      <item value="Available at short notice" />
       <item value="Less spacing between letters? button is too big. Also? the menu should be sticky for the landing page." />
       <item value="together" />
       <item value="4) bring two columns closer together so that there's equal spacing around" />
@@ -42,26 +51,17 @@
       <item value="Когда вы хотите что бы изменили NS записи?" />
       <item value="Ask him when he like us to change it?" />
       <item value="square-block" />
-      <item value="square" />
-      <item value="квадрат" />
-      <item value="Hello! Good. We need this functionality to complete the site for Soares Mendonca" />
-      <item value="Здравствуйте! Хорошо. Нам нужен этот функционал чтобы закончить сайт для Soares Mendonca" />
-      <item value="without Subscribe" />
-      <item value="without Subscribe Price" />
-      <item value="I can't find how to get its link in the API. Will it be possible to add the link to come when requesting auctions / getAllAuctions.api? Thank!" />
-      <item value="Hello! When creating an auction, there is a field to upload a pdf file for the auction." />
-      <item value="Здравствуйте! При создании аукциона есть поле загрузить pdf файл для аукциона. В API не найду как получить его ссылку. Можно будет добавить что бы ссылка приходила при запросе auctions/getAllAuctions.api ? Спасибо!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1277" />
+        <entry key="ENGLISH" value="1283" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1277" />
+        <entry key="RUSSIAN" value="1283" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
