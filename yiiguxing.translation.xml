@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consistent size" />
+      <item value="same button width slightly smaller text throughout entre site for all buttons" />
       <item value="It is very long, can I change the order? If necessary, paying extra." />
       <item value="Это очень долго, можно ли изменить заказ? При необходимости доплатив." />
       <item value="Hello! I wanted to clarify about the product: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-2 Article: No. 90765618 In the report on the order says that the goods will arrive 09/17/2020. It is very long, is it possible to change the order with a surcharge if necessary? For example, this one: https://www.computeruniverse.net/ru/intel-core-i3-9100f-4-core-quad-core-cpu-with-360-ghz-da Article: No. 90765609" />
@@ -16,7 +18,6 @@
       <item value="Column Depth" />
       <item value="i will prepare one image for mobile" />
       <item value="3) order should be: image text" />
-      <item value="same button width slightly smaller text throughout entre site for all buttons" />
       <item value="Lighter grey outline - like images bellow wider boxes (see screenshot from original design in the next page)" />
       <item value="Please make buttons same width. Match &quot;Buy Now&quot; to &quot;Learn More&quot;" />
       <item value="Comment for both landing page and home page: add white space to bottom to match top padding" />
@@ -50,18 +51,17 @@
       <item value="Hello! When would you like to change NS records?" />
       <item value="Когда вы хотите что бы изменили NS записи?" />
       <item value="Ask him when he like us to change it?" />
-      <item value="square-block" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1283" />
+        <entry key="ENGLISH" value="1285" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1283" />
+        <entry key="RUSSIAN" value="1285" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
