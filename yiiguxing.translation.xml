@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prices in your area with similar characteristics" />
+      <item value="Получайте звонки от потенциальных клиентов." />
+      <item value="Добавьте апартаменты которыми располагаете." />
+      <item value="Add offers for the job seeker." />
+      <item value="Добавьте предложения для соискателя." />
+      <item value="Ознакомьтесь с тем что мы предлагаем." />
+      <item value="Добавьте комнаты на которые после можно будет создать предложения для соискателя." />
+      <item value="Add rooms for which you can then create offers for the applicant." />
       <item value="Уведомлений отправлено:" />
       <item value="Log As" />
       <item value="Войти как" />
@@ -43,25 +51,17 @@
       <item value="formation of an application" />
       <item value="This process reflects the ability to edit a previously created request to find a matching offer." />
       <item value="Этот процесс отражает возможность редактировать ранее созданный запрос на поиск подходящего предложения." />
-      <item value="Этот процесс отражает ход согласования предложения с конечным клиентом." />
-      <item value="This process will allow clients to rate support tickets." />
-      <item value="On the page with a previously created offer, you will be able to change the parameters to find a suitable offer." />
-      <item value="На странице с ранее созданным предложением будет возможность изменить параметры для поиска подходящего предложения." />
-      <item value="As a Client - Edit the offer you left earlier." />
-      <item value="By clicking on the link with the phone number in the message, the Member should answer me and book an offer for the specified time" />
-      <item value="when an offer appears in the system corresponding to the specified parameters in the application, a message with a number to contact the member is sent to the phone." />
-      <item value="На странице с формой «Оставить заявку» заполните поля с контактной информацией, максимальной ценой по оферте и выбрав необходимые параметры из списка атрибутов для комнаты, а также указав необходимую дату, сохраняем предложение." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1449" />
+        <entry key="ENGLISH" value="1456" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1450" />
+        <entry key="RUSSIAN" value="1456" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
