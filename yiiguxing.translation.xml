@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Уведомлений отправлено:" />
+      <item value="Log As" />
+      <item value="Войти как" />
+      <item value="Overwrite params" />
+      <item value="Overrite params" />
+      <item value="Area search and drop down to variants" />
+      <item value="Area search and drop down variants" />
+      <item value="Area search and drop down varians" />
+      <item value="график цен на отели в зависимости дня недели" />
+      <item value="Хотите ли вы получать уведомления." />
+      <item value="Хотите ли вы получать уведомления о выгодных предложениях." />
+      <item value="comfort" />
+      <item value="Удобства" />
+      <item value="В ближайшее время с Вами свяжутся для уточнения деталей." />
+      <item value="Fill out this form to leave a request to find a suitable accommodation. After finding a suitable option, you will receive a notification with a phone number." />
+      <item value="Заполните эту форму что бы оставить заявку на поиск подходящего жилья. После нахождения подходящего варианта вам поступит уведомление с номером телефона." />
+      <item value="Заполните эту форму что бы оставить заявку на поиск подходящего жилья. После нахождения подходящего вариант вам поступит уведомление с номером телефона." />
+      <item value="Людей" />
       <item value="Approve" />
       <item value="Статистика цен по районам" />
       <item value="Statistics price of area" />
@@ -33,35 +51,17 @@
       <item value="By clicking on the link with the phone number in the message, the Member should answer me and book an offer for the specified time" />
       <item value="when an offer appears in the system corresponding to the specified parameters in the application, a message with a number to contact the member is sent to the phone." />
       <item value="На странице с формой «Оставить заявку» заполните поля с контактной информацией, максимальной ценой по оферте и выбрав необходимые параметры из списка атрибутов для комнаты, а также указав необходимую дату, сохраняем предложение." />
-      <item value="On the page with the &quot;Leave a request&quot; form, fill in the fields with contact information, the maximum price for the offer and choosing the necessary parameters from the list of attributes for the room, as well as specifying the required date, we leave the application." />
-      <item value="On the page with the &quot;Leave a request&quot; form, fill in the fields with contact information, the maximum price for the offer and choosing the necessary parameters from the list of attributes for the room, as well as specifying the required date, we leave the application. Stage 2 When an offer appears in the system corresponding to the specified parameters in the application, a message with a number to contact the Member is sent to the phone. Stage 3 By clicking on the link with the phone number in the message, the Member should answer me and book an offer for the specified time" />
-      <item value="Get notified when a suitable option is published." />
-      <item value="After receiving a call from a potential client and completing it, the member will receive a message with a link to the offer with the ability to update it so that the system no longer searches for clients for this offer." />
-      <item value="После поступления звонка от потенциального клиента и его завершения, члену придёт сообщение со ссылкой на предложение с возможностью обновить его, что бы система более не искала клиентов по данному предложению." />
-      <item value="processing offers" />
-      <item value="Ошибка авторизации в системе bidspirit, и способ его устранения." />
-      <item value="Ошибка авторизации в системе bidspirit, и они устранены" />
-      <item value="Error authorization in bidspirit sistem and they resolved" />
-      <item value="Visitors to the site https://tzefunot.com/ complain about a problem with authorization to bidspirit. See attached image 1. The problem can be reproduced by logging in in one browser and trying to log in again in another. If you log in to https://tzfunot.bidspirit.com/ then we are greeted with a notification that we are already authorized and authorization can be canceled for all others, see attach 2. Do I understand correctly that if you add the overrideOthers = true parameter to the users / login.api authorization, then this will happen automatically?" />
-      <item value="смотрите приложение 2" />
-      <item value="Hello! Visitors to the site https://tzefunot.com/ complain about a problem with authorization to bidspirit. See attached image 1. The problem can be reproduced by logging in in one browser and trying to log in again in another. If you log in to https://tzfunot.bidspirit.com/ then we are greeted with a notification that we are already authorized and authorization can be canceled for all others. Do I understand correctly that if you add the overrideOthers = true parameter to the users / login.api authorization, then this will happen automatically?" />
-      <item value="У посетители сайта https://tzefunot.com/ жалуются на проблему с авторизацией в bidspirit. Смотрите прилагаемое изображение 1. Проблему можно воспроизвести если авторизоваться в одном браузере и попытаться авторизоваться ещё раз в другом. Если авторизоваться на https://tzfunot.bidspirit.com/ то нас встречает уведомление о том что мы уже авторизованы и авторизацию можно отменить на всех других. Верно ли я понимаю что если к авторизации users/login.api добавить параметр overrideOthers=true то это будет происходить автоматически?" />
-      <item value="As an Admin - I can view list Member in sistem." />
-      <item value="On the page &quot;View statistics&quot; there will be a form with a drop-down list of districts in which rooms with active offers are located." />
-      <item value="На странице &quot;Просмотра статистики&quot; будет форма с выпадающим списком районов в которых располагаются комнаты с активными предложениями." />
-      <item value="viewed statistic price for area" />
-      <item value="Процесс: Просмотр статистики цен по районам." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1434" />
+        <entry key="ENGLISH" value="1449" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1434" />
+        <entry key="RUSSIAN" value="1450" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
