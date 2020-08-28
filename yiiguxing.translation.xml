@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Доступы к админке сайта:" />
+      <item value="To move a domain to a new site, we need access to the place of domain registration to change NS records to a new server. Or you can do it yourself By specifying for your domain:" />
+      <item value="Hello! Your site is ready. Please check it. Now it is available at the link: http://soaresmendonca.ln12.tempurl.info/ If all is well, it remains to move the domain to a new server." />
+      <item value="Здравствуйте! Ваш сайт готов. Просим проверить его. Сейчас он доступен по ссылке: http://soaresmendonca.ln12.tempurl.info/ Если всё хорошо, остаётся совершить переезд домена на новый сервер." />
+      <item value="Для перезда домена на новый сайт нам нужен доступ к месту регистрации домена для смены NS записей на новый сервер. Или же вы можете сделать это сами Указав для своего домена:" />
+      <item value="Send email to client from support email and ask for site approve on temp link http://$new_user.ln12.tempurl.info Ask for dns admin link user and pass if client didn't sent in client form" />
       <item value="On offer publish screen Member will be able to click on statistics and see requests statistics graph for selected area based on room he selected" />
       <item value="Approved member will be able to publish the offer based on max number of offers he can publish setted by Admin" />
       <item value="After the Member finishes adding the rooms he will see a page explaining to him what his profile is waiting for approval by Admin. After Admin will approve the Member - Member will get email with note what he can continue and publish the offers." />
@@ -45,23 +51,17 @@
       <item value="Approve" />
       <item value="Статистика цен по районам" />
       <item value="Statistics price of area" />
-      <item value="Statistics of area" />
-      <item value="The purpose of this document is to collaborate between the project owner and UCO team members to meet the expectations of the new application." />
-      <item value="Отказаться" />
-      <item value="Цены в вашем регионе с похожими характеристиками" />
-      <item value="Цены в вашем регионе" />
-      <item value="Указать на карте" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1473" />
+        <entry key="ENGLISH" value="1477" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1473" />
+        <entry key="RUSSIAN" value="1478" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
