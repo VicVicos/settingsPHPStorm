@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="from Portal" />
       <item value="Доступы к админке сайта:" />
       <item value="To move a domain to a new site, we need access to the place of domain registration to change NS records to a new server. Or you can do it yourself By specifying for your domain:" />
       <item value="Hello! Your site is ready. Please check it. Now it is available at the link: http://soaresmendonca.ln12.tempurl.info/ If all is well, it remains to move the domain to a new server." />
@@ -50,12 +51,11 @@
       <item value="Людей" />
       <item value="Approve" />
       <item value="Статистика цен по районам" />
-      <item value="Statistics price of area" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1477" />
+        <entry key="ENGLISH" value="1478" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
