@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Home Page 1) Create new Page or Edit current Front Page a) Set option template &quot;Page - Full Width&quot; b) Insert content *c) Set images Copy content from web2" />
+      <item value="3) Add new plugin &quot;Strong Testimonial&quot; https://strongtestimonials.com/ Import Review. Use Wordpress Export/Import Screen 3" />
+      <item value="2) Add new UX Blocks a) Moodo Air Short Desc - [block id=&quot;moodo-air-short-desc&quot;] b) Moodo Air Big Desc - [block id=&quot;moodo-air-big-desc&quot;] c) Moodo Air Content - [block id=&quot;moodo-air-content&quot;] d) Copy content from web2 Screen 4" />
+      <item value="1) Create new page &quot;Aromatherapy&quot; а) Set template option &quot;Landing Page&quot;. Screen 1 b) Add custom field &quot;promoted_id_product&quot; with value id product. Screen 2 с) Insert content *d) Set images" />
       <item value="1) Create new Page or Edit current Front Page" />
       <item value="Copy content from web2" />
       <item value="Sample" />
@@ -47,21 +51,17 @@
       <item value="When an offer appears in the system corresponding to the specified parameters in the application, a message with a number to contact the Member is sent to the phone." />
       <item value="Prices in your area with similar characteristics" />
       <item value="Получайте звонки от потенциальных клиентов." />
-      <item value="Добавьте апартаменты которыми располагаете." />
-      <item value="Add offers for the job seeker." />
-      <item value="Добавьте предложения для соискателя." />
-      <item value="Ознакомьтесь с тем что мы предлагаем." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1495" />
+        <entry key="ENGLISH" value="1499" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1495" />
+        <entry key="RUSSIAN" value="1499" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
