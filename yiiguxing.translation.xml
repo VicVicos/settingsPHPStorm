@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mandatory for the site" />
+      <item value="Обязателен для сайта" />
       <item value="Primary Technique" />
       <item value="Cases" />
       <item value="second technique" />
@@ -49,19 +51,17 @@
       <item value="Hello! You changed the &quot;Archive&quot; page when asked to rename. If you want to change the page, then you need to specify it in the plugin settings. See Appendix 1. As for the authorization error, we have not received such a message before, but the error comes from bidspirit.Let's check what is wrong with the registration, earlier we tried to register and we got it, email: jenodin274@trufilth.com. You can delete this account in the bidspirit portal cabinet. I tried to register again: febohik454@armcams.com, no error occurred." />
       <item value="Что касается ошибки авторизации, ранее мы не получали подобного сообщения, но ошибка идёт со стороны bidspirit, Проверим что не так с регистрацией, ранее мы пробовали зарегистрироваться и у нас получилось, email: jenodin274@trufilth.com. В кабинете портала bidspirit можете удалить этот аккаунт. Попробовал ещё раз зарегистрироваться: febohik454@armcams.com, ошибки не возникло." />
       <item value="Hello! You changed the &quot;Archive&quot; page when asked to rename. If you want to change the page, then you need to specify it in the plugin settings. See Appendix 1. As for the authorization error, we have not received such a message before, but the error comes from bidspirit. Let's check what is wrong with the registration, earlier we tried to register and we got it, email: jenodin274@trufilth.com. You can delete this account in the bidspirit portal cabinet. I also tried to register again: febohik454@armcams.com, no error occurred." />
-      <item value="Hello! Вы изменили страницу &quot;Archive&quot;, когда спрашивали о том чтобы переименовать. Если захотите сменить страницу, тогда вам надо указать её в настройках плагина. Смотрите приложение 1. Что касается ошибки авторизации, ранее мы не получали подобного сообщения, но ошибка идёт со стороны bidspirit, Проверим что не так с регистрацией, ранее мы пробовали зарегистрироваться и у нас получилось, email: jenodin274@trufilth.com. В кабинете портала bidspirit можете удалить этот аккаунт. Так же попробовал ещё раз зарегистрироваться: febohik454@armcams.com, ошибки не возникло." />
-      <item value="Здравствуйте! Я добавил параметр overrideOthers=true к запросу users/login.api и в случае если человек был авторизован ранее в портале - проблема решена." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1518" />
+        <entry key="ENGLISH" value="1519" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1518" />
+        <entry key="RUSSIAN" value="1519" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
