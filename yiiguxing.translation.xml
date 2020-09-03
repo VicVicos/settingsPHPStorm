@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shop-staging" />
       <item value="The revision work has been completed. You can check." />
       <item value="Работы по правкам завершены. Можно проверять." />
       <item value="Home Page 1) Create new Page or Edit current Front Page a) Set option template &quot;Page - Full Width&quot; b) Insert content *c) Set images Copy content from web2" />
@@ -50,18 +51,17 @@
       <item value="As an Admin - I will be able to view a list of offers, so I will be able to see if some Members are abusing the system. As an Admin - I will be able to view a list of calls for each offer and listen to call recording, so I will be able to understand how the sales process was done." />
       <item value="As an Admin - I will be able to approve member registration applications, so I will select which members can publish offes. As an Admin - I will be able to see price statistics for all offers, so I will understand the trends in the app. As an Admin - I will be able to view/edit/delete Members, so I will be able to manage the app. As an Admin - I will be able to set maximum number of offes what Members can make per week, so I will be able to reduce Members abuse." />
       <item value="Clients will get the offer by push notification, sms or email and will be able to mark the offer as not relevant to call the Member. All calls will be recorded using call redirect service." />
-      <item value="When an offer appears in the system corresponding to the specified parameters in the application, a message with a number to contact the Member is sent to the phone." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1500" />
+        <entry key="ENGLISH" value="1501" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1500" />
+        <entry key="RUSSIAN" value="1501" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
