@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Refused to set unsafe header &quot;Sec-Fetch-Site&quot;" />
       <item value="I checked it again. The error is repeated only in Chrome. The experiment was carried out on two computers, for one user." />
       <item value="Проверил ещё раз. Ошибка повторяется только в Chrome. Эксперимент провели на двух компьютерах, для одного пользователя." />
       <item value="Hello! I am attaching a log of requests at the time of the error." />
@@ -50,18 +51,17 @@
       <item value="Used Wordpress Import" />
       <item value="search file into media library by &quot;colored&quot;" />
       <item value="the one that" />
-      <item value="the one that will be" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1525" />
+        <entry key="ENGLISH" value="1526" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1525" />
+        <entry key="RUSSIAN" value="1526" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
