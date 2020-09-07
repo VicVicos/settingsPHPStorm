@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Просим помочь." />
+      <item value="Here is a simple example, see the file in the appendix. All code is taken from demo: https://tzfunot.bidspirit.com/html/thirdPartyDemo/. We use a test account https://web2-qa.bidspirit.com/ The error is similar and only in Chrome. Alternatively, the problem with headers:" />
+      <item value="Which are only in Chrome and were added starting from version 76." />
+      <item value="Которые есть только в Chrome и были добавлены начиная с 76 версии." />
+      <item value="Вот простой пример, смотрите файл в приложении. Весь код взят с demo: https://tzfunot.bidspirit.com/html/thirdPartyDemo/. Используем тестовый аккаунт https://web2-qa.bidspirit.com/ Ошибка аналогичная и только в Chrome. Как вариант проблема с заголовками:" />
       <item value="Refused to set unsafe header &quot;Sec-Fetch-Site&quot;" />
       <item value="I checked it again. The error is repeated only in Chrome. The experiment was carried out on two computers, for one user." />
       <item value="Проверил ещё раз. Ошибка повторяется только в Chrome. Эксперимент провели на двух компьютерах, для одного пользователя." />
@@ -46,22 +51,17 @@
       <item value="1) Create new Page or Edit current Front Page" />
       <item value="Copy content from web2" />
       <item value="Sample" />
-      <item value="Simple:" />
-      <item value="Use Wordpress Import" />
-      <item value="Used Wordpress Import" />
-      <item value="search file into media library by &quot;colored&quot;" />
-      <item value="the one that" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1526" />
+        <entry key="ENGLISH" value="1529" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1526" />
+        <entry key="RUSSIAN" value="1530" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
