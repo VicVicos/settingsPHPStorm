@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! Updated the stylesheet with a fix for the slider. Uploaded to the dev branch." />
+      <item value="Hello! Обновил файл стилей с фиксом для слайдера. Запушил в ветку dev." />
       <item value="Waiver" />
       <item value="do it" />
       <item value="10 минут и я сделаю это" />
@@ -49,19 +51,17 @@
       <item value="second technique" />
       <item value="classes" />
       <item value="Функция сохранена" />
-      <item value="Черновик обновлён" />
-      <item value="Запланировано на публикацию" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1546" />
+        <entry key="ENGLISH" value="1548" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1546" />
+        <entry key="RUSSIAN" value="1548" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
