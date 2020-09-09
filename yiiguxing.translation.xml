@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="7) Try to clear your browser cache, we fixed this error earlier. Let's remove the VAT line." />
+      <item value="7) Попробуйте очистить кеш браузера, эту ошибку мы исправили ранее." />
+      <item value="7) Do I understand correctly that there is an error in displaying the clock? What time zone should it be? Let's remove the VAT line." />
+      <item value="7) Верно ли я понимаю что ошибка в отображении часов? Какой часовой пояс должен быть? Строку VAT уберём." />
+      <item value="7) Do I understand correctly that the error is during this clock? What time zone should it be? Let's remove the VAT line." />
+      <item value="7) Верно ли я понимаю что ошибка во время это часы? Какой часовой пояс должен быть? Строку VAT уберём." />
+      <item value="6) Can be done. Do you want to do this for just one page or for all?" />
+      <item value="6) Можно сделать" />
+      <item value="6) You can do it. Do you want to do this for just one page or for all?" />
+      <item value="6) Сделать можно. Вы хотите сделать это только для одной страницы или для всех?" />
+      <item value="5) In progress. Bidspirit technical support has not yet answered us about this." />
+      <item value="5) В процессе. Техническая поддержка bidspirit ещё не ответила нам по этому поводу." />
+      <item value="4) Let's check this moment with those. bidspirit support, it's on their side." />
+      <item value="4) Проверим этот момент с тех. поддержкой bidspirit, это на их стороне." />
+      <item value="I changed the logo, because without it there were problems. Corrected. I fixed the problem with the cache. The cache was on the server. To clear, click the button in the admin bar -&gt; Hummingbird -&gt; Clear Page Cache" />
+      <item value="2. Лого я менял, так как без него были проблемы. Исправил. Проблему с кешем пофиксил. Кеш был на сервере. Для очистки надо нажать кнопку в admin bar -&gt; Hummingbird -&gt; Clear Page Cache" />
+      <item value="1. Yes. All pages are added in the admin area." />
+      <item value="1. Да. Все страницы добавляются в админке." />
       <item value="3) Closing the form does not close it, it just hides. The entered data is cleared after page refresh." />
       <item value="3) Закрытие формы не закрывает её, она просто скрывается. Введённые данные после обновления страницы очищаются." />
       <item value="Is done. Please check." />
@@ -33,35 +51,17 @@
       <item value="צרו קשר" />
       <item value="לפרטים נוספים" />
       <item value="שם האומן" />
-      <item value="Просим помочь." />
-      <item value="Here is a simple example, see the file in the appendix. All code is taken from demo: https://tzfunot.bidspirit.com/html/thirdPartyDemo/. We use a test account https://web2-qa.bidspirit.com/ The error is similar and only in Chrome. Alternatively, the problem with headers:" />
-      <item value="Which are only in Chrome and were added starting from version 76." />
-      <item value="Которые есть только в Chrome и были добавлены начиная с 76 версии." />
-      <item value="Вот простой пример, смотрите файл в приложении. Весь код взят с demo: https://tzfunot.bidspirit.com/html/thirdPartyDemo/. Используем тестовый аккаунт https://web2-qa.bidspirit.com/ Ошибка аналогичная и только в Chrome. Как вариант проблема с заголовками:" />
-      <item value="Refused to set unsafe header &quot;Sec-Fetch-Site&quot;" />
-      <item value="I checked it again. The error is repeated only in Chrome. The experiment was carried out on two computers, for one user." />
-      <item value="Проверил ещё раз. Ошибка повторяется только в Chrome. Эксперимент провели на двух компьютерах, для одного пользователя." />
-      <item value="Hello! I am attaching a log of requests at the time of the error." />
-      <item value="Здравствуйте! Прилагаю лог запросов в момент возникновения ошибки." />
-      <item value="capsules pack" />
-      <item value="pack" />
-      <item value="technique" />
-      <item value="Filters will be here" />
-      <item value="Здесь будут фильтры" />
-      <item value="Mandatory for the site" />
-      <item value="Обязателен для сайта" />
-      <item value="Cases" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1550" />
+        <entry key="ENGLISH" value="1559" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1550" />
+        <entry key="RUSSIAN" value="1559" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
