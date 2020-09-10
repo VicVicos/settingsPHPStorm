@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="moodo presentation" />
       <item value="Art Galleries" />
       <item value="Automatic preset mixing recommendations" />
       <item value="Saving your favorite blends" />
@@ -50,7 +51,6 @@
       <item value="A request to the users / initSession API does not return these fields. Is it possible to get a list of countries and states to build a dropdown list?" />
       <item value="A client https://fairhillauction.com/ contacted us with a question that there is no State field for the user profile, but this field is in the bidspirit portal if the country is specified as United States." />
       <item value="Клиент https://fairhillauction.com/ обратился к нам с вопросом что для профиля пользователя нет поля Штат, но это поле есть в портале bidspirit если страну указать как United States." />
-      <item value="The client https://fairhillauction.com/ contacted us with the moment that there is no State field for the user profile, but this field is in the bidspirit portal if the country is specified as United States. A request to the users / initSession API does not return these fields. Is it possible to get a list of countries and states to build a dropdown list?" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1566" />
+        <entry key="RUSSIAN" value="1567" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
@@ -76,6 +76,7 @@
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="3" />
         <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
