@@ -1,6 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Повторю ответ по вашему последнему сообщению" />
+      <item value="Повторю ответ по вашему последнему письму" />
+      <item value="Hello! Duplicate response of you last message" />
+      <item value="Hello! Duplicare response of you last message" />
+      <item value="Let's check this moment with those. bidspirit support, it's on their side." />
+      <item value="In progress. Bidspirit technical support has not yet answered us about this." />
+      <item value="Closing the form does not close it, it just hides. The entered data is cleared after page refresh." />
+      <item value="This is done by the browser itself, this is not an error on the site." />
+      <item value="Это делает сам браузер, это не является ошибкой на сайте." />
+      <item value="6) The banner height does not change, but this can be done for additional purchased time. Do you want to do this for just one page or for all?" />
+      <item value="but this can be done for additional purchased time." />
+      <item value="6) The banner height does not change, but this can be done for bank of hours. Do you want to do this for just one page or for all?" />
+      <item value="but this can be done for bank of hours." />
+      <item value="но это можно сделать за дополнительно купленное время." />
+      <item value="но это можно сделать за дополнительно купленные часы." />
+      <item value="but this can be done for pay bank hours." />
+      <item value="Sample" />
+      <item value="The banner height does not change, but this can be done for pay bank hours. Do you want to do this for just one page or for all?" />
+      <item value="The banner height does not change, but this can be done for pay hours bank." />
+      <item value="The banner height does not change, but this can be done for pay bank hours." />
+      <item value="The banner height does not change, but this can be done for the purchased watch." />
+      <item value="Высота банера не изменяется, но это можно сделать за купленные часы." />
+      <item value="Do you want to do this for just one page or for all?" />
+      <item value="Can be done. Do you want to do this for just one page or for all?" />
       <item value="moodo presentation" />
       <item value="Art Galleries" />
       <item value="Automatic preset mixing recommendations" />
@@ -27,41 +51,17 @@
       <item value="2. Лого я менял, так как без него были проблемы. Исправил. Проблему с кешем пофиксил. Кеш был на сервере. Для очистки надо нажать кнопку в admin bar -&gt; Hummingbird -&gt; Clear Page Cache" />
       <item value="1. Yes. All pages are added in the admin area." />
       <item value="1. Да. Все страницы добавляются в админке." />
-      <item value="3) Closing the form does not close it, it just hides. The entered data is cleared after page refresh." />
-      <item value="3) Закрытие формы не закрывает её, она просто скрывается. Введённые данные после обновления страницы очищаются." />
-      <item value="Is done. Please check." />
-      <item value="Hello! Updated the stylesheet with a fix for the slider. Uploaded to the dev branch." />
-      <item value="Hello! Обновил файл стилей с фиксом для слайдера. Запушил в ветку dev." />
-      <item value="Waiver" />
-      <item value="do it" />
-      <item value="10 минут и я сделаю это" />
-      <item value="Hello! 10 min and I will" />
-      <item value="Hello! 10 min and i will." />
-      <item value="10 минут и сделаю" />
-      <item value="10 min and will done" />
-      <item value="Записи по метке" />
-      <item value="Архив за" />
-      <item value="Архив автора" />
-      <item value="Результаты поиска по запросу -" />
-      <item value="Primary Techniques" />
-      <item value="Primary Technique" />
-      <item value="Displaying similar galleries" />
-      <item value="Вывод схожих галерей" />
-      <item value="Как мы можем решить его вопрос?" />
-      <item value="A request to the users / initSession API does not return these fields. Is it possible to get a list of countries and states to build a dropdown list?" />
-      <item value="A client https://fairhillauction.com/ contacted us with a question that there is no State field for the user profile, but this field is in the bidspirit portal if the country is specified as United States." />
-      <item value="Клиент https://fairhillauction.com/ обратился к нам с вопросом что для профиля пользователя нет поля Штат, но это поле есть в портале bidspirit если страну указать как United States." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1566" />
+        <entry key="ENGLISH" value="1588" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1567" />
+        <entry key="RUSSIAN" value="1589" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
