@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="4 пункт" />
+      <item value="Checked the registration in bidspirit from the site. Confirmation emails are coming. Can you check again? The user profile will contain a link to resend the letter." />
+      <item value="Проверили регистрацию в bidspirit с сайта. Письма для подтверждения приходят. Можете проверить ещё раз? В профиле пользователя будет ссылка для повторной отправки письма." />
       <item value="According to the video on the site, the link should be after the Comments menu item." />
       <item value="Согласно видео на сайте ссылка должна быть после пункта меню Comments." />
       <item value="e.g. I’m having trouble configuring Smush Pro" />
@@ -48,20 +51,17 @@
       <item value="6) Можно сделать" />
       <item value="6) You can do it. Do you want to do this for just one page or for all?" />
       <item value="6) Сделать можно. Вы хотите сделать это только для одной страницы или для всех?" />
-      <item value="5) In progress. Bidspirit technical support has not yet answered us about this." />
-      <item value="5) В процессе. Техническая поддержка bidspirit ещё не ответила нам по этому поводу." />
-      <item value="4) Let's check this moment with those. bidspirit support, it's on their side." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1592" />
+        <entry key="ENGLISH" value="1593" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1592" />
+        <entry key="RUSSIAN" value="1594" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
