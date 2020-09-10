@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Automatic preset mixing recommendations" />
+      <item value="Saving your favorite blends" />
+      <item value="Be a scent DJ" />
+      <item value="Capsule &quot;fuel gauge&quot;" />
+      <item value="All our scents are custom-made for Moodo, curated by leading French perfumers from the finest ingredients and produced in Grasse, France." />
+      <item value="Leading French perfumers" />
       <item value="7) Try to clear your browser cache, we fixed this error earlier. Let's remove the VAT line." />
       <item value="7) Попробуйте очистить кеш браузера, эту ошибку мы исправили ранее." />
       <item value="7) Do I understand correctly that there is an error in displaying the clock? What time zone should it be? Let's remove the VAT line." />
@@ -45,23 +51,17 @@
       <item value="Клиент https://fairhillauction.com/ обратился к нам с вопросом что для профиля пользователя нет поля Штат, но это поле есть в портале bidspirit если страну указать как United States." />
       <item value="The client https://fairhillauction.com/ contacted us with the moment that there is no State field for the user profile, but this field is in the bidspirit portal if the country is specified as United States. A request to the users / initSession API does not return these fields. Is it possible to get a list of countries and states to build a dropdown list?" />
       <item value="Клиент https://fairhillauction.com/ обратился к нам с моментом что для профиля пользователя нет поля Штат, но это поле есть в портале bidspirit если страну указать как United States. Запрос к API users/initSession нам не возвращает этих полей. Можно ли получить список стран и штатов для построения выпадающего списка?" />
-      <item value="We will clarify this point with bidspirit technical support. Since we are not receiving this data now." />
-      <item value="Мы уточним этот момент у технической поддержки bidspirit. Так как сейчас мы не получаем этих данных." />
-      <item value="שם היצירה שם היצירה" />
-      <item value="צרו קשר" />
-      <item value="לפרטים נוספים" />
-      <item value="שם האומן" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1559" />
+        <entry key="ENGLISH" value="1565" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1559" />
+        <entry key="RUSSIAN" value="1565" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
