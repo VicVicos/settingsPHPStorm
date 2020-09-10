@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="According to the video on the site, the link should be after the Comments menu item." />
+      <item value="Согласно видео на сайте ссылка должна быть после пункта меню Comments." />
+      <item value="e.g. I’m having trouble configuring Smush Pro" />
+      <item value="Hello! There is a problem with the WPMU DEV Videos plugin. Installed, activated, but the link in the menu is not displayed to go to this plugin." />
+      <item value="Здравствуйте! Возникла проблема с плагином WPMU DEV Videos. Установили, активировали, но не отображается ссылка в меню что бы перейти к этому плагину." />
       <item value="Повторю ответ по вашему последнему сообщению" />
       <item value="Повторю ответ по вашему последнему письму" />
       <item value="Hello! Duplicate response of you last message" />
@@ -46,22 +51,17 @@
       <item value="5) In progress. Bidspirit technical support has not yet answered us about this." />
       <item value="5) В процессе. Техническая поддержка bidspirit ещё не ответила нам по этому поводу." />
       <item value="4) Let's check this moment with those. bidspirit support, it's on their side." />
-      <item value="4) Проверим этот момент с тех. поддержкой bidspirit, это на их стороне." />
-      <item value="I changed the logo, because without it there were problems. Corrected. I fixed the problem with the cache. The cache was on the server. To clear, click the button in the admin bar -&gt; Hummingbird -&gt; Clear Page Cache" />
-      <item value="2. Лого я менял, так как без него были проблемы. Исправил. Проблему с кешем пофиксил. Кеш был на сервере. Для очистки надо нажать кнопку в admin bar -&gt; Hummingbird -&gt; Clear Page Cache" />
-      <item value="1. Yes. All pages are added in the admin area." />
-      <item value="1. Да. Все страницы добавляются в админке." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1588" />
+        <entry key="ENGLISH" value="1592" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1589" />
+        <entry key="RUSSIAN" value="1592" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
