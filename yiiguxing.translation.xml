@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is done!" />
       <item value="On Bidspirit" />
       <item value="Access to the admin panel is the same as on the original." />
       <item value="Доступы в админку как и на оригинале." />
@@ -50,12 +51,11 @@
       <item value="Leading French perfumers" />
       <item value="7) Try to clear your browser cache, we fixed this error earlier. Let's remove the VAT line." />
       <item value="7) Попробуйте очистить кеш браузера, эту ошибку мы исправили ранее." />
-      <item value="7) Do I understand correctly that there is an error in displaying the clock? What time zone should it be? Let's remove the VAT line." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1598" />
+        <entry key="ENGLISH" value="1599" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
