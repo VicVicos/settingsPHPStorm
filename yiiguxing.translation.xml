@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="On Bidspirit" />
+      <item value="Access to the admin panel is the same as on the original." />
+      <item value="Доступы в админку как и на оригинале." />
+      <item value="after the site is fully operational." />
+      <item value="Hello! Deployed a test site and imported auctions. The auction pages are not yet available, wait for permission from bidspirit after the site is fully operational." />
+      <item value="Hello! Deployed a test site and imported auctions. The auction pages are not yet available, you need to wait for permission from bidspirit after the site is fully operational." />
+      <item value="Здравствуйте! Развернули тестовый сайт и импортировали аукционы. Страницы аукционов пока не доступны, надо дождаться разрешения от bidspirit после сайт будет полностью рабочий." />
       <item value="4 пункт" />
       <item value="Checked the registration in bidspirit from the site. Confirmation emails are coming. Can you check again? The user profile will contain a link to resend the letter." />
       <item value="Проверили регистрацию в bidspirit с сайта. Письма для подтверждения приходят. Можете проверить ещё раз? В профиле пользователя будет ссылка для повторной отправки письма." />
@@ -44,25 +51,19 @@
       <item value="7) Try to clear your browser cache, we fixed this error earlier. Let's remove the VAT line." />
       <item value="7) Попробуйте очистить кеш браузера, эту ошибку мы исправили ранее." />
       <item value="7) Do I understand correctly that there is an error in displaying the clock? What time zone should it be? Let's remove the VAT line." />
-      <item value="7) Верно ли я понимаю что ошибка в отображении часов? Какой часовой пояс должен быть? Строку VAT уберём." />
-      <item value="7) Do I understand correctly that the error is during this clock? What time zone should it be? Let's remove the VAT line." />
-      <item value="7) Верно ли я понимаю что ошибка во время это часы? Какой часовой пояс должен быть? Строку VAT уберём." />
-      <item value="6) Can be done. Do you want to do this for just one page or for all?" />
-      <item value="6) Можно сделать" />
-      <item value="6) You can do it. Do you want to do this for just one page or for all?" />
-      <item value="6) Сделать можно. Вы хотите сделать это только для одной страницы или для всех?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1593" />
+        <entry key="ENGLISH" value="1598" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1594" />
+        <entry key="RUSSIAN" value="1599" />
         <entry key="FRENCH" value="3" />
+        <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
         <entry key="CZECH" value="1" />
