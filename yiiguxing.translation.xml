@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Заполнил недостающие поля Google Translate" />
+      <item value="Заполнил недостающие поля Google Transalte" />
+      <item value="Add or remove auctions" />
+      <item value="Which user provider should this client use to retrieve users?" />
+      <item value="What should we name the password grant client?" />
+      <item value="Please check the demo. It is wrong." />
+      <item value="Проверьте пожалуйста demo. Оно с ошибкой." />
+      <item value="Or will we stop at the option with Google Translate verification?" />
+      <item value="Или остановимся на варианте с проверкой Google Translate?" />
+      <item value="or have you already started?" />
+      <item value="или уже приступили?" />
+      <item value="Давайте тогда так и сделаем, я перевуду с помощью Google Translate. А вы проверите." />
+      <item value="We have changed the height of the blocks for all pages. Check, please. We also got an answer from bidspirit about the fields in the profile. Bidspirit plans to implement this functionality this week." />
+      <item value="Мы изменили высоту блоков для всех страниц. Проверьте пожалуйста. Так же нам ответили с bidspirit по поводу полей в профиле. В планах у bidspirit реализовать этот функционал на этой неделе." />
       <item value="It is necessary to fill in the column with the appropriate language." />
       <item value="Надо заполнить колонку с соответствующим языком." />
       <item value="Hello! To complete the work, we need to fully localize the plugin into Italian. Could you help us?" />
@@ -37,31 +51,17 @@
       <item value="In progress. Bidspirit technical support has not yet answered us about this." />
       <item value="Closing the form does not close it, it just hides. The entered data is cleared after page refresh." />
       <item value="This is done by the browser itself, this is not an error on the site." />
-      <item value="Это делает сам браузер, это не является ошибкой на сайте." />
-      <item value="6) The banner height does not change, but this can be done for additional purchased time. Do you want to do this for just one page or for all?" />
-      <item value="but this can be done for additional purchased time." />
-      <item value="6) The banner height does not change, but this can be done for bank of hours. Do you want to do this for just one page or for all?" />
-      <item value="but this can be done for bank of hours." />
-      <item value="но это можно сделать за дополнительно купленное время." />
-      <item value="но это можно сделать за дополнительно купленные часы." />
-      <item value="but this can be done for pay bank hours." />
-      <item value="Sample" />
-      <item value="The banner height does not change, but this can be done for pay bank hours. Do you want to do this for just one page or for all?" />
-      <item value="The banner height does not change, but this can be done for pay hours bank." />
-      <item value="The banner height does not change, but this can be done for pay bank hours." />
-      <item value="The banner height does not change, but this can be done for the purchased watch." />
-      <item value="Высота банера не изменяется, но это можно сделать за купленные часы." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1606" />
+        <entry key="ENGLISH" value="1615" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1606" />
+        <entry key="RUSSIAN" value="1616" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
