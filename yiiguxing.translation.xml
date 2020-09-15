@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="What other edits did you want to show through Any Desc?" />
+      <item value="Какие ещё правки хотели показать через Any Desc?" />
+      <item value="Added link from form login to form registration with text &quot;Already Registered? Log in.&quot; In Italian it will be &quot;Già registrato? Accesso&quot;." />
       <item value="If change the name of the login button to &quot;Bid now&quot;. In Italian it will be like &quot;Scommetti ora&quot;. This is good?" />
       <item value="If you change the name of the login button to &quot;Bid now&quot;. In Italian it will be like &quot;Scommetti ora&quot;. This is good?" />
       <item value="If you change the name of the login button to bid now. In Italian it will be like &quot;Scommetti ora&quot;. This is good?" />
@@ -48,20 +51,17 @@
       <item value="e.g. I’m having trouble configuring Smush Pro" />
       <item value="Hello! There is a problem with the WPMU DEV Videos plugin. Installed, activated, but the link in the menu is not displayed to go to this plugin." />
       <item value="Здравствуйте! Возникла проблема с плагином WPMU DEV Videos. Установили, активировали, но не отображается ссылка в меню что бы перейти к этому плагину." />
-      <item value="Повторю ответ по вашему последнему сообщению" />
-      <item value="Повторю ответ по вашему последнему письму" />
-      <item value="Hello! Duplicate response of you last message" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1620" />
+        <entry key="ENGLISH" value="1622" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1620" />
+        <entry key="RUSSIAN" value="1622" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
