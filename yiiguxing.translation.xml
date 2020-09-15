@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I think here it is about the fact that it is not obvious to the user that this is registration for auctions." />
+      <item value="Думаю тут речь о том что пользователю не очевидно что это регистрация для аукционов." />
+      <item value="what would you like to change in this regard?" />
+      <item value="Что бы вы хотели изменить в этом плане?" />
+      <item value="This is on the bidspirit side. I will send a request to technical support for them. I think they will add it soon." />
+      <item value="Это на стороне bidspirit. Отправлю запрос в техническую поддержку к ним. Думаю добавят в скором времени." />
+      <item value="This is on the bidspirit side. I will send a request to support to them. Will update soon." />
+      <item value="This is on the bidspirit side. I will send a request to those. support to them. Will update soon." />
+      <item value="Это на стороне bidspirit. Отправлю запрос в тех. поддержку к ним. Обновят в скором." />
       <item value="What other edits did you want to show through Any Desc?" />
       <item value="Какие ещё правки хотели показать через Any Desc?" />
       <item value="Added link from form login to form registration with text &quot;Already Registered? Log in.&quot; In Italian it will be &quot;Già registrato? Accesso&quot;." />
@@ -42,26 +51,17 @@
       <item value="after the site is fully operational." />
       <item value="Hello! Deployed a test site and imported auctions. The auction pages are not yet available, wait for permission from bidspirit after the site is fully operational." />
       <item value="Hello! Deployed a test site and imported auctions. The auction pages are not yet available, you need to wait for permission from bidspirit after the site is fully operational." />
-      <item value="Здравствуйте! Развернули тестовый сайт и импортировали аукционы. Страницы аукционов пока не доступны, надо дождаться разрешения от bidspirit после сайт будет полностью рабочий." />
-      <item value="4 пункт" />
-      <item value="Checked the registration in bidspirit from the site. Confirmation emails are coming. Can you check again? The user profile will contain a link to resend the letter." />
-      <item value="Проверили регистрацию в bidspirit с сайта. Письма для подтверждения приходят. Можете проверить ещё раз? В профиле пользователя будет ссылка для повторной отправки письма." />
-      <item value="According to the video on the site, the link should be after the Comments menu item." />
-      <item value="Согласно видео на сайте ссылка должна быть после пункта меню Comments." />
-      <item value="e.g. I’m having trouble configuring Smush Pro" />
-      <item value="Hello! There is a problem with the WPMU DEV Videos plugin. Installed, activated, but the link in the menu is not displayed to go to this plugin." />
-      <item value="Здравствуйте! Возникла проблема с плагином WPMU DEV Videos. Установили, активировали, но не отображается ссылка в меню что бы перейти к этому плагину." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1622" />
+        <entry key="ENGLISH" value="1627" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1622" />
+        <entry key="RUSSIAN" value="1627" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
