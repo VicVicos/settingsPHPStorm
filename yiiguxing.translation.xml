@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I am sure this is done by the plugin Defender Pro" />
+      <item value="Уверен это делает плагин Defender Pro" />
+      <item value="Now, when adding any get parameter to the page, we encounter pages with the text &quot;Sorry, you are not allowed to access this page&quot;." />
+      <item value="Сейчас при добавлении к странице любого get параметра наc встречает страницы с текстом &quot;Sorry, you are not allowed to access this page&quot;." />
+      <item value="Now, when adding any get parameter to the page, it encounters pages with the text &quot;Sorry, you are not allowed to access this page&quot;." />
+      <item value="Сейчас при добавлении к странице любого get параметра на встречает страницы с текстом &quot;Sorry, you are not allowed to access this page&quot;." />
+      <item value="How to set up allowed get params." />
+      <item value="Как настроить разрешённые get params." />
+      <item value="В том и проблема что ссылка в меню не отображается." />
       <item value="I think here it is about the fact that it is not obvious to the user that this is registration for auctions." />
       <item value="Думаю тут речь о том что пользователю не очевидно что это регистрация для аукционов." />
       <item value="what would you like to change in this regard?" />
@@ -42,26 +51,17 @@
       <item value="denies" />
       <item value="There was a slight misunderstanding about point 6. Let's make the height as on https://genazym.com/about-us/" />
       <item value="На счёт пункта 6 вышло небольшое недопонимание. Сделаем высоту как на https://genazym.com/about-us/" />
-      <item value="The menu should be all right. Please check again. The auction disappeared from the page as it is empty. Empty auctions are not displayed." />
-      <item value="С меню должно быть всё в порядке. Проверьте ещё раз пожалуйста. Аукцион скрылся со страници, так как он пустой. Пустые аукционы не отображаются." />
-      <item value="Is done!" />
-      <item value="On Bidspirit" />
-      <item value="Access to the admin panel is the same as on the original." />
-      <item value="Доступы в админку как и на оригинале." />
-      <item value="after the site is fully operational." />
-      <item value="Hello! Deployed a test site and imported auctions. The auction pages are not yet available, wait for permission from bidspirit after the site is fully operational." />
-      <item value="Hello! Deployed a test site and imported auctions. The auction pages are not yet available, you need to wait for permission from bidspirit after the site is fully operational." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="ENGLISH" value="1632" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1627" />
+        <entry key="RUSSIAN" value="1632" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
