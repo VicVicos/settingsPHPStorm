@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all offers by user_" />
       <item value="ALL ROOMS BY USER_" />
       <item value="stcky header gaurav css start" />
       <item value="pull" />
@@ -50,18 +51,17 @@
       <item value="Мы изменили высоту блоков для всех страниц. Проверьте пожалуйста. Так же нам ответили с bidspirit по поводу полей в профиле. В планах у bidspirit реализовать этот функционал на этой неделе." />
       <item value="It is necessary to fill in the column with the appropriate language." />
       <item value="Надо заполнить колонку с соответствующим языком." />
-      <item value="Hello! To complete the work, we need to fully localize the plugin into Italian. Could you help us?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1638" />
+        <entry key="ENGLISH" value="1639" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1638" />
+        <entry key="RUSSIAN" value="1639" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
