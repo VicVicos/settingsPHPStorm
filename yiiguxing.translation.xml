@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Success Authorization" />
       <item value="id on required" />
       <item value="id to required" />
       <item value="Authentication passed..." />
@@ -50,18 +51,17 @@
       <item value="or have you already started?" />
       <item value="или уже приступили?" />
       <item value="Давайте тогда так и сделаем, я перевуду с помощью Google Translate. А вы проверите." />
-      <item value="We have changed the height of the blocks for all pages. Check, please. We also got an answer from bidspirit about the fields in the profile. Bidspirit plans to implement this functionality this week." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1642" />
+        <entry key="ENGLISH" value="1643" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1642" />
+        <entry key="RUSSIAN" value="1643" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
