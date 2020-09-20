@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! Is done. In case of problems, please write." />
+      <item value="В случае возникновения проблем напишите пожалуйста." />
+      <item value="Made." />
+      <item value="Is done." />
+      <item value="Сделали." />
       <item value="Пожалуйста одобрите этот домен." />
       <item value="Please authorize this domain." />
       <item value="Пожалуйста разрешите этот домен." />
@@ -46,22 +51,17 @@
       <item value="If you change the name of the login button to bid now. In Italian it will be like &quot;Scommetti ora&quot;. This is good?" />
       <item value="Если сменить имя кнопки login на bid now. На итальянском это будет как &quot;Scommetti ora&quot;. This is good?" />
       <item value="Локализацию дополнил. Спасибо за помощь!" />
-      <item value="Заполнил недостающие поля Google Translate" />
-      <item value="Заполнил недостающие поля Google Transalte" />
-      <item value="Add or remove auctions" />
-      <item value="Which user provider should this client use to retrieve users?" />
-      <item value="What should we name the password grant client?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1647" />
+        <entry key="ENGLISH" value="1651" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1648" />
+        <entry key="RUSSIAN" value="1651" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
