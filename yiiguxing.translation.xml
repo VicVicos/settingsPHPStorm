@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="נמוכה מההצעה המובילה" />
+      <item value="ההצעה שלך מ-100$ הוצע על ידי הצעה גבוהה יותר" />
       <item value="Hello! Is done. In case of problems, please write." />
       <item value="В случае возникновения проблем напишите пожалуйста." />
       <item value="Made." />
@@ -49,8 +51,6 @@
       <item value="If change the name of the login button to &quot;Bid now&quot;. In Italian it will be like &quot;Scommetti ora&quot;. This is good?" />
       <item value="If you change the name of the login button to &quot;Bid now&quot;. In Italian it will be like &quot;Scommetti ora&quot;. This is good?" />
       <item value="If you change the name of the login button to bid now. In Italian it will be like &quot;Scommetti ora&quot;. This is good?" />
-      <item value="Если сменить имя кнопки login на bid now. На итальянском это будет как &quot;Scommetti ora&quot;. This is good?" />
-      <item value="Локализацию дополнил. Спасибо за помощь!" />
     </histories>
     <option name="languageScores">
       <map>
@@ -82,7 +82,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="22" />
+        <entry key="HEBREW" value="24" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
