@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A mistake. Other API calls also throw an error." />
+      <item value="Ошибочка. Другие API вызовы тоже вызывают ошибку." />
       <item value="Get content to all pages" />
       <item value="Get content all pages" />
       <item value="Action for API query offer" />
@@ -49,19 +51,17 @@
       <item value="Now, when adding any get parameter to the page, it encounters pages with the text &quot;Sorry, you are not allowed to access this page&quot;." />
       <item value="Сейчас при добавлении к странице любого get параметра на встречает страницы с текстом &quot;Sorry, you are not allowed to access this page&quot;." />
       <item value="How to set up allowed get params." />
-      <item value="Как настроить разрешённые get params." />
-      <item value="В том и проблема что ссылка в меню не отображается." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1665" />
+        <entry key="ENGLISH" value="1666" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1665" />
+        <entry key="RUSSIAN" value="1666" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
