@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="password repeat" />
       <item value="You are logged in!" />
       <item value="Thank! The problem has been resolved. The documentation didn't mention sessionId, and I forgot about it." />
       <item value="Спасибо! Проблема решена. В документации не указано было про sessionId, а я и забыл про него." />
@@ -50,18 +51,17 @@
       <item value="id on required" />
       <item value="id to required" />
       <item value="Authentication passed..." />
-      <item value="all offers by user_" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1679" />
+        <entry key="ENGLISH" value="1680" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1679" />
+        <entry key="RUSSIAN" value="1680" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
