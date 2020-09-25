@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Yes. All API requests go using one function. In addition, there are no problems on the test site where development is underway. The problem appeared as soon as I updated the plugin to the client sites." />
+      <item value="Да. Все API запросы уходят использую одну функцию. К тому же на тестовом где ведётся разработка проблем нет. Проблема появилась сразу как только я обновил плагин на сайты клиентов." />
+      <item value="Контент исправлю чуть позднее." />
       <item value="Hello! When updating the plugin to client sites, a CORS error occurs with calling new API functions, and this time the problem is not in the absence of the sessionId." />
       <item value="Здравствуйте! При обновлении плагина на сайты клиентов возникает CORS ошибка с вызовом новых API функций, и на этот раз проблема не в отсутствие sessionId." />
       <item value="us-states" />
@@ -48,20 +51,17 @@
       <item value="В случае возникновения проблем напишите пожалуйста." />
       <item value="Made." />
       <item value="Is done." />
-      <item value="Сделали." />
-      <item value="Пожалуйста одобрите этот домен." />
-      <item value="Please authorize this domain." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1688" />
+        <entry key="ENGLISH" value="1690" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1688" />
+        <entry key="RUSSIAN" value="1690" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
