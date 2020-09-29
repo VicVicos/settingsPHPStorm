@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chinese" />
+      <item value="China" />
       <item value="As I understand it, there are other languages in the customer profile." />
       <item value="As I understand it, there are other languages ​​in the customer profile." />
       <item value="Как я понимаю а профиле клиентов есть и другие языки." />
@@ -49,19 +51,17 @@
       <item value="log As User" />
       <item value="can" />
       <item value="Update room search data, if id empty - create room search query" />
-      <item value="Update room search data" />
-      <item value="Store" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1714" />
+        <entry key="ENGLISH" value="1716" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1713" />
+        <entry key="RUSSIAN" value="1715" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
