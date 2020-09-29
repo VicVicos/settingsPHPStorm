@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As I understand it, there are other languages in the customer profile." />
+      <item value="As I understand it, there are other languages ​​in the customer profile." />
+      <item value="Как я понимаю а профиле клиентов есть и другие языки." />
+      <item value="Поддерживаемые языки" />
+      <item value="You can send me a list of all languages that Bidspirit supports. Right now we can only import English (en) and Hebrew (he)" />
+      <item value="Можете отправить мне список всех языков что поддерживает Bidspirit. Сейчас мы может импортировать только Английский (en) и Иврит (he)" />
       <item value="Disabled access" />
       <item value="disabledaccess" />
       <item value="breakfast" />
@@ -45,23 +51,17 @@
       <item value="Update room search data, if id empty - create room search query" />
       <item value="Update room search data" />
       <item value="Store" />
-      <item value="Store Room Search Request" />
-      <item value="HTTP VARIANT ALSO NEGOTIATES EXPERIMENTAL" />
-      <item value="HTTP INSUFFICIENT STORAGE" />
-      <item value="The problem was solved with the old APIs, but the problem remained with the new ones." />
-      <item value="Со старыми API проблема решена, а вот с новыми проблема осталась." />
-      <item value="A mistake. Other API calls also throw an error." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1709" />
+        <entry key="ENGLISH" value="1714" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1709" />
+        <entry key="RUSSIAN" value="1713" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
