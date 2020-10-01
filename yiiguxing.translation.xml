@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="See the attached screenshots to the first letter." />
+      <item value="Смотрите приложенные скрины к первому письму." />
+      <item value="The problem arises when iPhone users using the Safari browser try to log in or register through a submit form that sends a request to users / register or users / login." />
+      <item value="Проблема возникает когда пользователи iPhone используя браузер Safari пытаются авторизоваться или зарегистрироваться через форму отправка которых отправляет запрос на users/register или users/login." />
       <item value="Hello! We again identified a problem with authorization and registration on iOs. There was a similar problem earlier in the Chrome browser." />
       <item value="Аналогичная проблема была ранее в браузере Chrome." />
       <item value="Здравствуйте! Снова выявили проблему с авторизацией и регистрацией на iOs." />
@@ -47,21 +51,17 @@
       <item value="facilities adultsonly" />
       <item value="facilities pets" />
       <item value="Apartament" />
-      <item value="Action for offer status" />
-      <item value="Get settings data" />
-      <item value="User phone" />
-      <item value="Confirm password" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1737" />
+        <entry key="ENGLISH" value="1740" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1737" />
+        <entry key="RUSSIAN" value="1740" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
