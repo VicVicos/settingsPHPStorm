@@ -1,0 +1,14 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="tw1.designschool.ru" id="5c733ab0-770a-4a70-899b-3ed013355c76" keyPath="C:\Users\vicos\Documents\webit\putty\designschool.ru.ppk" port="22" customName="designschool_pred_prod" nameFormat="CUSTOM" username="designschool">
+        <option name="customName" value="designschool_pred_prod" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="vicosb.beget.tech" id="bf16afbb-ad23-4cf8-9b3e-3e05599de790" port="22" nameFormat="DESCRIPTIVE" username="vicosb_moodo" />
+      <sshConfig authType="PASSWORD" host="vicosb.beget.tech" id="fab397c5-3131-4969-918c-2d8ec5ba0826" port="22" nameFormat="DESCRIPTIVE" username="vicosb_moodo2" />
+      <sshConfig authType="PASSWORD" host="vicosb.beget.tech" id="5ddbae81-92c7-46d5-b03b-97ebe56e918d" port="22" customName="uco_vocis.dev" nameFormat="CUSTOM" username="vicosb_uco">
+        <option name="customName" value="uco_vocis.dev" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

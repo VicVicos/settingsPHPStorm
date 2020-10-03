@@ -1,68 +1,95 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Monday" />
-      <item value="sunday" />
-      <item value="daughter Name" />
-      <item value="Returns the value of the first argument raised to the power of the second argument. Special cases:" />
-      <item value="Returns the correctly rounded positive square root of a" />
-      <item value="Peple" />
-      <item value="Solution" />
-      <item value="Консоль почините! Она лагает и часто открывается белым окном, да и в последнее время окно мастер пароля так же стал.&#10;Я конечно попробую сбросить браузер и запустить его чистым, но всё же посмотрите на этот момент." />
-      <item value="Оставил заказ. А что есть на i3?" />
-      <item value="+ радиатор" />
-      <item value="Предоставьте пожалуйста ссылки." />
-      <item value="* Tests whether the application can execute the file denoted by this * abstract pathname. On some platforms it may be possible to start the * Java virtual machine with special privileges that allow it to execute * files that are not marked executable. Consequently this method may return * {@code true} even though the file does not have execute permissions." />
-      <item value="Seekable" />
-      <item value="out" />
-      <item value="resolve" />
-      <item value="newdir.resolve" />
-      <item value="If you notice that IntelliJ IDEA works slowly, consider the possibility to reduce the number of folders under antivirus protection. Each antivirus check in your project consumes resources. You can significantly improve the performance, if you exclude certain folders from the antivirus protection." />
-      <item value="If you notice that IntelliJ IDEA works slowly, consider the possibility to reduce the number of folders under antivirus protection.&#10;Each antivirus check in your project consumes resources. You can significantly improve the performance, if you exclude certain folders from the antivirus protection." />
-      <item value="RESOURCE FILE" />
-      <item value="The Git repository at the following path is in the detached HEAD state: H:\Profa\JavaProjects\Module10\TotalComma You can look around, make experimental changes and commit them, but be sure to checkout a branch not to lose your work. Otherwise you risk losing your changes." />
-      <item value="file Formatted" />
-      <item value="What does JVM include?" />
-      <item value="you can experiment here, it won’t be checked" />
-      <item value="path To" />
-      <item value="File Already Exists Exception" />
-      <item value="conversation" />
-      <item value="walk The Catalog" />
-      <item value="walk The Directory" />
-      <item value="Ходить по каталогу" />
-      <item value="walk To Directory" />
-      <item value="walk Directory" />
-      <item value="режим" />
-      <item value="everyone" />
-      <item value="view Elem" />
-      <item value="walk For Elem" />
-      <item value="Path Bag Coder" />
-      <item value="Путь говнокодера" />
-      <item value="говнокодер" />
-      <item value="walk For Directory" />
-      <item value="walk Dirictory" />
-      <item value="walk Dir" />
-      <item value="set Path" />
-      <item value="путь" />
-      <item value="path" />
-      <item value="Спасибо за понимание!" />
-      <item value="Здравствуйте! Купон 1819mi закончился и я не могу его использовать. Можно получить персональный купон? аналогичный по скидке для продуктов:" />
-      <item value="learn of" />
-      <item value="learn of assert" />
-      <item value="Здравствуйте! Что на счёт купона на скидку? Обидно потерять такую возможность взять товар по такой цене." />
-      <item value="get Loggined User" />
+      <item value="offer History" />
+      <item value="offer Histories" />
+      <item value="to phone" />
+      <item value="Edit will open new window with member screen" />
+      <item value="update table room_search_offers and if first view - offers table" />
+      <item value="belongs To" />
+      <item value="Assets history" />
+      <item value="Are you sure?" />
+      <item value="See the attached screenshots to the first letter." />
+      <item value="Смотрите приложенные скрины к первому письму." />
+      <item value="The problem arises when iPhone users using the Safari browser try to log in or register through a submit form that sends a request to users / register or users / login." />
+      <item value="Проблема возникает когда пользователи iPhone используя браузер Safari пытаются авторизоваться или зарегистрироваться через форму отправка которых отправляет запрос на users/register или users/login." />
+      <item value="Hello! We again identified a problem with authorization and registration on iOs. There was a similar problem earlier in the Chrome browser." />
+      <item value="Аналогичная проблема была ранее в браузере Chrome." />
+      <item value="Здравствуйте! Снова выявили проблему с авторизацией и регистрацией на iOs." />
+      <item value="Sorry to bother you with this question, we found everything you need on the site." />
+      <item value="Извините за беспокойство с этим вопросом нашли на сайте всё необходимое." />
+      <item value="personal Data Accept" />
+      <item value="send email to admin after register" />
+      <item value="New user, need approve" />
+      <item value="MAIL FROM ADDRESS" />
+      <item value="Authentication passed" />
+      <item value="A notification about the registration of a new Member will be sent to Admin and Admin will be able to set the Member as active. https://app.moqups.com/2wM2h6swuU/view/page/ad631cc1a" />
+      <item value="Member will fill up" />
+      <item value="Member will" />
+      <item value="Member will fill up the registration form" />
+      <item value="Stage 1 Clients will fill up the form with price, weekdays, area and type of rooms and will get an explanation about the future process screen. https://app.moqups.com/f713U3G7ar/view/page/ad64222d5 Stage 2 After each offer is published by a Member, if this offer mutch the form Client fills up - system will try to send push notification to Client. If the system will not be able to do it - it will try to send sms. If we don’t have a mobile number or sms will not be sent - will send an email. Stage 3 Clients will get the offer by push notification, sms or email and will be able to mark the offer as not relevant to call the Member. https://app.moqups.com/f713U3G7ar/view/page/a73e717f4 All calls will be recorded using call redirect service." />
+      <item value="Do not forget to clear the cache in the browser by pressing Ctrl + F5" />
+      <item value="Не забываем очистить кеш в браузере нажатием Ctrl + F5" />
+      <item value="Can you clarify on this point?" />
+      <item value="Можно уточнить по этому пункту?" />
+      <item value="Hello! The site has been completed, you can check. The items described above have been corrected." />
+      <item value="Работы по сайту завершены, можно проверять." />
+      <item value="Пункты что описаны выше исправлены." />
+      <item value="amount" />
+      <item value="Dati personali" />
+      <item value="use only as a last resort" />
+      <item value="использовать только в крайнем случа" />
+      <item value="not recomended" />
+      <item value="Синхронизировать аукцион используя wp-cron" />
+      <item value="sync cheduled" />
+      <item value="Chinese" />
+      <item value="China" />
+      <item value="As I understand it, there are other languages in the customer profile." />
+      <item value="As I understand it, there are other languages ​​in the customer profile." />
+      <item value="Как я понимаю а профиле клиентов есть и другие языки." />
+      <item value="Поддерживаемые языки" />
+      <item value="You can send me a list of all languages that Bidspirit supports. Right now we can only import English (en) and Hebrew (he)" />
+      <item value="Можете отправить мне список всех языков что поддерживает Bidspirit. Сейчас мы может импортировать только Английский (en) и Иврит (he)" />
+      <item value="Disabled access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="69" />
-        <entry key="ALBANIAN" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1748" />
+        <entry key="AZERBAIJANI" value="4" />
+        <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
+        <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="69" />
-        <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="ROMANIAN" value="1" />
-        <entry key="HUNGARIAN" value="1" />
+        <entry key="RUSSIAN" value="1748" />
+        <entry key="FRENCH" value="3" />
+        <entry key="FINNISH" value="1" />
+        <entry key="FRISIAN" value="1" />
+        <entry key="DUTCH" value="3" />
+        <entry key="CATALAN" value="3" />
+        <entry key="CZECH" value="1" />
+        <entry key="CORSICAN" value="1" />
+        <entry key="KURDISH" value="1" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="ROMANIAN" value="5" />
+        <entry key="MACEDONIAN" value="2" />
+        <entry key="BENGALI" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="2" />
+        <entry key="SWEDISH" value="3" />
+        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SOMALI" value="1" />
+        <entry key="TELUGU" value="1" />
+        <entry key="TURKISH" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="HEBREW" value="24" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="HINDI" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>

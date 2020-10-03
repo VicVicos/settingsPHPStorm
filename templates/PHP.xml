@@ -1,0 +1,131 @@
+<templateSet group="PHP">
+  <template name="dd" value="echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($END$);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;echo (&quot;File name: &quot;.dirname(__FILE__).&quot;/&quot;.basename(__FILE__).&quot;:&quot;.__LINE__);" description="var_dump()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="foreach ($ITERABLE$ as $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="foreachk" value="foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_KEY" expression="phpSuggestVariableName()" defaultValue="&quot;$index&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="echo" value="echo &quot;$END$&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="&lt;?php  ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="eph" value="&lt;?= $END$ ?&gt;" description="&lt;?=  ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $FUNC$&#10;} catch (Exception $e) {&#10;    $END$&#10;}" description="try catche" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="func" value="function $NAME$($PARAMS$) {&#10;    $END$&#10;}" description="function () {}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($VAR$) {&#10;    case '$VAR$':&#10;        $CODE$&#10;        break;&#10;    &#10;    default:&#10;        $END$&#10;        break;&#10;}" description="switch (){}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="loadModules" value="$document = &amp;JFactory::getDocument();&#10;$renderer = $document-&gt;loadRenderer('modules');&#10;$options = array('style' =&gt; '$STYLE$');&#10;$position = '$END$';&#10;echo $renderer-&gt;render($position, $options, null);" description="Load Modules for Joomla" toReformat="false" toShortenFQNames="true">
+    <variable name="STYLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="curlInit" value="$curlInit = curl_init();&#10;curl_setopt_array($curlInit, array(&#10;    CURLOPT_URL =&gt; '$URL$',&#10;    CURLOPT_RETURNTRANSFER =&gt; true,&#10;    CURLOPT_POST =&gt; true,&#10;    CURLOPT_POSTFIELDS =&gt; http_build_query(array(&#10;        $END$&#10;    ))&#10;));&#10;$response = curl_exec($curlInit);&#10;curl_close($curlInit);" description="curl init" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="error_report" value="error_reporting(E_ALL);&#10;ini_set('display_errors', 1);&#10;ini_set('display_startup_errors', 1);" description="Display errors" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="mvd" value="if (isset($_GET['dev'])) {&#10;    echo &quot;&lt;pre&gt;&quot;;&#10;    var_dump($END$);&#10;    echo &quot;&lt;/pre&gt;&quot;;&#10;    echo (&quot;File name: &quot;.dirname(__FILE__).&quot;/&quot;.basename(__FILE__).&quot;:&quot;.__LINE__);&#10;}" description="var_dump developer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="singleton" value="private static $_instance = null;&#10;&#10;private function __construct() {}&#10;&#10;protected function __clone() {}&#10;&#10;static public function getInstance() {&#10;    if(is_null(self::$_instance))&#10;    {&#10;        self::$_instance = new self();&#10;    }&#10;    return self::$_instance;&#10;}$END$" description="Singleton Base" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="mve" value="file_put_contents($_SERVER['DOCUMENT_ROOT'] . '/dump/var_dump-' . date(&quot;Y-m-d-H-i-s&quot;) . &quot;:&quot; . rand(1000, 9999) . '.txt',&#10;    var_export(array(&#10;        $END$,&#10;        (&quot;File name: &quot; . dirname(__FILE__) . &quot;/&quot; . basename(__FILE__) . &quot;:&quot; . __LINE__)&#10;    ), true));" description="var_export dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="widgetYii2" value="namespace $NAMESPACE$&#10;&#10;use yii\base\Widget;&#10;&#10;class $CLASS$ extends Widget&#10;{&#10;    private $layout = 'default';&#10;&#10;    /**&#10;     * @return string&#10;     */&#10;    public function getLayout (): string&#10;    {&#10;        return $this-&gt;layout;&#10;    }&#10;&#10;    /**&#10;     * @param string $layout&#10;     */&#10;    public function setLayout (string $layout)&#10;    {&#10;        $this-&gt;layout = $layout;&#10;    }&#10;&#10;    public function init()&#10;    {&#10;        parent::init();&#10;    }&#10;&#10;    public function run()&#10;    {&#10;        return $this-&gt;render($this-&gt;getLayout(), [&#10;            $END$&#10;        ]);&#10;    }&#10;}" description="template for widget Yii2" toReformat="false" toShortenFQNames="true">
+    <variable name="NAMESPACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="money_format" value="number_format($MONEY$, 0, '.', '$END$');" description="Money Format" toReformat="false" toShortenFQNames="true">
+    <variable name="MONEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ddd" value="echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($END$);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;echo (&quot;File name: &quot;.dirname(__FILE__).&quot;/&quot;.basename(__FILE__).&quot;:&quot;.__LINE__);&#10;die;" description="var_dump die" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="file_get_content-context" value="$url = &quot;$URL$&quot;&#10;$auth = base64_encode(&quot;$USER$:$PASS$&quot;);&#10;$context = stream_context_create([&#10;    &quot;http&quot; =&gt; [&#10;        &quot;header&quot; =&gt; &quot;Authorization: Basic $auth&quot;&#10;    ]&#10;]);&#10;file_get_contents($url, false, $context);$END$" description="file get content with context" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="protocol_check" value="((!empty($_SERVER['HTTPS']) &amp;&amp; $_SERVER['HTTPS'] !== 'off') || $_SERVER['SERVER_PORT'] == 443)$END$" description="Check protocol" toReformat="false" toShortenFQNames="true" />
+  <template name="backtrace" value="$backtrace = debug_backtrace();&#10;foreach($backtrace as $arr){&#10;  $str = '';&#10;  if(isset($arr['file'])) $str.= 'file: ' . $arr['file'];&#10;  if(isset($arr['line'])) $str.= '&lt;br/&gt; line: ' . $arr['line'];&#10;  if(isset($arr['function'])) $str.= '&lt;br/&gt; function: ' . $arr['function'];&#10;  if(isset($arr['args'])){      &#10;    $str.= '&lt;br/&gt; args: ';&#10;    foreach($arr['args'] as $key =&gt; $value){&#10;      $value = (is_object($value)) ? get_class($value) : $value;&#10;      $str.= &quot;[{$key}] =&gt; &quot; . $value . '  ';&#10;    }&#10;  }&#10;  echo  $str . '&lt;br/&gt;&lt;br/&gt;';   &#10;} &#10;exit;$END$" description="backrace_dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="clear_array" value="$array = array_diff($END$, array(''));" description="Clear array of empty values" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="autoloader" value="function loadInc($class) {&#10;    $path = __DIR__ . '/inc/';&#10;    $parts = explode('\\', $class);&#10;    require_once $path . end($parts) . '.php';&#10;}&#10;&#10;spl_autoload_register('loadInc');&#10;$END$" description="spl_autoload" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

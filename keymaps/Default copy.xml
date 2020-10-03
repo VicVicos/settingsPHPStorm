@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CommittedChanges.Refresh">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="PublishGroup.SyncLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="WebDeployment.ToggleAutoUpload">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="context.clear" />
+</keymap>

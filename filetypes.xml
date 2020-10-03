@@ -1,0 +1,44 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="var_dump-2020-06-19-07-40-14" type="Native" />
+      <mapping pattern="var_dump-2019-12-24-12-36-14" type="Native" />
+      <mapping pattern="var_dump-2020-06-19-07-39-57" type="Native" />
+      <mapping pattern="kOAa4t8unJ0SRxj7FYyDUarvbDnpP3LmDoa03Hkr" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-05-06-15-33-46" type="PLAIN_TEXT" />
+      <mapping pattern="options" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-07-24-14-19-58" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-05-06-15-33-23" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-06-19-07-41-04" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2019-12-24-12-05-44" type="PLAIN_TEXT" />
+      <mapping pattern="WnF6vhKV8Pk33xINGszstAJWdS9vd2GQhlbdOLp4" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2019-12-24-12-35-25" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-05-06-16-01-23" type="PLAIN_TEXT" />
+      <mapping pattern="2HHj0mokS0ExUoHNXNP4Ji0docQXr0s6HoELFxHn" type="PLAIN_TEXT" />
+      <mapping pattern="haaLFgHGS531R8OymgdsKCDj6Ux5zmdbxzvCDebU" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-06-19-07-39-55" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2019-12-24-12-36-00" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2019-12-24-12-06-22" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-06-19-07-39-58" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-06-19-07-44-30" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="ics" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>
