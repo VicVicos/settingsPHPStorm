@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Алгоритм импорта данных" />
+      <item value="Before starting the next import, we are looking for unfinished processes with &quot;progress&quot; statuses for import / lot, import / lotImage, import / auction We take the saved data and try again. Then we continue on the last process &quot;items / getAuctionItems.api, auctions / getAllAuctions.api&quot; that have the status &quot;progress&quot;." />
+      <item value="We wrap the processing process with try/catch, in case we update the status to error and write in the error field json process name, string and error that throws the exception." />
+      <item value="We add an entry about the beginning of each process. We save the data for processing in the &quot;content&quot; field." />
+      <item value="If the process fails, the next time we continue to work with the same auction." />
+      <item value="Before starting the processing of a new auction, check if it has the &quot;progress&quot; status, if yes, then take another auction." />
+      <item value="Перед началом обработки нового аукциона проверем не имеет ли он статус &quot;progress&quot;, если да, то берём другой аукцион." />
+      <item value="Before starting to process a new auction, check if it has the &quot;progress&quot; status. If the process fails, the next time we continue to work with the same auction." />
+      <item value="We redo everything in one process. We receive data from bidspirit and do not load new ones until we process all previously loaded ones." />
       <item value="logging import" />
       <item value="import logging" />
       <item value="ten min" />
@@ -42,26 +51,17 @@
       <item value="Работы по сайту завершены, можно проверять." />
       <item value="Пункты что описаны выше исправлены." />
       <item value="amount" />
-      <item value="Dati personali" />
-      <item value="use only as a last resort" />
-      <item value="использовать только в крайнем случа" />
-      <item value="not recomended" />
-      <item value="Синхронизировать аукцион используя wp-cron" />
-      <item value="sync cheduled" />
-      <item value="Chinese" />
-      <item value="China" />
-      <item value="As I understand it, there are other languages in the customer profile." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1751" />
+        <entry key="ENGLISH" value="1758" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1751" />
+        <entry key="RUSSIAN" value="1759" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
