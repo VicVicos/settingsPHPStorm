@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thanks! I'll hand it over to the designer. Let's think about where to insert them." />
+      <item value="Спасибо! Передам дизайнеру. Подумаем куда их вставить." />
+      <item value="Thanks! Letting the designer know where to insert them." />
+      <item value="Спасибо! Передам дизайнеру, подумаем куда их вставить." />
+      <item value="Get it in original size would be great. The more the better, we will be able to fit the desired block on the site. 480x360 is a very small photo." />
+      <item value="Получить в оригинальном размер было бы отлично. Чем больше тем лучше, сможем подогнать под нужный блок на сайте. 480х360 очень маленькое фото." />
+      <item value="Original size well be good" />
       <item value="Синхронизировано" />
       <item value="Syncronize" />
       <item value="Every minutes" />
@@ -44,24 +51,17 @@
       <item value="We add an entry about the beginning of each process. We save the data for processing in the &quot;content&quot; field." />
       <item value="If the process fails, the next time we continue to work with the same auction." />
       <item value="Before starting the processing of a new auction, check if it has the &quot;progress&quot; status, if yes, then take another auction." />
-      <item value="Перед началом обработки нового аукциона проверем не имеет ли он статус &quot;progress&quot;, если да, то берём другой аукцион." />
-      <item value="Before starting to process a new auction, check if it has the &quot;progress&quot; status. If the process fails, the next time we continue to work with the same auction." />
-      <item value="We redo everything in one process. We receive data from bidspirit and do not load new ones until we process all previously loaded ones." />
-      <item value="logging import" />
-      <item value="import logging" />
-      <item value="ten min" />
-      <item value="десять" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1788" />
+        <entry key="ENGLISH" value="1792" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1789" />
+        <entry key="RUSSIAN" value="1792" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
