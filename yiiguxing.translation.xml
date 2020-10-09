@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Made changes with past pictures. We will send these to the designer, let's see which of them can be used. We have also localized the site into Italian, please check." />
+      <item value="Внесли изменения с прошлыми картинками. Эти отправим дизайнеру, посмотрим что из них можно использовать. Так же мы локализовали сайт на Итальянский, проверьте пожалуйста." />
+      <item value="Instead of this, it will not work" />
+      <item value="Вместо этой, она не подойдёт" />
+      <item value="Сейчас посмотрим куда её можно поставить." />
       <item value="Look at the site for localization, have you made any mistakes?" />
       <item value="Добрый день! Посмотрите сайт на локализацию, не допустил ли ошибок?" />
       <item value="auction date" />
@@ -46,22 +51,17 @@
       <item value="bp hourly" />
       <item value="Is there a larger photo? This one is very small and won't fit." />
       <item value="Есть это фото большего размера? Эта очень маленькая и не подойдёт." />
-      <item value="Is this a large photo? This one is very small and won't fit." />
-      <item value="Есть это фото большом размера? Эта очень маленькая и не подойдёт." />
-      <item value="Есть это фото в оригинальном размере? Эта очень маленькая и не подойдёт." />
-      <item value="Истекает срок годности записей" />
-      <item value="Порча записей" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1810" />
+        <entry key="ENGLISH" value="1814" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1810" />
+        <entry key="RUSSIAN" value="1814" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
