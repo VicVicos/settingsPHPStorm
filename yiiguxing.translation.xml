@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="What about the text file? I didn't receive it in the letter." />
+      <item value="Что на счёт файла с текстом? Я не получил его в письме." />
+      <item value="Where should it be displayed?" />
+      <item value="Где она должна быть отображена?" />
       <item value="Yes. for this, Bidspirit has a separate field for uploading a catalog in pdf format, after which it will appear on the site." />
       <item value="Да. для этого на Bidspirit есть отдельное поле для заливки каталога в pdf формате, после она появится на сайте." />
       <item value="As for the last batch of images, they can only be used as content for pages, but not as design elements." />
@@ -47,21 +51,17 @@
       <item value="Yes! I have already cured the problem by clearing the image cache, but whatever happens, I will need to update the plugin." />
       <item value="Я уже вылечил проблему, очисткой кеша картинок, но что бы этого не происходило надо будет обновить плагин." />
       <item value="We are working on a solution to the problem, tomorrow we will update the plugin and the problem will no longer be repeated." />
-      <item value="Мы работает над решением проблемы, завтра обновим плагин и проблема более не будет повторяться." />
-      <item value="Hi Matteo! I wanted to know about the last error with the picture with lot 156. What actions led to the error?" />
-      <item value="Привет, Matteo! Хотел узнать на счёт последней ошибки с картинкой с лотом 156. Какие действия привели к ошибке?" />
-      <item value="Any suggestions on what to change?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1828" />
+        <entry key="ENGLISH" value="1830" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1828" />
+        <entry key="RUSSIAN" value="1830" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
