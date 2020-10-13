@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Added logging of errors during import" />
+      <item value="Добавлено логирование ошибок при импорте" />
+      <item value="adding logging import lots" />
       <item value="$post Thumbnail Set" />
       <item value="Lot update error when saving images" />
       <item value="Ошибка обновления лота при сохранении картинок" />
@@ -48,20 +51,17 @@
       <item value="There is a little problem with 12stulauction auctions." />
       <item value="Could you give them a unique name? Or do we need to contact the client to get permission for this?" />
       <item value="Не могли бы вы дать им какое либо уникальное имя? Или нам надо связаться с клиентом что бы получиться разрешение на это?" />
-      <item value="When viewing the auctions https://ru.bidspirit.com/ui/houses/12stulauction?lang=en, we can notice that many auctions do not have a name, i.e. in the API field number = ''. I am sure this is a problem, since we cannot save an auction with an empty number field." />
-      <item value="При просмотре аукционов https://ru.bidspirit.com/ui/houses/12stulauction?lang=en можем заметить что много аукционов не имеют имени, т.е. в API поле number = ''. Уверен в этом проблема, так как мы не можем сохранить аукцион с пустым полем number." />
-      <item value="There is a little problem with 12stulauction auctions. For auctions 18, 19, 20, 21, 22, 23, 24, k13, when requesting their lots items/getAuctionItems.api, we receive an error {&quot;success&quot;:false,&quot;errorMessage&quot;:&quot;2 entries found, only 1 is allowed&quot;,&quot;errorCode&quot;:&quot;DUPLICATE&quot;}" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1847" />
+        <entry key="ENGLISH" value="1849" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1847" />
+        <entry key="RUSSIAN" value="1849" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
