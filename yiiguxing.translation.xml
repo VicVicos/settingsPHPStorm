@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="До 24 часов может занять, в редких случая дольше." />
+      <item value="Я внёс нужные изменения. Теперь надо подождать пока изменения вступят в силу." />
+      <item value="Did you throw off the accesses themselves?" />
+      <item value="А сами доступы вы мне скидывали?" />
+      <item value="And if we get FTP access, we can do it without any risk." />
+      <item value="И если получим FTP доступы мы можем это делать без какого либо риска." />
+      <item value="Into the account of ansuiniaste. We said that we would update the plugin, but did not do it because there were active auctions. Can we do this now?" />
+      <item value="На счёт ansuiniaste. Мы говорили что обновим плагин, но не стали этого делать так как были активные аукционы. Теперь мы можем это сделать?" />
+      <item value="You should receive a link to reset your password." />
+      <item value="Вам должна прийти ссылка для сброса пароля." />
+      <item value="Can you log in without any problems?" />
+      <item value="Вам без проблем удаётся авторизоваться?" />
+      <item value="Вым без проблем удаётся авторизоваться?" />
+      <item value="Or give us access to the admin panel of the domain registrar and we will do it ourselves." />
+      <item value="Либо предоставить нам доступ к админ панели регистратора домена и мы сами это сделаем." />
+      <item value="You must change NS records (A record type) of your domain to the ip of our server: 5.189.179.106" />
+      <item value="Вы должны сменить NS записи (тип записи A) вашего домена на ip нашего сервера: 5.189.179.106" />
+      <item value="Please note: We can do any content change you like if you will buy hour bank. Try to make changes in by yourself before you asking for our payed help" />
+      <item value="Corrected other points." />
+      <item value="Остальные пункты исправил." />
+      <item value="Можно приложить скриншот?" />
+      <item value="How should you translate?" />
+      <item value="Как следует перевести?" />
       <item value="Good afternoon! If you don't have any more wishes for what should be finalized, then site ready. We will send information with access to the admin panel and it will remain to move the domain." />
       <item value="Good afternoon! If you don't have any more wishes for what should be finalized, then I'm ready. We will send information with access to the admin panel and it will remain to move the domain." />
       <item value="Добрый день! Если у Вас нет больше пожеланий что стоит доработать, то готов. Вышлем информацию с доступами в админку и останется осуществить переезд домена." />
@@ -28,40 +51,17 @@
       <item value="Ошибка сохранения картинки" />
       <item value="instance Logger" />
       <item value="Ошибка сохранения лота." />
-      <item value="sync Times" />
-      <item value="Loggin Lot" />
-      <item value="strict" />
-      <item value="You need to have access to the place of registration of the domain and change the values of NS records to those that we indicate. If you are ready to move your domain, we will send you instructions." />
-      <item value="You need to have access to the place of registration of the domain and change the values ​​of NS records to those that we indicate. If you are ready to move your domain, we will send you instructions." />
-      <item value="Надо иметь доступ к месту регистрации домена и изменить значения NS записей на те что мы укажем. Если вы готовы осуществить переезд домена мы пришлём инструкцию." />
-      <item value="All content on the site is edited from the admin panel. But for the English version of the site, you need to repeat the steps, no automatic actions are done." />
-      <item value="Весь контент на сайте редактируется из админки. Но для Английской версии сайта надо действия повторять, автоматические ни чего не делается." />
-      <item value="Created a new page for the English version, analogous to &quot;Condições do Leilão&quot;. What text will be for her?" />
-      <item value="Создал новую страницу для английской версии, аналог &quot;Condições do Leilão&quot;. Какой текст будет для неё?" />
-      <item value="No, the English version of the page must be edited separately" />
-      <item value="Нет, английскую версию страницы надо отдельно редактировать" />
-      <item value="Where should display a link to this page?" />
-      <item value="Where should you display a link to this page?" />
-      <item value="Где надо вывести ссылку на эту страницу?" />
-      <item value="What about the text file? I didn't receive it in the letter." />
-      <item value="Что на счёт файла с текстом? Я не получил его в письме." />
-      <item value="Where should it be displayed?" />
-      <item value="Где она должна быть отображена?" />
-      <item value="Yes. for this, Bidspirit has a separate field for uploading a catalog in pdf format, after which it will appear on the site." />
-      <item value="Да. для этого на Bidspirit есть отдельное поле для заливки каталога в pdf формате, после она появится на сайте." />
-      <item value="As for the last batch of images, they can only be used as content for pages, but not as design elements." />
-      <item value="По поводу последней партии картинок, их можно будет использовать разве что в качестве контента для страниц, но не как элементы дизайна." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1860" />
+        <entry key="ENGLISH" value="1874" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1860" />
+        <entry key="RUSSIAN" value="1875" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
