@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Тогда ожидайте." />
+      <item value="What? Do you still see the old site?" />
+      <item value="Что? Вы видите до сих пор старый сайт?" />
       <item value="Сайт переехал." />
       <item value="Corrected. Is everything correct now?" />
       <item value="Исправил. Теперь всё корректно?" />
@@ -48,20 +51,17 @@
       <item value="adding logging import lots" />
       <item value="$post Thumbnail Set" />
       <item value="Lot update error when saving images" />
-      <item value="Ошибка обновления лота при сохранении картинок" />
-      <item value="Ошибка установки главной картинки" />
-      <item value="feature" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1877" />
+        <entry key="ENGLISH" value="1879" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1878" />
+        <entry key="RUSSIAN" value="1880" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
