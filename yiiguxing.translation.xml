@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Good afternoon! If you don't have any more wishes for what should be finalized, then site ready. We will send information with access to the admin panel and it will remain to move the domain." />
+      <item value="Good afternoon! If you don't have any more wishes for what should be finalized, then I'm ready. We will send information with access to the admin panel and it will remain to move the domain." />
+      <item value="Добрый день! Если у Вас нет больше пожеланий что стоит доработать, то готов. Вышлем информацию с доступами в админку и останется осуществить переезд домена." />
       <item value="Чего?" />
       <item value="Please check the position of the link in the menu and page." />
       <item value="Пожалуйста, проверьте позицию ссылки в меню и страницу." />
@@ -48,20 +51,17 @@
       <item value="Да. для этого на Bidspirit есть отдельное поле для заливки каталога в pdf формате, после она появится на сайте." />
       <item value="As for the last batch of images, they can only be used as content for pages, but not as design elements." />
       <item value="По поводу последней партии картинок, их можно будет использовать разве что в качестве контента для страниц, но не как элементы дизайна." />
-      <item value="We have finished working on the site, please check and if you have any comments, write to us." />
-      <item value="Мы закончили работать над сайтом, просим проверить и если есть какие замечания пишите нам." />
-      <item value="We are finished, check and write in case of any amendments." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1856" />
+        <entry key="ENGLISH" value="1860" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1857" />
+        <entry key="RUSSIAN" value="1860" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
