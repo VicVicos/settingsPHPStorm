@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Добавим." />
+      <item value="No images of people. You can choose from those that were previously sent, most of them are suitable for the mobile version." />
+      <item value="Без изображения людей. Можете выбрать из тех что ранее присылали, в большинстве они подойдут для мобильной версии." />
+      <item value="No images of people. You can choose from those that were previously sent, they are suitable for the mobile version." />
+      <item value="Без изображения людей. Можете выбрать из тех что ранее присылали, они подойдут для мобильной версии." />
       <item value="Approve new User" />
       <item value="from" />
       <item value="Follow the link below by copying and pasting it into the address bar of your browser" />
@@ -46,22 +51,17 @@
       <item value="Вам без проблем удаётся авторизоваться?" />
       <item value="Вым без проблем удаётся авторизоваться?" />
       <item value="Or give us access to the admin panel of the domain registrar and we will do it ourselves." />
-      <item value="Либо предоставить нам доступ к админ панели регистратора домена и мы сами это сделаем." />
-      <item value="You must change NS records (A record type) of your domain to the ip of our server: 5.189.179.106" />
-      <item value="Вы должны сменить NS записи (тип записи A) вашего домена на ip нашего сервера: 5.189.179.106" />
-      <item value="Please note: We can do any content change you like if you will buy hour bank. Try to make changes in by yourself before you asking for our payed help" />
-      <item value="Corrected other points." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1897" />
+        <entry key="ENGLISH" value="1899" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1897" />
+        <entry key="RUSSIAN" value="1900" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
