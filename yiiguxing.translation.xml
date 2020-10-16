@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is no such functionality now, but we will implement it soon." />
+      <item value="Такого функционала сейчас нет, но скоро реализуем это." />
       <item value="Please clarify what knows to remove awards?" />
       <item value="Пожалуйста уточните что знаит удалить награды?" />
       <item value="Comming soon" />
@@ -49,19 +51,17 @@
       <item value="We removed information about the auction from the main page, as it was not very well displayed in the background of the picture. Do you mind changing the picture on mobile devices?" />
       <item value="Мы убрали информацию о аукционе с главной, так как она не совсем хорошо отображалась на фоне картинке. Вы не против сменить картинку на мобильных устройствах?" />
       <item value="Hello! I sent edits to git in branch dev the task with the checkbox. After you fill in the edit, let me know, i will need to configure the forms in the admin panel." />
-      <item value="Hello! I sent edits to git in branch dev the task with the checkbox. After you fill in the edit, let me know, you will need to configure the forms in the admin panel." />
-      <item value="Hello! I sent edits to the task with the checkbox. After you fill in the edit, let me know, you will need to configure the forms in the admin panel." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1918" />
+        <entry key="ENGLISH" value="1919" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1918" />
+        <entry key="RUSSIAN" value="1919" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
