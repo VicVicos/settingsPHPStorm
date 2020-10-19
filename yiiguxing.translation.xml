@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Used to display the system time the user" />
+      <item value="Used to display the system time for the user" />
+      <item value="Используется для отображения системного времени у пользователя" />
+      <item value="Use only for display system time" />
+      <item value="Use only for system time." />
+      <item value="Explanation of the displayed time" />
+      <item value="Пояснение отображаемого времени" />
+      <item value="Description on time zone" />
+      <item value="Description time zone" />
       <item value="Time zone to auction house" />
       <item value="Time zone auction house" />
       <item value="Display the time of auctions using the system time the user\'s computer" />
@@ -42,26 +51,17 @@
       <item value="Those. do you need a window with the text that the site uses cookies and the user must give consent?" />
       <item value="Those. do you need a box with the text that the site uses cookies and the user must give consent?" />
       <item value="Т.е. нужно окно с текстом что на сайте используются cookie и пользователь должен дать согласие?" />
-      <item value="Добавим." />
-      <item value="No images of people. You can choose from those that were previously sent, most of them are suitable for the mobile version." />
-      <item value="Без изображения людей. Можете выбрать из тех что ранее присылали, в большинстве они подойдут для мобильной версии." />
-      <item value="No images of people. You can choose from those that were previously sent, they are suitable for the mobile version." />
-      <item value="Без изображения людей. Можете выбрать из тех что ранее присылали, они подойдут для мобильной версии." />
-      <item value="Approve new User" />
-      <item value="from" />
-      <item value="Follow the link below by copying and pasting it into the address bar of your browser" />
-      <item value="Перейдите по ссылке нижу скопировав и вставив её в адресную строку браузера" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1929" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1929" />
+        <entry key="RUSSIAN" value="1936" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
