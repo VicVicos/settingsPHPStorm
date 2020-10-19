@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="term_id, tl_term_id, slug or locale of the queried language" />
       <item value="page on front page id" />
       <item value="true if we should return only valid registered post types" />
       <item value="wp list pluck" />
@@ -50,18 +51,17 @@
       <item value="Такая страница с информацией о cookie подойдёт?" />
       <item value="If required, then yes Here you can see an example of how it is implemented." />
       <item value="Если требуют, то да Здесь можете увидеть пример как реализовано." />
-      <item value="Если требуют, то да" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1939" />
+        <entry key="ENGLISH" value="1940" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1939" />
+        <entry key="RUSSIAN" value="1940" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
