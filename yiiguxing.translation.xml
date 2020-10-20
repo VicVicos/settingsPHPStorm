@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Facilities Disabledaccess" />
+      <item value="Facilities Adultsonly" />
       <item value="Редактируйте текущую домашнюю страницу." />
       <item value="Or I don't quite understand you." />
       <item value="Или я вас не совсем понял." />
@@ -49,19 +51,17 @@
       <item value="Description time zone" />
       <item value="Time zone to auction house" />
       <item value="Time zone auction house" />
-      <item value="Display the time of auctions using the system time the user\'s computer" />
-      <item value="Display the time of auctions using the system time on the user\'s computer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1965" />
+        <entry key="ENGLISH" value="1967" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1966" />
+        <entry key="RUSSIAN" value="1967" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
