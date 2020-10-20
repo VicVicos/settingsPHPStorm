@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Редактируйте текущую домашнюю страницу." />
+      <item value="Or I don't quite understand you." />
+      <item value="Или я вас не совсем понял." />
+      <item value="С вашего одобрения." />
+      <item value="We also improved the multilanguage support and would like to start setting up the Eng version of the site now." />
+      <item value="We also improved the multilingual support and would like to start setting up the Eng version of the site now." />
+      <item value="Так же мы доработали поддержку мультиязычности и хотели бы сейчас приступить к настройки Eng версии сайта." />
+      <item value="We have updated the plugin on the site and the site now supports multilanguage. You can view." />
+      <item value="We have updated the plugin on the site and the site now supports multilingualism. You can view." />
+      <item value="Мы обновили плагин на сайте и сайт теперь поддерживает мультиязычность. Можете посмотреть." />
       <item value="If you have this information, you could not add it to the API request." />
       <item value="Если у вас эта информация имеется, не могли бы добавить её в API запрос." />
       <item value="The problem is that we do not know when the auction ended. If you have this information, you could not add it to the API request." />
@@ -41,27 +51,17 @@
       <item value="Time zone auction house" />
       <item value="Display the time of auctions using the system time the user\'s computer" />
       <item value="Display the time of auctions using the system time on the user\'s computer" />
-      <item value="Отображать время аукционов используя системное время на компьютере пользователя" />
-      <item value="Show user browser time" />
-      <item value="Add time zone settings options" />
-      <item value="Добавить опции настроек часового пояса" />
-      <item value="Made edits, please check." />
-      <item value="Внёс правки, проверьте пожалуйста." />
-      <item value="The test domain is no longer available. Replace the domain in the site with your domain. I will send updated information now." />
-      <item value="Тестовый домен более не доступен. Замените домен в сайте на Ваш домен. Сейчас отправлю обновлённую информацию." />
-      <item value="We can easily translate all pages into English, now we are implementing multilanguage for the Bidspirit plugin and then we will do everything." />
-      <item value="We can easily translate all pages into English, now we are implementing multilingualism for the Bidspirit plugin and then we will do everything." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1956" />
+        <entry key="ENGLISH" value="1965" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1956" />
+        <entry key="RUSSIAN" value="1966" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
