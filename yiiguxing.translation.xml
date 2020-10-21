@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Let's think about what we can do to get a great solution." />
+      <item value="Давайте подумаем что можно сделать что бы получить отличное решение." />
+      <item value="Hello! Unfortunately, the option you proposed will not work. Since we create a fully automatic system and strive to ensure that the administrator interacts with the site to a minimum. In the proposed option, need to change the &quot;Display prices for completed auctions&quot; option each time. And clients want to hide the price for a few hours, here we are not talking about days." />
+      <item value="And clients want to hide the price for a few hours, here we are not talking about days." />
+      <item value="In the proposed option, need to change the &quot;Display prices for completed auctions&quot; option each time." />
+      <item value="In the proposed option, you will need to change the &quot;Display prices for completed auctions&quot; option each time." />
+      <item value="Since we create a fully automatic system and strive to ensure that the administrator interacts with the site to a minimum." />
+      <item value="Hello! Unfortunately, the option you proposed will not work. Since we create a fully automatic system and strive to ensure that the site administrator interacts with the site to a minimum. In the proposed option, you will need to change the &quot;Display prices for completed auctions&quot; option each time. And clients want to hide the price for a few hours, here we are not talking about days." />
+      <item value="Hello! К сожалению предложенный вами вариант не будет работать. Так как мы создаём полностью автоматическую систему и стремимся к тому что бы администратор сайта по минимуму взаимодействовал с сайтом. В предложенном вам варианте надо будет каждый раз изменять опцию &quot;Отображать цены для завершённых аукционов&quot;. И клинты хотят скрыть цену на несколько часов, тут речь не идёт о днях." />
       <item value="Hello! We added the English version of the site, translated static elements, did not translate the texts on the pages in order to avoid mistakes." />
       <item value="Мы добавили Английскую версию сайта, статичные элементы перевели, сами тексты на страницах переводить не стали во избежании ошибок." />
       <item value="Или проверьте в режиме инкогнито." />
@@ -42,26 +51,17 @@
       <item value="hello! can you repeat the mistake?" />
       <item value="Hello! Вы можете повторить ошибку?" />
       <item value="if" />
-      <item value="term_id, tl_term_id, slug or locale of the queried language" />
-      <item value="page on front page id" />
-      <item value="true if we should return only valid registered post types" />
-      <item value="wp list pluck" />
-      <item value="Used to display the system time the user" />
-      <item value="Used to display the system time for the user" />
-      <item value="Используется для отображения системного времени у пользователя" />
-      <item value="Use only for display system time" />
-      <item value="Use only for system time." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1971" />
+        <entry key="ENGLISH" value="1978" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1971" />
+        <entry key="RUSSIAN" value="1978" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
