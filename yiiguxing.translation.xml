@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! We added the English version of the site, translated static elements, did not translate the texts on the pages in order to avoid mistakes." />
+      <item value="Мы добавили Английскую версию сайта, статичные элементы перевели, сами тексты на страницах переводить не стали во избежании ошибок." />
       <item value="Или проверьте в режиме инкогнито." />
       <item value="Yes, there was a problem with relirect, I fixed it. You need to clear the browser cache as redirects are cached." />
       <item value="Yes, there was a problem with relirect, I fixed it. We need to clear the browser cache as redirects are cached." />
@@ -49,19 +51,17 @@
       <item value="Используется для отображения системного времени у пользователя" />
       <item value="Use only for display system time" />
       <item value="Use only for system time." />
-      <item value="Explanation of the displayed time" />
-      <item value="Пояснение отображаемого времени" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1969" />
+        <entry key="ENGLISH" value="1971" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1970" />
+        <entry key="RUSSIAN" value="1971" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
