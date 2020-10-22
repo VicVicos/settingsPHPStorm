@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scheduled" />
       <item value="Prices users want to get" />
       <item value="price to" />
       <item value="price from" />
@@ -50,7 +51,6 @@
       <item value="Мы обновили настройки плагина, время начала аукциона теперь будет отображаться, то что указано для аукциона в Bidspirit и не будет вычисляться исходя из системного времени на устройстве пользователя." />
       <item value="Мы обновили настройки плагина, время начала аукциона теперь будет отображаться, то что указано для аукциона в Bidspirit." />
       <item value="Auction 9 has already been archived, I can see it on the Aste passate page" />
-      <item value="Аукцион 9 уже перешёл в архивные, я его вижу на странице Aste passate" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1982" />
+        <entry key="RUSSIAN" value="1983" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
