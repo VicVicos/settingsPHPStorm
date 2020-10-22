@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! Indeed, there is no language switcher on the phone. I will fix it. I received translations." />
+      <item value="Здравствуйте! Действительно на телефоне нет переключателя языка. Исправилю. Переводы получил." />
       <item value="grouping Data" />
       <item value="groupingdata" />
       <item value="get Fields Group Conditions" />
@@ -49,19 +51,17 @@
       <item value="We received a task from clients to hide prices for lots after the end of the auction." />
       <item value="Hello! We received a task from clients to hide prices for lots after the end of the auction. The problem is that we do not know when the auction ended. If you have this information, you could not add it to the API request." />
       <item value="Hello! От клиентов нам поступила задача скрывать цены для лотов после завершения аукциона. Проблема с тем что мы не знаем момента когда у аукцион закончился. Если у вас эта информация имеется, не могли бы добавить её в API запрос." />
-      <item value="Get statics by params" />
-      <item value="Hide prices for x hours after ended auction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1988" />
+        <entry key="ENGLISH" value="1989" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1988" />
+        <entry key="RUSSIAN" value="1989" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
