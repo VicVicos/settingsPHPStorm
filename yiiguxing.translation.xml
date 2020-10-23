@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="7) Нет такого функционала" />
+      <item value="7) There is no such thing" />
+      <item value="6) Связано с 1 пунктом." />
+      <item value="6) Related to item 1 and outdated version of the plugin." />
+      <item value="5) An empty directory is not displayed." />
+      <item value="4) Completely on the bidspirit side. We do not send any emails." />
+      <item value="1) Problem with multilingual plugin, we do not support WPML Multilingual CMS multilingual plugin. It has nothing to do with the plugin we sell. Multilingual support is available in the Polylang plugin." />
+      <item value="1) Проблема с плагином мультиязычности, мы не поддерживаем WPML Multilingual CMS плагин мультиязычности. Это ни как не связано с плагином что мы продаём. Поддержка мультиязычности есть в плагине Polylang. 1) Проблема сайта. 2) В процессе. *3) Упустил. 4) Полностью на стороне bidspirit. Мы не отправляем ни каких писем. 5) Пустой каталог не отображается. 6) Связано с 1 пунктом и устаревшей версией плагина. 7) Нет такого 8) 9) Дополнительные доработки за отдельный часы банка. 10) Заполните соответствующее поле в портале bidspirit и ссылка на файл pdf появится на сайте. 11) В процессе. 12) ???" />
       <item value="get Facilities Searches Values" />
       <item value="Prepare the value and operator for a where clause." />
       <item value="None,Not Intrested,Pause Month,Pause 2 Weeks,Unsuscribe,Change Preerences,Dont Like Room,Dont Like City,Update Profile" />
@@ -43,25 +51,17 @@
       <item value="Yes, there was a problem with relirect, I fixed it. We need to clear the browser cache as redirects are cached." />
       <item value="Да, проблема с релиректом была, я её исправил. Надо очистить кеш браузера, так как редиректы кешируются." />
       <item value="Facilities Disabledaccess" />
-      <item value="Facilities Adultsonly" />
-      <item value="Редактируйте текущую домашнюю страницу." />
-      <item value="Or I don't quite understand you." />
-      <item value="Или я вас не совсем понял." />
-      <item value="С вашего одобрения." />
-      <item value="We also improved the multilanguage support and would like to start setting up the Eng version of the site now." />
-      <item value="We also improved the multilingual support and would like to start setting up the Eng version of the site now." />
-      <item value="Так же мы доработали поддержку мультиязычности и хотели бы сейчас приступить к настройки Eng версии сайта." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2000" />
+        <entry key="ENGLISH" value="2005" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2000" />
+        <entry key="RUSSIAN" value="2006" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
