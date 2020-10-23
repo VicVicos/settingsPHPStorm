@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Hidden Lots" />
+      <item value="is Hide Lots" />
       <item value="hide prices" />
       <item value="About the moments with the site that you indicated in the last letter." />
       <item value="Об моментах с сайтом что вы указали в последнем письме." />
@@ -49,19 +51,17 @@
       <item value="grouping Data" />
       <item value="groupingdata" />
       <item value="get Fields Group Conditions" />
-      <item value="get Fields Group Cond" />
-      <item value="get Fields Group" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2022" />
+        <entry key="ENGLISH" value="2024" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2022" />
+        <entry key="RUSSIAN" value="2024" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
