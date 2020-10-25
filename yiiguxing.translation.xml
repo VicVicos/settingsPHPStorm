@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disable messages until" />
+      <item value="Now on the phone I see three slides, before clearing the cache there were two" />
+      <item value="Сейчас на телефоне я вижу три слайда, до очистки кеша было два" />
+      <item value="Need clear cache" />
+      <item value="Page How to participate has been translated" />
+      <item value="Страница How to participate была переведена" />
+      <item value="Page How to participate well be translated" />
+      <item value="There are changes, I see three new slides in the English version of the site." />
+      <item value="Изменения есть, я вижу три новых слайда в английской версии сайта." />
       <item value="Change Preferences" />
       <item value="get Params Meta Query" />
       <item value="is Hidden Lots" />
@@ -40,28 +49,19 @@
       <item value="Prepare the value and operator for a where clause." />
       <item value="None,Not Intrested,Pause Month,Pause 2 Weeks,Unsuscribe,Change Preerences,Dont Like Room,Dont Like City,Update Profile" />
       <item value="Will check not sent offers and will add room_search_offers." />
-      <item value="disable messages until" />
       <item value="Allow NULL values to be inserted into the column" />
       <item value="Those. are we waiting for the rest of the content?" />
-      <item value="Т.е. мы ждём остального контента?" />
-      <item value="Переключатель языков был добавлен" />
-      <item value="3) And also what should be changed on the &quot;CONTACTS&quot; page." />
-      <item value="Pages Terms of sale and About us translated. Where is the text for &quot;WRITTEN OFFER&quot;, &quot;TELEPHONE OFFER PAGE&quot;. And also what should be changed on the &quot;CONTACTS&quot; page." />
-      <item value="Страницы Terms of sale и About us перевёл. Где текст для &quot;WRITTEN OFFER&quot;, &quot;TELEPHONE OFFER PAGE&quot; А так же что следует изменить на странице &quot;CONTACTS&quot;" />
-      <item value="Hello! Indeed, there is no language switcher on the phone. I will fix it. I received translations." />
-      <item value="Здравствуйте! Действительно на телефоне нет переключателя языка. Исправилю. Переводы получил." />
-      <item value="grouping Data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2026" />
+        <entry key="ENGLISH" value="2032" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2026" />
+        <entry key="RUSSIAN" value="2032" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
