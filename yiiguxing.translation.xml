@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="None, NotIntrested, PauseMonth, Pause2Weeks, Unsuscribe, ChangePreerences, DontLikeRoom, DontLikeCity, UpdateProfile" />
       <item value="disable messages until" />
+      <item value="None, NotIntrested, PauseMonth, Pause2Weeks, Unsuscribe, ChangePreerences, DontLikeRoom, DontLikeCity, UpdateProfile" />
       <item value="Now on the phone I see three slides, before clearing the cache there were two" />
       <item value="Сейчас на телефоне я вижу три слайда, до очистки кеша было два" />
       <item value="Need clear cache" />
@@ -55,13 +55,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2033" />
+        <entry key="ENGLISH" value="2034" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2033" />
+        <entry key="RUSSIAN" value="2034" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
