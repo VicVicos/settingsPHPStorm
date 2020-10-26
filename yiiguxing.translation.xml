@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Added splitting auctions into parts and the ability to hide the price for completed auctions." />
+      <item value="Добавлено разбиение аукционов на части и возможность скрыть цена для завершённых аукционов." />
       <item value="give people purpose" />
       <item value="Push Sender" />
       <item value="pause notifications until" />
@@ -49,19 +51,17 @@
       <item value="7) There is no such thing" />
       <item value="6) Связано с 1 пунктом." />
       <item value="6) Related to item 1 and outdated version of the plugin." />
-      <item value="5) An empty directory is not displayed." />
-      <item value="4) Completely on the bidspirit side. We do not send any emails." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2039" />
+        <entry key="ENGLISH" value="2040" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2039" />
+        <entry key="RUSSIAN" value="2040" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
