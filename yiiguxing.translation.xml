@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notice" />
       <item value="Please complete your registration to participate in our auctions." />
       <item value="You are not appoved to bid yet" />
       <item value="The problem here is not that for other countries there is no possibility of choosing from the drop-down list, but that the &quot;state&quot; field does not come to us in response into query users/initSession and we cannot display its value." />
@@ -50,18 +51,17 @@
       <item value="$hidden Price" />
       <item value="Sale of lots after the end of the auction" />
       <item value="Продажа лотов после окончания аукциона" />
-      <item value="Исправим со следующим обновлением плагина." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2052" />
+        <entry key="ENGLISH" value="2053" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2052" />
+        <entry key="RUSSIAN" value="2053" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
