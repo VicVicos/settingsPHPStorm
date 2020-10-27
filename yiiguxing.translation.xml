@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please check your email for verification and account activation" />
+      <item value="Check your mail to complete the registration and be able to participate in auctions" />
+      <item value="Address form, it should read:" />
+      <item value="Address form, it should read" />
+      <item value="Hello tester, please complete your registration to participate in our auctions." />
+      <item value="an email has been sent to andreas.kornfeld@gmail.com for confirmation, please click the link in the email to complete your registration." />
+      <item value="please complete your registration to participate in our auctions." />
       <item value="You are not appoved to bid yet." />
       <item value="Please complete your details." />
       <item value="notice" />
@@ -44,24 +51,17 @@
       <item value="hide prices" />
       <item value="About the moments with the site that you indicated in the last letter." />
       <item value="Об моментах с сайтом что вы указали в последнем письме." />
-      <item value="Will be fixed on next plugin update." />
-      <item value="Будет исправлено при следующем обновлении плагина." />
-      <item value="Fixed it with the next plugin update." />
-      <item value="Fix it with the next plugin update." />
-      <item value="1) Time zone. Fixed by plugin update. The specified time zone is -5. 2) Problem with texts and a typo in the user profile. Fixed by plugin update. 3) Problem with dropdown menu. Please shoot a video on your phone where we can see the problem. 4) White arrows on the slider. Fixed by plugin update. 5) Provinces for Canada. Fix it with the next plugin update. 6) Mandatory field for the second phone. Fixed by plugin update. 7) Address format for US. See the picture attached. It's the same on bidspirit. 8) Change colors. Black bottom bar to #c8c4be Orange to # 64625F Done, please check." />
-      <item value="Сделали, проверьте пожалуйста." />
-      <item value="$hidden Price" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2055" />
+        <entry key="ENGLISH" value="2062" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2055" />
+        <entry key="RUSSIAN" value="2062" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
