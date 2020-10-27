@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You are not appoved to bid yet." />
+      <item value="Please complete your details." />
       <item value="notice" />
       <item value="Please complete your registration to participate in our auctions." />
       <item value="You are not appoved to bid yet" />
@@ -49,19 +51,17 @@
       <item value="1) Time zone. Fixed by plugin update. The specified time zone is -5. 2) Problem with texts and a typo in the user profile. Fixed by plugin update. 3) Problem with dropdown menu. Please shoot a video on your phone where we can see the problem. 4) White arrows on the slider. Fixed by plugin update. 5) Provinces for Canada. Fix it with the next plugin update. 6) Mandatory field for the second phone. Fixed by plugin update. 7) Address format for US. See the picture attached. It's the same on bidspirit. 8) Change colors. Black bottom bar to #c8c4be Orange to # 64625F Done, please check." />
       <item value="Сделали, проверьте пожалуйста." />
       <item value="$hidden Price" />
-      <item value="Sale of lots after the end of the auction" />
-      <item value="Продажа лотов после окончания аукциона" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2053" />
+        <entry key="ENGLISH" value="2055" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2053" />
+        <entry key="RUSSIAN" value="2055" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
