@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="חמישי - שבת" />
+      <item value="שישי-ראשון (2 לילות)" />
       <item value="disable messages until" />
       <item value="message try datetime" />
       <item value="preferences" />
@@ -49,8 +51,6 @@
       <item value="Здравствуйте! К нам обратился клиент со следующей проблемой. Для Канады в профиле пользователя нет поля State (или как он её назвал: Провинция). Посмотрели в профиле пользователя в Bidspirit там есть это поле, а если точнее оно есть для всех стран кроме Израиля и для United States идёт отдельное поле со списком штатов. Подробнее в приложенных картинках. Проблема заключается в том что при запросе users/initSession поле address содержит поле state только для countryCode = 'US', для всех других стран это поле к нам не приходит. И даже если мы отправим его, то отобразить у нас не будет возможным." />
       <item value="state Code Duplicate" />
       <item value="NAME GET PARAM" />
-      <item value="item Indexes" />
-      <item value="Added splitting auctions into parts and the ability to hide the price for completed auctions." />
     </histories>
     <option name="languageScores">
       <map>
@@ -83,7 +83,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="27" />
+        <entry key="HEBREW" value="30" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
