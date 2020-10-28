@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Select first not sent offer order by id Select client from SQL (using stored procedure if it's complicated) with matching the offer with disable_messages_until &gt; now. Write ID’s of selected clients to room_search_offers field in offer table. Order selected clients by last_message_datetime field so clients with will get messages short time ago will be in the end and clients with get messages long time ago - will be in the beginning. Do foreach Check client notification type push (have subscription and last time successfully sent) -&gt; sms (valid mobile and last time successfully sent) -&gt; email (valid email) In the .env file use 2 variables: messages_clients_in_group, messages_minutes_betwen_groups and add to the messages table according to these variables. If offer is disabled - discard all it’s messages" />
       <item value="חמישי - שבת" />
       <item value="שישי-ראשון (2 לילות)" />
       <item value="disable messages until" />
@@ -50,18 +51,17 @@
       <item value="Hello! A client contacted us with the following problem. For Canada, there is no State field in the user profile (or as he called it: Province). We looked at the user profile in Bidspirit there is this field, or rather, it is for all countries except Israel and for United States there is a separate field with a list of states. More details in the attached pictures. The problem is that when requesting users / initSession, the address field contains the state field only for countryCode = 'US', for all other countries this field does not come to us. And even if we send it, it will not be possible for us to display it." />
       <item value="Здравствуйте! К нам обратился клиент со следующей проблемой. Для Канады в профиле пользователя нет поля State (или как он её назвал: Провинция). Посмотрели в профиле пользователя в Bidspirit там есть это поле, а если точнее оно есть для всех стран кроме Израиля и для United States идёт отдельное поле со списком штатов. Подробнее в приложенных картинках. Проблема заключается в том что при запросе users/initSession поле address содержит поле state только для countryCode = 'US', для всех других стран это поле к нам не приходит. И даже если мы отправим его, то отобразить у нас не будет возможным." />
       <item value="state Code Duplicate" />
-      <item value="NAME GET PARAM" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2083" />
+        <entry key="ENGLISH" value="2084" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2083" />
+        <entry key="RUSSIAN" value="2084" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
