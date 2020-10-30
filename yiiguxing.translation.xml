@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extension" />
       <item value="подчёркивание" />
       <item value="assigned ids" />
       <item value="Given a bundle container order item, find and return its child order items - or their order item ids when the $return_ids arg is true." />
@@ -50,18 +51,17 @@
       <item value="The problem here is not that for other countries there is no possibility of choosing from the drop-down list, but that the &quot;state&quot; field does not come to us in response and we cannot display its value. The Bidspirit user profile has this field, and it comes as a text field, for Israel it is hidden." />
       <item value="The Bidspirit user profile has this field, and it comes as a text field, for Israel it is hidden." />
       <item value="В профиле пользователя Bidspirit это поле есть, и оно идёт как текстовое поле, для Израиля оно скрыто." />
-      <item value="The problem here is not that for other countries there is no possibility of choosing from the drop-down list, but that the &quot;state&quot; field does not come to us in response and we cannot display its value." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2088" />
+        <entry key="ENGLISH" value="2089" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2089" />
+        <entry key="RUSSIAN" value="2090" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
