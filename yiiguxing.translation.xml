@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I will fix the localization of footer." />
+      <item value="Локализацию footer исправлю." />
+      <item value="Локализацию подвала исправлю." />
+      <item value="Yes, this error sometimes pops up when new lots do not have time to be loaded and you click on the link to open a lot. Suppose you can't reproduce this error again? I will fix this in the next version of the plugin." />
+      <item value="Да, эта ошибка бывает выскакивает, когда новые лоты не успевают прогрузится и вы нажимаете на ссылку открыть лот. Предположу что снова эту ошибку воспроизвести не получится? Исправлю это в следуюущей версии плагина." />
+      <item value="Да, эта ошибка бывает выскакивает, когда новые лоты не успевают прогрузится и вы нажимаете на ссылку открыть лот. Предположу что снова эту ошибку воспроизвести не получится?" />
       <item value="extension" />
       <item value="подчёркивание" />
       <item value="assigned ids" />
@@ -45,23 +51,17 @@
       <item value="an email has been sent to andreas.kornfeld@gmail.com for confirmation, please click the link in the email to complete your registration." />
       <item value="please complete your registration to participate in our auctions." />
       <item value="You are not appoved to bid yet." />
-      <item value="notice" />
-      <item value="You are not appoved to bid yet" />
-      <item value="The problem here is not that for other countries there is no possibility of choosing from the drop-down list, but that the &quot;state&quot; field does not come to us in response into query users/initSession and we cannot display its value." />
-      <item value="The problem here is not that for other countries there is no possibility of choosing from the drop-down list, but that the &quot;state&quot; field does not come to us in response and we cannot display its value. The Bidspirit user profile has this field, and it comes as a text field, for Israel it is hidden." />
-      <item value="The Bidspirit user profile has this field, and it comes as a text field, for Israel it is hidden." />
-      <item value="В профиле пользователя Bidspirit это поле есть, и оно идёт как текстовое поле, для Израиля оно скрыто." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2089" />
+        <entry key="ENGLISH" value="2094" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2090" />
+        <entry key="RUSSIAN" value="2094" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
