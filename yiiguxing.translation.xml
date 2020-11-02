@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fail XHR query" />
+      <item value="Fatal error or XHR well cancel" />
       <item value="lot per page default" />
       <item value="Лучшие лоты категории" />
       <item value="Top Lots Category" />
@@ -49,19 +51,17 @@
       <item value="Please complete your details." />
       <item value="Please complete your registration to participate in our auctions." />
       <item value="name Month" />
-      <item value="Check your mail to complete the registration and be able to participate in auctions" />
-      <item value="Address form, it should read:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2099" />
+        <entry key="ENGLISH" value="2101" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2099" />
+        <entry key="RUSSIAN" value="2101" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
