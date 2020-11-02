@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Fatal error you mentioned earlier will be fixed the next time the plugin is updated." />
+      <item value="Fatal error, о которой вы говорили ранее, будет исправлено при следующем обновлении плагина." />
+      <item value="Fatal error will be fixed on next plugin update." />
+      <item value="Fatal error будет исправлено при следующем обновлении плагина." />
+      <item value="I cleared the cache on the site, there should be no problems." />
+      <item value="Кеш на сайте очистил, проблем быть не должно." />
+      <item value="Finished with localizing the menu in the basement. From the accompanying changes on the site: dropdown menu." />
+      <item value="Закончил с локализацией меню в подвале. Из сопутствующих изменений на сайте: dropdown menu." />
+      <item value="Finished with localizing the menu in the basement. From the accompanying changes dropdown menu." />
+      <item value="Закончил с локализацией меню в подвале. Из сопутствующих изменений dropdown menu." />
       <item value="Answer to the question: Auctions are synchronized every hour." />
       <item value="Ответ на вопрос: Аукционы синхронизируются каждый час." />
       <item value="I'll figure it out now." />
@@ -41,27 +51,17 @@
       <item value="We've updated the plugin. Added the ability to hide prices for lots for a certain number of hours after the end of the auction." />
       <item value="Мы обновили плагин. Добавили возможность скрывать цены для лотов на определённое количество часов после окончания аукциона." />
       <item value="Hello! We have updated the plugin. Changed the lines that you asked. Examples are attached to the archive to the letter. We also changed the display of the auction start date, you can change it in the plugin settings. As for the &quot;Provinces for Canada&quot; item, we are solving with the support of Bidspirit. As the issue is resolved, we will update the plugin. Now for the item &quot;Problem with dropdown menu.&quot; This is normal behavior when the form (content on the page) is under the dropdown menu." />
-      <item value="This is normal behavior when the form (content on the page) is under the dropdown menu." />
-      <item value="Это нормальное поведение когда форма (контент на странице) находится под выпадающим меню." />
-      <item value="Это нормальное поведение когда форма (контент на странице) находится под выпадающее меню." />
-      <item value="goes under the dropdown menu." />
-      <item value="Now for the item &quot;Problem with dropdown menu.&quot; This is normal behavior when the form (content on the page) goes under the dropdown menu." />
-      <item value="As for the &quot;Provinces for Canada&quot; item, we are solving with the support of Bidspirit. As the issue is resolved, we will update the plugin." />
-      <item value="Что касается пункта &quot;Provinces for Canada&quot; решаем с тех поддержкой Bidspirit. Как вопрос решится мы обновим плагин." />
-      <item value="Hello! We have updated the plugin. Changed the lines that you asked. Examples are attached to the archive to the letter. We also changed the display of the auction start date, you can change it in the plugin settings. As for the &quot;Provinces for Canada&quot; item, we decide from those. Bidspirit support. As the issue is resolved, we will update the plugin. Now for the item &quot;Problem with dropdown menu.&quot; This is normal behavior when the form (content on the page) goes under the dropdown menu." />
-      <item value="мы обновили плагин. Изменили строки что Вы просили. Примеры приложил в архив к письму. Так же изменили отображение даты начала аукциона, можно поменять в настройках плагина. Что касается пункта &quot;Provinces for Canada&quot; решаем с тех. поддержкой Bidspirit. Как вопрос решится мы обновим плагин. Теперь что касается пункта &quot;Problem with dropdown menu.&quot; Это нормальное поведение когда форма (контент на странице) уходит под выпадающее меню." />
-      <item value="Format display time begin auction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2104" />
+        <entry key="ENGLISH" value="2110" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2104" />
+        <entry key="RUSSIAN" value="2110" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
