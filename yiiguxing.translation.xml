@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fcm Message" />
       <item value="And now?" />
       <item value="А сейчас?" />
       <item value="The size of the logo was fixed. Social links fixed." />
@@ -50,18 +51,17 @@
       <item value="Если Вы о файле с demo скриптом с работой API." />
       <item value="I can't find a link to the QA system." />
       <item value="Не могу найти ссылку на QA систему." />
-      <item value="I still will not keep the link to the QA system." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2113" />
+        <entry key="ENGLISH" value="2114" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2113" />
+        <entry key="RUSSIAN" value="2114" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
