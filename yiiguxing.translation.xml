@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! We've updated the plugin and implemented province support for other countries. Please approve." />
+      <item value="We've updated the plugin and implemented province support for other countries." />
+      <item value="Мы обновили плагин и реализовали поддержку province для других стран." />
       <item value="formatted Price" />
       <item value="опция &quot;Custom format display time&quot; будет переопределена" />
       <item value="format list" />
@@ -48,20 +51,17 @@
       <item value="Select first not sent offer order by id Select client from SQL (using stored procedure if it's complicated) with matching the offer with disable_messages_until &gt; now. Write ID’s of selected clients to room_search_offers field in offer table. Order selected clients by last_message_datetime field so clients with will get messages short time ago will be in the end and clients with get messages long time ago - will be in the beginning. Do foreach Check client notification type push (have subscription and last time successfully sent) -&gt; sms (valid mobile and last time successfully sent) -&gt; email (valid email) In the .env file use 2 variables: messages_clients_in_group, messages_minutes_betwen_groups and add to the messages table according to these variables. If offer is disabled - discard all it’s messages" />
       <item value="חמישי - שבת" />
       <item value="שישי-ראשון (2 לילות)" />
-      <item value="disable messages until" />
-      <item value="message try datetime" />
-      <item value="preferences" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2118" />
+        <entry key="ENGLISH" value="2120" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2118" />
+        <entry key="RUSSIAN" value="2120" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
