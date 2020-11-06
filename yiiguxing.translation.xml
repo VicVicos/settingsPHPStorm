@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The version of the drop-down menu for desctop how to leave it now or make it as it was before?" />
+      <item value="Версия выпадающего меню для desctop как сейчас оставить или сделать и его как было раньше?" />
+      <item value="Leave the version of the dropdown menu for desctop now or do it as it was before?" />
+      <item value="Версия выпадающего меню для desctop сейчас оставить или сделать и его как было раньше?" />
+      <item value="We will make the menu as it was before." />
+      <item value="Меню сделаем как было раньше." />
       <item value="main-slider-carpet" />
       <item value="ковёр" />
       <item value="expecting statement" />
@@ -45,23 +51,17 @@
       <item value="Top Category Lots" />
       <item value="Top lots into category" />
       <item value="I will fix the localization of footer." />
-      <item value="Локализацию footer исправлю." />
-      <item value="Локализацию подвала исправлю." />
-      <item value="Yes, this error sometimes pops up when new lots do not have time to be loaded and you click on the link to open a lot. Suppose you can't reproduce this error again? I will fix this in the next version of the plugin." />
-      <item value="Да, эта ошибка бывает выскакивает, когда новые лоты не успевают прогрузится и вы нажимаете на ссылку открыть лот. Предположу что снова эту ошибку воспроизвести не получится? Исправлю это в следуюущей версии плагина." />
-      <item value="Да, эта ошибка бывает выскакивает, когда новые лоты не успевают прогрузится и вы нажимаете на ссылку открыть лот. Предположу что снова эту ошибку воспроизвести не получится?" />
-      <item value="extension" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2126" />
+        <entry key="ENGLISH" value="2130" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2127" />
+        <entry key="RUSSIAN" value="2130" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
