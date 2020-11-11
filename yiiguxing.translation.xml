@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You code for login" />
       <item value="$request" />
       <item value="summary" />
       <item value="Generate Login code for login user" />
@@ -50,18 +51,17 @@
       <item value="Finished with localizing the menu in the basement. From the accompanying changes dropdown menu." />
       <item value="Закончил с локализацией меню в подвале. Из сопутствующих изменений dropdown menu." />
       <item value="Answer to the question: Auctions are synchronized every hour." />
-      <item value="Ответ на вопрос: Аукционы синхронизируются каждый час." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2143" />
+        <entry key="ENGLISH" value="2144" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2143" />
+        <entry key="RUSSIAN" value="2144" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
