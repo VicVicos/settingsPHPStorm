@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inquire Transactions" />
+      <item value="conduct Transaction Template" />
       <item value="ПровестиТранзакциюИспользуяТокен" />
       <item value="Key Value Pair" />
       <item value="Order ID is not unique at the same day: requestId" />
@@ -49,19 +51,17 @@
       <item value="Stage 1 Client will enter the login screen and will write his phone or email. After submit - system will write random code to room_search.login_code and client will get code by email or sms. Code will be 6 digits." />
       <item value="$recipient" />
       <item value="After submit - system will write random code to room_search.login_code and client will get code by email or sms." />
-      <item value="Client will enter the login screen and will write his phone or email." />
-      <item value="Stage 1 Client will enter the login screen and will write his phone or email. After submit - system will write random code to room_search.login_code and client will get code by email or sms. Code will be 6 digits. Stage 2 If the system has this phone or email - the user will be redirected to “Enter code screen” with “I didn’t receive the code button” which will resend the code. If not - user will get message “Email or phone not found in our system” Stage 3 If user code right - user will be redirected to My offers page If not - will see message “Wrong code”" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2176" />
+        <entry key="ENGLISH" value="2178" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2177" />
+        <entry key="RUSSIAN" value="2178" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
