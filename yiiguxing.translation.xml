@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount" />
+      <item value="Stage 1 Member will see payment screen Members will change billing cycles - users.biling_type will be updated immediately and users will see different prices. Iframe will display credit card info will be displayed." />
       <item value="billing type" />
       <item value="BILING TYPE" />
       <item value="Thanks! Now it is clear how it should be." />
@@ -49,19 +51,17 @@
       <item value="Priority–In order to prioritize your messages,you can use the priority tag,when 0 means normal priority, -1 high priority(used only f or a single message),and then1,2and so on. The higher the value,thelowerthepriority." />
       <item value="CustomerParameter–Parameter set by the clientthat can be seenin the reports, later. Can be used to mark each message by activity segmentation, f or example." />
       <item value="CustomerMessageID–Message IDon the client application. When conf irmation on delivery issent back to the client, the message IDis also sent f or synchronization" />
-      <item value="GroupNumber–Use this parameter in orderto send messagestoagroup according to the groupnumberdef ined inthe web site. To send a message tomultiple groupsplease usea semicolon&quot;;&quot;" />
-      <item value="SavedMessageId–Send savedmessage in your account by id.(If you use this tag, don't use the Message tag)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2186" />
+        <entry key="ENGLISH" value="2188" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2186" />
+        <entry key="RUSSIAN" value="2188" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
