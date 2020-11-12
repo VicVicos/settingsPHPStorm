@@ -7,6 +7,7 @@
       <mapping pattern="var_dump-2020-06-19-07-39-57" type="Native" />
       <mapping pattern="kOAa4t8unJ0SRxj7FYyDUarvbDnpP3LmDoa03Hkr" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-11-12-02-31-38" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2020-05-06-15-33-46" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2020-07-24-14-19-58" type="PLAIN_TEXT" />
       <mapping pattern="options" type="PLAIN_TEXT" />
