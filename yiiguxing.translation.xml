@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$recipient" />
       <item value="After patent and invoice will create row in billing_history" />
       <item value="Monthly" />
       <item value="After payment user will see thanks page in payment iframe and will be updated and biling_next_payment_date will be changed according to biling_type." />
@@ -50,18 +51,17 @@
       <item value="some Code" />
       <item value="Information about auctions (time, date, info etc) is stored both on bidspirit and on the auction house’s server. It will be managed manually in both environments. For convenience, there are 2 APIs which can be called from the server (auctions/getAllAuctions, auctions/getAuctionInfo) to synchronize the auction info." />
       <item value="Or I have a link to a oldid version of the documentation. Could you help me clarify this point?" />
-      <item value="oldid" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2205" />
+        <entry key="ENGLISH" value="2206" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2205" />
+        <entry key="RUSSIAN" value="2206" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
