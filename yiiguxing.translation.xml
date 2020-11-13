@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="After the Member finishes adding the rooms he will see a page explaining to him what his profile is waiting for approval by Admin. After Admin will approve the Member - Member will get email with note what he can continue and publish the offers." />
+      <item value="And will be able to continue and create room/s." />
+      <item value="After registration, Members will see a page with an explanation of the process." />
+      <item value="A notification about the registration of a new Member will be sent to Admin and Admin will be able to set the Member as active." />
       <item value="Indicates what transaction will be performed by the MPI and setup the hosted page transaction accordingly.A regular sale is AutoCommFor tokenization only use 'Token'.For authorization only on a two phase sale use ‘Verify’for reverse tokenization (when enabled) use 'CardNo', for other transaction type refer to &quot;validation&quot; tag XML API documentation" />
       <item value="Success transaction" />
       <item value="Cancel of transaction" />
@@ -47,21 +51,17 @@
       <item value="I was tasked with evaluating the integration of the functionality associated with the displayStartPriceInCatalog high-end API, but I cannot find it in the documentation to understand what parameters should be passed and what this API function is. Or I have a link to a tired version of the documentation. Could you help me clarify this point?" />
       <item value="Мне поставили задачу оценить интеграцию функционала связанного с высовом API displayStartPriceInCatalog, но я не могу найти его в документации что бы понять какие параметры надо передавать и что из себя представляет эта API функция. Или я имею ссылку на уставшую версию документации. Не могли бы вы мне помочь разъяснить этот момент?" />
       <item value="IgnoreUnsubscribeCheck–set true f or ignore blacklistcheck. (Contact customer support f or this option)." />
-      <item value="DelayInSeconds–Number of seconds of delay f rom receiving the request in the system and up to sending the message (use this parameteras long astheTimeToSend parameter is not in use)." />
-      <item value="TimeToSend–Date and time on which the messages will besent.Please use the f ollowing f ormat: dd/mm/yyyy hh:mm. If lef t blank, the message will be sent immediately." />
-      <item value="MaxSegments–When sending long messages, this parameter allowsthe client to set the maximum number of segments per message. Value 0 means unlimited segments." />
-      <item value="DeliveryNotificationUrl–Needed in order to send a conf irmation ondelivery to the client. The system will perf orm HTTPpost to this URL with notif ication inf ormation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2193" />
+        <entry key="ENGLISH" value="2197" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2193" />
+        <entry key="RUSSIAN" value="2197" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
