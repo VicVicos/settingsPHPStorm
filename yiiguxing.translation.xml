@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get invoices by user" />
       <item value="Will create a billing_history record with charge_date = biling_next_payment_date and charge_status will be ToPay Will try to do charge and create invoice On success or failure will send an “Admin - charge done” message. On success only will send “Member - charge done” message On failure - will delete" />
       <item value="Clients will get the offer by push notification, sms or email and will be able to mark the offer as not relevant to call the Member. https://app.moqups.com/f713U3G7ar/view/page/a73e717f4 All calls will be recorded using call redirect service." />
       <item value="Clients will fill up the form with price, weekdays, area and type of rooms and will get an explanation about the future process screen. https://app.moqups.com/f713U3G7ar/view/page/ad64222d5 Stage 2 After each offer is published by a Member, if this offer mutch the form Client fills up - system will try to send push notification to Client. If the system will not be able to do it - it will try to send sms. If we don’t have a mobile number or sms will not be sent - will send an email." />
@@ -50,18 +51,17 @@
       <item value="I suppose that this parameter answers that on the auction page for lots, only the starting prices should be displayed. Those. do not display leading rates prices. I'm right?" />
       <item value="Предполагаю что этот параметр отвечает что на странице аукциона для лотов надо отображать только стартовые цены. Т.е. не отображать цены ведущих ставок. Я прав?" />
       <item value="I receive this parameter in response to a request for auctions / getAuctionInfo. And what is he responsible for? and what can you do with it?" />
-      <item value="Я получаю этот параметр в ответ на запрос auctions/getAuctionInfo. И за что он отвечает? и что с ним можно сделать?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2210" />
+        <entry key="ENGLISH" value="2211" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2210" />
+        <entry key="RUSSIAN" value="2211" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
