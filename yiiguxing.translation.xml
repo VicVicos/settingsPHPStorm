@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$accept Privacy Data" />
       <item value="Accept the processing of personal data" />
       <item value="Display &quot;Accept Personal data&quot; on form registration" />
       <item value="I consent and accept the conditions on the processing of personal data" />
@@ -50,18 +51,17 @@
       <item value="Indicates what transaction will be performed by the MPI and setup the hosted page transaction accordingly.A regular sale is AutoCommFor tokenization only use 'Token'.For authorization only on a two phase sale use ‘Verify’for reverse tokenization (when enabled) use 'CardNo', for other transaction type refer to &quot;validation&quot; tag XML API documentation" />
       <item value="Success transaction" />
       <item value="Cancel of transaction" />
-      <item value="Return of transaction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2232" />
+        <entry key="ENGLISH" value="2233" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2232" />
+        <entry key="RUSSIAN" value="2233" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
