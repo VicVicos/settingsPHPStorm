@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="חודש" />
       <item value="If 0 in user - use settings, if not use user value" />
       <item value="If 0 - do not check" />
       <item value="$offers In Month" />
@@ -50,7 +51,6 @@
       <item value="Forget it!" />
       <item value="Пожалуйста!" />
       <item value="APP CURRENCY" />
-      <item value="Hello! We updated the plugin and forgot to clear the cache in the site admin panel. After cleaning, the problem was resolved. Please check." />
     </histories>
     <option name="languageScores">
       <map>
@@ -83,7 +83,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="30" />
+        <entry key="HEBREW" value="31" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
