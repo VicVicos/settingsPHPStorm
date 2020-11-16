@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I made almost all the edits, it remains to change the links after confirming the email and after updating the profile." />
+      <item value="Почти все правки внёс, осталось изменить ссылки после подтверждения email и после обновления профиля." />
+      <item value="Changed" />
       <item value="I have pasted the Google Analytics code please check the connection." />
       <item value="Я вставил код Google Analytics пожалуйста проверьте соединение." />
       <item value="$accept Privacy Data" />
@@ -48,20 +51,17 @@
       <item value="Approved member will be able to publish the offer based on max number of offers he can publish setted by Admin https://app.moqups.com/y56VfcXulX/view/page/acb3c9d4e On offer publish screen Member will be able to click on statistics and see requests statistics graph for selected area based on room he selected https://app.moqups.com/y56VfcXulX/view/page/af2c64888" />
       <item value="After the Member finishes adding the rooms he will see a page explaining to him what his profile is waiting for approval by Admin. After Admin will approve the Member - Member will get email with note what he can continue and publish the offers." />
       <item value="And will be able to continue and create room/s." />
-      <item value="After registration, Members will see a page with an explanation of the process." />
-      <item value="A notification about the registration of a new Member will be sent to Admin and Admin will be able to set the Member as active." />
-      <item value="Indicates what transaction will be performed by the MPI and setup the hosted page transaction accordingly.A regular sale is AutoCommFor tokenization only use 'Token'.For authorization only on a two phase sale use ‘Verify’for reverse tokenization (when enabled) use 'CardNo', for other transaction type refer to &quot;validation&quot; tag XML API documentation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2234" />
+        <entry key="ENGLISH" value="2236" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2234" />
+        <entry key="RUSSIAN" value="2236" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
