@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use" />
       <item value="Integration will not work without it. You can get it here." />
       <item value="Без него не получится выполнить интеграцию. Получить его можете здесь." />
       <item value="Без него не получится выполнить интеграцию." />
@@ -50,7 +51,6 @@
       <item value="$offers In Dey" />
       <item value="Регистрацию проверял сегодня утром." />
       <item value="At the expense of the problem with an error in auction 10. The problem is solely in the user's cache. Measures were taken so that the user's browser would receive an updated version of the files from the server. With regards to onerous registration, could you please describe the problem in more detail? Since the entire registration process takes place without refreshing the page and confirmation emails from Bidspirit come without delay. What may be the problem is not entirely clear. Checked this morning." />
-      <item value="Hello! At the expense of the problem with an error in auction 10. The problem is solely in the user's cache. Measures were taken so that the user's browser would receive an updated version of the files from the server. With regards to onerous registration, could you please describe the problem in more detail? Since the entire registration process takes place without refreshing the page and confirmation emails from Bidspirit come without delay. Checked this morning." />
     </histories>
     <option name="languageScores">
       <map>
