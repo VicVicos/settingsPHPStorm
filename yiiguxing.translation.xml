@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Then we can connect everything." />
+      <item value="После мы сможем всё подключить." />
+      <item value="Integration will not work without it. You can get it here:" />
       <item value="use" />
       <item value="Integration will not work without it. You can get it here." />
       <item value="Без него не получится выполнить интеграцию. Получить его можете здесь." />
@@ -48,20 +51,17 @@
       <item value="If 0 in user - use settings, if not use user value" />
       <item value="If 0 - do not check" />
       <item value="$offers In Month" />
-      <item value="$offers In Dey" />
-      <item value="Регистрацию проверял сегодня утром." />
-      <item value="At the expense of the problem with an error in auction 10. The problem is solely in the user's cache. Measures were taken so that the user's browser would receive an updated version of the files from the server. With regards to onerous registration, could you please describe the problem in more detail? Since the entire registration process takes place without refreshing the page and confirmation emails from Bidspirit come without delay. What may be the problem is not entirely clear. Checked this morning." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2246" />
+        <entry key="ENGLISH" value="2248" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2246" />
+        <entry key="RUSSIAN" value="2248" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
