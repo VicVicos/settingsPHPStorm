@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I will oversee the 82nd auction and resolve this issue if any." />
+      <item value="Я буду наблюдать за 82 аукционом и решу эту проблему если она имеется." />
+      <item value="If the sorting of auctions were in order, then it would be so, but the auctions are sorted by start date, and since the 80 auction starts earlier, we see it earlier than 81. The solution to this problem is to fasten the crutch on the site, and this is resorted to only as a last resort. Now with regard to lots in the auction 82. Within an hour should appear." />
+      <item value="Если бы сортировка аукционов была по порядку, то так бы и было, но аукционы сортируются по дате начала, а так как 80 аукцион стартует раньше, то мы и видим его раньше 81. Решение этой проблемы это прикручивать костыль на сайте, а к этому прибегают только в крайнем случае. Теперь что касается лотов в аукционе 82. В течении часа должны появится." />
       <item value="There is no error here, since the 80 auction starts earlier than 81 so they are so worth it." />
       <item value="Тут ошибки ни какой нет так как 80 аукцион начинается раньше чем 81 поэтому они так стоят." />
       <item value="There is no error here, since the 80th auction starts earlier than 81, so they still stand." />
@@ -47,21 +51,17 @@
       <item value="Ok. And for the English version then how will it be?" />
       <item value="Ok. А для Английской версии тогда как это будет?" />
       <item value="Ранее для Итальянского сайта мы делали текст:" />
-      <item value="What text should the acceptance checkbox have when registering? In Italian and English?" />
-      <item value="Какой текст должен быть у checkbox принятия условий при регистрации? На Итальянском и Английском?" />
-      <item value="As for the buttons on the slides. For those cases when there are no additional slides (next or previous), they take a subtle form and turn off, making it clear that switching the slide further is not possible. If there is a slide, the arrow takes on a clearer look. Sample: https://www.fairhillauction.com/auction/100/lot-11/ Shall we change anything?" />
-      <item value="Что касается кнопок на слайдах. Для тех случаев когда дополнительных слайдов нет (следующих или предыдущих) они принимают малозаметный вид и отключаются, давая понять что переключение слайда дальше не возможно. В случае когда слайд есть, стрелочка принимает более отчётливый вид. Sample: https://www.fairhillauction.com/auction/100/lot-11/ Будем что либо менять?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2253" />
+        <entry key="ENGLISH" value="2255" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2253" />
+        <entry key="RUSSIAN" value="2255" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
