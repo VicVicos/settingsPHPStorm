@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The catalog was, the pictures were not loaded, now everything is in order." />
+      <item value="Каталог был, картинки не грузились, теперь всё в порядке." />
+      <item value="Пока не все обновились." />
+      <item value="The problem with the pictures was solved. Apparently the error was on the side of Bidspirit." />
+      <item value="Проблема с картинками решилась. Видимо ошибка была на стороне Bidspirit." />
+      <item value="Ok. Сейчас проверю." />
+      <item value="On the test site, there are no problems with obtaining images, which is not so on the battle site I can’t understand yet." />
+      <item value="На тестовом сайте проблем с получением изображений нет, что не так на боевом пока понять не могу." />
+      <item value="Could you clarify about FTP / SSH access to the site? This would greatly simplify the task. On the test, there are no problems with obtaining pictures, which is not so on the battlefield yet I can not understand." />
+      <item value="Не могли бы уточнить на счёт FTP/SSH доступов к сайту? Это значительно бы упросило задачу. На тестовом проблем с получением картинок нет, что не так на боевом пока понять не могу." />
       <item value="I have noticed a problem with getting pictures for 82 auctions." />
       <item value="Отмечаю проблему с получением картинок для 82 аукциона." />
       <item value="I will oversee the 82nd auction and resolve this issue if any." />
@@ -41,27 +51,17 @@
       <item value="Changed" />
       <item value="I have pasted the Google Analytics code please check the connection." />
       <item value="Я вставил код Google Analytics пожалуйста проверьте соединение." />
-      <item value="$accept Privacy Data" />
-      <item value="Accept the processing of personal data" />
-      <item value="Display &quot;Accept Personal data&quot; on form registration" />
-      <item value="I consent and accept the conditions on the processing of personal data" />
-      <item value="You must accept the terms of the processing of personal data" />
-      <item value="Can be shortened to:" />
-      <item value="Можно сократить до:" />
-      <item value="It would be appropriate to shorten to:" />
-      <item value="Сократить до будет уместно:" />
-      <item value="Ok. And for the English version then how will it be?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2256" />
+        <entry key="ENGLISH" value="2262" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2256" />
+        <entry key="RUSSIAN" value="2262" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
