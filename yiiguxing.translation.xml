@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do charge" />
       <item value="curl Initial" />
       <item value="Monthly price" />
       <item value="invoice service name" />
@@ -50,7 +51,6 @@
       <item value="Integration will not work without it. You can get it here." />
       <item value="Без него не получится выполнить интеграцию. Получить его можете здесь." />
       <item value="Без него не получится выполнить интеграцию." />
-      <item value="Do you have API key mailchimp?" />
     </histories>
     <option name="languageScores">
       <map>
