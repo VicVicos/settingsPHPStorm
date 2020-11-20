@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auction Number required" />
+      <item value="This needs to be fixed, since it is this field that we have as id auction." />
+      <item value="Это надо исправить так как именно это поле у нас идёт как id auction." />
+      <item value="When importing, I noticed that the value of the field &quot;number&quot; has a value equal to the empty string. Couldn't fix it, since it is this field that we have as id auction." />
+      <item value="When importing, I noticed that the value of the number field has a value equal to the empty string. Couldn't fix it, since it is this field that we have as id auction." />
+      <item value="При импорте я заметил что значение поле number имеет значение равное пустой строке. Не могли бы исправить это, так как именно это поле у нас идёт как id auction." />
       <item value="The plugin updates include improvements to the integration with the Bidspirit website and optimizations for syncing. In addition, the last update fixed the problem that you wrote about earlier, namely: 1) transition to the previous or next lot 2) added a notification to users who are not yet allowed to bid. I wrote you about permission to update the plugin even before you set these tasks to us, and since their solution could not bypass the plugin itself, I already did the plugin update. There is currently no notification in the admin panel about the release of a new version." />
       <item value="К тому же, в последнем обновлении исправлена проблема о которой вы писали ранее, а именно: 1) переход на предыдущий или следующий лот 2) добавлено уведомление пользователям которые ещё не допущены до торгов. Я писал вас о разрешении обновить плагин ещё до того как Вы поставили нам эти задачи, а так как их решение не могло обойти сам плагин, то обновление плагина я уже сделал." />
       <item value="The plugin updates include improvements to the integration with the Bidspirit website and optimizations for syncing." />
@@ -45,23 +51,17 @@
       <item value="Странно что эта проблема у Вас сохраняется. Можете проверить в другом браузере или в режиме инкогнито? Загружать все лоты можно сделать, но это будет за отдельно купленные часы." />
       <item value="This shouldn't be a problem, it takes time." />
       <item value="С этим проблем не должно быть, требуется время." />
-      <item value="Now, judging by the logs, 80 auction are being synchronized, but synchronization starts only when there are visitors to the site." />
-      <item value="Now, judging by the logs, 80 auctions are being synchronized, but synchronization starts only when there are visitors to the site." />
-      <item value="Сейчас, судя по логам, синхронизируется 80 аукцион, но синхронизация запускается только когда на сайте есть посетители." />
-      <item value="Сейчас синхронизируется 80 аукцион, но синхронизация запускается только когда на сайте есть посетители." />
-      <item value="I'm talking about access to the server itself, in order to configure access already there, if the client cannot create access himself." />
-      <item value="Я говорю о доступе к самому серверу, что бы уже там настроить доступы, если клиент сам не может создать доступ." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2329" />
+        <entry key="ENGLISH" value="2333" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2329" />
+        <entry key="RUSSIAN" value="2333" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
