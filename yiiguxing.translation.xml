@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rate tax" />
+      <item value="Tax rate" />
       <item value="Сайт был обновлён" />
       <item value="You are not approved to place absentee bids" />
       <item value="You account is waiting for manual approve. Please contact us if you see this message for long time." />
@@ -49,19 +51,17 @@
       <item value="3 monthly price" />
       <item value="3_monthly price" />
       <item value="3_month price" />
-      <item value="monthly price" />
-      <item value="Those. the auction stops at 10 lots and does not go further? I can scroll to the end of the auction without any problems. Try reloading the page using the keyboard shortcut Ctrl + F5. And we made improvements to the plugin and would like to update the plugin on your site. Allow me?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2300" />
+        <entry key="ENGLISH" value="2302" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2301" />
+        <entry key="RUSSIAN" value="2302" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
