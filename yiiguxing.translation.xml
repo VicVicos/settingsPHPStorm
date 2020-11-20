@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Will create a billing_history record with charge_date = biling_next_payment_date and charge_status will be ToPay Will try to do charge and create invoice On success or failure will send an “Admin - charge done” message. On success only will send “Member - charge done” message On failure - will delete" />
       <item value="Rate tax" />
       <item value="Tax rate" />
       <item value="Сайт был обновлён" />
@@ -38,7 +39,6 @@
       <item value="Не удаётся подключиться" />
       <item value="It's still a mistake." />
       <item value="Всё равно ошибка." />
-      <item value="Will create a billing_history record with charge_date = biling_next_payment_date and charge_status will be ToPay Will try to do charge and create invoice On success or failure will send an “Admin - charge done” message. On success only will send “Member - charge done” message On failure - will delete" />
       <item value="biling experstion" />
       <item value="walk User List" />
       <item value="do charge" />
@@ -55,13 +55,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2302" />
+        <entry key="ENGLISH" value="2303" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2302" />
+        <entry key="RUSSIAN" value="2303" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
