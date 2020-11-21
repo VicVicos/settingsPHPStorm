@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="self Absentee Bid" />
+      <item value="Должно быть &quot;Offerta massima&quot;" />
       <item value="get Auction Exclude" />
       <item value="Создание отдельной страниц для каждого Sheduled task. С формами для принятия нужных параметров." />
       <item value="I did not take into account this moment. I'll fix it." />
@@ -49,19 +51,17 @@
       <item value="Сайт был обновлён" />
       <item value="You are not approved to place absentee bids" />
       <item value="You account is waiting for manual approve. Please contact us if you see this message for long time." />
-      <item value="Please complete your registration to participate in our auctions." />
-      <item value="Obviously I don't understand you. You can contact a web 2 representative to clarify this point." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2335" />
+        <entry key="ENGLISH" value="2336" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2335" />
+        <entry key="RUSSIAN" value="2336" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
