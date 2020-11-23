@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Before installing the plugin, contact the bidspirit support team to whitelist the domain by informing them of your Bidspirit profile and the ip address of your site." />
+      <item value="Перед установкой плагина обратитесь в службу поддержки bidspirit, чтобы внести домен в белый список сообщив им ваш профиль в Bidspirit и ip адрес вашего сайта." />
+      <item value="Before installing the plugin please contact bidspirit support to whitelist the domain" />
+      <item value="Before installing the plugin please contact bidspirit support to whitelist the domain. Until when plugin will not be functional." />
+      <item value="If you have any questions about the plugin - please ask us with reference to our demo site, we are not going to be able to check your site or fix your site." />
+      <item value="The site is connected to your bidspirit profile." />
       <item value="its ok now. the problem has been resolved." />
       <item value="Сейчас всё хорошо. Проблема решена." />
       <item value="Сейчас всё хорошо." />
@@ -45,23 +51,17 @@
       <item value="Это как раз то что и влияет на отображение. Сейчас какое значение отмечено для будущих аукционов?" />
       <item value="This is exactly what affects the display. Now at auctions, what is the value noted for future auctions?" />
       <item value="Это как раз то что и влияет на отображение. Сейчас на аукционах какое значение отмечено для будущих аукционов?" />
-      <item value="I wanted to clarify about the properties showEstimatedPriceInItemsList, displayStartPriceInCatalog. On the ansuiniaste customer page: https://ansuini.bidspirit.com/#catalog~224~248, the estimated value is displayed for lots. When on the site, when synchronizing auctions, I get the values ​​of these properties equal to false." />
-      <item value="Хотел уточнить на счёт свойств showEstimatedPriceInItemsList, displayStartPriceInCatalog. На странице клиента ansuiniaste: https://ansuini.bidspirit.com/#catalog~224~248 для лотов отображается оценочная стоимость. Когда на сайте при синхронизации аукционов я получаю значения этих свойств равное false." />
-      <item value="techincal support" />
-      <item value="От bidspirit я получае значение не показывать оценочную стоимость на странице аукциона. Уточню у тех. поддержки Bidspirit." />
-      <item value="We've added a new property that hides the estimated price if it is hidden in the Bidspirit auction settings. Now I'll check if this option works correctly." />
-      <item value="Мы добавляли новое свойство которое скрывает примерную цену если оно скрыто в наcтройках аукциона Bidspirit. Сейчас проверю корректно ли работает эта опция." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2347" />
+        <entry key="ENGLISH" value="2352" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2347" />
+        <entry key="RUSSIAN" value="2352" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
