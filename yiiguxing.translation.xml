@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="link to member profile" />
       <item value="abstracts" />
       <item value="not found for type" />
       <item value="Before installing the plugin, contact the bidspirit support team to whitelist the domain by informing them of your Bidspirit profile and the ip address of your site." />
@@ -50,12 +51,11 @@
       <item value="Absentee bids, Display leading bid in catalog" />
       <item value="Absentee bids" />
       <item value="This is exactly what affects the display. What is the current value for future auctions?" />
-      <item value="Это как раз то что и влияет на отображение. Сейчас какое значение отмечено для будущих аукционов?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2353" />
+        <entry key="ENGLISH" value="2354" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
