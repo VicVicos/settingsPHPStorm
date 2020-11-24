@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I only have three files." />
+      <item value="У меня есть только три файла." />
+      <item value="I also see that some links lead to the test site. I'll fix it now." />
+      <item value="I also see that some links lead to the test one. I'll fix it now." />
+      <item value="Исправил. Так же вижу что некоторые ссылки ведут на тестовый. Сейчас исправлю это." />
       <item value="Please clarify" />
       <item value="Пожалуйста уточните" />
       <item value="Links to files have been changed. Please check." />
@@ -46,22 +51,17 @@
       <item value="Для этого надо будет изменять локализацию." />
       <item value="Leading bid" />
       <item value="self Absentee Bid" />
-      <item value="Должно быть &quot;Offerta massima&quot;" />
-      <item value="get Auction Exclude" />
-      <item value="Создание отдельной страниц для каждого Sheduled task. С формами для принятия нужных параметров." />
-      <item value="I did not take into account this moment. I'll fix it." />
-      <item value="Этого момента я не учёл. Исправлю." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2369" />
+        <entry key="ENGLISH" value="2372" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2369" />
+        <entry key="RUSSIAN" value="2372" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
