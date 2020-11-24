@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please clarify" />
+      <item value="Пожалуйста уточните" />
+      <item value="Links to files have been changed. Please check." />
+      <item value="Ссылки на файлы изменены. Пожалуйста проверьте." />
       <item value="Links to files will change now" />
       <item value="Ссылки на файлы сейчас изменю" />
       <item value="Links to file now to changed" />
@@ -47,21 +51,17 @@
       <item value="Создание отдельной страниц для каждого Sheduled task. С формами для принятия нужных параметров." />
       <item value="I did not take into account this moment. I'll fix it." />
       <item value="Этого момента я не учёл. Исправлю." />
-      <item value="Auction Number required" />
-      <item value="This needs to be fixed, since it is this field that we have as id auction." />
-      <item value="Это надо исправить так как именно это поле у нас идёт как id auction." />
-      <item value="When importing, I noticed that the value of the field &quot;number&quot; has a value equal to the empty string. Couldn't fix it, since it is this field that we have as id auction." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2366" />
+        <entry key="ENGLISH" value="2369" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2366" />
+        <entry key="RUSSIAN" value="2369" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
