@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Нет. Я ошибся. Хотел сказать:" />
+      <item value="Instead of the sign &quot;Non disponibile&quot;, must display the &quot;Estimated price&quot;" />
+      <item value="Цены на bidspirit не регулируются ведь тем что их надо скрывать." />
+      <item value="Instead of the sign &quot;Non disponibile&quot;, you must display the &quot;Estimated price&quot;" />
+      <item value="Вместо вывески &quot;Non disponibile&quot; надо отображать Оценочную стоимость" />
+      <item value="But I will not display the prices of lots sold, this contradicts the value of the option that was introduced earlier." />
+      <item value="But I will not display the prices of lots sold, this contradicts the option that was introduced earlier." />
+      <item value="Но я не буду отображать цены проданных лотов, это противоречит опции что ранне вводили." />
+      <item value="I understood the task, along the way I will try to understand why this is happening on bidspirit. But I will not display the prices of lots sold, this contradicts the value of the option that was introduced earlier." />
+      <item value="Задачу понял, по ходу дела попробую понять почему так происходит на bidspirit. Но я не буду отображать цены проданных лотов, это противоречит значению опции что ранне вводили." />
+      <item value="And for others, the selling price is displayed?" />
+      <item value="А у других цена продажи отображается?" />
+      <item value="Why is the valuation of this lot hidden?" />
+      <item value="Почему оценка этого лота скрыта?" />
+      <item value="Now we are hiding the final sale price after the end of the auction, we will hide it for 72 hours. For lots that are not sold, the estimated value is displayed. Do you need to display the estimated value for all lots within 72 hours after the end?" />
+      <item value="Сейчас мы скрываем итоговую цену продажи после окончании аукциона, в течении 72 часов будем это скрывать. Для лотов что не проданы отображается оценочная стоимость. Надо отображать оценочную стоимость для всех лотов в течении 72 часов после окончании?" />
       <item value="Where id = member id." />
       <item value="The user must go through the billing_token generation procedure (API call/member/getBillingIframe)" />
       <item value="Юзер должен пройти процедуру генерацию billing_token (API call /member/getBillingIframe)" />
@@ -35,33 +51,17 @@
       <item value="Исправил. Так же вижу что некоторые ссылки ведут на тестовый. Сейчас исправлю это." />
       <item value="Please clarify" />
       <item value="Пожалуйста уточните" />
-      <item value="Links to files have been changed. Please check." />
-      <item value="Ссылки на файлы изменены. Пожалуйста проверьте." />
-      <item value="Links to files will change now" />
-      <item value="Ссылки на файлы сейчас изменю" />
-      <item value="Links to file now to changed" />
-      <item value="Links to file now to change" />
-      <item value="The commission is configured here:" />
-      <item value="Комиссия настраивается вот здесь:" />
-      <item value="What time zone do you have?" />
-      <item value="Какой часовой пояс у вас?" />
-      <item value="If the time does not correspond to the beginning of the auction, you can change the time zone, by default +3, in the plugin settings. You can also change the time display format." />
-      <item value="You can also change the time display format." />
-      <item value="Так же вы можете сменить формат отображения времени." />
-      <item value="If the time does not correspond to the beginning of the auction, you can change the time zone, by default +3, in the plugin settings, where you can set the date format." />
-      <item value="If the browser is on Pt the time will be appropriate." />
-      <item value="About the time. The time is displayed depending on the browser settings. If the browser is on Eng the time will be appropriate. If the time does not correspond to the beginning of the auction, you can change the time zone, by default +3, in the plugin settings, where you can set the date format." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2394" />
+        <entry key="ENGLISH" value="2403" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2394" />
+        <entry key="RUSSIAN" value="2404" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
