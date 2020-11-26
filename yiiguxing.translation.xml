@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoice link not set" />
+      <item value="Charge success" />
+      <item value="Build charge response" />
+      <item value="Billing history empty for user" />
+      <item value="Suitable users not found" />
+      <item value="No suitable room_search_offers found" />
+      <item value="Подходящих для рассылки room_search_offers не найдено" />
       <item value="new room_search_offers not created" />
       <item value="Publish offer ended" />
       <item value="Publish offer end (debug)" />
@@ -44,24 +51,17 @@
       <item value="О времени. Время отображается в зависимости от настроек браузера. Если браузер на Eng время будет соответсвующее. Если время не соответствует началу аукциона, вы можете сменить часовой пояс, по умолчанию +3, в настройках плагина, там же вы можете настроить формат даты." />
       <item value="About the time. The time is displayed depending on the browser settings. If the browser is on Eng the time will be appropriate. If the time does not correspond to the beginning of the auction, you can change the time zone in the plugin settings, where you can set the date format." />
       <item value="О времени. Время отображается в зависимости от настроек браузера. Если браузер на Eng время будет соответсвующее. Если время не соответствует началу аукциона, вы можете сменить часовой пояс в настройках плагина, там же вы можете настроить формат даты." />
-      <item value="Implemented Eng support for footer and header." />
-      <item value="Реализовали поддержку Eng для подвала и header." />
-      <item value="link to member profile" />
-      <item value="abstracts" />
-      <item value="not found for type" />
-      <item value="Before installing the plugin, contact the bidspirit support team to whitelist the domain by informing them of your Bidspirit profile and the ip address of your site." />
-      <item value="Перед установкой плагина обратитесь в службу поддержки bidspirit, чтобы внести домен в белый список сообщив им ваш профиль в Bidspirit и ip адрес вашего сайта." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2386" />
+        <entry key="ENGLISH" value="2392" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2386" />
+        <entry key="RUSSIAN" value="2392" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
