@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="How should it look on felimart? Previously, we introduced the option to hide prices for a completed auction them." />
+      <item value="How should it look on felimart? Previously, we introduced the option to hide prices for a completed auction for them." />
+      <item value="А как это должно выгляеть на felimart? Ранее мы для них вводили опцию скрывать цены у завершённого аукциона." />
+      <item value="А как это должно выгляеть на felimart? Ранее мы для них вводили опцию скрывать цены для завершённого аукциона." />
       <item value="Нет. Я ошибся. Хотел сказать:" />
       <item value="Instead of the sign &quot;Non disponibile&quot;, must display the &quot;Estimated price&quot;" />
       <item value="Цены на bidspirit не регулируются ведь тем что их надо скрывать." />
@@ -47,21 +51,17 @@
       <item value="I only have three files." />
       <item value="У меня есть только три файла." />
       <item value="I also see that some links lead to the test site. I'll fix it now." />
-      <item value="I also see that some links lead to the test one. I'll fix it now." />
-      <item value="Исправил. Так же вижу что некоторые ссылки ведут на тестовый. Сейчас исправлю это." />
-      <item value="Please clarify" />
-      <item value="Пожалуйста уточните" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2403" />
+        <entry key="ENGLISH" value="2407" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2404" />
+        <entry key="RUSSIAN" value="2407" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
