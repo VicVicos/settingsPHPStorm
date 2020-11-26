@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As for the problem with the mail. Mail is disabled on test" />
+      <item value="Что касается проблемы с почтой. На тестовом отключена работа mail" />
+      <item value="I set the value to 0, please check time begin auctions" />
+      <item value="I set the value to 0, please check date time begin auctions" />
+      <item value="I set the value to 0" />
+      <item value="Я выставил значение 0 UTC" />
+      <item value="As for the time zone, this option has a default value." />
+      <item value="Что касается часового пояса, то опция имеет значение по умолчанию." />
       <item value="Исправил проблемы с меню." />
       <item value="Good morning!" />
       <item value="Hi Victor, the headers in Eng some of them are fine others are still forwarding to the PT version: for instance when I click on the" />
@@ -43,25 +51,17 @@
       <item value="Before installing the plugin please contact bidspirit support to whitelist the domain. Until when plugin will not be functional." />
       <item value="If you have any questions about the plugin - please ask us with reference to our demo site, we are not going to be able to check your site or fix your site." />
       <item value="The site is connected to your bidspirit profile." />
-      <item value="its ok now. the problem has been resolved." />
-      <item value="Сейчас всё хорошо. Проблема решена." />
-      <item value="Сейчас всё хорошо." />
-      <item value="Now all good" />
-      <item value="Validation rule unique requires at least 1 parameters" />
-      <item value="RECORDS EXPIRE" />
-      <item value="To do this need to change the localization." />
-      <item value="To do this, you will need to change the localization." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2376" />
+        <entry key="ENGLISH" value="2382" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2377" />
+        <entry key="RUSSIAN" value="2382" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
