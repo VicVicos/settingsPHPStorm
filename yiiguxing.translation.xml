@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="The language of the site selected by the user is taken into account, if not, then we take it from the browser settings" />
-      <item value="В учёт идёт выбранный пользователем язык сайта, если нет, то берём из настроек браузера" />
       <item value="Display time relative to the user locale" />
+      <item value="В учёт идёт выбранный пользователем язык сайта, если нет, то берём из настроек браузера" />
       <item value="Отображать время относительно локали пользователя" />
       <item value="Show time on detect user locale" />
       <item value="Let me know how the value will change" />
@@ -55,13 +55,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2435" />
+        <entry key="ENGLISH" value="2437" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2435" />
+        <entry key="RUSSIAN" value="2437" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
