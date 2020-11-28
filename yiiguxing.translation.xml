@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Не за что" />
+      <item value="You are welcome!" />
+      <item value="You are welcome" />
+      <item value="Да не за что" />
+      <item value="Плагин был обновлён" />
+      <item value="site well be update" />
+      <item value="Can I update a plugin in production site?" />
+      <item value="Can I update a plugin in production?" />
+      <item value="Могу я обновить плагин на производстве?" />
+      <item value="В очереди" />
+      <item value="I'll leave now, then come back and update the plugin on production" />
+      <item value="Я сейчас отойду, после вернуcь и обновлю плагин на production" />
+      <item value="I will not leave for a long time now, then return and update to production" />
+      <item value="Я сейчас отойду не на долго, после вернуть и обновлю на production" />
       <item value="Works in tandem with Bidspirit option &quot;Show estimated price in items list&quot;" />
       <item value="Работет в паре с опцией из Bidspirit" />
       <item value="Show estimated price for all lots" />
@@ -37,31 +51,17 @@
       <item value="No problem. The option in the auction &quot;display Start Price In Catalog&quot; is responsible for its display. Could you check its value for this auction?" />
       <item value="No problem. За её отображение отвечает опция в аукционе &quot;display Start Price In Catalog&quot;. Не могли бы вы проверить её значение для этого аукциона?" />
       <item value="No problem. За её отображение отвечает опция в аукционе display Start Price In Catalog" />
-      <item value="On test site" />
-      <item value="Please check task about in talk yesterday." />
-      <item value="Please check task about on talk yesterday." />
-      <item value="Please check task about at talk yesterday." />
-      <item value="Hello, Matteo! Please check task about talk yesterday." />
-      <item value="вчера" />
-      <item value="Please check task about talk вчера." />
-      <item value="Switching the localization of the auction start time string will be done at the next plugin update." />
-      <item value="Переключение локализации строки времени начала аукциона будет сделано при следующем обновлении плагина." />
-      <item value="Time localization switching will be done at the next plugin update." />
-      <item value="Переключение локализации времени будет сделано при следующем обновлении плагина." />
-      <item value="was Recently Created" />
-      <item value="no active offers found" />
-      <item value="no suitable room_search_offers found" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2445" />
+        <entry key="ENGLISH" value="2454" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2445" />
+        <entry key="RUSSIAN" value="2455" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
