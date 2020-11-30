@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To do this, you need to create two records of type A indicating the IP address of our server: 5.189.179.106" />
+      <item value="I just need to clarify that you want to move the domain to the server where the test site is currently located?" />
+      <item value="I just need to clarify that you want to move the domain to the server where the site is currently located?" />
+      <item value="Right, we don't really need to have access, you can do it yourself. I just need to clarify that you want to move the domain to the server where the site is currently located. To do this, you need to create two records of type A indicating the IP address of our server: 5.189.179.106" />
+      <item value="Верно, нам не совсем обязательно иметь доступ, вы можете сделать это самостоятельно. Надо уточнить только что вы хотите переместить домен на сервер где сейчас располагается сайт. Для этого вам надо создать две записи типа A с указанием IP адреса нашего сервера: 5.189.179.106" />
       <item value="оценка" />
       <item value="item__оценка" />
       <item value="aside" />
@@ -46,22 +51,17 @@
       <item value="Сообщите мне как значение изменится" />
       <item value="Let me know how to change the value." />
       <item value="Сообщите мне как измените значение." />
-      <item value="CHANGED?" />
-      <item value="changed?" />
-      <item value="Have you changed?" />
-      <item value="Изменили?" />
-      <item value="Have you change" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2460" />
+        <entry key="ENGLISH" value="2466" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2461" />
+        <entry key="RUSSIAN" value="2466" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
