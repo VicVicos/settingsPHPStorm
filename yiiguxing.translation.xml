@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cache preload batch" />
+      <item value="Миграция завершена." />
+      <item value="Hello! Всё работает." />
       <item value="Please adding on white list domain http://www.soaresmendonca.pt/ for client https://soaresmendonca.bidspirit.com/ IP address server: 5.189.179.106" />
       <item value="Please adding on white list domain https://soaresmendonca.bidspirit.com/ for client https://soaresmendonca.bidspirit.com/ IP address server: 5.189.179.106" />
       <item value="Tags of Banks" />
@@ -48,20 +51,17 @@
       <item value="Regardless of the fact that on Bidspirit, these lots are also marked as not sold?" />
       <item value="Вне зависимости от того что на Bidspirit эти лоты так же имеют отметку как не продано?" />
       <item value="Is there anything on this point?" />
-      <item value="Есть что по этому пункту?" />
-      <item value="The initial bid is no longer displayed." />
-      <item value="When the option is changed to false, the initial bid is no longer displayed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2474" />
+        <entry key="ENGLISH" value="2476" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2474" />
+        <entry key="RUSSIAN" value="2476" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
