@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="range" />
+      <item value="Bank logo" />
+      <item value="Logo bank" />
       <item value="cache preload batch" />
       <item value="Миграция завершена." />
       <item value="Hello! Всё работает." />
@@ -48,20 +51,17 @@
       <item value="Работет в паре с опцией из Bidspirit" />
       <item value="Show estimated price for all lots" />
       <item value="Good. That finished this moments," />
-      <item value="Regardless of the fact that on Bidspirit, these lots are also marked as not sold?" />
-      <item value="Вне зависимости от того что на Bidspirit эти лоты так же имеют отметку как не продано?" />
-      <item value="Is there anything on this point?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2476" />
+        <entry key="ENGLISH" value="2479" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2476" />
+        <entry key="RUSSIAN" value="2479" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
