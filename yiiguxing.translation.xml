@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The problem is no longer repeated. I think the error occurred when the limit of RAM on the PC was exhausted. I have already noticed this before. I cannot give more details." />
+      <item value="Проблема более не повторяется. Думаю ошибка возникла по исчерпании лимита оперативной памяти на ПК. Ранее такое уже замечал. Больше подробностей сообщить не могу." />
+      <item value="I will check it tomorrow morning and I think by tomorrow morning, according to your time, the problem will be gone." />
+      <item value="Я завтра утром проверю и думаю к утру завтрашнего дня по вашему времени проблемы уже не будет." />
+      <item value="For some reason, I can't get pictures from Bidspirit. This has already happened before, but a little later the pictures were loaded." />
+      <item value="Почему то не получается картинки забрать с Bidspirit. Ранее такое уже было, но чуть позже картинки загрузились." />
       <item value="We are working on an update for the plugin, I have not started working on Ansuini yet. Tomorrow I think I'll start, but not the fact that I will have time to finish." />
       <item value="Работем над обновлением для плагина, к работе над Ansuini пока не приступал. Завтра думаю начну, но не факт что успею закончить." />
       <item value="We are working on an update for the plugin, Ansuini has not yet started integration. Tomorrow I think I'll start, but not the fact that I will have time to finish." />
@@ -45,23 +51,17 @@
       <item value="Не за что" />
       <item value="You are welcome!" />
       <item value="You are welcome" />
-      <item value="Да не за что" />
-      <item value="Плагин был обновлён" />
-      <item value="site well be update" />
-      <item value="Can I update a plugin in production site?" />
-      <item value="Can I update a plugin in production?" />
-      <item value="Могу я обновить плагин на производстве?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2487" />
+        <entry key="ENGLISH" value="2490" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2487" />
+        <entry key="RUSSIAN" value="2490" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
