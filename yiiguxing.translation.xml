@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The mechanism for launching scheduled tasks does not work on the site, perhaps this is disabled in the site configuration. Synchronization works on our test and auctions are synchronized. It will be better to configure automatic synchronization in any case, as it has a positive effect on the performance of the site." />
+      <item value="The mechanism for launching shadow tasks does not work on the site, perhaps this is disabled in the site configuration. Synchronization works on our test and auctions are synchronized. It will be better to configure automatic synchronization in any case, as it has a positive effect on the performance of the site." />
+      <item value="На сайте не работает механизм запуска теневых задач, возможно это отключено в конфигурации сайта. На нашем тестовом синхронизация работает и аукционы синхронизированы. Настроить автоматическую синхронизацию будет лучше в любом случае так как это положительно сказывается на производительности сайта." />
       <item value="Title: Automatic synchronization" />
       <item value="Hello! Попробуйте настроить автоматическую синхронизацию. Инструкция https://docs.google.com/document/d/1pB01I5nv8cXUynJR-g-i95JjPxCgencKt279M8rwikA/edit#heading=h.8np1wpqu4047 Automatic synchronization" />
       <item value="We finished the work with the transition of the site to Polylang, but I would like to transfer all this to production on Monday, since the weekend is ahead and in case of problems I will not be able to quickly fix the problem." />
@@ -48,20 +51,17 @@
       <item value="I just need to clarify that you want to move the domain to the server where the test site is currently located?" />
       <item value="I just need to clarify that you want to move the domain to the server where the site is currently located?" />
       <item value="Right, we don't really need to have access, you can do it yourself. I just need to clarify that you want to move the domain to the server where the site is currently located. To do this, you need to create two records of type A indicating the IP address of our server: 5.189.179.106" />
-      <item value="Верно, нам не совсем обязательно иметь доступ, вы можете сделать это самостоятельно. Надо уточнить только что вы хотите переместить домен на сервер где сейчас располагается сайт. Для этого вам надо создать две записи типа A с указанием IP адреса нашего сервера: 5.189.179.106" />
-      <item value="оценка" />
-      <item value="item__оценка" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2496" />
+        <entry key="ENGLISH" value="2498" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2496" />
+        <entry key="RUSSIAN" value="2498" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
