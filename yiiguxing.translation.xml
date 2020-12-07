@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can we start updating the site on Polylang?" />
+      <item value="Можем ли начать обновление сайта на Polylang?" />
+      <item value="We have connected many sites from under one account and WPMUDEV Analytics for each site displays statistics for all sites. We would like to change so that Analytics only displays statistics for the current site." />
+      <item value="У нас подключено множество сайтов из под одного аккаунта и WPMUDEV Analytics для каждого сайта отображает статистику по всем сайтам. Хотели бы изменить что бы Analytics отображал статистику только для текущего сайта." />
+      <item value="We have connected many sites from one account's opd and WPMUDEV Analytics, waiting for each site displays statistics for all sites. We would like to change so that Analytics only displays statistics for the current site." />
+      <item value="У нас подключено множество сайтов из опд одного аккаунта и WPMUDEV Analytics ждя каждого сайта отображает статистику по всем сайтам. Хотели бы изменить что бы Analytics отображал статистику только для текущего сайта." />
       <item value="The mechanism for launching scheduled tasks does not work on the site, perhaps this is disabled in the site configuration. Synchronization works on our test and auctions are synchronized. It will be better to configure automatic synchronization in any case, as it has a positive effect on the performance of the site." />
       <item value="The mechanism for launching shadow tasks does not work on the site, perhaps this is disabled in the site configuration. Synchronization works on our test and auctions are synchronized. It will be better to configure automatic synchronization in any case, as it has a positive effect on the performance of the site." />
       <item value="На сайте не работает механизм запуска теневых задач, возможно это отключено в конфигурации сайта. На нашем тестовом синхронизация работает и аукционы синхронизированы. Настроить автоматическую синхронизацию будет лучше в любом случае так как это положительно сказывается на производительности сайта." />
@@ -45,23 +51,17 @@
       <item value="Да, я этим сейчас занимаюсь" />
       <item value="The redirect takes place on the site side. I'll fix it now." />
       <item value="Редирект происходит на стороне сайта. Сейчас исправлю." />
-      <item value="I think it will be ready by the end of this week." />
-      <item value="Думаю к концу этой недели будет готово." />
-      <item value="To do this, you need to create two records of type A indicating the IP address of our server: 5.189.179.106" />
-      <item value="I just need to clarify that you want to move the domain to the server where the test site is currently located?" />
-      <item value="I just need to clarify that you want to move the domain to the server where the site is currently located?" />
-      <item value="Right, we don't really need to have access, you can do it yourself. I just need to clarify that you want to move the domain to the server where the site is currently located. To do this, you need to create two records of type A indicating the IP address of our server: 5.189.179.106" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2498" />
+        <entry key="ENGLISH" value="2501" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2498" />
+        <entry key="RUSSIAN" value="2501" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
