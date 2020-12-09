@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="каждые 6 часов" />
+      <item value="Hourly 6" />
+      <item value="6 Hourly" />
+      <item value="6_HOURLY" />
+      <item value="BP_6_HOURLY" />
       <item value="It will be overkill, since the site is old and may simply crash if you make the php version higher than 7.0. 5.6 will be enough." />
       <item value="Это будет перебор, так как сайт старый и попросту может упасть если сделать версию php выше 7.0. 5.6 будет достаточно." />
       <item value="ssh access, or access on hosting panel" />
@@ -46,22 +51,17 @@
       <item value="Проблема более не повторяется. Думаю ошибка возникла по исчерпании лимита оперативной памяти на ПК. Ранее такое уже замечал. Больше подробностей сообщить не могу." />
       <item value="I will check it tomorrow morning and I think by tomorrow morning, according to your time, the problem will be gone." />
       <item value="Я завтра утром проверю и думаю к утру завтрашнего дня по вашему времени проблемы уже не будет." />
-      <item value="For some reason, I can't get pictures from Bidspirit. This has already happened before, but a little later the pictures were loaded." />
-      <item value="Почему то не получается картинки забрать с Bidspirit. Ранее такое уже было, но чуть позже картинки загрузились." />
-      <item value="We are working on an update for the plugin, I have not started working on Ansuini yet. Tomorrow I think I'll start, but not the fact that I will have time to finish." />
-      <item value="Работем над обновлением для плагина, к работе над Ansuini пока не приступал. Завтра думаю начну, но не факт что успею закончить." />
-      <item value="We are working on an update for the plugin, Ansuini has not yet started integration. Tomorrow I think I'll start, but not the fact that I will have time to finish." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2516" />
+        <entry key="ENGLISH" value="2520" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2516" />
+        <entry key="RUSSIAN" value="2521" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
