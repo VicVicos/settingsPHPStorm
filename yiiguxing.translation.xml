@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! We are planning to create a new website." />
       <item value="split import" />
       <item value="каждые 6 часов" />
       <item value="Hourly 6" />
@@ -50,18 +51,17 @@
       <item value="Проверьте пожалуйста наличие домена https://heartlandartifacts.com/ в белом списке, клиент:" />
       <item value="The problem is no longer repeated. I think the error occurred when the limit of RAM on the PC was exhausted. I have already noticed this before. I cannot give more details." />
       <item value="Проблема более не повторяется. Думаю ошибка возникла по исчерпании лимита оперативной памяти на ПК. Ранее такое уже замечал. Больше подробностей сообщить не могу." />
-      <item value="I will check it tomorrow morning and I think by tomorrow morning, according to your time, the problem will be gone." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2521" />
+        <entry key="ENGLISH" value="2522" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2521" />
+        <entry key="RUSSIAN" value="2522" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
