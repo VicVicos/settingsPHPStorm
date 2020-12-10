@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There are no auction numbers for the valkyrieauctions and demo-qa.bidspirit accounts in the available auctions. Please added auction number to each auction for valkyrieauctions and demo-qa.bidspirit." />
+      <item value="There are no auction numbers for the valkyrieauctions and demo-qa.bidspirit accounts in the available auctions. Please correct." />
+      <item value="В имеющихся аукционах для аккаунтов valkyrieauctions and demo-qa.bidspirit не проставлены номера аукционов. Исправьте пожалуйста." />
+      <item value="Troubles with valkyrieauctions and demo-qa.bidspirit" />
+      <item value="Проблемы с valkyrieauctions and demo-qa.bidspirit" />
       <item value="Hello! We are planning to create a new website." />
       <item value="split import" />
       <item value="каждые 6 часов" />
@@ -46,22 +51,17 @@
       <item value="Мы закончили работу с переходом сайта на Polylang, но хотел бы что бы перенос всего этого на бой мы сделали в понедельник, так как впереди выходные и в случае возникновения проблем у меня не будет возможности оперативно исправить проблему." />
       <item value="Hello! The problem with the site was fixed, the problem was on the Bidspirit side, they did not provide permissions for the domain. In addition, one of the JetPack plugins gave an error in js, which could also lead to the inoperability of the site as a whole, I disabled this plugin for verification, after enabling the error disappeared, but the settings could have changed. Please check if anything has changed in the JetPack plugin settings." />
       <item value="Здравствуйте! Проблему с сайтом исправили, проблема была на стороне Bidspirit, не предоставили разрешения для домена. К тому же один из плагинов JetPack выдавал ошибку в js, что тоже могло приводить к неработоспособности сайта в целом, я отключил этот плагин для проверки, после включил ошибка пропала, но настройки могли смениться. Пожалуйста проверьте не поменялось чего либо в настройках плагина JetPack." />
-      <item value="На сайте мы получаем CORS ошибку." />
-      <item value="Hello! Please check the existence of the domain https://heartlandartifacts.com/ in the white list, client:" />
-      <item value="Проверьте пожалуйста наличие домена https://heartlandartifacts.com/ в белом списке, клиент:" />
-      <item value="The problem is no longer repeated. I think the error occurred when the limit of RAM on the PC was exhausted. I have already noticed this before. I cannot give more details." />
-      <item value="Проблема более не повторяется. Думаю ошибка возникла по исчерпании лимита оперативной памяти на ПК. Ранее такое уже замечал. Больше подробностей сообщить не могу." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2522" />
+        <entry key="ENGLISH" value="2525" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2522" />
+        <entry key="RUSSIAN" value="2525" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
