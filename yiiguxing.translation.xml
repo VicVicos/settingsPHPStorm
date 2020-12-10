@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Осталось настроить меню" />
+      <item value="Но нам потребуется время для настройки меню eng версии." />
+      <item value="Ansuiniaste have migrate to Polylang plugin." />
+      <item value="Ansuiniaste be migrate to Polylang plugin." />
+      <item value="Ansuiniaste to be migrate to Polylang plugin." />
+      <item value="Ansuiniaste well be migrate to Polylang plugin." />
       <item value="There are no auction numbers for the valkyrieauctions and demo-qa.bidspirit accounts in the available auctions. Please added auction number to each auction for valkyrieauctions and demo-qa.bidspirit." />
       <item value="There are no auction numbers for the valkyrieauctions and demo-qa.bidspirit accounts in the available auctions. Please correct." />
       <item value="В имеющихся аукционах для аккаунтов valkyrieauctions and demo-qa.bidspirit не проставлены номера аукционов. Исправьте пожалуйста." />
@@ -45,23 +51,17 @@
       <item value="The mechanism for launching shadow tasks does not work on the site, perhaps this is disabled in the site configuration. Synchronization works on our test and auctions are synchronized. It will be better to configure automatic synchronization in any case, as it has a positive effect on the performance of the site." />
       <item value="На сайте не работает механизм запуска теневых задач, возможно это отключено в конфигурации сайта. На нашем тестовом синхронизация работает и аукционы синхронизированы. Настроить автоматическую синхронизацию будет лучше в любом случае так как это положительно сказывается на производительности сайта." />
       <item value="Title: Automatic synchronization" />
-      <item value="Hello! Попробуйте настроить автоматическую синхронизацию. Инструкция https://docs.google.com/document/d/1pB01I5nv8cXUynJR-g-i95JjPxCgencKt279M8rwikA/edit#heading=h.8np1wpqu4047 Automatic synchronization" />
-      <item value="We finished the work with the transition of the site to Polylang, but I would like to transfer all this to production on Monday, since the weekend is ahead and in case of problems I will not be able to quickly fix the problem." />
-      <item value="We finished the work with the transition of the site to Polylang, but I would like to transfer all this to the battle on Monday, since the weekend is ahead and in case of problems I will not be able to quickly fix the problem." />
-      <item value="Мы закончили работу с переходом сайта на Polylang, но хотел бы что бы перенос всего этого на бой мы сделали в понедельник, так как впереди выходные и в случае возникновения проблем у меня не будет возможности оперативно исправить проблему." />
-      <item value="Hello! The problem with the site was fixed, the problem was on the Bidspirit side, they did not provide permissions for the domain. In addition, one of the JetPack plugins gave an error in js, which could also lead to the inoperability of the site as a whole, I disabled this plugin for verification, after enabling the error disappeared, but the settings could have changed. Please check if anything has changed in the JetPack plugin settings." />
-      <item value="Здравствуйте! Проблему с сайтом исправили, проблема была на стороне Bidspirit, не предоставили разрешения для домена. К тому же один из плагинов JetPack выдавал ошибку в js, что тоже могло приводить к неработоспособности сайта в целом, я отключил этот плагин для проверки, после включил ошибка пропала, но настройки могли смениться. Пожалуйста проверьте не поменялось чего либо в настройках плагина JetPack." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2525" />
+        <entry key="ENGLISH" value="2530" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2525" />
+        <entry key="RUSSIAN" value="2531" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
