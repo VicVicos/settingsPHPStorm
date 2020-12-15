@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="подложка" />
       <item value="(PHP) Source files should not have any duplicated blocks" />
       <item value="Auction house commission" />
       <item value="Commission auction house" />
@@ -50,7 +51,6 @@
       <item value="Found a bug with Polylang support, fixed the problem. The update was postponed until tomorrow morning." />
       <item value="Обнаружили баг с поддержкой Polylang, устраняли проблему. Обновление перенесли на завтра утром." />
       <item value="Found a bug with Polylang support, fixed the problem. I'll update on Ansuiniaste tomorrow morning." />
-      <item value="Found a bug with Polylang support, fixed the problem. I'll update to Ansuiniaste tomorrow morning." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2542" />
+        <entry key="RUSSIAN" value="2543" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
