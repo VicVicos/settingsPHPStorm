@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Добавление автообновления" />
       <item value="Date created" />
       <item value="подложка" />
       <item value="(PHP) Source files should not have any duplicated blocks" />
@@ -50,7 +51,6 @@
       <item value="Access granted. Let's wait a couple of days for the statistics data to be updated, after turning off and on the data in order to see the problem now." />
       <item value="Доступ предоставил. Давайте подождём пару дней как данные статистики обновятся, после отключения и включения данных для того что бы увидеть проблему сейчас нет." />
       <item value="Found a bug with Polylang support, fixed the problem. The update was postponed until tomorrow morning." />
-      <item value="Обнаружили баг с поддержкой Polylang, устраняли проблему. Обновление перенесли на завтра утром." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2543" />
+        <entry key="RUSSIAN" value="2544" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
