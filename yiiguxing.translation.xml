@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="run By Room Search" />
       <item value="Total: importData.php every minute, importBidSpirit.php once an hour, lotBidSpiritOld.php once a day." />
       <item value="Итого: importData.php каждую минуту, importBidSpirit.php раз в час lotBidSpiritOld.php раз в сутки." />
       <item value="The third task synchronizes archived lots, and we update them once a day." />
@@ -50,18 +51,17 @@
       <item value="icon subscribes" />
       <item value="English menu have analogical to Italian menu." />
       <item value="Eng menu have analogical to Italian menu." />
-      <item value="Ansuiniaste have migrate to Polylang plugin. Eng menu have sinchronize to Italian menu." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2574" />
+        <entry key="ENGLISH" value="2575" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2574" />
+        <entry key="RUSSIAN" value="2575" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
