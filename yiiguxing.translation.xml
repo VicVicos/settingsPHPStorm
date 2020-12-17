@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test" />
+      <item value="storage" />
       <item value="We will try to solve the problem." />
       <item value="Постараемся решить проблему." />
       <item value="PLease send my links where lots are numbered 1A, 1B etc." />
@@ -49,19 +51,17 @@
       <item value="6 Hourly" />
       <item value="6_HOURLY" />
       <item value="BP_6_HOURLY" />
-      <item value="It will be overkill, since the site is old and may simply crash if you make the php version higher than 7.0. 5.6 will be enough." />
-      <item value="Это будет перебор, так как сайт старый и попросту может упасть если сделать версию php выше 7.0. 5.6 будет достаточно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2555" />
+        <entry key="ENGLISH" value="2556" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2555" />
+        <entry key="RUSSIAN" value="2556" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
