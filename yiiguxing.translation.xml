@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Total: importData.php every minute, importBidSpirit.php once an hour, lotBidSpiritOld.php once a day." />
+      <item value="Итого: importData.php каждую минуту, importBidSpirit.php раз в час lotBidSpiritOld.php раз в сутки." />
+      <item value="The third task synchronizes archived lots, and we update them once a day." />
+      <item value="третья задача синхронизирует архивные лоты, и их мы обновляем один раз в сутки." />
+      <item value="Yes, right." />
       <item value="walk Of Data" />
       <item value="walk Data" />
       <item value="Industry" />
@@ -46,22 +51,17 @@
       <item value="English menu have analogical to Italian menu." />
       <item value="Eng menu have analogical to Italian menu." />
       <item value="Ansuiniaste have migrate to Polylang plugin. Eng menu have sinchronize to Italian menu." />
-      <item value="Осталось настроить меню" />
-      <item value="Но нам потребуется время для настройки меню eng версии." />
-      <item value="Ansuiniaste have migrate to Polylang plugin." />
-      <item value="Ansuiniaste be migrate to Polylang plugin." />
-      <item value="Ansuiniaste to be migrate to Polylang plugin." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2571" />
+        <entry key="ENGLISH" value="2574" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2571" />
+        <entry key="RUSSIAN" value="2574" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
