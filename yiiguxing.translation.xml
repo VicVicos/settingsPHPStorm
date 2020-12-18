@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Who we are" />
       <item value="I check this moment now." />
       <item value="for lots that are now hidden as &quot;Non disponible&quot; should the &quot;Estimate price&quot; be displayed?" />
       <item value="для лотов что сейчас скрыты как &quot;Non disponible&quot; надо отображать &quot;Estimate price&quot;?" />
@@ -50,18 +51,17 @@
       <item value="В этой версии добавлена возможность обновления плагина из админ панели сайта." />
       <item value="Добавление автообновления" />
       <item value="Date created" />
-      <item value="подложка" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2584" />
+        <entry key="ENGLISH" value="2585" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2584" />
+        <entry key="RUSSIAN" value="2585" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
