@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error with imageCloned parameter. Adding indices to lots." />
+      <item value="Ошибка с параметром imageCloned. Добавление индексов к лотам." />
       <item value="Нашли ошибку. Исправили." />
       <item value="Добавьте пожалуйста больше чёрного на фон, как это сделано на первом слайде" />
       <item value="сравнить" />
@@ -49,19 +51,17 @@
       <item value="Была исправлена ошибка поддержки мультиязычности плагина Polylang." />
       <item value="We are sending an update to the plugin for the heartlandauction client. Installation instructions: Deactivate the old plugin, then install the update and activate the plugin. Also, for automatic synchronization, you need to add an additional cron command." />
       <item value="Присылаем обновление плагина для клиента heartlandauction. Инструкция по установки: Деактивировать старый плагин, после установить обновление и активировать плагин. Так же для автоматической синхронизации надо добавить дополнительную cron команду." />
-      <item value="Результаты поиска по запросу" />
-      <item value="require" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2577" />
+        <entry key="ENGLISH" value="2579" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2578" />
+        <entry key="RUSSIAN" value="2579" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
