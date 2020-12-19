@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I dont know. I didn't see any problems on the site before clearing the cache." />
+      <item value="Не знаю" />
+      <item value="Not sur. I didn't see any problems on the site before clearing the cache." />
+      <item value="Not sure." />
+      <item value="Not sure. I didn't see any problems on the site before clearing the cache." />
+      <item value="Не уверен. Я не видел проблем на сайте и до очистки кеша." />
+      <item value="Проверил на телефоне" />
+      <item value="checking on phone" />
+      <item value="Check on phone" />
+      <item value="Can you describe the problem in more detail?" />
+      <item value="Можно подробнее описать проблему?" />
       <item value="At the moment we are seeing a CORS error." />
       <item value="На данный момент мы видим ошибку CORS." />
       <item value="Additional information" />
@@ -40,28 +51,17 @@
       <item value="Parent Service" />
       <item value="Area of Banks" />
       <item value="test" />
-      <item value="storage" />
-      <item value="We will try to solve the problem." />
-      <item value="Постараемся решить проблему." />
-      <item value="PLease send my links where lots are numbered 1A, 1B etc." />
-      <item value="You send my drop links where lots are numbered 1A, 1B etc." />
-      <item value="You can drop links where lots are numbered 1A, 1B etc." />
-      <item value="You can drop links where lots are numbered 1A, 1B etc. VAT display is now controlled in plugin settings." />
-      <item value="Можно скинуть ссылки где лоты пронумерованы как 1A, 1B etc. Отображение VAT теперь управляется в настройках плагина." />
-      <item value="Total price must be greater than 0" />
-      <item value="Total price amount more zero" />
-      <item value="HTTP PAYMENT REQUIRED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2589" />
+        <entry key="ENGLISH" value="2597" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2589" />
+        <entry key="RUSSIAN" value="2597" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
