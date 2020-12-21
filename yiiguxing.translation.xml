@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Not Sync Title" />
       <item value="I dont know. I didn't see any problems on the site before clearing the cache." />
       <item value="Не знаю" />
       <item value="Not sur. I didn't see any problems on the site before clearing the cache." />
@@ -50,18 +51,17 @@
       <item value="Service of Banks" />
       <item value="Parent Service" />
       <item value="Area of Banks" />
-      <item value="test" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2597" />
+        <entry key="ENGLISH" value="2598" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2597" />
+        <entry key="RUSSIAN" value="2598" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -92,6 +92,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607991218106" />
+    <option name="lastTrimTime" value="1608509392954" />
   </component>
 </application>
