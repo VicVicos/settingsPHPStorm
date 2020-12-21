@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please note: We can do any content change you like if you will buy hour bank. Try to make changes in by yourself before you asking for our payed help." />
+      <item value="Auction pages" />
+      <item value="Please do not try to make changes in auction and lot pages on site." />
+      <item value="Please add auctions in bid-spirit admin and them will be synced to site automatically every hour." />
       <item value="is Not Sync Title" />
       <item value="I dont know. I didn't see any problems on the site before clearing the cache." />
       <item value="Не знаю" />
@@ -47,21 +51,17 @@
       <item value="area bank" />
       <item value="bank area" />
       <item value="service-bank" />
-      <item value="Service of Bank" />
-      <item value="Service of Banks" />
-      <item value="Parent Service" />
-      <item value="Area of Banks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2598" />
+        <entry key="ENGLISH" value="2602" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2598" />
+        <entry key="RUSSIAN" value="2602" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
