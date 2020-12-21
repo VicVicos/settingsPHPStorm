@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I lost or broke my copy. Client https: bingyols.bidspirit.com has a problem registering on Bidspirit. At a time when Vitaly and I do not receive any errors from their devices." />
+      <item value="Я свою копию потерял или поломал. У клиента https:bingyols.bidspirit.com возникает проблема с регистрацией на портале Bidspirit. В то время когда я и Виталий не получают ни каких ошибок со своих устройств." />
+      <item value="Я свою копию потерял или поломал. У клиента https:bingyols.bidspirit.com возникает проблема с регистрацией на портале Bidspirit. В тов ремя когда я и Виталий не получают ни каких ошибок со своих устройств." />
+      <item value="Я свой потерял или поломал. У клиента https:bingyols.bidspirit.com возникает проблема с регистрацией на портале Bidspirit. В тов ремя когда я и Виталий не получают ни каких ошибок со своих устройств." />
       <item value="Please note: We can do any content change you like if you will buy hour bank. Try to make changes in by yourself before you asking for our payed help." />
       <item value="Auction pages" />
       <item value="Please do not try to make changes in auction and lot pages on site." />
@@ -47,21 +51,17 @@
       <item value="Industry" />
       <item value="all industries" />
       <item value="bank-industry" />
-      <item value="industry-bank" />
-      <item value="area bank" />
-      <item value="bank area" />
-      <item value="service-bank" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2602" />
+        <entry key="ENGLISH" value="2605" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2602" />
+        <entry key="RUSSIAN" value="2605" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
