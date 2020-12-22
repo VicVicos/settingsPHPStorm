@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Здесь https:bingyols.bidspirit.comhtmlthirdPartyDemo ошибка у клиента не воспроизводится." />
+      <item value="The source code of the demo script. I will ask the client to upload to his site and check if the registration error persists. If I download the source code from the browser, the script fails." />
+      <item value="Исходный код демо скрипта. Я попрошу клиента залить себе на сайт и проверить сохраняется ли ошибка с регистрацией. Если я его скачиваю исходный код из браузера, скрипт отрабатывает с ошибкой." />
+      <item value="The source code of the demo script. I will ask the client to upload to his site and check if the error persists. If I download the source code from the browser, the script fails." />
+      <item value="Исходный код демо скрипта. Я попрошу клиента залить себе на сайт и проверить сохраняется ли ошибка. Если я его скачиваю исходный код из браузера, скрипт отрабатывает с ошибкой." />
       <item value="Just wanted to clarify, do you keep your domain at https: www.shopify.com? Paying them extra? You can transfer your domain https: https:www.namecheap.comdomainstransfer" />
       <item value="Я хочу загрузить файл на сайт клиента" />
       <item value="Phisical copy file" />
@@ -46,22 +51,17 @@
       <item value="For lots that are currently hidden as &quot;Non disponible&quot;, should the &quot;Estimate price&quot; be displayed?" />
       <item value="Для лотов что сейчас скрыты как &quot;Non disponible&quot; надо отображать &quot;Estimate price&quot;?" />
       <item value="Всё хорошо, спасибо!" />
-      <item value="Estimate price" />
-      <item value="Error with imageCloned parameter. Adding indices to lots." />
-      <item value="Ошибка с параметром imageCloned. Добавление индексов к лотам." />
-      <item value="Нашли ошибку. Исправили." />
-      <item value="Добавьте пожалуйста больше чёрного на фон, как это сделано на первом слайде" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2615" />
+        <entry key="ENGLISH" value="2618" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2615" />
+        <entry key="RUSSIAN" value="2619" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
