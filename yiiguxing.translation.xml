@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Phisical copy file" />
       <item value="get Banks Post By Terms" />
       <item value="Just wanted to clarify, do you keep your domain at https: www.shopify.com? Paying them extra? You can transfer your domain https: www.namecheap.comdomainstransfer" />
       <item value="Хотели уточнить, Вы держите свой домен на https:www.shopify.com ? Платите им лишнего? Можете перенести свой домен https:www.namecheap.comdomainstransfer" />
@@ -50,18 +51,17 @@
       <item value="Добавьте пожалуйста больше чёрного на фон, как это сделано на первом слайде" />
       <item value="сравнить" />
       <item value="run By Room Search" />
-      <item value="Total: importData.php every minute, importBidSpirit.php once an hour, lotBidSpiritOld.php once a day." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2612" />
+        <entry key="ENGLISH" value="2614" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2612" />
+        <entry key="RUSSIAN" value="2614" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
