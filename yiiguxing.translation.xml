@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="append" />
       <item value="list-bank-reviews" />
       <item value="Country of Banks" />
       <item value="Countries" />
@@ -50,18 +51,17 @@
       <item value="Hello! Do you have social media profiles that you would like to display on the site?" />
       <item value="Есть ли у вас профили в социальных сетях которые вы хотели бы отобразить на сайте?" />
       <item value="Who we are" />
-      <item value="I check this moment now." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2623" />
+        <entry key="ENGLISH" value="2624" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2623" />
+        <entry key="RUSSIAN" value="2624" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
