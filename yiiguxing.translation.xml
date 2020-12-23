@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to" />
       <item value="Здесь https:bingyols.bidspirit.comhtmlthirdPartyDemo ошибка у клиента не воспроизводится." />
       <item value="The source code of the demo script. I will ask the client to upload to his site and check if the registration error persists. If I download the source code from the browser, the script fails." />
       <item value="Исходный код демо скрипта. Я попрошу клиента залить себе на сайт и проверить сохраняется ли ошибка с регистрацией. Если я его скачиваю исходный код из браузера, скрипт отрабатывает с ошибкой." />
@@ -50,12 +51,11 @@
       <item value="для лотов что сейчас скрыты как &quot;Non disponible&quot; надо отображать &quot;Estimate price&quot;?" />
       <item value="For lots that are currently hidden as &quot;Non disponible&quot;, should the &quot;Estimate price&quot; be displayed?" />
       <item value="Для лотов что сейчас скрыты как &quot;Non disponible&quot; надо отображать &quot;Estimate price&quot;?" />
-      <item value="Всё хорошо, спасибо!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2618" />
+        <entry key="ENGLISH" value="2619" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
