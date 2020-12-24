@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="take" />
       <item value="Also, you have been sent a code from wix that will be needed for the transfer. Let us know." />
       <item value="Так же вам был отправлен от wix код который нужен будет для переноса. Сообщите нам его." />
       <item value="You were also sent a code that will be needed for the transfer. Let us know." />
@@ -50,18 +51,17 @@
       <item value="Не уверен. Я не видел проблем на сайте и до очистки кеша." />
       <item value="Проверил на телефоне" />
       <item value="checking on phone" />
-      <item value="Check on phone" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2630" />
+        <entry key="ENGLISH" value="2631" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2630" />
+        <entry key="RUSSIAN" value="2631" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
