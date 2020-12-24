@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Also, you have been sent a code from wix that will be needed for the transfer. Let us know." />
+      <item value="Так же вам был отправлен от wix код который нужен будет для переноса. Сообщите нам его." />
+      <item value="You were also sent a code that will be needed for the transfer. Let us know." />
+      <item value="Так же вам был отправлен код который нужен будет для переноса. Сообщите нам его." />
+      <item value="And send us data for login" />
+      <item value="И отправьте нам логин и пароль" />
+      <item value="And send was login and password" />
+      <item value="And send as login and password" />
+      <item value="Please create account in https:www.namecheap.comdomainstransfer" />
       <item value="append" />
       <item value="list-bank-reviews" />
       <item value="Country of Banks" />
@@ -42,26 +51,17 @@
       <item value="Проверил на телефоне" />
       <item value="checking on phone" />
       <item value="Check on phone" />
-      <item value="Can you describe the problem in more detail?" />
-      <item value="Можно подробнее описать проблему?" />
-      <item value="At the moment we are seeing a CORS error." />
-      <item value="На данный момент мы видим ошибку CORS." />
-      <item value="Additional information" />
-      <item value="Your contact information" />
-      <item value="Hello! Do you have social media profiles that you would like to display on the site?" />
-      <item value="Есть ли у вас профили в социальных сетях которые вы хотели бы отобразить на сайте?" />
-      <item value="Who we are" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2624" />
+        <entry key="ENGLISH" value="2630" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2624" />
+        <entry key="RUSSIAN" value="2630" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
