@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="from" />
+      <item value="to" />
       <item value="ugc" />
       <item value="Link attributes" />
       <item value="Delete an item from the cache by its unique key." />
@@ -21,7 +23,6 @@
       <item value="Country of Banks" />
       <item value="Countries" />
       <item value="additional Fields" />
-      <item value="to" />
       <item value="Здесь https:bingyols.bidspirit.comhtmlthirdPartyDemo ошибка у клиента не воспроизводится." />
       <item value="The source code of the demo script. I will ask the client to upload to his site and check if the registration error persists. If I download the source code from the browser, the script fails." />
       <item value="Исходный код демо скрипта. Я попрошу клиента залить себе на сайт и проверить сохраняется ли ошибка с регистрацией. Если я его скачиваю исходный код из браузера, скрипт отрабатывает с ошибкой." />
@@ -50,18 +51,17 @@
       <item value="is Not Sync Title" />
       <item value="I dont know. I didn't see any problems on the site before clearing the cache." />
       <item value="Не знаю" />
-      <item value="Not sur. I didn't see any problems on the site before clearing the cache." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2634" />
+        <entry key="ENGLISH" value="2636" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2634" />
+        <entry key="RUSSIAN" value="2636" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
