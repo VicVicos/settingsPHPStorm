@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delete an item from the cache by its unique key." />
       <item value="распределение" />
       <item value="Bank reviews" />
       <item value="take" />
@@ -50,12 +51,11 @@
       <item value="Not sur. I didn't see any problems on the site before clearing the cache." />
       <item value="Not sure." />
       <item value="Not sure. I didn't see any problems on the site before clearing the cache." />
-      <item value="Не уверен. Я не видел проблем на сайте и до очистки кеша." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2632" />
+        <entry key="ENGLISH" value="2633" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
@@ -92,6 +92,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608509392954" />
+    <option name="lastTrimTime" value="1609124830971" />
   </component>
 </application>
