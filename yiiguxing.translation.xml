@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sorting lots. At the moment this is not supported and there is no simple solution, we will try to include it in one of the next updates." />
+      <item value="О сортировке лотов. На текущий момент это не поддерживается и простого решения нет, постараемся включить это в одно из следующих обновлений." />
       <item value="Make a display of 50 lots and the rest will be loaded when scrolling the page." />
       <item value="Сделайте отображение 50 лотов и остальные будут подгружаться при прокрутки страницы." />
       <item value="Hello! We would not recommend displaying all lots, as this greatly affects the page loading speed. Make a display of 50 lots and the rest will be loaded." />
@@ -49,19 +51,17 @@
       <item value="Just wanted to clarify, do you keep your domain at https: www.shopify.com? Paying them extra? You can transfer your domain https: www.namecheap.comdomainstransfer" />
       <item value="Хотели уточнить, Вы держите свой домен на https:www.shopify.com ? Платите им лишнего? Можете перенести свой домен https:www.namecheap.comdomainstransfer" />
       <item value="We have transferred your domain to our server, the site is working, but to complete the task, you must completely leave wix and not pay them for hosting and domain." />
-      <item value="Мы перенесли Ваш домен на наш сервер, сайт работает, но для завершения задачи необходимо полностью уйти от wix и не платить им за хостинг и домен." />
-      <item value="We have transferred your domain to our server, the site is working, but to complete the task, you must completely leave wix. To do this, you can transfer the domain using: https: www.namecheap.comdomainstransfer If you have any problems, we will help you." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2643" />
+        <entry key="ENGLISH" value="2644" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2643" />
+        <entry key="RUSSIAN" value="2644" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
