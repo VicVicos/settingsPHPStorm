@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Make a display of 50 lots and the rest will be loaded when scrolling the page." />
+      <item value="Сделайте отображение 50 лотов и остальные будут подгружаться при прокрутки страницы." />
+      <item value="Hello! We would not recommend displaying all lots, as this greatly affects the page loading speed. Make a display of 50 lots and the rest will be loaded." />
+      <item value="Здравствуйте! Мы бы не рекомендовали выводить все лоты, так как это сильно сказывается на скорости загрузки страницы. Сделайте отображение 50 лотов и остальные будут подгружаться." />
       <item value="Have you solved the issue with renting a domain on shopify? Do you need help transferring your domain to www.namecheap.com?" />
       <item value="Вы разрешили вопрос с арендой домена на на shopify? Требуется ли вам помощь с переносом домена на www.namecheap.com?" />
       <item value="Have you figured out how to rent a domain on shopify? Do you need help transferring your domain to www.namecheap.com?" />
@@ -47,21 +51,17 @@
       <item value="We have transferred your domain to our server, the site is working, but to complete the task, you must completely leave wix and not pay them for hosting and domain." />
       <item value="Мы перенесли Ваш домен на наш сервер, сайт работает, но для завершения задачи необходимо полностью уйти от wix и не платить им за хостинг и домен." />
       <item value="We have transferred your domain to our server, the site is working, but to complete the task, you must completely leave wix. To do this, you can transfer the domain using: https: www.namecheap.comdomainstransfer If you have any problems, we will help you." />
-      <item value="Мы перенесли Ваш домен на наш сервер, сайт работает, но для завершения задачи необходимо полностью уйти от wix. Для этого можете перенести домен с помощью: https:www.namecheap.comdomainstransfer Если возникнут проблемы мы Вам поможем." />
-      <item value="area-bank" />
-      <item value="theme Params" />
-      <item value="I lost or broke my copy. Client https: bingyols.bidspirit.com has a problem registering on Bidspirit. At a time when Vitaly and I do not receive any errors from their devices." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2641" />
+        <entry key="ENGLISH" value="2643" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2641" />
+        <entry key="RUSSIAN" value="2643" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
