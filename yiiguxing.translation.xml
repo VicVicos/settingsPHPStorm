@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1) Changed the size of the banner on the profile page, and also added the ability to display featured image from the admin panel. 2) Emails are defined as spam, I think this is the problem. We made changes to the NS records, since only letters from the outlook.com domain were allowed there." />
+      <item value="1) Изменил размер баннера на странице профиля, а так же добавил возможность вывести featured image из админ панели. 2) Письма определяются как спам, думаю в этом проблема. Мы внесли изменения в NS записи, так как там были разрешены письма только из домена outlook.com" />
       <item value="Hello! No, this field will not help us, check now I have changed the sorting of lots." />
       <item value="Нет, это поле нам не поможет, проверьте сейчас я изменил сортировку у лотов." />
       <item value="Add New Slider category" />
@@ -49,19 +51,17 @@
       <item value="The source code of the demo script. I will ask the client to upload to his site and check if the registration error persists. If I download the source code from the browser, the script fails." />
       <item value="Исходный код демо скрипта. Я попрошу клиента залить себе на сайт и проверить сохраняется ли ошибка с регистрацией. Если я его скачиваю исходный код из браузера, скрипт отрабатывает с ошибкой." />
       <item value="The source code of the demo script. I will ask the client to upload to his site and check if the error persists. If I download the source code from the browser, the script fails." />
-      <item value="Исходный код демо скрипта. Я попрошу клиента залить себе на сайт и проверить сохраняется ли ошибка. Если я его скачиваю исходный код из браузера, скрипт отрабатывает с ошибкой." />
-      <item value="Just wanted to clarify, do you keep your domain at https: www.shopify.com? Paying them extra? You can transfer your domain https: https:www.namecheap.comdomainstransfer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2649" />
+        <entry key="ENGLISH" value="2650" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2649" />
+        <entry key="RUSSIAN" value="2650" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
