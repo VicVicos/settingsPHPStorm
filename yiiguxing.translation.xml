@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="How to take a photo of the motherboard, i'm try to send a photo" />
+      <item value="How to take a photo of the motherboard, try to send a photo" />
+      <item value="Как сделаем фото материнской платы попробую отправить фото" />
+      <item value="I can't send a photo." />
+      <item value="Не могу отправить фото." />
+      <item value="I am having some problems with attaching a photo to a post." />
+      <item value="Я испытываю некоторые проблемы с тем что бы прикрепить фото к сообщению." />
+      <item value="It will take us a little time for this. Now I can only throw off a photo with characteristics." />
+      <item value="Нам потребуется немного времени для этого. Сейчас могу скинуть только фото с характеристиками." />
+      <item value="We wanted to know about a replacement for a laptop lenovo ideapad 310-15isk with technical characteristics, see the picture. Is this board compatible with the old case? And in the case of compatibility, tell me everything you need to upgrade? I assume that the cooling system will need to be purchased." />
+      <item value="Хотели узнать о замене для ноутбука lenovo ideapad 310-15isk с техническими характеристиками смотрите на картинке. Совместима ли данная плата со старым корпусом? И в случае совместимости подскажите всё необходимое чтобы можно было осуществить upgrade? предполагаю что систему охлаждения надо будет докупить." />
       <item value="Обожаю" />
       <item value="Knew" />
       <item value="Know" />
@@ -40,28 +51,17 @@
       <item value="An email should have come from Wix with a domain transfer code." />
       <item value="От Wix должен был прийти email с кодом для переноса домена." />
       <item value="from" />
-      <item value="to" />
-      <item value="ugc" />
-      <item value="Link attributes" />
-      <item value="Delete an item from the cache by its unique key." />
-      <item value="распределение" />
-      <item value="Bank reviews" />
-      <item value="take" />
-      <item value="Also, you have been sent a code from wix that will be needed for the transfer. Let us know." />
-      <item value="Так же вам был отправлен от wix код который нужен будет для переноса. Сообщите нам его." />
-      <item value="You were also sent a code that will be needed for the transfer. Let us know." />
-      <item value="Так же вам был отправлен код который нужен будет для переноса. Сообщите нам его." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2662" />
+        <entry key="ENGLISH" value="2669" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2663" />
+        <entry key="RUSSIAN" value="2669" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
