@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Обожаю" />
+      <item value="Knew" />
+      <item value="Know" />
+      <item value="Went" />
+      <item value="Came" />
+      <item value="Come" />
+      <item value="Saw" />
+      <item value="See" />
+      <item value="Spoke" />
+      <item value="Speak" />
+      <item value="Did you think?" />
+      <item value="You will not think about this work" />
       <item value="Emails are no longer identified as spam, but the files do not cling to. For tomorrow in terms of work on solving the problem." />
       <item value="Письма перестали определяться как спам, но файлы так и не цепляются. На завтра в плане работа над решением проблемы." />
       <item value="1) Changed the size of the banner on the profile page, and also added the ability to display featured image from the admin panel. 2) Emails are defined as spam, I think this is the problem. We made changes to the NS records, since only letters from the outlook.com domain were allowed there." />
@@ -39,29 +51,17 @@
       <item value="Так же вам был отправлен от wix код который нужен будет для переноса. Сообщите нам его." />
       <item value="You were also sent a code that will be needed for the transfer. Let us know." />
       <item value="Так же вам был отправлен код который нужен будет для переноса. Сообщите нам его." />
-      <item value="And send us data for login" />
-      <item value="И отправьте нам логин и пароль" />
-      <item value="And send was login and password" />
-      <item value="And send as login and password" />
-      <item value="Please create account in https:www.namecheap.comdomainstransfer" />
-      <item value="append" />
-      <item value="list-bank-reviews" />
-      <item value="Country of Banks" />
-      <item value="Countries" />
-      <item value="additional Fields" />
-      <item value="Здесь https:bingyols.bidspirit.comhtmlthirdPartyDemo ошибка у клиента не воспроизводится." />
-      <item value="The source code of the demo script. I will ask the client to upload to his site and check if the registration error persists. If I download the source code from the browser, the script fails." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2651" />
+        <entry key="ENGLISH" value="2662" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2651" />
+        <entry key="RUSSIAN" value="2663" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
