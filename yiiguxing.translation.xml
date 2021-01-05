@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I do not have this information at the moment." />
+      <item value="На данный момент у меня нет этой информации." />
+      <item value="Can I use any cloud storage to transfer photos? Google Drive or Yandex disk?" />
+      <item value="Могу я использовать какое либо облачное хранилище для передачи фото? Google Drive or Yandex disk?" />
       <item value="How to take a photo of the motherboard, i'm try to send a photo" />
       <item value="How to take a photo of the motherboard, try to send a photo" />
       <item value="Как сделаем фото материнской платы попробую отправить фото" />
@@ -47,21 +51,17 @@
       <item value="1. Let's fix the problem with sorting lots with indices." />
       <item value="1. Проблему с сортировкой исправим лотов с индексами исправим." />
       <item value="1. You can add a link where we can see 71 lots. 2. In the Wordpress settings, you can set the desired number of lots to display." />
-      <item value="1. Можете добавить ссылку где мы сможем увидеть 71 лот. 2. В настройках Wordpress вы можете выставить нужное количество лотов для отображения." />
-      <item value="An email should have come from Wix with a domain transfer code." />
-      <item value="От Wix должен был прийти email с кодом для переноса домена." />
-      <item value="from" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2669" />
+        <entry key="ENGLISH" value="2671" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2669" />
+        <entry key="RUSSIAN" value="2671" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
