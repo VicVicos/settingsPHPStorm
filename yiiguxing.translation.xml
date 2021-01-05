@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Was i Ivan?" />
+      <item value="you Will be Ivan" />
+      <item value="you Will be Ivan?" />
+      <item value="Will you be Ivan?" />
+      <item value="Will you Ivan?" />
+      <item value="Will you people?" />
+      <item value="Will you man?" />
+      <item value="Will you be man" />
+      <item value="We didn't open" />
+      <item value="Did we open" />
+      <item value="We opened" />
+      <item value="Did we open?" />
+      <item value="Do we open" />
+      <item value="Do you open" />
       <item value="I do not have this information at the moment." />
       <item value="На данный момент у меня нет этой информации." />
       <item value="Can I use any cloud storage to transfer photos? Google Drive or Yandex disk?" />
@@ -37,31 +51,17 @@
       <item value="Add New Slider category" />
       <item value="Edit author" />
       <item value="All authors" />
-      <item value="Authors of podcasts" />
-      <item value="Sorting lots. At the moment this is not supported and there is no simple solution, we will try to include it in one of the next updates." />
-      <item value="О сортировке лотов. На текущий момент это не поддерживается и простого решения нет, постараемся включить это в одно из следующих обновлений." />
-      <item value="Make a display of 50 lots and the rest will be loaded when scrolling the page." />
-      <item value="Сделайте отображение 50 лотов и остальные будут подгружаться при прокрутки страницы." />
-      <item value="Hello! We would not recommend displaying all lots, as this greatly affects the page loading speed. Make a display of 50 lots and the rest will be loaded." />
-      <item value="Здравствуйте! Мы бы не рекомендовали выводить все лоты, так как это сильно сказывается на скорости загрузки страницы. Сделайте отображение 50 лотов и остальные будут подгружаться." />
-      <item value="Have you solved the issue with renting a domain on shopify? Do you need help transferring your domain to www.namecheap.com?" />
-      <item value="Вы разрешили вопрос с арендой домена на на shopify? Требуется ли вам помощь с переносом домена на www.namecheap.com?" />
-      <item value="Have you figured out how to rent a domain on shopify? Do you need help transferring your domain to www.namecheap.com?" />
-      <item value="Вы разобрались с арендой домена на на shopify? Требуется ли вам помощь с переносом домена на www.namecheap.com?" />
-      <item value="1. Let's fix the problem with sorting lots with indices." />
-      <item value="1. Проблему с сортировкой исправим лотов с индексами исправим." />
-      <item value="1. You can add a link where we can see 71 lots. 2. In the Wordpress settings, you can set the desired number of lots to display." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2671" />
+        <entry key="ENGLISH" value="2686" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2671" />
+        <entry key="RUSSIAN" value="2686" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
