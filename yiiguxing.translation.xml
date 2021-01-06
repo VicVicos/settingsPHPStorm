@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="She will not be bull" />
+      <item value="She will be bull" />
+      <item value="Will she be bull" />
+      <item value="Will she bull" />
       <item value="Was i Ivan?" />
       <item value="you Will be Ivan" />
       <item value="you Will be Ivan?" />
@@ -47,21 +51,17 @@
       <item value="1) Changed the size of the banner on the profile page, and also added the ability to display featured image from the admin panel. 2) Emails are defined as spam, I think this is the problem. We made changes to the NS records, since only letters from the outlook.com domain were allowed there." />
       <item value="1) Изменил размер баннера на странице профиля, а так же добавил возможность вывести featured image из админ панели. 2) Письма определяются как спам, думаю в этом проблема. Мы внесли изменения в NS записи, так как там были разрешены письма только из домена outlook.com" />
       <item value="Hello! No, this field will not help us, check now I have changed the sorting of lots." />
-      <item value="Нет, это поле нам не поможет, проверьте сейчас я изменил сортировку у лотов." />
-      <item value="Add New Slider category" />
-      <item value="Edit author" />
-      <item value="All authors" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2686" />
+        <entry key="ENGLISH" value="2692" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2686" />
+        <entry key="RUSSIAN" value="2692" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
