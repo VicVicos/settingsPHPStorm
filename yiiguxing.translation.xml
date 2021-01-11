@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sentry is active" />
       <item value="dont include your secret!" />
       <item value="She will not be bull" />
       <item value="She will be bull" />
@@ -50,18 +51,17 @@
       <item value="Emails are no longer identified as spam, but the files do not cling to. For tomorrow in terms of work on solving the problem." />
       <item value="Письма перестали определяться как спам, но файлы так и не цепляются. На завтра в плане работа над решением проблемы." />
       <item value="1) Changed the size of the banner on the profile page, and also added the ability to display featured image from the admin panel. 2) Emails are defined as spam, I think this is the problem. We made changes to the NS records, since only letters from the outlook.com domain were allowed there." />
-      <item value="1) Изменил размер баннера на странице профиля, а так же добавил возможность вывести featured image из админ панели. 2) Письма определяются как спам, думаю в этом проблема. Мы внесли изменения в NS записи, так как там были разрешены письма только из домена outlook.com" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2693" />
+        <entry key="ENGLISH" value="2694" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2693" />
+        <entry key="RUSSIAN" value="2694" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
