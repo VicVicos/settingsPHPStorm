@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We will discuss this moment" />
+      <item value="Мы обсудим этот момент" />
+      <item value="For example, a drop down menu that lets you sort items by price high or low" />
+      <item value="Could you describe in more detail about sorting the catalogs when viewing?" />
+      <item value="Could you describe in more detail about sorting the directory when browsing?" />
+      <item value="Не могли бы подробнее описать о сортировке каталога при просмотре?" />
+      <item value="Couldn’t tell do it from our site because of this. Is there a way to fix this? Also would be nice to have a way to sort the catalogs when viewing. Is this at all possible?" />
+      <item value="Bug with loading lots is fixed" />
+      <item value="Fixed a bug with loading lots." />
+      <item value="Ошибку с загрузкой лотов исправил." />
       <item value="About your mistake when creating a form with files. You have not specified an id for the file field. More details in the appendix." />
       <item value="О вашей ошибке при создании формы c файлами. Вы не указали id для поля с файлом. Подробнее в приложении." />
       <item value="Sentry is active" />
@@ -41,27 +51,17 @@
       <item value="Обожаю" />
       <item value="Knew" />
       <item value="Know" />
-      <item value="Went" />
-      <item value="Came" />
-      <item value="Come" />
-      <item value="Saw" />
-      <item value="See" />
-      <item value="Spoke" />
-      <item value="Speak" />
-      <item value="Did you think?" />
-      <item value="You will not think about this work" />
-      <item value="Emails are no longer identified as spam, but the files do not cling to. For tomorrow in terms of work on solving the problem." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2695" />
+        <entry key="ENGLISH" value="2702" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2695" />
+        <entry key="RUSSIAN" value="2702" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
