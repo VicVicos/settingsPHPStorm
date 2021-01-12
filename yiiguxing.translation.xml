@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please fillable field" />
+      <item value="A notification will pop up if the user wants to leave a bid" />
+      <item value="A notification will pop up if the user wants to leave a rate" />
+      <item value="To the account of the required field in the user profile &quot;Tax number&quot;. What is the correct way to write a notification in Portuguese that this field is empty? A notification will pop up if the user wants to leave a rate, but the Tax Number will not be filled in." />
+      <item value="На счёт обязательного поля в профиле пользователя &quot;Tax number&quot;. Как будет правильно написать на португальском уведомление что это поле не заполнено? Уведомление будет выскакивать если пользователь захочет оставить ставку, но Tax Number будет не заполнено." />
       <item value="I would like to ask you to create requests as a support ticket." />
       <item value="Хотел бы Вас попросить создавать обращения как тикет в поддержку." />
       <item value="The height of the header is edited in the admin panel. See attached images." />
@@ -46,22 +51,17 @@
       <item value="Do we open" />
       <item value="Do you open" />
       <item value="I do not have this information at the moment." />
-      <item value="На данный момент у меня нет этой информации." />
-      <item value="Can I use any cloud storage to transfer photos? Google Drive or Yandex disk?" />
-      <item value="Могу я использовать какое либо облачное хранилище для передачи фото? Google Drive or Yandex disk?" />
-      <item value="How to take a photo of the motherboard, i'm try to send a photo" />
-      <item value="How to take a photo of the motherboard, try to send a photo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2711" />
+        <entry key="ENGLISH" value="2715" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2711" />
+        <entry key="RUSSIAN" value="2715" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
