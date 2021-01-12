@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Или какой текст написать?" />
       <item value="Please fillable field" />
       <item value="A notification will pop up if the user wants to leave a bid" />
       <item value="A notification will pop up if the user wants to leave a rate" />
@@ -50,7 +51,6 @@
       <item value="Did we open?" />
       <item value="Do we open" />
       <item value="Do you open" />
-      <item value="I do not have this information at the moment." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2715" />
+        <entry key="RUSSIAN" value="2716" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
