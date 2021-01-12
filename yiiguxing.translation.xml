@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I would like to ask you to create requests as a support ticket." />
+      <item value="Хотел бы Вас попросить создавать обращения как тикет в поддержку." />
+      <item value="The height of the header is edited in the admin panel. See attached images." />
+      <item value="Высота шапки редактируется в админке. См. приложенные изображения." />
+      <item value="The header on the pages is not editable through Elementor, it is part of the template. Header font size made as on page" />
+      <item value="2) Шапка на страницах не редактируется через Elementor, она часть шаблона. Размер шрифта заголовка сделал как на странице" />
+      <item value="I don't quite understand, do I need to make the title top or center?" />
+      <item value="Не совсем понимаю, надо сделать что бы заголовок был сверху или по центру?" />
       <item value="We checked, the problem was fixed." />
       <item value="Проверили, проблему устранили." />
       <item value="past auctions" />
@@ -43,25 +51,17 @@
       <item value="Могу я использовать какое либо облачное хранилище для передачи фото? Google Drive or Yandex disk?" />
       <item value="How to take a photo of the motherboard, i'm try to send a photo" />
       <item value="How to take a photo of the motherboard, try to send a photo" />
-      <item value="Как сделаем фото материнской платы попробую отправить фото" />
-      <item value="I can't send a photo." />
-      <item value="Не могу отправить фото." />
-      <item value="I am having some problems with attaching a photo to a post." />
-      <item value="Я испытываю некоторые проблемы с тем что бы прикрепить фото к сообщению." />
-      <item value="It will take us a little time for this. Now I can only throw off a photo with characteristics." />
-      <item value="Нам потребуется немного времени для этого. Сейчас могу скинуть только фото с характеристиками." />
-      <item value="We wanted to know about a replacement for a laptop lenovo ideapad 310-15isk with technical characteristics, see the picture. Is this board compatible with the old case? And in the case of compatibility, tell me everything you need to upgrade? I assume that the cooling system will need to be purchased." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2706" />
+        <entry key="ENGLISH" value="2711" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2706" />
+        <entry key="RUSSIAN" value="2711" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
