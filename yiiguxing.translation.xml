@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Discussion through the creation of a ticket must be written to email support@bidspirit-themes.com or in a group on WhatsApp." />
+      <item value="Appeals through the creation of a ticket must be written to email support@bidspirit-themes.com or in a group on WhatsApp." />
+      <item value="Обращения через создание тикета надо писать сообщения на email support@bidspirit-themes.com или в группе в WhatsApp." />
+      <item value="The expense of contacting through support with a ticket. Write to support@bidspirit-themes.com or in the group on WhatsApp" />
+      <item value="About the expense of contacting through support with a ticket. Write to support@bidspirit-themes.com or in the group on WhatsApp" />
+      <item value="At the expense of contacting through support with a ticket. Write to support@bidspirit-themes.com or in the group on WhatsApp" />
+      <item value="2) Merged, now all banners will change in one place." />
+      <item value="2) Merge, now all banners will change in one place." />
+      <item value="2) Combined, now all banners will change in one place." />
+      <item value="1) Checked the fonts. Let's add the ability to change the font size from the global Elementor settings." />
+      <item value="1) Проверил шрифты. Добавим возможность изменять размер шрифта из глобальных настроек Elementor. 2) Объединил, теперь все банеры будут изменяться в одном месте. На счёт обращения через поддержку с тикетом. Пишите на support@bidspirit-themes.com или в группе в WhatsApp." />
+      <item value="About your question about sorting lots, we do not resolve this issue." />
+      <item value="Valkyrieauctions client wants to implement lot sorting. We sent him to discuss the moment with the implementation through his manager." />
+      <item value="Клиент valkyrieauctions хочет реализовать сортировку лотов. Мы направили его обсудить момент с реализацией через своего менеджера." />
+      <item value="And about the implementation of this moment, you need to contact those support Bidspirit or discuss directly with your manager from Bidspirit." />
+      <item value="As for your question about sorting lots, we do not resolve this issue. And about the implementation of this moment, you need to contact those. support Bidspirit or discuss directly with your manager from Bidspirit." />
+      <item value="Что касается Вашего вопроса о сортировке лотов, мы не решаем этот вопрос. И о реализации этого момента вам надо обратиться в тех. поддержку Bidspirit или обсудить непосредственно с вашим менеджером из Bidspirit." />
       <item value="Clearing the cache of a specific page" />
       <item value="Очистка кеша определённой страницы" />
       <item value="Предполагаю что надо использовать &quot;Endpoint: clear_cache(?P&lt;module&gt;[\\w-]+)&quot;" />
@@ -34,34 +51,17 @@
       <item value="Couldn’t tell do it from our site because of this. Is there a way to fix this? Also would be nice to have a way to sort the catalogs when viewing. Is this at all possible?" />
       <item value="Bug with loading lots is fixed" />
       <item value="Fixed a bug with loading lots." />
-      <item value="Ошибку с загрузкой лотов исправил." />
-      <item value="About your mistake when creating a form with files. You have not specified an id for the file field. More details in the appendix." />
-      <item value="О вашей ошибке при создании формы c файлами. Вы не указали id для поля с файлом. Подробнее в приложении." />
-      <item value="Sentry is active" />
-      <item value="dont include your secret!" />
-      <item value="She will not be bull" />
-      <item value="She will be bull" />
-      <item value="Will she be bull" />
-      <item value="Will she bull" />
-      <item value="Was i Ivan?" />
-      <item value="you Will be Ivan" />
-      <item value="you Will be Ivan?" />
-      <item value="Will you be Ivan?" />
-      <item value="Will you Ivan?" />
-      <item value="Will you people?" />
-      <item value="Will you man?" />
-      <item value="Will you be man" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2720" />
+        <entry key="ENGLISH" value="2734" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2720" />
+        <entry key="RUSSIAN" value="2734" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
