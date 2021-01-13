@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We have added a Tax Number field to the user profile. And the display of the auction commission on the lot page. Check, please." />
+      <item value="Мы добавили поле Tax Number в профиле пользователя. И отображение комиссии аукциона на странице лота. Проверьте пожалуйста." />
       <item value="Judging by the logs," />
       <item value="If manually update the post from the admin panel, the html cache file is deleted." />
       <item value="If have manually update the post from the admin panel, the html cache file is deleted." />
@@ -49,19 +51,17 @@
       <item value="We checked, the problem was fixed." />
       <item value="Проверили, проблему устранили." />
       <item value="past auctions" />
-      <item value="Tax number is required" />
-      <item value="We will discuss this moment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2741" />
+        <entry key="ENGLISH" value="2742" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2741" />
+        <entry key="RUSSIAN" value="2742" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
