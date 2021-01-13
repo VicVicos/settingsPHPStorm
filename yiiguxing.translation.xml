@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Judging by the logs," />
+      <item value="If manually update the post from the admin panel, the html cache file is deleted." />
+      <item value="If have manually update the post from the admin panel, the html cache file is deleted." />
+      <item value="Judging by the logs, filter add_filter ('wphb_page_cache_custom_terms', 'page_cache_custom_terms'); works out and the cache for the category is cleared, but the html cache file physically remains. If you manually update the post from the admin panel, the html cache file is deleted." />
+      <item value="Судя по логам фильтр add_filter( 'wphb_page_cache_custom_terms', 'page_cache_custom_terms' ); отрабатывает и кеш для категории очищается, но html файл кеша физически остаётся. Если в ручную из админ панели обновить пост, то html файл кеша удаляется." />
       <item value="hummingbird" />
       <item value="Cache has been purged for post" />
       <item value="fillable" />
@@ -46,22 +51,17 @@
       <item value="past auctions" />
       <item value="Tax number is required" />
       <item value="We will discuss this moment" />
-      <item value="Мы обсудим этот момент" />
-      <item value="For example, a drop down menu that lets you sort items by price high or low" />
-      <item value="Could you describe in more detail about sorting the catalogs when viewing?" />
-      <item value="Could you describe in more detail about sorting the directory when browsing?" />
-      <item value="Не могли бы подробнее описать о сортировке каталога при просмотре?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2737" />
+        <entry key="ENGLISH" value="2741" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2737" />
+        <entry key="RUSSIAN" value="2741" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
