@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configured cron tasks on VPS don't working" />
+      <item value="Настроенные задачи" />
+      <item value="Build cron tasks on VPS don't working" />
+      <item value="run every hour" />
+      <item value="run every hours" />
+      <item value="запускать каждую минуту." />
+      <item value="запускать раз в неделю." />
+      <item value="to activate synchronization with bidspirit, add 3 scheduled tasks." />
+      <item value="для активации синхронизации с bidspirit надо добавить 3 scheduled tasks." />
+      <item value="Earlier, when I said that caching works, I relied on entries in the logs, which is not entirely true if the post is updated by a script that was launched via cron. In the near future we will prepare a test site where you can check it yourself." />
+      <item value="Is it possible to run cache clearing directly for a specific page?" />
+      <item value="Имеется ли возможность запустить очистку кеша напрямую для конкретной страницы?" />
+      <item value="Or check it out on your own." />
+      <item value="Или проверьте это со своей стороны самостоятельно." />
+      <item value="In the near future we will prepare a test site where you can check it yourself." />
+      <item value="Earlier, when I said that caching works, I relied on entries in the logs, which is not entirely true if the post is updated by a script that was launched via cron." />
+      <item value="Provided that the logs contain records of successful cache clearing." />
+      <item value="При условии что в логах есть записи об успешной очистке кеша." />
+      <item value="Given that are records in the logs that the cache for writing has been cleared." />
+      <item value="Given that are records in the logs cache for writing has been cleared." />
+      <item value="Given that there are records in the logs that the cache for writing has been cleared." />
+      <item value="We did some more tests. We found out that when updating posts through the scheduled task from server cron, the cache files are not deleted for either posts or categories. If the scheduled task is started using wp-cron, then the write cache is cleared, the cache of the parent category is not deleted. Given that there are records in the logs that the cache for writing has been cleared. Earlier, when I said that caching works, I relied on entries in the logs, which is not entirely true if the post is updated by a script that was launched via cron. In the near future we will prepare a test site where you can check it yourself." />
+      <item value="Провели ещё несколько тестов. Выяснили что при обновлении постов через scheduled task from server cron файлы кеша не удаляются ни для постов, ни для категорий. Если запуск scheduled task происходит с помощью wp-cron, то кеш записи очищается, кеш родительской категории не удаляется. При том что в логах имеются записи о том что кеш для записи был очищен. Ранее когда я говорил что кеширование работает опирался на записи в логах, что не совсем верно если обновление поста происходит скриптом который был запущен через cron. В ближайшее время подготовим тестовый сайт где вы сможете проверить самостоятельно." />
       <item value="We are sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
       <item value="Now we sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
       <item value="Now we are sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
@@ -28,40 +51,17 @@
       <item value="About yesterday's problems with authorization. Fixed, please check." />
       <item value="О вчерашних проблемах с авторизацией. Исправили, проверьте пожалуйста. Что касается проблемы с картинкой, исправили. Причину возникновения проблемы ищем." />
       <item value="Found out that when updating posts via scheduled task from server cron" />
-      <item value="Выяснили что при обновлении постов через scheduled task from server cron" />
-      <item value="Loading wrong image for lot" />
-      <item value="Load wrong image for lot" />
-      <item value="We have added a Tax Number field to the user profile. And the display of the auction commission on the lot page. Check, please." />
-      <item value="Мы добавили поле Tax Number в профиле пользователя. И отображение комиссии аукциона на странице лота. Проверьте пожалуйста." />
-      <item value="Judging by the logs," />
-      <item value="If manually update the post from the admin panel, the html cache file is deleted." />
-      <item value="If have manually update the post from the admin panel, the html cache file is deleted." />
-      <item value="Judging by the logs, filter add_filter ('wphb_page_cache_custom_terms', 'page_cache_custom_terms'); works out and the cache for the category is cleared, but the html cache file physically remains. If you manually update the post from the admin panel, the html cache file is deleted." />
-      <item value="Судя по логам фильтр add_filter( 'wphb_page_cache_custom_terms', 'page_cache_custom_terms' ); отрабатывает и кеш для категории очищается, но html файл кеша физически остаётся. Если в ручную из админ панели обновить пост, то html файл кеша удаляется." />
-      <item value="hummingbird" />
-      <item value="Cache has been purged for post" />
-      <item value="fillable" />
-      <item value="Discussion through the creation of a ticket must be written to email support@bidspirit-themes.com or in a group on WhatsApp." />
-      <item value="Appeals through the creation of a ticket must be written to email support@bidspirit-themes.com or in a group on WhatsApp." />
-      <item value="Обращения через создание тикета надо писать сообщения на email support@bidspirit-themes.com или в группе в WhatsApp." />
-      <item value="The expense of contacting through support with a ticket. Write to support@bidspirit-themes.com or in the group on WhatsApp" />
-      <item value="About the expense of contacting through support with a ticket. Write to support@bidspirit-themes.com or in the group on WhatsApp" />
-      <item value="At the expense of contacting through support with a ticket. Write to support@bidspirit-themes.com or in the group on WhatsApp" />
-      <item value="2) Merged, now all banners will change in one place." />
-      <item value="2) Merge, now all banners will change in one place." />
-      <item value="2) Combined, now all banners will change in one place." />
-      <item value="1) Checked the fonts. Let's add the ability to change the font size from the global Elementor settings." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2765" />
+        <entry key="ENGLISH" value="2783" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2765" />
+        <entry key="RUSSIAN" value="2783" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
