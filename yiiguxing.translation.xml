@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We are sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
+      <item value="Now we sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
+      <item value="Now we are sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
+      <item value="Which field the lots are sorted on the bidspirit portal?" />
+      <item value="How which field the lots are sorted on the bidspirit portal?" />
+      <item value="How to clarify by which field the lots are sorted on the bidspirit portal?" />
+      <item value="How like to clarify by which field the lots are sorted on the bidspirit portal?" />
+      <item value="What like to clarify by which field the lots are sorted on the bidspirit portal?" />
+      <item value="Would like to clarify by which field the lots are sorted on the bidspirit portal?" />
+      <item value="Would you like to clarify by which field the lots are sorted on the bidspirit portal?" />
+      <item value="Хотели уточнить по какому полю лоты сортируются на bidspirit портале? Сейчас мы сортируем по полю itemIndex, так же мы имеем возможность сортировать по полю id, которое приходит нам в ответе на API запросы." />
+      <item value="We have a problem with displaying lots that have alphanumeric indices, for example (1A, 1B, 1C, 2A, 2B etc.)." />
+      <item value="У нас возникла проблема с отображением лотов которые имеют цифро-буквенные индексы, пример (1А, 1B, 1C, 2A, 2B etc.)." />
+      <item value="And we will try to find a solution to this problem with bidspirit support." />
+      <item value="And we will try to find a solution to this problem with those. bidspirit support." />
+      <item value="And we will try to find a solution to this problem on those. bidspirit support." />
+      <item value="We can send you a test version of the plugin with the implemented sorting, but we have not implemented this sorting for the entire plugin at the moment, as this may cause problems with displaying lots by their indices. Alternatively, you can avoid using letter indices for lots? And we will try to find a solution to this problem from those. bidspirit support." />
+      <item value="Можем прислать вам версию плагина что на тестовом с реализованной сортировкой, но мы не стали реализовывать эту сортировку для всего плагина на текущий момент, так как с этим могут возникнуть проблемы с отображением лотов по их индексам. Как вариант можете не использовать буквенные индексы для лотов? И мы постараемся найти решение этой проблемы с тех. поддержкой bidspirit." />
+      <item value="We are looking for the cause of the problem." />
+      <item value="Причину возникновения проблемы ищем." />
+      <item value="As for the problem with the picture, the picture fixed. We are looking for the cause of the problem." />
+      <item value="As for the problem with the picture, the picture has been fixed. We are looking for the cause of the problem." />
+      <item value="Что касается проблемы с картинкой, картинку исправили. Причину возникновения проблемы ищем." />
+      <item value="As for the problem with the picture, we fixed it. We are looking for the cause of the problem." />
+      <item value="About yesterday's problems with authorization. Fixed, please check." />
+      <item value="О вчерашних проблемах с авторизацией. Исправили, проверьте пожалуйста. Что касается проблемы с картинкой, исправили. Причину возникновения проблемы ищем." />
       <item value="Found out that when updating posts via scheduled task from server cron" />
       <item value="Выяснили что при обновлении постов через scheduled task from server cron" />
       <item value="Loading wrong image for lot" />
@@ -25,43 +51,17 @@
       <item value="2) Merge, now all banners will change in one place." />
       <item value="2) Combined, now all banners will change in one place." />
       <item value="1) Checked the fonts. Let's add the ability to change the font size from the global Elementor settings." />
-      <item value="1) Проверил шрифты. Добавим возможность изменять размер шрифта из глобальных настроек Elementor. 2) Объединил, теперь все банеры будут изменяться в одном месте. На счёт обращения через поддержку с тикетом. Пишите на support@bidspirit-themes.com или в группе в WhatsApp." />
-      <item value="About your question about sorting lots, we do not resolve this issue." />
-      <item value="Valkyrieauctions client wants to implement lot sorting. We sent him to discuss the moment with the implementation through his manager." />
-      <item value="Клиент valkyrieauctions хочет реализовать сортировку лотов. Мы направили его обсудить момент с реализацией через своего менеджера." />
-      <item value="And about the implementation of this moment, you need to contact those support Bidspirit or discuss directly with your manager from Bidspirit." />
-      <item value="As for your question about sorting lots, we do not resolve this issue. And about the implementation of this moment, you need to contact those. support Bidspirit or discuss directly with your manager from Bidspirit." />
-      <item value="Что касается Вашего вопроса о сортировке лотов, мы не решаем этот вопрос. И о реализации этого момента вам надо обратиться в тех. поддержку Bidspirit или обсудить непосредственно с вашим менеджером из Bidspirit." />
-      <item value="Clearing the cache of a specific page" />
-      <item value="Очистка кеша определённой страницы" />
-      <item value="Предполагаю что надо использовать &quot;Endpoint: clear_cache(?P&lt;module&gt;[\\w-]+)&quot;" />
-      <item value="It is required to manually clear the cache for a specific category page, which is a custom taxonomy." />
-      <item value="It is required to manually clear the cache for a specific category page. Which is a custom taxonomy. In the API documentation, it is possible to manually clear the cache for a specific post page, but how to do this for the taxonomy is not entirely clear." />
-      <item value="Требуется в ручную сделать очистку кеша для конкретной страницы категории. Которая является кастомной таксономией. В документации API есть возможность в ручную очистить кеш для конкретного постастраницы, а вот как для это сделать для таксономии не совсем ясно" />
-      <item value="Или какой текст написать?" />
-      <item value="Please fillable field" />
-      <item value="A notification will pop up if the user wants to leave a bid" />
-      <item value="A notification will pop up if the user wants to leave a rate" />
-      <item value="To the account of the required field in the user profile &quot;Tax number&quot;. What is the correct way to write a notification in Portuguese that this field is empty? A notification will pop up if the user wants to leave a rate, but the Tax Number will not be filled in." />
-      <item value="На счёт обязательного поля в профиле пользователя &quot;Tax number&quot;. Как будет правильно написать на португальском уведомление что это поле не заполнено? Уведомление будет выскакивать если пользователь захочет оставить ставку, но Tax Number будет не заполнено." />
-      <item value="I would like to ask you to create requests as a support ticket." />
-      <item value="Хотел бы Вас попросить создавать обращения как тикет в поддержку." />
-      <item value="The height of the header is edited in the admin panel. See attached images." />
-      <item value="Высота шапки редактируется в админке. См. приложенные изображения." />
-      <item value="The header on the pages is not editable through Elementor, it is part of the template. Header font size made as on page" />
-      <item value="2) Шапка на страницах не редактируется через Elementor, она часть шаблона. Размер шрифта заголовка сделал как на странице" />
-      <item value="I don't quite understand, do I need to make the title top or center?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2745" />
+        <entry key="ENGLISH" value="2765" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2745" />
+        <entry key="RUSSIAN" value="2765" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
