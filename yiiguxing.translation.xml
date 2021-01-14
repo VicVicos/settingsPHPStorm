@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Found out that when updating posts via scheduled task from server cron" />
+      <item value="Выяснили что при обновлении постов через scheduled task from server cron" />
       <item value="Loading wrong image for lot" />
       <item value="Load wrong image for lot" />
       <item value="We have added a Tax Number field to the user profile. And the display of the auction commission on the lot page. Check, please." />
@@ -49,19 +51,17 @@
       <item value="The header on the pages is not editable through Elementor, it is part of the template. Header font size made as on page" />
       <item value="2) Шапка на страницах не редактируется через Elementor, она часть шаблона. Размер шрифта заголовка сделал как на странице" />
       <item value="I don't quite understand, do I need to make the title top or center?" />
-      <item value="Не совсем понимаю, надо сделать что бы заголовок был сверху или по центру?" />
-      <item value="We checked, the problem was fixed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2744" />
+        <entry key="ENGLISH" value="2745" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2744" />
+        <entry key="RUSSIAN" value="2745" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
