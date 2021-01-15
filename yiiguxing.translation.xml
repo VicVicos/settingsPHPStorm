@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Перетащите сюда виджеты, чтобы добавить их в сайдбар." />
       <item value="We need to have this in" />
       <item value="Нам надо это иметь в itemsgetAuctionItems.api" />
       <item value="Yes it would be great" />
@@ -50,7 +51,6 @@
       <item value="And we will try to find a solution to this problem with those. bidspirit support." />
       <item value="And we will try to find a solution to this problem on those. bidspirit support." />
       <item value="We can send you a test version of the plugin with the implemented sorting, but we have not implemented this sorting for the entire plugin at the moment, as this may cause problems with displaying lots by their indices. Alternatively, you can avoid using letter indices for lots? And we will try to find a solution to this problem from those. bidspirit support." />
-      <item value="Можем прислать вам версию плагина что на тестовом с реализованной сортировкой, но мы не стали реализовывать эту сортировку для всего плагина на текущий момент, так как с этим могут возникнуть проблемы с отображением лотов по их индексам. Как вариант можете не использовать буквенные индексы для лотов? И мы постараемся найти решение этой проблемы с тех. поддержкой bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2788" />
+        <entry key="RUSSIAN" value="2789" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
