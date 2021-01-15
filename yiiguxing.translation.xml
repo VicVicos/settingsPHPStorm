@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As for sorting lots, to resolve this issue, bidspirit, for their part, should add an additional field when sorting by which there will be no problems. Once they do this we will add it to the plugin and you can get an update for your site." />
+      <item value="Что касается сортировки лотов, для решения этого вопроса bidspirit со своей стороны должны добавить дополнительное поле при сортировке по которому проблем не будет. Как только они сделают это мы добавим в плагин и вы сможете получить обновление для своего сайта." />
       <item value="additional content" />
       <item value="Перетащите сюда виджеты, чтобы добавить их в сайдбар." />
       <item value="We need to have this in" />
@@ -49,19 +51,17 @@
       <item value="We have a problem with displaying lots that have alphanumeric indices, for example (1A, 1B, 1C, 2A, 2B etc.)." />
       <item value="У нас возникла проблема с отображением лотов которые имеют цифро-буквенные индексы, пример (1А, 1B, 1C, 2A, 2B etc.)." />
       <item value="And we will try to find a solution to this problem with bidspirit support." />
-      <item value="And we will try to find a solution to this problem with those. bidspirit support." />
-      <item value="And we will try to find a solution to this problem on those. bidspirit support." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2789" />
+        <entry key="ENGLISH" value="2790" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2789" />
+        <entry key="RUSSIAN" value="2790" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
