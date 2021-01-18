@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="padded Index" />
       <item value="Top news" />
       <item value="preview" />
       <item value="As for sorting lots, to resolve this issue, bidspirit, for their part, should add an additional field when sorting by which there will be no problems. Once they do this we will add it to the plugin and you can get an update for your site." />
@@ -50,18 +51,17 @@
       <item value="Would like to clarify by which field the lots are sorted on the bidspirit portal?" />
       <item value="Would you like to clarify by which field the lots are sorted on the bidspirit portal?" />
       <item value="Хотели уточнить по какому полю лоты сортируются на bidspirit портале? Сейчас мы сортируем по полю itemIndex, так же мы имеем возможность сортировать по полю id, которое приходит нам в ответе на API запросы." />
-      <item value="We have a problem with displaying lots that have alphanumeric indices, for example (1A, 1B, 1C, 2A, 2B etc.)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2792" />
+        <entry key="ENGLISH" value="2793" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2792" />
+        <entry key="RUSSIAN" value="2793" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
