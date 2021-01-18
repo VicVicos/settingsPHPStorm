@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="сноска" />
       <item value="Display search of banks" />
       <item value="Display banks of search" />
       <item value="Display search banks" />
@@ -50,13 +51,13 @@
       <item value="Имеется ли возможность запустить очистку кеша напрямую для конкретной страницы?" />
       <item value="Or check it out on your own." />
       <item value="Или проверьте это со своей стороны самостоятельно." />
-      <item value="In the near future we will prepare a test site where you can check it yourself." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="2805" />
         <entry key="AZERBAIJANI" value="4" />
+        <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
