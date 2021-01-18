@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Added code: using filter 'wphb_page_cache_custom_terms'." />
+      <item value="Код который добавили: использование фильтра 'wphb_page_cache_custom_terms'." />
+      <item value="If the script is run from under wp-cron, the cache is cleared for the post and for the parent category." />
+      <item value="Если скрипт запускается из под wp-cron кеш очищается для поста и для родительской категории." />
+      <item value="We are ready to transfer you access to the server to solve the problem with updating posts and clearing the cache when running scripts using cron scheduled tasks." />
+      <item value="Мы готовы передать вам доступы к серверу для решения проблемы с обновления постов и очисткой кеша при запуске скриптов с помощью cron scheduled tasks." />
+      <item value="We are ready to transfer you access to the server to solve the problem with clearing the cache and updating posts when running scripts using cron scheduled tasks." />
+      <item value="Мы готовы передать вам доступы к серверу для решения проблемы с очисткой кеша и обновления постов при запуске скриптов с помощью cron scheduled tasks." />
       <item value="padded Index" />
       <item value="Top news" />
       <item value="preview" />
@@ -43,25 +51,17 @@
       <item value="We are sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
       <item value="Now we sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
       <item value="Now we are sorting by the itemIndex field, we also have the ability to sort by the id field, which comes to us in response to API requests." />
-      <item value="Which field the lots are sorted on the bidspirit portal?" />
-      <item value="How which field the lots are sorted on the bidspirit portal?" />
-      <item value="How to clarify by which field the lots are sorted on the bidspirit portal?" />
-      <item value="How like to clarify by which field the lots are sorted on the bidspirit portal?" />
-      <item value="What like to clarify by which field the lots are sorted on the bidspirit portal?" />
-      <item value="Would like to clarify by which field the lots are sorted on the bidspirit portal?" />
-      <item value="Would you like to clarify by which field the lots are sorted on the bidspirit portal?" />
-      <item value="Хотели уточнить по какому полю лоты сортируются на bidspirit портале? Сейчас мы сортируем по полю itemIndex, так же мы имеем возможность сортировать по полю id, которое приходит нам в ответе на API запросы." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2793" />
+        <entry key="ENGLISH" value="2797" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2793" />
+        <entry key="RUSSIAN" value="2797" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
