@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Display search of banks" />
+      <item value="Display banks of search" />
+      <item value="Display search banks" />
       <item value="We are ready to transfer you access to the server to solve the problem with updating posts and clearing the cache when running scripts using cron scheduled tasks. If the script is run from under wp-cron, the cache is cleared for the post and for the parent category. Added code: using filter 'wphb_page_cache_custom_terms'." />
       <item value="To run the script using cron, we use the connection of the entire core and all plugins at startup." />
       <item value="The script that calls the update of posts for wp-cron and cron for the server calls the same class." />
@@ -48,20 +51,17 @@
       <item value="Or check it out on your own." />
       <item value="Или проверьте это со своей стороны самостоятельно." />
       <item value="In the near future we will prepare a test site where you can check it yourself." />
-      <item value="Earlier, when I said that caching works, I relied on entries in the logs, which is not entirely true if the post is updated by a script that was launched via cron." />
-      <item value="Provided that the logs contain records of successful cache clearing." />
-      <item value="При условии что в логах есть записи об успешной очистке кеша." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2802" />
+        <entry key="ENGLISH" value="2805" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2802" />
+        <entry key="RUSSIAN" value="2805" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
