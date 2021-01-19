@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post shift" />
       <item value="don\'t removed" />
       <item value="Now we will check that deleting files when running the script using cron is not affected by the problem with the lack of permission to access files." />
       <item value="Now we will also check that deleting files when running the script using cron is not affected by the problem with the lack of permission to access files." />
@@ -50,19 +51,18 @@
       <item value="запускать раз в неделю." />
       <item value="to activate synchronization with bidspirit, add 3 scheduled tasks." />
       <item value="для активации синхронизации с bidspirit надо добавить 3 scheduled tasks." />
-      <item value="Earlier, when I said that caching works, I relied on entries in the logs, which is not entirely true if the post is updated by a script that was launched via cron. In the near future we will prepare a test site where you can check it yourself." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2808" />
+        <entry key="ENGLISH" value="2809" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2808" />
+        <entry key="RUSSIAN" value="2809" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
