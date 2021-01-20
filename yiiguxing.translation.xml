@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="list-news-more" />
       <item value="I will also repeat that when you run the script using wp-cron, clearing the cache works, the problem is only when running from under cron." />
       <item value="without this, clearing the cache for the custom post type does not work." />
       <item value="В наш плагин мы добавили вызов фильтра &quot;wphb_page_cache_custom_terms&quot; в wp-contentpluginsuco-auctionsincimportInsertLots.php:57 Без этого очистка кеша для custom post type не работает. Так же повторю что при запуске скрипта с помощью wp-cron очистка кеша работает, проблема только при запуске из под cron." />
@@ -50,19 +51,18 @@
       <item value="Перетащите сюда виджеты, чтобы добавить их в сайдбар." />
       <item value="We need to have this in" />
       <item value="Нам надо это иметь в itemsgetAuctionItems.api" />
-      <item value="Yes it would be great" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2820" />
+        <entry key="ENGLISH" value="2821" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2820" />
+        <entry key="RUSSIAN" value="2821" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
