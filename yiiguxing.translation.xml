@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I don’t know what to fill in here" />
       <item value="You must be logged in to perform this action" />
       <item value="post shift" />
       <item value="don\'t removed" />
@@ -50,19 +51,18 @@
       <item value="run every hours" />
       <item value="запускать каждую минуту." />
       <item value="запускать раз в неделю." />
-      <item value="to activate synchronization with bidspirit, add 3 scheduled tasks." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2810" />
+        <entry key="ENGLISH" value="2811" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2810" />
+        <entry key="RUSSIAN" value="2811" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
