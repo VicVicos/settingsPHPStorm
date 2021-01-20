@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I will also repeat that when you run the script using wp-cron, clearing the cache works, the problem is only when running from under cron." />
+      <item value="without this, clearing the cache for the custom post type does not work." />
+      <item value="В наш плагин мы добавили вызов фильтра &quot;wphb_page_cache_custom_terms&quot; в wp-contentpluginsuco-auctionsincimportInsertLots.php:57 Без этого очистка кеша для custom post type не работает. Так же повторю что при запуске скрипта с помощью wp-cron очистка кеша работает, проблема только при запуске из под cron." />
+      <item value="Checked the ability of cron to delete files using the unlink function. We found no problems." />
+      <item value="Проверили возможность cron удалить файлы используя функцию unlink. Проблем не обнаружили." />
+      <item value="Wp-cron can start sync recording see attached images." />
+      <item value="Wp-cron start sync recording see attached images." />
+      <item value="Ssh can start sync recording" />
+      <item value="По ssh можно запустить синхронизацию записи" />
+      <item value="See last update record after run sync" />
+      <item value="Posts in this category are updated when cron starts" />
+      <item value="Посты из этой категории обновляются при запуске cron" />
+      <item value="Credentials" />
       <item value="I don’t know what to fill in here" />
       <item value="You must be logged in to perform this action" />
       <item value="post shift" />
@@ -38,31 +51,18 @@
       <item value="We need to have this in" />
       <item value="Нам надо это иметь в itemsgetAuctionItems.api" />
       <item value="Yes it would be great" />
-      <item value="Да, было бы отлично" />
-      <item value="Yes, make it possible to get it in the API." />
-      <item value="Да, дайте возможность получить его в API." />
-      <item value="Yes, let's give it to us in the API." />
-      <item value="Да, давайте нам его в API." />
-      <item value="Taxonomy Properties" />
-      <item value="Configured cron tasks on VPS don't working" />
-      <item value="Настроенные задачи" />
-      <item value="Build cron tasks on VPS don't working" />
-      <item value="run every hour" />
-      <item value="run every hours" />
-      <item value="запускать каждую минуту." />
-      <item value="запускать раз в неделю." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2811" />
+        <entry key="ENGLISH" value="2820" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2811" />
+        <entry key="RUSSIAN" value="2820" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
