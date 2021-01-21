@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The decision to support legacy browsers is ultimately up to you." />
+      <item value="Решение о поддержке устаревших браузеров в итоге должны принять вы." />
+      <item value="We recorded a video reproducing the problem. It is also up to you to decide whether to support outdated browsers." />
+      <item value="Мы записали видео с воспроизведением проблемы. Так же решение о поддержке устаревших браузеров в итоге должны принять вы." />
+      <item value="I am in favor of not supporting users with older versions of browsers." />
+      <item value="Я за то что бы не поддерживать пользователей со старыми версиями браузеров." />
+      <item value="Example: I log in, everything works, but as soon as the page is refreshed, the authorization fails. The same happens in the opposite direction, if authorization is preserved, then the logout process can be difficult to implement." />
+      <item value="Пример: Я авторизуюсь, всё работает, но стоит обновить страницу как авторизация слетает. Так же бывает и в обратную сторону, если авторизация сохраняется, то процесс logout бывает сложно осуществить." />
+      <item value="The problems are similar." />
+      <item value="Я проверил наличие проблем на внешнем тестовом https:bidspirit-system-static.s3.amazonaws.comteststhirdPartyApiweb2-qa-test.html Проблемы аналогичные." />
+      <item value="I have corrected the errors that you indicate in the letter, but have not yet updated them to client sites. The latest improvements are available only on test auctions-dev.ln3.tempurl.info" />
+      <item value="Я исправил ошибки на которые Вы указываете в письме, но пока не обновлял на сайты клиентов. Последние доработки есть только на тестовом auctions-dev.ln3.tempurl.info" />
       <item value="You have submitted tests for the &quot;About&quot; and &quot;Terms of Conditions&quot; pages in Portuguese. What text will be for the Eng version of the site?" />
       <item value="Вы прислали тесты для страниц &quot;About&quot; and &quot;Terms of Conditions&quot; на португальском. Какой текст будет для Eng версии сайта?" />
       <item value="We would like to receive a comment from you" />
@@ -39,30 +51,18 @@
       <item value="The script that launches calls the update of posts for wp-cron and cron for the server run the same class. To run the script using cron, we use the connection of the entire core and all plugins at startup. Sample code to run a script using cron:" />
       <item value="Скрипт который запускает вызывает обновление постов для wp-cron и cron для сервера запускают один и тот же класс. Для запуска скрипта с помощью cron мы используем подключение всего ядра и всех плагинов при запуске. Пример кода для запуска скрипта с помощью cron:" />
       <item value="wp-cron, when launched, calls:" />
-      <item value="wp-cron при запуске вызывает вызывает:" />
-      <item value="Added code: using filter 'wphb_page_cache_custom_terms'." />
-      <item value="Код который добавили: использование фильтра 'wphb_page_cache_custom_terms'." />
-      <item value="If the script is run from under wp-cron, the cache is cleared for the post and for the parent category." />
-      <item value="Если скрипт запускается из под wp-cron кеш очищается для поста и для родительской категории." />
-      <item value="We are ready to transfer you access to the server to solve the problem with updating posts and clearing the cache when running scripts using cron scheduled tasks." />
-      <item value="Мы готовы передать вам доступы к серверу для решения проблемы с обновления постов и очисткой кеша при запуске скриптов с помощью cron scheduled tasks." />
-      <item value="We are ready to transfer you access to the server to solve the problem with clearing the cache and updating posts when running scripts using cron scheduled tasks." />
-      <item value="Мы готовы передать вам доступы к серверу для решения проблемы с очисткой кеша и обновления постов при запуске скриптов с помощью cron scheduled tasks." />
-      <item value="padded Index" />
-      <item value="Top news" />
-      <item value="preview" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2824" />
+        <entry key="ENGLISH" value="2830" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2824" />
+        <entry key="RUSSIAN" value="2830" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
