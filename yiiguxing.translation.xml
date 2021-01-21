@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Form code" />
       <item value="You can go through the Portuguese version of the site and tell me how to translate the phrases that remain in English or how to fix what is now translated." />
       <item value="Можете пройтись по португальской версии сайта и сообщить как перевести фразы что остались на английском или как исправить то что сейчас переведено." />
       <item value="Hello! No. Here is the browser version we are having problems with. We decided to put a banner on the site stating that this browser is not supported. For a more detailed discussion, please contact Andrey Druz by phone." />
@@ -50,19 +51,18 @@
       <item value="Display search of banks" />
       <item value="Display banks of search" />
       <item value="Display search banks" />
-      <item value="We are ready to transfer you access to the server to solve the problem with updating posts and clearing the cache when running scripts using cron scheduled tasks. If the script is run from under wp-cron, the cache is cleared for the post and for the parent category. Added code: using filter 'wphb_page_cache_custom_terms'." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2834" />
+        <entry key="ENGLISH" value="2835" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2834" />
+        <entry key="RUSSIAN" value="2835" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
