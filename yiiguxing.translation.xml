@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Insurance information" />
+      <item value="Legal wright to be an Auction House" />
       <item value="The decision to support legacy browsers is ultimately up to you." />
       <item value="Решение о поддержке устаревших браузеров в итоге должны принять вы." />
       <item value="We recorded a video reproducing the problem. It is also up to you to decide whether to support outdated browsers." />
@@ -49,20 +51,18 @@
       <item value="The script that calls the update of posts for wp-cron and cron for the server calls the same class." />
       <item value="Скрипт который вызывает обновление постов для wp-cron и cron для сервера вызывает один и тот же класс." />
       <item value="The script that launches calls the update of posts for wp-cron and cron for the server run the same class. To run the script using cron, we use the connection of the entire core and all plugins at startup. Sample code to run a script using cron:" />
-      <item value="Скрипт который запускает вызывает обновление постов для wp-cron и cron для сервера запускают один и тот же класс. Для запуска скрипта с помощью cron мы используем подключение всего ядра и всех плагинов при запуске. Пример кода для запуска скрипта с помощью cron:" />
-      <item value="wp-cron, when launched, calls:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2830" />
+        <entry key="ENGLISH" value="2832" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2830" />
+        <entry key="RUSSIAN" value="2832" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
