@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Have a news? We sent you all the information you need a couple of days ago." />
+      <item value="Any news?" />
+      <item value="News? We sent you all the information you need a couple of days ago." />
+      <item value="Any news? We sent you all the information you need a couple of days ago." />
+      <item value="Есть новости? Отправили вам всю нужную информация пару дней назад." />
       <item value="Уточните пожалуйста полный адрес, тот что вы указали когда заполняли форму не определяется google Maps." />
       <item value="Hello! Please specify the address that you indicated when filling out the form is not detected by google Maps." />
       <item value="Уточните пожалуйста адрес, тот что вы указали когда заполняли форму не определяется google Maps." />
@@ -46,23 +51,18 @@
       <item value="Posts in this category are updated when cron starts" />
       <item value="Посты из этой категории обновляются при запуске cron" />
       <item value="Credentials" />
-      <item value="I don’t know what to fill in here" />
-      <item value="You must be logged in to perform this action" />
-      <item value="post shift" />
-      <item value="don\'t removed" />
-      <item value="Now we will check that deleting files when running the script using cron is not affected by the problem with the lack of permission to access files." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2839" />
+        <entry key="ENGLISH" value="2845" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2840" />
+        <entry key="RUSSIAN" value="2845" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,6 +93,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610871937915" />
+    <option name="lastTrimTime" value="1611323811814" />
   </component>
 </application>
