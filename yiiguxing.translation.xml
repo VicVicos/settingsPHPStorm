@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Уточните пожалуйста полный адрес, тот что вы указали когда заполняли форму не определяется google Maps." />
+      <item value="Hello! Please specify the address that you indicated when filling out the form is not detected by google Maps." />
+      <item value="Уточните пожалуйста адрес, тот что вы указали когда заполняли форму не определяется google Maps." />
+      <item value="Уточните пожалуйста адрес, тот что вы указали в фоме не определяется google Maps." />
       <item value="Две ссылки" />
       <item value="Куда будут вести ссылки со сладов на главной странице?" />
       <item value="Form code" />
@@ -47,22 +51,18 @@
       <item value="post shift" />
       <item value="don\'t removed" />
       <item value="Now we will check that deleting files when running the script using cron is not affected by the problem with the lack of permission to access files." />
-      <item value="Now we will also check that deleting files when running the script using cron is not affected by the problem with the lack of permission to access files." />
-      <item value="Сейчас мы ещё проверим что удалению файлов при запуске скрипта с помощью cron не влияет проблема с отсутствием прав на доступ к файлам." />
-      <item value="сноска" />
-      <item value="Display search of banks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2836" />
+        <entry key="ENGLISH" value="2839" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2837" />
+        <entry key="RUSSIAN" value="2840" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
