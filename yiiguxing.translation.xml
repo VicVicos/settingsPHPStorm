@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="link on notsupported browsers" />
+      <item value="link on notsupported broeses" />
       <item value="Learn more about the browsers we support." />
       <item value="Bidspirit no longer supports this web browser." />
       <item value="oldest-browser" />
@@ -49,20 +51,18 @@
       <item value="Checked the ability of cron to delete files using the unlink function. We found no problems." />
       <item value="Проверили возможность cron удалить файлы используя функцию unlink. Проблем не обнаружили." />
       <item value="Wp-cron can start sync recording see attached images." />
-      <item value="Wp-cron start sync recording see attached images." />
-      <item value="Ssh can start sync recording" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2850" />
+        <entry key="ENGLISH" value="2852" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2850" />
+        <entry key="RUSSIAN" value="2852" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
