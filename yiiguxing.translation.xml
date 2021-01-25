@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please repeat your reply to this address." />
+      <item value="Повторите ответ на этот адрес." />
+      <item value="We have not received a reply email. Can you repeat? I wrote another message through the form with an additional email address." />
+      <item value="Я написал ещё одно сообщение через форму с указанием дополнительного email адреса." />
+      <item value="We have not received a reply email. Can you repeat?" />
+      <item value="Мы не получили письмо с ответом. Можете повторить?" />
       <item value="link on notsupported browsers" />
       <item value="link on notsupported broeses" />
       <item value="Learn more about the browsers we support." />
@@ -45,24 +51,18 @@
       <item value="We now have statistics on the auction users' clients and many of them still use outdated browsers. In particular, we would like to know about the problems with IE11. Checked on the site with the plugin, as well as on the demo. I am having problems with login, logout and updating the profile. Example: After authorization, we have a token, but at the next request usersinitSession.api we do not always receive user data. Is there IE11 support for the API, or is legacy browser support not officially supported?" />
       <item value="У нас появилась статистика по клиентам пользователей аукционов и много из них до сих пор используют устаревшие браузеры. В частности хотели бы узнать о проблемах с IE11. Проверяли на сайте с плагином, а так же на demo. Возникают проблемы с login, logout и с обновление профиля. Пример: После авторизации мы имеем token, но при следующем запросе usersinitSession.api нам не всегда приходят данные user. Имеется ли поддержка IE11 для API или официально поддержка устаревших браузеров не поддерживается?" />
       <item value="list-news-more" />
-      <item value="I will also repeat that when you run the script using wp-cron, clearing the cache works, the problem is only when running from under cron." />
-      <item value="without this, clearing the cache for the custom post type does not work." />
-      <item value="В наш плагин мы добавили вызов фильтра &quot;wphb_page_cache_custom_terms&quot; в wp-contentpluginsuco-auctionsincimportInsertLots.php:57 Без этого очистка кеша для custom post type не работает. Так же повторю что при запуске скрипта с помощью wp-cron очистка кеша работает, проблема только при запуске из под cron." />
-      <item value="Checked the ability of cron to delete files using the unlink function. We found no problems." />
-      <item value="Проверили возможность cron удалить файлы используя функцию unlink. Проблем не обнаружили." />
-      <item value="Wp-cron can start sync recording see attached images." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2852" />
+        <entry key="ENGLISH" value="2855" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2852" />
+        <entry key="RUSSIAN" value="2855" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
