@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I ask you to pay attention to the size of the pictures, they should not be heavy. I usually run pictures through https: squoosh.app" />
+      <item value="Попрошу обращать внимание на размер картинок, они не должны иметь большой вес. Я обычно прогоняю картинки через https:squoosh.app" />
       <item value="This logo need iverted color. For placed on black background" />
       <item value="Do the same with this" />
       <item value="Аналогично и с этим сделать" />
@@ -49,20 +51,18 @@
       <item value="Form code" />
       <item value="You can go through the Portuguese version of the site and tell me how to translate the phrases that remain in English or how to fix what is now translated." />
       <item value="Можете пройтись по португальской версии сайта и сообщить как перевести фразы что остались на английском или как исправить то что сейчас переведено." />
-      <item value="Hello! No. Here is the browser version we are having problems with. We decided to put a banner on the site stating that this browser is not supported. For a more detailed discussion, please contact Andrey Druz by phone." />
-      <item value="вот версия браузера с которой у нас проблемы. мы решили поставить баннер на сайт о том что этот браузер не поддерживается. для более детального обсуждения свяжитесь пожалуйста с andrey druz по телефону." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2870" />
+        <entry key="ENGLISH" value="2871" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2870" />
+        <entry key="RUSSIAN" value="2871" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
