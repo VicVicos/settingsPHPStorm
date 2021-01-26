@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with differnt coins you mean?" />
+      <item value="And another one using pictures from this auction" />
+      <item value="И ещё один с использованием картинок с этого аукциона" />
       <item value="ok in the thin size right?" />
       <item value="And send sample in group" />
       <item value="And send sample of group" />
@@ -48,21 +51,18 @@
       <item value="Sidebar" />
       <item value="Column above the main content on the home page" />
       <item value="Колонка расположенная над основным контентом на главной странице" />
-      <item value="Slider of &quot;Banners&quot;" />
-      <item value="Categories for Categories list" />
-      <item value="reviews" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2897" />
+        <entry key="ENGLISH" value="2899" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2897" />
+        <entry key="RUSSIAN" value="2899" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
