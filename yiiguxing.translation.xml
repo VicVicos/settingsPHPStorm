@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ниже" />
+      <item value="above" />
+      <item value="Sidebar" />
+      <item value="Column above the main content on the home page" />
+      <item value="Колонка расположенная над основным контентом на главной странице" />
       <item value="Slider of &quot;Banners&quot;" />
       <item value="Categories for Categories list" />
       <item value="reviews" />
@@ -46,23 +51,18 @@
       <item value="Мы записали видео с воспроизведением проблемы. Так же решение о поддержке устаревших браузеров в итоге должны принять вы." />
       <item value="I am in favor of not supporting users with older versions of browsers." />
       <item value="Я за то что бы не поддерживать пользователей со старыми версиями браузеров." />
-      <item value="Example: I log in, everything works, but as soon as the page is refreshed, the authorization fails. The same happens in the opposite direction, if authorization is preserved, then the logout process can be difficult to implement." />
-      <item value="Пример: Я авторизуюсь, всё работает, но стоит обновить страницу как авторизация слетает. Так же бывает и в обратную сторону, если авторизация сохраняется, то процесс logout бывает сложно осуществить." />
-      <item value="The problems are similar." />
-      <item value="Я проверил наличие проблем на внешнем тестовом https:bidspirit-system-static.s3.amazonaws.comteststhirdPartyApiweb2-qa-test.html Проблемы аналогичные." />
-      <item value="I have corrected the errors that you indicate in the letter, but have not yet updated them to client sites. The latest improvements are available only on test auctions-dev.ln3.tempurl.info" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2861" />
+        <entry key="ENGLISH" value="2864" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2861" />
+        <entry key="RUSSIAN" value="2865" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
