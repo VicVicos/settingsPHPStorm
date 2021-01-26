@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hourly" />
+      <item value="And in the next updates, this issue will be fully resolved." />
+      <item value="И в следующих обновлениях этот вопрос будет решён полностью." />
+      <item value="Please check for updates for the uco-auctions plugin for the heartlandauction.bidspirit.com client. In version 1.5.12, the first iteration was added to solve the problem of sorting lots that have letter indices." />
+      <item value="Пожалуйста проверьте обновления для плагина uco-auctions для клиента heartlandauction.bidspirit.com. В версии 1.5.12 была добавлена первая итерация для решения проблемы сортировки лотов которые имеют буквенные индексы." />
       <item value="Please repeat your reply to this address." />
       <item value="Повторите ответ на этот адрес." />
       <item value="We have not received a reply email. Can you repeat? I wrote another message through the form with an additional email address." />
@@ -46,23 +51,18 @@
       <item value="Я исправил ошибки на которые Вы указываете в письме, но пока не обновлял на сайты клиентов. Последние доработки есть только на тестовом auctions-dev.ln3.tempurl.info" />
       <item value="You have submitted tests for the &quot;About&quot; and &quot;Terms of Conditions&quot; pages in Portuguese. What text will be for the Eng version of the site?" />
       <item value="Вы прислали тесты для страниц &quot;About&quot; and &quot;Terms of Conditions&quot; на португальском. Какой текст будет для Eng версии сайта?" />
-      <item value="We would like to receive a comment from you" />
-      <item value="Хотели бы получить комментарий от вас" />
-      <item value="We now have statistics on the auction users' clients and many of them still use outdated browsers. In particular, we would like to know about the problems with IE11. Checked on the site with the plugin, as well as on the demo. I am having problems with login, logout and updating the profile. Example: After authorization, we have a token, but at the next request usersinitSession.api we do not always receive user data. Is there IE11 support for the API, or is legacy browser support not officially supported?" />
-      <item value="У нас появилась статистика по клиентам пользователей аукционов и много из них до сих пор используют устаревшие браузеры. В частности хотели бы узнать о проблемах с IE11. Проверяли на сайте с плагином, а так же на demo. Возникают проблемы с login, logout и с обновление профиля. Пример: После авторизации мы имеем token, но при следующем запросе usersinitSession.api нам не всегда приходят данные user. Имеется ли поддержка IE11 для API или официально поддержка устаревших браузеров не поддерживается?" />
-      <item value="list-news-more" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2855" />
+        <entry key="ENGLISH" value="2858" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2855" />
+        <entry key="RUSSIAN" value="2858" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
