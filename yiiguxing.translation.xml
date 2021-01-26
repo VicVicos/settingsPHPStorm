@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This logo need iverted color. For placed on black background" />
+      <item value="Do the same with this" />
+      <item value="Аналогично и с этим сделать" />
+      <item value="The one that I did lost a lot in quality." />
+      <item value="Тот что я сделал сильно потерял в качестве." />
+      <item value="Also need to make it a little smaller with a height of 80 px." />
+      <item value="We need to make this logo transparent for placement on a black background and make the text white. You also need to make it a little smaller with a height of 80 px." />
+      <item value="Нам надо сделать этот логотип прозрачным для размещения на чёрном фоне, текст сделать белым. Так же надо сделать его чуть меньшего размера высотой 80 px." />
       <item value="ниже" />
       <item value="above" />
       <item value="Sidebar" />
@@ -43,26 +51,18 @@
       <item value="Можете пройтись по португальской версии сайта и сообщить как перевести фразы что остались на английском или как исправить то что сейчас переведено." />
       <item value="Hello! No. Here is the browser version we are having problems with. We decided to put a banner on the site stating that this browser is not supported. For a more detailed discussion, please contact Andrey Druz by phone." />
       <item value="вот версия браузера с которой у нас проблемы. мы решили поставить баннер на сайт о том что этот браузер не поддерживается. для более детального обсуждения свяжитесь пожалуйста с andrey druz по телефону." />
-      <item value="Insurance information" />
-      <item value="Legal wright to be an Auction House" />
-      <item value="The decision to support legacy browsers is ultimately up to you." />
-      <item value="Решение о поддержке устаревших браузеров в итоге должны принять вы." />
-      <item value="We recorded a video reproducing the problem. It is also up to you to decide whether to support outdated browsers." />
-      <item value="Мы записали видео с воспроизведением проблемы. Так же решение о поддержке устаревших браузеров в итоге должны принять вы." />
-      <item value="I am in favor of not supporting users with older versions of browsers." />
-      <item value="Я за то что бы не поддерживать пользователей со старыми версиями браузеров." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2864" />
+        <entry key="ENGLISH" value="2870" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2865" />
+        <entry key="RUSSIAN" value="2870" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
