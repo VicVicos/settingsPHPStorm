@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The clarification in the names has been changed in the new archive." />
+      <item value="В новом архиве уточнение в именах изменено." />
+      <item value="The file name says what it is for, Vitaly can clarify what needs to be done." />
+      <item value="В имени файла написано для чего он нужен, Виталий может уточнить что надо сделать." />
       <item value="We need to lighten the background for these pictures, do it like on the slider." />
       <item value="Надо осветлить фон для этих картинок, сделать как на слайдере." />
       <item value="Good. We will check all credentials again and send you accesscredentials again from a resolved email address." />
@@ -47,22 +51,18 @@
       <item value="vitaly sent you the diamanto on blak? the first one do we need more banners?" />
       <item value="Now I'll set up this slide, let's see how it will look." />
       <item value="Now I'll set up, let's see how it will look." />
-      <item value="Now I'll put it on, let's see how it will look." />
-      <item value="Сейчас поставлю его, посмотрим как будет выглядеть." />
-      <item value="These pictures need to be redone, they are not compatible with the slider, the slider is light, the pictures are dark." />
-      <item value="Эти картинки надо переделать, они не сочетаются с слайдером, слайдер светлый, картинки это тёмные." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2910" />
+        <entry key="ENGLISH" value="2912" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2910" />
+        <entry key="RUSSIAN" value="2912" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
