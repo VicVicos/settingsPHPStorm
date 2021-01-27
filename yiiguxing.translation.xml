@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Good. We will check all credentials again and send you accesscredentials again from a resolved email address." />
+      <item value="Good. We will check all accesses again and send you accesses again from a resolved email address." />
+      <item value="Хорошо. Мы проверим все доступы ещё раз и отправим вам доступы повторно с разрешённого email адреса." />
+      <item value="Good. We will check all the accesses again and send you the accesses again." />
+      <item value="Хорошо. Мы проверим все доступы ещё раз и отправим вам доступы повторно." />
       <item value="Our Banking Data Tools" />
       <item value="Left Sidebar on the bank category page" />
       <item value="Колонка расположенная ниже фильтра на странице категории банка" />
@@ -46,23 +51,18 @@
       <item value="Эти картинки надо переделать, они не сочетаются с слайдером, слайдер светлый, картинки это тёмные." />
       <item value="I ask you to pay attention to the size of the pictures, they should not be heavy. I usually run pictures through https: squoosh.app" />
       <item value="Попрошу обращать внимание на размер картинок, они не должны иметь большой вес. Я обычно прогоняю картинки через https:squoosh.app" />
-      <item value="This logo need iverted color. For placed on black background" />
-      <item value="Do the same with this" />
-      <item value="Аналогично и с этим сделать" />
-      <item value="The one that I did lost a lot in quality." />
-      <item value="Тот что я сделал сильно потерял в качестве." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2905" />
+        <entry key="ENGLISH" value="2909" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2905" />
+        <entry key="RUSSIAN" value="2909" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
