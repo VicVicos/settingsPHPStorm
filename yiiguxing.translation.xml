@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Our Banking Data Tools" />
       <item value="Left Sidebar on the bank category page" />
       <item value="Колонка расположенная ниже фильтра на странице категории банка" />
       <item value="Left sidebar bellow filter" />
@@ -50,19 +51,18 @@
       <item value="Аналогично и с этим сделать" />
       <item value="The one that I did lost a lot in quality." />
       <item value="Тот что я сделал сильно потерял в качестве." />
-      <item value="Also need to make it a little smaller with a height of 80 px." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2904" />
+        <entry key="ENGLISH" value="2905" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2904" />
+        <entry key="RUSSIAN" value="2905" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -94,5 +94,8 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1611323811814" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
