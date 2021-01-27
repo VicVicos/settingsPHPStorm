@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Left Sidebar on the bank category page" />
+      <item value="Колонка расположенная ниже фильтра на странице категории банка" />
+      <item value="Left sidebar bellow filter" />
       <item value="Right sidebar a single bank" />
       <item value="Can we find out the status of the current task? Do you no longer need access to the server? We would like to close access to it." />
       <item value="Можем узнать статус текущей задачи? Вам больше не требуется доступ к серверу? Мы бы хотели закрыть доступ к нему." />
@@ -48,21 +51,18 @@
       <item value="The one that I did lost a lot in quality." />
       <item value="Тот что я сделал сильно потерял в качестве." />
       <item value="Also need to make it a little smaller with a height of 80 px." />
-      <item value="We need to make this logo transparent for placement on a black background and make the text white. You also need to make it a little smaller with a height of 80 px." />
-      <item value="Нам надо сделать этот логотип прозрачным для размещения на чёрном фоне, текст сделать белым. Так же надо сделать его чуть меньшего размера высотой 80 px." />
-      <item value="ниже" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2902" />
+        <entry key="ENGLISH" value="2904" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2902" />
+        <entry key="RUSSIAN" value="2904" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
