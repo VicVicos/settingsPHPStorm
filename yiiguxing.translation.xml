@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contacts info" />
+      <item value="hebrew phone number" />
+      <item value="Hebrew phone number" />
+      <item value="British phone number" />
+      <item value="Data contacts" />
+      <item value="Contacts data" />
       <item value="We checked the access, we think the task can be checked without access to VestaCP. If you need access, let me know." />
       <item value="Проверили доступы, думаем задачу проверить можно и без доступа к VestaCP. Если вам нужен туда доступ дайте знать." />
       <item value="Или вам нужен туда доступ?" />
@@ -45,24 +51,18 @@
       <item value="Нужно лого в подвал для этого сайта" />
       <item value="Ещё нужен для этого" />
       <item value="Updated logo in footer for client sites." />
-      <item value="Updated logo for client sites." />
-      <item value="Update logo for client sites." />
-      <item value="Didn't like it with two coins, decided to try it with a lot of coins" />
-      <item value="Не понравилось с двумя монетами, решили попробовать с большим количеством монет" />
-      <item value="so ill do one with less coins?" />
-      <item value="We need one more slider using pictures from this auction. Similar to the first slider, there are many coins on one slide." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2916" />
+        <entry key="ENGLISH" value="2921" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2916" />
+        <entry key="RUSSIAN" value="2921" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
