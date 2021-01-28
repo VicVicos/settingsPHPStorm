@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We checked the access, we think the task can be checked without access to VestaCP. If you need access, let me know." />
+      <item value="Проверили доступы, думаем задачу проверить можно и без доступа к VestaCP. Если вам нужен туда доступ дайте знать." />
+      <item value="Или вам нужен туда доступ?" />
+      <item value="Checked the ability of cron to delete files using the unlink function. We found no problems." />
+      <item value="You can check the task without access in VestaCP. Ssh and ftp access work." />
+      <item value="Вы можете проверить задачу без доступов в VestaCP. Доступ по ssh и ftp работают." />
       <item value="The clarification in the names has been changed in the new archive." />
       <item value="В новом архиве уточнение в именах изменено." />
       <item value="The file name says what it is for, Vitaly can clarify what needs to be done." />
@@ -45,24 +51,18 @@
       <item value="Не понравилось с двумя монетами, решили попробовать с большим количеством монет" />
       <item value="so ill do one with less coins?" />
       <item value="We need one more slider using pictures from this auction. Similar to the first slider, there are many coins on one slide." />
-      <item value="Similar to the first slider, there are many coins on one slide." />
-      <item value="Аналогичный первому слайдеру, много монет на одном слайде." />
-      <item value="Нужен ещё один слайдер с использованием картинок с этого аукциона." />
-      <item value="vitaly sent you the diamanto on blak? the first one do we need more banners?" />
-      <item value="Now I'll set up this slide, let's see how it will look." />
-      <item value="Now I'll set up, let's see how it will look." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2912" />
+        <entry key="ENGLISH" value="2916" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2912" />
+        <entry key="RUSSIAN" value="2916" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611323811814" />
+    <option name="lastTrimTime" value="1611792452950" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
