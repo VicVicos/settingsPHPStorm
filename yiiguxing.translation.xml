@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sidebar on news single page" />
+      <item value="Bottom sidebar a single bank" />
+      <item value="Column located on single page news" />
+      <item value="Column located on single a news page" />
+      <item value="Column located below the content on a bank category page" />
       <item value="Title for form in modal" />
       <item value="Customize theme" />
       <item value="Redo attributes: podcast links and background" />
@@ -46,23 +51,18 @@
       <item value="ok in the thin size right?" />
       <item value="And send sample in group" />
       <item value="And send sample of group" />
-      <item value="And send sample on group" />
-      <item value="like this?" />
-      <item value="Similar to this slide, but with pictures from this page" />
-      <item value="Аналогичный этому слайду, но с картинками с этой страницы" />
-      <item value="More and less size coins" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2927" />
+        <entry key="ENGLISH" value="2932" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2927" />
+        <entry key="RUSSIAN" value="2932" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
