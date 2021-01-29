@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Title for form in modal" />
       <item value="Customize theme" />
       <item value="Redo attributes: podcast links and background" />
       <item value="Переделать атрибуты: ссылки на подкаст и background" />
@@ -50,19 +51,18 @@
       <item value="Similar to this slide, but with pictures from this page" />
       <item value="Аналогичный этому слайду, но с картинками с этой страницы" />
       <item value="More and less size coins" />
-      <item value="More and less coins" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2926" />
+        <entry key="ENGLISH" value="2927" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2926" />
+        <entry key="RUSSIAN" value="2927" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
