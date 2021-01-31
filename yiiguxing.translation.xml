@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We fill in the appropriate fields. For the form, specify the shortcode Contact Form 7 created in the admin panel, the Contact section" />
+      <item value="Заполняем соответсвующие поля. Для формы следует указать shortcode ContactForm 7 созданой в админ панели раздел Contact" />
+      <item value="Можно изменить только Заголовок и описание" />
+      <item value="We select the necessary categories to be displayed in the widget. On the right side of the site will be displayed news marked &quot;Top news&quot; group &quot;News fields&quot; when editing a post." />
+      <item value="Выбираем нужные категории для отображения в виджете. В правой части на сайте будет отображена новость с пометкой &quot;Top news&quot; группы &quot;News fields&quot; при редактировании поста." />
+      <item value="Open the widget in the admin panel and open the &quot;Main right Sidebar&quot; section. Open the PopularGuides MG widget in the section and fill in the fields. Specify the title and create links." />
+      <item value="В админ панели открываем виджет и открываем секцию &quot;Main right Sidebar&quot;. В секции открываем виджет &quot;PopularGuides MG&quot; и заполняем поля. Указываем заголовок и создаём ссылки." />
       <item value="Hello! Please let us know the links to the social networks that you would like to place on the site." />
       <item value="Please let us know the links to the social networks that you would like to place on the site." />
       <item value="Пожалуйста сообщите нам ссылки на соц сети которые вы хотели бы разместить на сайте." />
@@ -44,25 +51,18 @@
       <item value="Good. We will check all accesses again and send you accesses again from a resolved email address." />
       <item value="Хорошо. Мы проверим все доступы ещё раз и отправим вам доступы повторно с разрешённого email адреса." />
       <item value="Good. We will check all the accesses again and send you the accesses again." />
-      <item value="Хорошо. Мы проверим все доступы ещё раз и отправим вам доступы повторно." />
-      <item value="Our Banking Data Tools" />
-      <item value="Left Sidebar on the bank category page" />
-      <item value="Колонка расположенная ниже фильтра на странице категории банка" />
-      <item value="Left sidebar bellow filter" />
-      <item value="Right sidebar a single bank" />
-      <item value="Can we find out the status of the current task? Do you no longer need access to the server? We would like to close access to it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2939" />
+        <entry key="ENGLISH" value="2943" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2939" />
+        <entry key="RUSSIAN" value="2943" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
