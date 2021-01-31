@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Other widgets are edited in the same way, it is important to understand which section is located where, I tried to describe the location of the section in its name and description." />
+      <item value="Прочие виджеты редактируются аналогично, важно понять какая секция где располагается, расположение секции пытался описать в его имени и описании." />
+      <item value="Other widgets are edited in the same way, it is important to understand which section is located where, and tried to describe the location of the widget in its name and description." />
+      <item value="Прочие виджеты редактируются аналогично, важно понять какая секция где располагается, расположение виджета пытался описать в его имени и описании." />
+      <item value="Some of the options that are not determined by the widgets are moved to a separate section in the main menu of the admin panel. Theme Options." />
+      <item value="Часть опций что не определяется виджетами вынесана в отдельный раздел в гланое меню админ панели. Theme Options." />
       <item value="Create or edit posts like Banners. Specify the limit of banners that will be displayed. The last ones created will be displayed." />
       <item value="Создаём или редактируем посты типа Banners. Указываем лимит банеров которые будут отображены. Будут выведены последние созданные." />
       <item value="We fill in the appropriate fields." />
@@ -45,24 +51,18 @@
       <item value="Checked the ability of cron to delete files using the unlink function. We found no problems." />
       <item value="You can check the task without access in VestaCP. Ssh and ftp access work." />
       <item value="Вы можете проверить задачу без доступов в VestaCP. Доступ по ssh и ftp работают." />
-      <item value="The clarification in the names has been changed in the new archive." />
-      <item value="В новом архиве уточнение в именах изменено." />
-      <item value="The file name says what it is for, Vitaly can clarify what needs to be done." />
-      <item value="В имени файла написано для чего он нужен, Виталий может уточнить что надо сделать." />
-      <item value="We need to lighten the background for these pictures, do it like on the slider." />
-      <item value="Надо осветлить фон для этих картинок, сделать как на слайдере." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2945" />
+        <entry key="ENGLISH" value="2948" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2945" />
+        <entry key="RUSSIAN" value="2948" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
