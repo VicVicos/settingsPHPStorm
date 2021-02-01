@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Проблемы у клиента" />
+      <item value="Проблемы у клиента &quot;bookshelf&quot;" />
+      <item value="Bookshelf client problems" />
+      <item value="Проблемы у клиента bookshelf На сайте клиента bookshelf.bidspirit.com снова возникла проблема с Access-Control-Allow-Origin." />
       <item value="Good morning! It remains for us to do for the internal pages and the background for the links on the main page." />
       <item value="Good morning! Let's wrap up with banners for the site today. It remains for us to do for the internal pages and the background for the links on the main page." />
       <item value="Доброе утро! Давайте сегодня завершим с баннерами для сайта. Нам осталось сделать для внутренних страниц и background для ссылок на главной странице." />
@@ -47,22 +51,18 @@
       <item value="Title for form in modal" />
       <item value="Customize theme" />
       <item value="Redo attributes: podcast links and background" />
-      <item value="Переделать атрибуты: ссылки на подкаст и background" />
-      <item value="Переделать" />
-      <item value="Open in new window" />
-      <item value="безопастность" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2957" />
+        <entry key="ENGLISH" value="2959" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2957" />
+        <entry key="RUSSIAN" value="2960" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
