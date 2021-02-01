@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maps and errors of use." />
+      <item value="An error occurred when using the Maps component." />
+      <item value="Ошибка при использовании компонента Maps." />
+      <item value="I get an error when using the Map component." />
+      <item value="Получаю ошибку при использовании компонента Карты." />
       <item value="My phone didn't work for a while. What did you want to ask?" />
       <item value="Мой телефон некоторое время не работал. Что вы хотели спросить?" />
       <item value="Hello! Good. Thanks! And you?" />
@@ -46,23 +51,18 @@
       <item value="hebrew phone number" />
       <item value="Hebrew phone number" />
       <item value="British phone number" />
-      <item value="Data contacts" />
-      <item value="Contacts data" />
-      <item value="We checked the access, we think the task can be checked without access to VestaCP. If you need access, let me know." />
-      <item value="Проверили доступы, думаем задачу проверить можно и без доступа к VestaCP. Если вам нужен туда доступ дайте знать." />
-      <item value="Или вам нужен туда доступ?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2950" />
+        <entry key="ENGLISH" value="2953" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2950" />
+        <entry key="RUSSIAN" value="2953" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
