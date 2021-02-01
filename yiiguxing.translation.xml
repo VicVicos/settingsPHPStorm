@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please, see example:" />
+      <item value="Note: Running from the admin panel clears the cache, from under cron not. The filter &quot;wphb_page_cache_custom_terms&quot; is called in the file" />
+      <item value="Примечание: Запуск из админки очищает кеш, из под cron нет. Вызов фильтра &quot;wphb_page_cache_custom_terms&quot; происходит в файле" />
+      <item value="Запуск из под cron можно сделать запустив команду php importData.php находясь в каталоге wp-contentpluginsuco-auctionscrontasks Из админки запустить этот скрипт можно в разделе Bidspirit - History - Sync Now." />
       <item value="Проблемы у клиента" />
       <item value="Проблемы у клиента &quot;bookshelf&quot;" />
       <item value="Bookshelf client problems" />
@@ -47,22 +51,18 @@
       <item value="Bottom sidebar a single bank" />
       <item value="Column located on single page news" />
       <item value="Column located on single a news page" />
-      <item value="Column located below the content on a bank category page" />
-      <item value="Title for form in modal" />
-      <item value="Customize theme" />
-      <item value="Redo attributes: podcast links and background" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2959" />
+        <entry key="ENGLISH" value="2963" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2960" />
+        <entry key="RUSSIAN" value="2963" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
