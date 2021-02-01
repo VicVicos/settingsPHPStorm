@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="My phone didn't work for a while. What did you want to ask?" />
+      <item value="Мой телефон некоторое время не работал. Что вы хотели спросить?" />
+      <item value="Hello! Good. Thanks! And you?" />
       <item value="Other widgets are edited in the same way, it is important to understand which section is located where, I tried to describe the location of the section in its name and description." />
       <item value="Прочие виджеты редактируются аналогично, важно понять какая секция где располагается, расположение секции пытался описать в его имени и описании." />
       <item value="Other widgets are edited in the same way, it is important to understand which section is located where, and tried to describe the location of the widget in its name and description." />
@@ -48,21 +51,18 @@
       <item value="We checked the access, we think the task can be checked without access to VestaCP. If you need access, let me know." />
       <item value="Проверили доступы, думаем задачу проверить можно и без доступа к VestaCP. Если вам нужен туда доступ дайте знать." />
       <item value="Или вам нужен туда доступ?" />
-      <item value="Checked the ability of cron to delete files using the unlink function. We found no problems." />
-      <item value="You can check the task without access in VestaCP. Ssh and ftp access work." />
-      <item value="Вы можете проверить задачу без доступов в VestaCP. Доступ по ssh и ftp работают." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2948" />
+        <entry key="ENGLISH" value="2950" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2948" />
+        <entry key="RUSSIAN" value="2950" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
