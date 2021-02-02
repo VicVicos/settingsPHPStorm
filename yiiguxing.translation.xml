@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable pagination for auction page" />
+      <item value="Enable pagination for auctions" />
+      <item value="Use pagination for auctions" />
       <item value="Eng version not finished yet" />
       <item value="Eng версия ещё не доделана" />
       <item value="Yes, we are not finished yet, tomorrow we plan to finish the work" />
@@ -48,21 +51,18 @@
       <item value="Please let us know the links to the social networks that you would like to place on the site." />
       <item value="Пожалуйста сообщите нам ссылки на соц сети которые вы хотели бы разместить на сайте." />
       <item value="Заполнить user manual" />
-      <item value="Column located on news categories" />
-      <item value="Column located on news categories news" />
-      <item value="Posted on:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2967" />
+        <entry key="ENGLISH" value="2970" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2967" />
+        <entry key="RUSSIAN" value="2970" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
