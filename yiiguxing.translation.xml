@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Search into auction" />
+      <item value="Search to auction" />
+      <item value="Search in auction" />
       <item value="And check contact pages, there should be no problems" />
       <item value="там проблем быть не должно" />
       <item value="And check contact pages, that don't trouble" />
@@ -48,21 +51,18 @@
       <item value="Eng версия ещё не доделана" />
       <item value="Yes, we are not finished yet, tomorrow we plan to finish the work" />
       <item value="Yes, мы ещё не закончили, завтра по плану заевршить работу" />
-      <item value="Please approve homepage" />
-      <item value="Please, see example:" />
-      <item value="Note: Running from the admin panel clears the cache, from under cron not. The filter &quot;wphb_page_cache_custom_terms&quot; is called in the file" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2997" />
+        <entry key="ENGLISH" value="3000" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2997" />
+        <entry key="RUSSIAN" value="3000" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
