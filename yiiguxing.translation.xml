@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Now it is online, but we need to configure ssl and after that the transfer will be completely completed." />
+      <item value="Сейчас он в сети, но нам надо настроить ssl и после этого перенос будет полностью завершён." />
+      <item value="We sent your domain to the site, it remains to configure ssl." />
+      <item value="Мы направили ваш домен на сайт, осталось настроить ssl." />
+      <item value="We need to log in to namecheap.com. You should receive a Verification code on email" />
+      <item value="We need to log in to namecheap.com. You should receive a Verification code" />
+      <item value="Нам надо авторизоваться в namecheap.com. Вам должен прийти Verification code" />
       <item value="paged" />
       <item value="phrase" />
       <item value="Search into auction" />
@@ -44,25 +51,18 @@
       <item value="Задача сменить ссылку на слайде на последний аукцион должна вести на Leilão 18?" />
       <item value="ever-growing" />
       <item value="Videos" />
-      <item value="Title of section" />
-      <item value="Contact use on Skype" />
-      <item value="Enable pagination for auction page" />
-      <item value="Enable pagination for auctions" />
-      <item value="Use pagination for auctions" />
-      <item value="Eng version not finished yet" />
-      <item value="Eng версия ещё не доделана" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3002" />
+        <entry key="ENGLISH" value="3006" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3002" />
+        <entry key="RUSSIAN" value="3006" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
