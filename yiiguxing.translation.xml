@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Мы решили проблему. Проверьте пожалуйста." />
       <item value="Now it is online, but we need to configure ssl and after that the transfer will be completely completed." />
       <item value="Сейчас он в сети, но нам надо настроить ssl и после этого перенос будет полностью завершён." />
       <item value="We sent your domain to the site, it remains to configure ssl." />
@@ -50,7 +51,6 @@
       <item value="The task to change the link on the slide to the last auction should lead to Leilão 18?" />
       <item value="Задача сменить ссылку на слайде на последний аукцион должна вести на Leilão 18?" />
       <item value="ever-growing" />
-      <item value="Videos" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3006" />
+        <entry key="RUSSIAN" value="3007" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
