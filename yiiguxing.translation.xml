@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the auction settings 11, you may see that it is not displayed there either." />
+      <item value="Что касается проблемы с картинкой на 11 аукционе, то тут картинка приходит к нам с серверов bidspirit и бывает они не доступны, решить проблему можно только перезагрузив картинку. Если зайдёте в админ панель bidspirit в настройки 11 аукциона, возможно, вы увидите что и там она не отображается." />
+      <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the 11 auction settings, you may see that it is not displayed there either." />
+      <item value="Что касается проблемы с картинкой на 11 аукционе, то тут картинка приходит к нам с серверов bidspirit и бывает они не доступны, решить проблему можно только перезагрузив картинку. Если зайдёте в админ панель bidspirit в настройки 11 аукциона, возможно вы увидите что и там она не отображается." />
+      <item value="This is done to reduce the load on the site when synchronizing archived auctions. The option was changed and in the near future these auctions will be synchronized." />
+      <item value="archived auctions that have a pdf file open a link to this pdf file." />
+      <item value="This is option in plugin" />
+      <item value="This is option" />
+      <item value="About why pdf files open when clicking on auctions. This is optional, archived auctions that have a pdf file open a link to this pdf file. This is done to reduce the load on the site when synchronizing archived auctions. The option was changed and in the near future these auctions will be synchronized." />
+      <item value="О том почему при клике на аукционы открываются pdf файлы. Это включается опционально, архивные аукционы которые имеют pdf файл открывают ссылку на этот pdf файл. Это сделано для уменьшения нагрузки на сайт при синхронизации архивных аукционов. Опцию сменил и в ближайшее время эти аукционы синхронизируются." />
       <item value="get Lots By Search" />
       <item value="Please check the whitelisted domain https:www.leiloesseculopassado.com 5.189.179.106 here is their IP address." />
       <item value="Пожалуйста проверьте в белом списке домен" />
@@ -41,28 +51,18 @@
       <item value="Please specify where to add a button (loja) that will lead to bidspirit." />
       <item value="Уточните пожалуйста куда надо добавить кнопку (loja) которая будет вести на bidspirit." />
       <item value="Insert one more button with the name (loja) that directs to the bidspirit store as spoken at the meeting." />
-      <item value="please check slider on home page." />
-      <item value="Excellent! Google identifies this address well." />
-      <item value="Отлично! Этот адрес Google определяет хорошо." />
-      <item value="You can see the current position of the map:" />
-      <item value="Текущее положение карты можете увидеть: http:seculopassado.ln12.tempurl.infocontactos" />
-      <item value="Can you clarify: is the last auction completed or the first of the upcoming ones?" />
-      <item value="Можно уточнить: последний аукцион из завершённых или первый из предстоящих?" />
-      <item value="And the first slide should be the next auction" />
-      <item value="Hello, should link always to the last auction, but the image should be the one you have selected" />
-      <item value="Can you specify the address for the Google map? Address Rua das Mercês nº28 Funchal 9000-224 Google cannot determine, the problem is in the suffix &quot;-224&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3009" />
+        <entry key="ENGLISH" value="3017" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3009" />
+        <entry key="RUSSIAN" value="3017" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
