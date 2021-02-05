@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Lots By Search" />
       <item value="Please check the whitelisted domain https:www.leiloesseculopassado.com 5.189.179.106 here is their IP address." />
       <item value="Пожалуйста проверьте в белом списке домен" />
       <item value="passed by reference" />
@@ -50,19 +51,18 @@
       <item value="And the first slide should be the next auction" />
       <item value="Hello, should link always to the last auction, but the image should be the one you have selected" />
       <item value="Can you specify the address for the Google map? Address Rua das Mercês nº28 Funchal 9000-224 Google cannot determine, the problem is in the suffix &quot;-224&quot;" />
-      <item value="Можете уточнить адрес для Google map? Адрес Rua das Mercês nº28 Funchal 9000-224 Google не может определить, проблема в добавочном индексе &quot;-224&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3008" />
+        <entry key="ENGLISH" value="3009" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3008" />
+        <entry key="RUSSIAN" value="3009" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
