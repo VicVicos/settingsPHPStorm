@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is the problem urgent at the moment? If so, please describe the problem in more detail." />
+      <item value="Актуальна ли проблема на текущий момент? Если да, пожалуйста опишите проблему подробнее." />
       <item value="Hello! Ваш сайт готов!" />
       <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the auction settings 11, you may see that it is not displayed there either." />
       <item value="Что касается проблемы с картинкой на 11 аукционе, то тут картинка приходит к нам с серверов bidspirit и бывает они не доступны, решить проблему можно только перезагрузив картинку. Если зайдёте в админ панель bidspirit в настройки 11 аукциона, возможно, вы увидите что и там она не отображается." />
@@ -49,20 +51,18 @@
       <item value="Посмотрите что получилось. Попросить дизайнера сделать что либо с ней что бы она лучше подошла для этого слайда?" />
       <item value="The slide leading to a future auction should have this picture?" />
       <item value="Слайд что ведёт на будущий аукцион должен иметь эту картинку? Посмотрите что получилось." />
-      <item value="Please specify where to add a button (loja) that will lead to bidspirit." />
-      <item value="Уточните пожалуйста куда надо добавить кнопку (loja) которая будет вести на bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3017" />
+        <entry key="ENGLISH" value="3019" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3018" />
+        <entry key="RUSSIAN" value="3019" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612226735422" />
+    <option name="lastTrimTime" value="1612709210893" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
