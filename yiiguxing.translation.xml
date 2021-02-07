@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
+      <item value="This is due to caching. This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
+      <item value="This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published," />
+      <item value="This is due to caching. I went to the site as an authorized user and I see the 18 auction published," />
+      <item value="Это происходит из за кеширования. Я зашёл на сайт авторизованным пользователем и вижу 18 аукцион опубликованным," />
+      <item value="I went to the site authorized and I see the 18 auction published, but if I visit the site unauthorized," />
+      <item value="This is due to caching. I went to the site authorized and I see the 18 auction published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
+      <item value="Это происходит из за кеширования. Я зашёл на сайт авторизованным и вижу 18 аукцион опубликованным, но если посетить сайт не авторизованным, то мне показывается страница из кеша где 18 аукцион ещё не был опубликован. Мы работаем над интеграцией поддержки плагина кеширования который мы используем и в ближайшем обновлении эта проблема будет решена." />
       <item value="Is the problem urgent at the moment? If so, please describe the problem in more detail." />
       <item value="Актуальна ли проблема на текущий момент? Если да, пожалуйста опишите проблему подробнее." />
       <item value="Hello! Ваш сайт готов!" />
@@ -43,26 +51,18 @@
       <item value="Send the screen shot as you see the second slide." />
       <item value="Отправьте скрин экрана как вы видите второй слайд." />
       <item value="Нет. Это надо будет сделать вручную." />
-      <item value="Do you want to change the text on the button?" />
-      <item value="Вы хотите изменить текст на кнопке?" />
-      <item value="Отправьте скрин экрана как вы видите второй слайд. Первый слайд вы принимаете." />
-      <item value="Или оставить картинку что была ранее?" />
-      <item value="See what happened. Asking the designer to do something with her to make her fit this slide better?" />
-      <item value="Посмотрите что получилось. Попросить дизайнера сделать что либо с ней что бы она лучше подошла для этого слайда?" />
-      <item value="The slide leading to a future auction should have this picture?" />
-      <item value="Слайд что ведёт на будущий аукцион должен иметь эту картинку? Посмотрите что получилось." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3019" />
+        <entry key="ENGLISH" value="3025" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3019" />
+        <entry key="RUSSIAN" value="3025" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
