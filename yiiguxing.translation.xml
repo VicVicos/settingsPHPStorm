@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No, errors like this occur only once with xd format designs. Also, Avocode itself does not correctly display many elements in the design of this format. Very often the design of the xd format does not correspond to that of the xd itself." />
+      <item value="Нет, подобные ошибки возникают единожды с дизайнами формата xd. Так же сам Avocode не корректно отображает много элементов в дизайне этого формата. Очень часто дизайн формата xd не соответствует тому что в самом xd." />
       <item value="Not available" />
       <item value="Pure" />
       <item value="сборИндексов" />
@@ -49,20 +51,18 @@
       <item value="будет иметь имя Store" />
       <item value="And in english version this page" />
       <item value="loja" />
-      <item value="Let's solve the issue with the second slide and all the edits will be ready." />
-      <item value="Давайте решим вопрос со вторым слайдом и все правки будут готовы." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3027" />
+        <entry key="ENGLISH" value="3028" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3027" />
+        <entry key="RUSSIAN" value="3028" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
