@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Problem while sorting by price" />
+      <item value="Проблема при сортировке по цене" />
+      <item value="In fact, we can only order by the starting price." />
+      <item value="In fact, we can only sort by the starting price." />
+      <item value="Фактически мы можем сделать сортировку только по стартовой цене." />
+      <item value="To solve the problem, we need to know the actual rates for each request to our server." />
+      <item value="Для решения задачи нам требуется знать актуальные ставки при каждом запросе к нашему серверу." />
+      <item value="When importing, we call itemsgetAuctionItems.api, on the front after we call itemsgetItemsInfo.api and update the bids for lots." />
+      <item value="При импорте мы вызываем itemsgetAuctionItems.api, на фронте после вызываем itemsgetItemsInfo.api и обновляем ставки для лотов." />
+      <item value="The problem is that we do not keep the prices of the last bids, we only have the starting price." />
+      <item value="Проблема в том что мы не сохраняем у себя цены последних ставок, у нас есть только стартовая цена." />
+      <item value="We have a problem with the implementation of the task of sorting lots by prices." />
+      <item value="У нас возникла проблема с реализацией задачи сортировки лотов по ценам." />
       <item value="No, errors like this occur only once with xd format designs. Also, Avocode itself does not correctly display many elements in the design of this format. Very often the design of the xd format does not correspond to that of the xd itself." />
       <item value="Нет, подобные ошибки возникают единожды с дизайнами формата xd. Так же сам Avocode не корректно отображает много элементов в дизайне этого формата. Очень часто дизайн формата xd не соответствует тому что в самом xd." />
       <item value="Not available" />
@@ -38,31 +51,18 @@
       <item value="Мы направили ваш домен на сайт, осталось настроить ssl." />
       <item value="We need to log in to namecheap.com. You should receive a Verification code on email" />
       <item value="We need to log in to namecheap.com. You should receive a Verification code" />
-      <item value="Нам надо авторизоваться в namecheap.com. Вам должен прийти Verification code" />
-      <item value="paged" />
-      <item value="phrase" />
-      <item value="Search into auction" />
-      <item value="Search to auction" />
-      <item value="Search in auction" />
-      <item value="And check contact pages, there should be no problems" />
-      <item value="там проблем быть не должно" />
-      <item value="And check contact pages, that don't trouble" />
-      <item value="And in english version this page will be named Store" />
-      <item value="будет иметь имя Store" />
-      <item value="And in english version this page" />
-      <item value="loja" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3028" />
+        <entry key="ENGLISH" value="3036" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3028" />
+        <entry key="RUSSIAN" value="3036" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
