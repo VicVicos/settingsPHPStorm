@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We also have some lines that are not translated into Portuguese, we would like to ask you to help us with this." />
+      <item value="Так же у нас есть ещё некоторые строки которые не переведены на португальский, мы бы хотели попросить вас помочь нам с этим." />
+      <item value="Here is a video instruction on how to work with the site." />
+      <item value="Вот видео инструкция по работе с сайтом." />
       <item value="uco auction orderby fields" />
       <item value="response Additional Data" />
       <item value="Thanks! This solution does not completely solve the problem, but it is the best solution possible. We sync lots every hour, and if the bid for a lot changes between two syncs, the data will not be identical to what is on bidspirit." />
@@ -47,22 +51,18 @@
       <item value="This is option in plugin" />
       <item value="This is option" />
       <item value="About why pdf files open when clicking on auctions. This is optional, archived auctions that have a pdf file open a link to this pdf file. This is done to reduce the load on the site when synchronizing archived auctions. The option was changed and in the near future these auctions will be synchronized." />
-      <item value="О том почему при клике на аукционы открываются pdf файлы. Это включается опционально, архивные аукционы которые имеют pdf файл открывают ссылку на этот pdf файл. Это сделано для уменьшения нагрузки на сайт при синхронизации архивных аукционов. Опцию сменил и в ближайшее время эти аукционы синхронизируются." />
-      <item value="get Lots By Search" />
-      <item value="Please check the whitelisted domain https:www.leiloesseculopassado.com 5.189.179.106 here is their IP address." />
-      <item value="Пожалуйста проверьте в белом списке домен" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3042" />
+        <entry key="ENGLISH" value="3044" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3042" />
+        <entry key="RUSSIAN" value="3044" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
