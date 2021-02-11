@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I work for Web2" />
+      <item value="Запуск каждую минуту:" />
+      <item value="Запуск раз в 3 дня:" />
+      <item value="Запуск каждый час:" />
+      <item value="Надо настроить три cron задачи." />
+      <item value="Для сайта:" />
       <item value="We also have some lines that are not translated into Portuguese, we would like to ask you to help us with this." />
       <item value="Так же у нас есть ещё некоторые строки которые не переведены на португальский, мы бы хотели попросить вас помочь нам с этим." />
       <item value="Here is a video instruction on how to work with the site." />
@@ -45,24 +51,18 @@
       <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the auction settings 11, you may see that it is not displayed there either." />
       <item value="Что касается проблемы с картинкой на 11 аукционе, то тут картинка приходит к нам с серверов bidspirit и бывает они не доступны, решить проблему можно только перезагрузив картинку. Если зайдёте в админ панель bidspirit в настройки 11 аукциона, возможно, вы увидите что и там она не отображается." />
       <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the 11 auction settings, you may see that it is not displayed there either." />
-      <item value="Что касается проблемы с картинкой на 11 аукционе, то тут картинка приходит к нам с серверов bidspirit и бывает они не доступны, решить проблему можно только перезагрузив картинку. Если зайдёте в админ панель bidspirit в настройки 11 аукциона, возможно вы увидите что и там она не отображается." />
-      <item value="This is done to reduce the load on the site when synchronizing archived auctions. The option was changed and in the near future these auctions will be synchronized." />
-      <item value="archived auctions that have a pdf file open a link to this pdf file." />
-      <item value="This is option in plugin" />
-      <item value="This is option" />
-      <item value="About why pdf files open when clicking on auctions. This is optional, archived auctions that have a pdf file open a link to this pdf file. This is done to reduce the load on the site when synchronizing archived auctions. The option was changed and in the near future these auctions will be synchronized." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3044" />
+        <entry key="ENGLISH" value="3049" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3044" />
+        <entry key="RUSSIAN" value="3049" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
