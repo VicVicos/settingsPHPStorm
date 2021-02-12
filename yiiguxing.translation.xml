@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Аналогичная проблема, которая бывала и ранее." />
+      <item value="I just open the design layout and this error crashes periodically. Do you want me to drop you an xd file that is causing the problem?" />
+      <item value="Просто открываю макет дизайна и эта ошибка периодически вылетает. Хотите я скину вам xd файл что вызывает проблемы?" />
       <item value="turn off and there is no problem." />
       <item value="Причиной был define( 'SCRIPT_DEBUG', true ); выключаем это и проблемы нет." />
       <item value="I work for Web2" />
@@ -48,21 +51,18 @@
       <item value="This is due to caching. I went to the site authorized and I see the 18 auction published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
       <item value="Это происходит из за кеширования. Я зашёл на сайт авторизованным и вижу 18 аукцион опубликованным, но если посетить сайт не авторизованным, то мне показывается страница из кеша где 18 аукцион ещё не был опубликован. Мы работаем над интеграцией поддержки плагина кеширования который мы используем и в ближайшем обновлении эта проблема будет решена." />
       <item value="Is the problem urgent at the moment? If so, please describe the problem in more detail." />
-      <item value="Актуальна ли проблема на текущий момент? Если да, пожалуйста опишите проблему подробнее." />
-      <item value="Hello! Ваш сайт готов!" />
-      <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the auction settings 11, you may see that it is not displayed there either." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3050" />
+        <entry key="ENGLISH" value="3051" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3050" />
+        <entry key="RUSSIAN" value="3052" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
