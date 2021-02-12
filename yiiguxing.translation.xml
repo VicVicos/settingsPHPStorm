@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Search by" />
       <item value="Аналогичная проблема, которая бывала и ранее." />
       <item value="I just open the design layout and this error crashes periodically. Do you want me to drop you an xd file that is causing the problem?" />
       <item value="Просто открываю макет дизайна и эта ошибка периодически вылетает. Хотите я скину вам xd файл что вызывает проблемы?" />
@@ -50,12 +51,11 @@
       <item value="I went to the site authorized and I see the 18 auction published, but if I visit the site unauthorized," />
       <item value="This is due to caching. I went to the site authorized and I see the 18 auction published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
       <item value="Это происходит из за кеширования. Я зашёл на сайт авторизованным и вижу 18 аукцион опубликованным, но если посетить сайт не авторизованным, то мне показывается страница из кеша где 18 аукцион ещё не был опубликован. Мы работаем над интеграцией поддержки плагина кеширования который мы используем и в ближайшем обновлении эта проблема будет решена." />
-      <item value="Is the problem urgent at the moment? If so, please describe the problem in more detail." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3051" />
+        <entry key="ENGLISH" value="3052" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
