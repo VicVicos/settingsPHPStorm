@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I checked your advice, but that's not the problem. Checked the function you specified and got to: wp-contentpluginswp-hummingbirdcoremodulesclass-page-cache.php:1367 See screenshot for clarification. To form the path, you use the global array _SERVER, and when you run the script from under cron, this array does not exist. Unfortunately, there are no filters in the function so that I could influence the formation of the value of the http_host variable without changing the source code of the wp-hummingbird plugin. It is not a problem to improve this moment. We are looking forward to solving this problem in the next update. Thanks!" />
+      <item value="Доработать этот момент не проблема. Ждём решения этой проблемы в ближайшем обновлении. Спасибо!" />
+      <item value="Доработать этот момент не проблема." />
+      <item value="Я проверил ваш совет, но не в этом проблема. Проверил указанную вами функцию и дошёл до: wp-contentpluginswp-hummingbirdcoremodulesclass-page-cache.php:1367 Уточнение на скриншоте. Для формирования пути вы используете глобальный массив _SERVER, а при запуске скрипта из под cron этот массив не существует. К сожалению в функции нет ни каких фильтров что бы я мог повлиять на формирование значения переменной http_host без изменения исходного кода плагина wp-hummingbird" />
       <item value="Search by" />
       <item value="Аналогичная проблема, которая бывала и ранее." />
       <item value="I just open the design layout and this error crashes periodically. Do you want me to drop you an xd file that is causing the problem?" />
@@ -47,22 +51,18 @@
       <item value="This is due to caching. This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
       <item value="This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published," />
       <item value="This is due to caching. I went to the site as an authorized user and I see the 18 auction published," />
-      <item value="Это происходит из за кеширования. Я зашёл на сайт авторизованным пользователем и вижу 18 аукцион опубликованным," />
-      <item value="I went to the site authorized and I see the 18 auction published, but if I visit the site unauthorized," />
-      <item value="This is due to caching. I went to the site authorized and I see the 18 auction published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
-      <item value="Это происходит из за кеширования. Я зашёл на сайт авторизованным и вижу 18 аукцион опубликованным, но если посетить сайт не авторизованным, то мне показывается страница из кеша где 18 аукцион ещё не был опубликован. Мы работаем над интеграцией поддержки плагина кеширования который мы используем и в ближайшем обновлении эта проблема будет решена." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3052" />
+        <entry key="ENGLISH" value="3055" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3052" />
+        <entry key="RUSSIAN" value="3055" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
