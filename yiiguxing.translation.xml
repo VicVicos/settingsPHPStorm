@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="turn off and there is no problem." />
+      <item value="Причиной был define( 'SCRIPT_DEBUG', true ); выключаем это и проблемы нет." />
       <item value="I work for Web2" />
       <item value="Запуск каждую минуту:" />
       <item value="Запуск раз в 3 дня:" />
@@ -49,20 +51,18 @@
       <item value="Актуальна ли проблема на текущий момент? Если да, пожалуйста опишите проблему подробнее." />
       <item value="Hello! Ваш сайт готов!" />
       <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the auction settings 11, you may see that it is not displayed there either." />
-      <item value="Что касается проблемы с картинкой на 11 аукционе, то тут картинка приходит к нам с серверов bidspirit и бывает они не доступны, решить проблему можно только перезагрузив картинку. Если зайдёте в админ панель bidspirit в настройки 11 аукциона, возможно, вы увидите что и там она не отображается." />
-      <item value="As for the problem with the picture at the 11th auction, then the picture comes to us from bidspirit servers and sometimes they are not available, the problem can be solved only by reloading the picture. If you go to the bidspirit admin panel in the 11 auction settings, you may see that it is not displayed there either." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3049" />
+        <entry key="ENGLISH" value="3050" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3049" />
+        <entry key="RUSSIAN" value="3050" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
