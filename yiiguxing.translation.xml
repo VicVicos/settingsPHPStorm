@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approved Fields" />
+      <item value="approve Fields" />
       <item value="I checked your advice, but that's not the problem. Checked the function you specified and got to: wp-contentpluginswp-hummingbirdcoremodulesclass-page-cache.php:1367 See screenshot for clarification. To form the path, you use the global array _SERVER, and when you run the script from under cron, this array does not exist. Unfortunately, there are no filters in the function so that I could influence the formation of the value of the http_host variable without changing the source code of the wp-hummingbird plugin. It is not a problem to improve this moment. We are looking forward to solving this problem in the next update. Thanks!" />
       <item value="Доработать этот момент не проблема. Ждём решения этой проблемы в ближайшем обновлении. Спасибо!" />
       <item value="Доработать этот момент не проблема." />
@@ -49,20 +51,18 @@
       <item value="сборИндексов" />
       <item value="This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
       <item value="This is due to caching. This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
-      <item value="This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published," />
-      <item value="This is due to caching. I went to the site as an authorized user and I see the 18 auction published," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3055" />
+        <entry key="ENGLISH" value="3057" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3055" />
+        <entry key="RUSSIAN" value="3057" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
