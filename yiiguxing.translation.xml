@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Once done, I'll drop the link to the demo site." />
+      <item value="Как завершим, я скину ссылку на demo site." />
+      <item value="We're almost done with this. Today we plan to complete work on these tasks." />
+      <item value="Мы почти закончили с этим. Сегодня в планах завершить работу над этими задачами." />
       <item value="Are you talking about enabling pagination for auctions?" />
       <item value="Вы про то чтобы включить пагинацию для аукционов?" />
       <item value="When running the script via wp-cron, there are no problems, what you described in the example is just running the script using wp-cron, in which case the global array _SERVER exists. We are interested in launching the script through the console launch of tasks, in this case the global array _SERVER is empty and I explicitly indicated that in the plugin if _SERVER does not exist, the path to the file with the cache is not formed correctly and the cache is not deleted. I also made improvements to the source code of the wp-hummingbird plugin and after that our problem was solved, i.e. when running the script from under the console, clearing the cache works." />
@@ -47,22 +51,18 @@
       <item value="To solve the problem, we need to know the actual rates for each request to our server." />
       <item value="Для решения задачи нам требуется знать актуальные ставки при каждом запросе к нашему серверу." />
       <item value="When importing, we call itemsgetAuctionItems.api, on the front after we call itemsgetItemsInfo.api and update the bids for lots." />
-      <item value="При импорте мы вызываем itemsgetAuctionItems.api, на фронте после вызываем itemsgetItemsInfo.api и обновляем ставки для лотов." />
-      <item value="The problem is that we do not keep the prices of the last bids, we only have the starting price." />
-      <item value="Проблема в том что мы не сохраняем у себя цены последних ставок, у нас есть только стартовая цена." />
-      <item value="We have a problem with the implementation of the task of sorting lots by prices." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3062" />
+        <entry key="ENGLISH" value="3064" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3062" />
+        <entry key="RUSSIAN" value="3064" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
