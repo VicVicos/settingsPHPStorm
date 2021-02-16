@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Synchronization in progress, lots for auctions 7, 8, 9 coming soon." />
+      <item value="Синхронизация в процессе, лоты для аукционов 7, 8, 9 скоро появятся." />
       <item value="Once done, I'll drop the link to the demo site." />
       <item value="Как завершим, я скину ссылку на demo site." />
       <item value="We're almost done with this. Today we plan to complete work on these tasks." />
@@ -49,20 +51,18 @@
       <item value="In fact, we can only sort by the starting price." />
       <item value="Фактически мы можем сделать сортировку только по стартовой цене." />
       <item value="To solve the problem, we need to know the actual rates for each request to our server." />
-      <item value="Для решения задачи нам требуется знать актуальные ставки при каждом запросе к нашему серверу." />
-      <item value="When importing, we call itemsgetAuctionItems.api, on the front after we call itemsgetItemsInfo.api and update the bids for lots." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3064" />
+        <entry key="ENGLISH" value="3065" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3064" />
+        <entry key="RUSSIAN" value="3065" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
