@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When running the script via wp-cron, there are no problems, what you described in the example is just running the script using wp-cron, in which case the global array _SERVER exists. We are interested in launching the script through the console launch of tasks, in this case the global array _SERVER is empty and I explicitly indicated that in the plugin if _SERVER does not exist, the path to the file with the cache is not formed correctly and the cache is not deleted. I also made improvements to the source code of the wp-hummingbird plugin and after that our problem was solved, i.e. when running the script from under the console, clearing the cache works." />
+      <item value="При запуске скрипта через wp-cron проблем нет, то что что вы описали в примере это как раз запуск скрипта с помощью wp-cron, в таком случае глобальный массив _SERVER существует. Нас же интересует запуск скрипта через консольный запуск задач, в таком случа глобальный массив _SERVER пуст и я явно указал на то что в плагине если _SERVER не существует путь до файла с кешем формируется не верный и удаление кеша не происходит. Так же я внёс доработки в исходный код плагина wp-hummingbird и после этого наша проблема решена, т.е. при запуске скрипта из под консоли очистка кеша работает." />
+      <item value="Were these cron tasks before? Can ask to check their performance, since synchronization does not work. Please manually run lotBidspiritOld .php. And check for the presence of records in the import_history table." />
+      <item value="Were these cron tasks before? Then you can ask to check their performance, since synchronization does not work. Please manually run lotBidspiritOld.php. And check for the presence of records in the import_history table." />
+      <item value="Эти cron задачи были и ранее? Тогда можно попросить проверить их работоспособность, так как синхронизация не работает. Запустите пожалуйста в ручную lotBidspiritOld.php. И проверьте наличие записей в таблице import_history." />
       <item value="Файл вызывает проблему каждый раз при открытии." />
       <item value="approved Fields" />
       <item value="approve Fields" />
@@ -46,23 +51,18 @@
       <item value="We have a problem with the implementation of the task of sorting lots by prices." />
       <item value="У нас возникла проблема с реализацией задачи сортировки лотов по ценам." />
       <item value="No, errors like this occur only once with xd format designs. Also, Avocode itself does not correctly display many elements in the design of this format. Very often the design of the xd format does not correspond to that of the xd itself." />
-      <item value="Нет, подобные ошибки возникают единожды с дизайнами формата xd. Так же сам Avocode не корректно отображает много элементов в дизайне этого формата. Очень часто дизайн формата xd не соответствует тому что в самом xd." />
-      <item value="Not available" />
-      <item value="Pure" />
-      <item value="сборИндексов" />
-      <item value="This is due to caching. I went to the site as an authorized user and I see the &quot;18 auction&quot; is published, but if I visit the site unauthorized, then I am shown a page from the cache where the 18 auction has not yet been published. We are working on integrating support for the caching plugin that we are using and this issue will be resolved in the next update." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3057" />
+        <entry key="ENGLISH" value="3061" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3058" />
+        <entry key="RUSSIAN" value="3061" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
