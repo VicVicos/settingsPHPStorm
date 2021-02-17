@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Here's a newer version." />
+      <item value="Вот более новая версия." />
       <item value="This form is found in many widgets and for each of them the title and description are set separately." />
       <item value="This form is found in many widgets and for each of them the title and description are set separately, if this is not very good, we can put these fields in Theme Options." />
       <item value="This form is found in many widgets and for each of them the title and description are set separately, if this is not very good, you can put these fields in Theme Options." />
@@ -49,20 +51,18 @@
       <item value="Надо настроить три cron задачи." />
       <item value="Для сайта:" />
       <item value="We also have some lines that are not translated into Portuguese, we would like to ask you to help us with this." />
-      <item value="Так же у нас есть ещё некоторые строки которые не переведены на португальский, мы бы хотели попросить вас помочь нам с этим." />
-      <item value="Here is a video instruction on how to work with the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3075" />
+        <entry key="ENGLISH" value="3076" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3075" />
+        <entry key="RUSSIAN" value="3076" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
