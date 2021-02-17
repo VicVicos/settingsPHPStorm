@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Or tell us your domain and IP address, we will write to bidspirit technical support ourselves." />
+      <item value="Или сообщите нам ваш домен и IP адрес мы напишем в техническую поддержку bidspirit самостоятельно." />
+      <item value="Or tell us your domain and IP address, we will write in those. support bidspirit yourself." />
+      <item value="Или сообщите нам ваш домен и IP адрес мы напишем в тех. поддержку bidspirit самостоятельно." />
+      <item value="On demo site syncronization will done." />
+      <item value="You need to set up automatic syncing. See user manual Automatic Synchronization. You also need to contact the technical support of bidspirit so that they add your domain and server ip address to the whitelist." />
+      <item value="Вам надо настроить автоматическую синхронизацию. Смотрите user manual Automatic Synchronization. Так же вам надо обратиться в техническую поддержку bidspirit что бы они добавили ваш домен и ip адрес сервера в белый список." />
+      <item value="Check now. The site is configured for automatic synchronization. There is no point in running it manually. You may have received this error at a time when the domain was not added to the whitelist on bidspirit, or the script terminated due to the server timeout for the scripts operation." />
+      <item value="Проверьте сейчас. На сайте настроена автоматическая синхронизация. В ручную её запускать нет смысла. Эта ошибку вы могли получить в тот момент когда домен не был добавлен в белый список на bidspirit или работа скрипта завершилась по таймауту ограничения сервера времени работы скриптов." />
+      <item value="Check now. The site is configured for automatic synchronization. There is no point in running it manually. You may have received this error at a time when the domain was not added to the whitelist on bidspirit or the script terminated due to the server restriction timeout." />
+      <item value="Проверьте сейчас. На сайте настроена автоматическая синхронизация. В ручную её запускать нет смысла. Эта ошибку вы могли получить в тот момент когда домен не был добавлен в белый список на bidspirit или работа скрипта завершилась по таймауту ограничения сервера." />
       <item value="Here's a newer version." />
       <item value="Вот более новая версия." />
       <item value="This form is found in many widgets and for each of them the title and description are set separately." />
@@ -40,29 +51,18 @@
       <item value="Я проверил ваш совет, но не в этом проблема. Проверил указанную вами функцию и дошёл до: wp-contentpluginswp-hummingbirdcoremodulesclass-page-cache.php:1367 Уточнение на скриншоте. Для формирования пути вы используете глобальный массив _SERVER, а при запуске скрипта из под cron этот массив не существует. К сожалению в функции нет ни каких фильтров что бы я мог повлиять на формирование значения переменной http_host без изменения исходного кода плагина wp-hummingbird" />
       <item value="Search by" />
       <item value="Аналогичная проблема, которая бывала и ранее." />
-      <item value="I just open the design layout and this error crashes periodically. Do you want me to drop you an xd file that is causing the problem?" />
-      <item value="Просто открываю макет дизайна и эта ошибка периодически вылетает. Хотите я скину вам xd файл что вызывает проблемы?" />
-      <item value="turn off and there is no problem." />
-      <item value="Причиной был define( 'SCRIPT_DEBUG', true ); выключаем это и проблемы нет." />
-      <item value="I work for Web2" />
-      <item value="Запуск каждую минуту:" />
-      <item value="Запуск раз в 3 дня:" />
-      <item value="Запуск каждый час:" />
-      <item value="Надо настроить три cron задачи." />
-      <item value="Для сайта:" />
-      <item value="We also have some lines that are not translated into Portuguese, we would like to ask you to help us with this." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3076" />
+        <entry key="ENGLISH" value="3082" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3076" />
+        <entry key="RUSSIAN" value="3082" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
