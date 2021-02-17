@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The login details are the same as on the test site. In case of problems, please report them." />
+      <item value="В случае возникновения проблем сообщите о них пожалуйста." />
+      <item value="The login details are the same as on the test site." />
+      <item value="Данные для входа такие же как и на тестовом сайте." />
+      <item value="Questions for migration Tiroche" />
+      <item value="1) Which table is relevant for lots. 2) How are the lots and categories of authors or art related to each other, which are located in the tablesArtist, termsArt." />
+      <item value="1) Какая из таблиц является актуальной для лотов. 2) Как связаны между собой лоты и категории авторов или art, что расположены в таблицах termsArtist, termsArt." />
+      <item value="Таблицы: а) Таблица аукционов: auctions 3) Таблица Блога: blogs" />
+      <item value="Which table is the current version for lots." />
+      <item value="Какая из таблиц является актуальной версией для лотов." />
       <item value="Or tell us your domain and IP address, we will write to bidspirit technical support ourselves." />
       <item value="Или сообщите нам ваш домен и IP адрес мы напишем в техническую поддержку bidspirit самостоятельно." />
       <item value="Or tell us your domain and IP address, we will write in those. support bidspirit yourself." />
@@ -41,28 +51,18 @@
       <item value="При запуске скрипта через wp-cron проблем нет, то что что вы описали в примере это как раз запуск скрипта с помощью wp-cron, в таком случае глобальный массив _SERVER существует. Нас же интересует запуск скрипта через консольный запуск задач, в таком случа глобальный массив _SERVER пуст и я явно указал на то что в плагине если _SERVER не существует путь до файла с кешем формируется не верный и удаление кеша не происходит. Так же я внёс доработки в исходный код плагина wp-hummingbird и после этого наша проблема решена, т.е. при запуске скрипта из под консоли очистка кеша работает." />
       <item value="Were these cron tasks before? Can ask to check their performance, since synchronization does not work. Please manually run lotBidspiritOld .php. And check for the presence of records in the import_history table." />
       <item value="Were these cron tasks before? Then you can ask to check their performance, since synchronization does not work. Please manually run lotBidspiritOld.php. And check for the presence of records in the import_history table." />
-      <item value="Эти cron задачи были и ранее? Тогда можно попросить проверить их работоспособность, так как синхронизация не работает. Запустите пожалуйста в ручную lotBidspiritOld.php. И проверьте наличие записей в таблице import_history." />
-      <item value="Файл вызывает проблему каждый раз при открытии." />
-      <item value="approved Fields" />
-      <item value="approve Fields" />
-      <item value="I checked your advice, but that's not the problem. Checked the function you specified and got to: wp-contentpluginswp-hummingbirdcoremodulesclass-page-cache.php:1367 See screenshot for clarification. To form the path, you use the global array _SERVER, and when you run the script from under cron, this array does not exist. Unfortunately, there are no filters in the function so that I could influence the formation of the value of the http_host variable without changing the source code of the wp-hummingbird plugin. It is not a problem to improve this moment. We are looking forward to solving this problem in the next update. Thanks!" />
-      <item value="Доработать этот момент не проблема. Ждём решения этой проблемы в ближайшем обновлении. Спасибо!" />
-      <item value="Доработать этот момент не проблема." />
-      <item value="Я проверил ваш совет, но не в этом проблема. Проверил указанную вами функцию и дошёл до: wp-contentpluginswp-hummingbirdcoremodulesclass-page-cache.php:1367 Уточнение на скриншоте. Для формирования пути вы используете глобальный массив _SERVER, а при запуске скрипта из под cron этот массив не существует. К сожалению в функции нет ни каких фильтров что бы я мог повлиять на формирование значения переменной http_host без изменения исходного кода плагина wp-hummingbird" />
-      <item value="Search by" />
-      <item value="Аналогичная проблема, которая бывала и ранее." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3082" />
+        <entry key="ENGLISH" value="3088" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3082" />
+        <entry key="RUSSIAN" value="3088" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
