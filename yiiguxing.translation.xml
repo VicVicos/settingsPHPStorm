@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We are working on a solution so that this problem does not recur." />
+      <item value="Мы работаем над решением что бы такая проблема не повторялась." />
+      <item value="We are working on a solution when this problem." />
+      <item value="We are working on a solution when this problem occurs. You can clear the cache manually with this button." />
+      <item value="Мы работаем над решением когда такая проблема возникает. В ручную кеш можно очистить вот этой кнопкой." />
       <item value="No other changes are required. Thank!" />
       <item value="Других изменений не требуется. Спасибо!" />
       <item value="There will be minor edits yet, I didn't have time to finish it today, but the final result will not change much." />
@@ -46,23 +51,18 @@
       <item value="response Additional Data" />
       <item value="Thanks! This solution does not completely solve the problem, but it is the best solution possible. We sync lots every hour, and if the bid for a lot changes between two syncs, the data will not be identical to what is on bidspirit." />
       <item value="Спасибо! Это решение не полностью решает вопрос, но это лучшее решение из всех возможных. Мы синхронизируем лоты каждый час и если ставка для лота измениться между двумя синхронизациями, то данные будут не идентичны тому что есть на bidspirit." />
-      <item value="And for certain items, we need to add a carbon field of the select type and after checking that the menu item has this field," />
-      <item value="And for certain items, you need to add a carbon field of the select type and after checking that the menu item has this field," />
-      <item value="How can I set an empty value for the select field so that when saving a post it does not create a record in the postmeta table. The problem is as follows. We have a menu with 100 menu items. And for certain items, you need to add a carbon field of the select type and after checking that the menu item has this field, we generate 100 extra queries in the database, since when saving a menu with data, each menu item receives a new field. If it was possible to add an empty value to which it was not saved in the database, it would be possible to check using the metadata_exists('post', item-&gt; ID, '_crb_menu_banner_id') method and we would not receive unnecessary requests to the database." />
-      <item value="Как можно задать пустое значение для поля select что бы при сохранении поста оно не создавало запись в таблице postmeta. Проблема в следующем. Имеем меню со 100 пунктов меню. И для определённых пунктов надо добавить carbon field типа select и после при проверке что menu item имеет это поле у нас генерируется 100 лишних запросов в БД так как при сохранении меню с данными каждый пункт меню получает новое поле. Будь возможность добавить пустое значение которе не сохранялось в БД, можно было бы выполнить проверку методом metadata_exists( 'post', item-&gt;ID, '_crb_menu_banner_id' ) И мы бы не получали лишние запросы в БД." />
-      <item value="Problem while sorting by price" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3068" />
+        <entry key="ENGLISH" value="3071" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3068" />
+        <entry key="RUSSIAN" value="3071" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
