@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This was added in the latest plugin updates and will soon be able to update from the admin panel." />
+      <item value="Это было добавлено в последних обновлениях плагина и скоро появится возможность обновиться из админ панели." />
+      <item value="Can link to the general tab only, if you like." />
+      <item value="At the moment, there is no such functionality, the ability to return to the auction page with previously loaded lots." />
+      <item value="На данный момент такого функционала, возможность вернуться на страницу аукциона с ранее загруженными лотами, нет." />
+      <item value="In case of a problem, write a message to this email, so we can more quickly respond to you. Now for your questions." />
+      <item value="В случаи возникновения проблемы пишите сообщения на этой email, так мы сможем более оперативно отвечать вам. Теперь что касается ваших вопросов." />
+      <item value="we can link to the general tab only, if you like." />
+      <item value="can link to the general tab only, if you like." />
+      <item value="we can change to pagination as on bidspirit account" />
+      <item value="can link to the general tab only. If you like" />
+      <item value="can link to the general tab only" />
       <item value="You can resolve this issue with the technical support of your hosting provider." />
       <item value="Этот вопрос вы можете решить с технической поддержкой своего хостинг провайдера." />
       <item value="How long would it take to replace the 'current catalog' and 'results' catalog on our website with this: https:fairhillauction.bidspirit.com?lang=en&amp;confirmationKey=e4620561a3d6439183cc0dcd9de1a330catalog~217~242" />
@@ -39,30 +51,18 @@
       <item value="Отвалились настройки sliderRevolution" />
       <item value="Слетели настройки sliderRevolution" />
       <item value="here is their IP address." />
-      <item value="The login details are the same as on the test site. In case of problems, please report them." />
-      <item value="В случае возникновения проблем сообщите о них пожалуйста." />
-      <item value="The login details are the same as on the test site." />
-      <item value="Данные для входа такие же как и на тестовом сайте." />
-      <item value="Questions for migration Tiroche" />
-      <item value="1) Which table is relevant for lots. 2) How are the lots and categories of authors or art related to each other, which are located in the tablesArtist, termsArt." />
-      <item value="1) Какая из таблиц является актуальной для лотов. 2) Как связаны между собой лоты и категории авторов или art, что расположены в таблицах termsArtist, termsArt." />
-      <item value="Таблицы: а) Таблица аукционов: auctions 3) Таблица Блога: blogs" />
-      <item value="Which table is the current version for lots." />
-      <item value="Какая из таблиц является актуальной версией для лотов." />
-      <item value="Or tell us your domain and IP address, we will write to bidspirit technical support ourselves." />
-      <item value="Или сообщите нам ваш домен и IP адрес мы напишем в техническую поддержку bidspirit самостоятельно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3117" />
+        <entry key="ENGLISH" value="3127" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3117" />
+        <entry key="RUSSIAN" value="3127" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
