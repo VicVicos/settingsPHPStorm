@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can resolve this issue with the technical support of your hosting provider." />
+      <item value="Этот вопрос вы можете решить с технической поддержкой своего хостинг провайдера." />
+      <item value="How long would it take to replace the 'current catalog' and 'results' catalog on our website with this: https:fairhillauction.bidspirit.com?lang=en&amp;confirmationKey=e4620561a3d6439183cc0dcd9de1a330catalog~217~242" />
+      <item value="1) На данный момент такого функционала, возможность вернуться на страницу аукциона с ранее загруженными лотами, нет." />
+      <item value="1) На данный момент такого функционала - возможность вернуться на страницу аукциона с ранее загруженными лотами - нет." />
+      <item value="Please take a look at the attached screenshot. Is it possible to change the function of the circled grid buttonlink to link back to the last position of the previous page. Clicking on the browser back button returns the user to the last viewed position or row, but the dotted grid button between the two arrows will bring the user back to the beginning of the catalog." />
+      <item value="Dr. Andreas," />
       <item value="is On Paged" />
       <item value="Can you set up automatic syncing?" />
       <item value="Вы сможете настроить автоматическую синхронизацию?" />
@@ -44,25 +51,18 @@
       <item value="Какая из таблиц является актуальной версией для лотов." />
       <item value="Or tell us your domain and IP address, we will write to bidspirit technical support ourselves." />
       <item value="Или сообщите нам ваш домен и IP адрес мы напишем в техническую поддержку bidspirit самостоятельно." />
-      <item value="Or tell us your domain and IP address, we will write in those. support bidspirit yourself." />
-      <item value="Или сообщите нам ваш домен и IP адрес мы напишем в тех. поддержку bidspirit самостоятельно." />
-      <item value="On demo site syncronization will done." />
-      <item value="You need to set up automatic syncing. See user manual Automatic Synchronization. You also need to contact the technical support of bidspirit so that they add your domain and server ip address to the whitelist." />
-      <item value="Вам надо настроить автоматическую синхронизацию. Смотрите user manual Automatic Synchronization. Так же вам надо обратиться в техническую поддержку bidspirit что бы они добавили ваш домен и ip адрес сервера в белый список." />
-      <item value="Check now. The site is configured for automatic synchronization. There is no point in running it manually. You may have received this error at a time when the domain was not added to the whitelist on bidspirit, or the script terminated due to the server timeout for the scripts operation." />
-      <item value="Проверьте сейчас. На сайте настроена автоматическая синхронизация. В ручную её запускать нет смысла. Эта ошибку вы могли получить в тот момент когда домен не был добавлен в белый список на bidspirit или работа скрипта завершилась по таймауту ограничения сервера времени работы скриптов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3112" />
+        <entry key="ENGLISH" value="3117" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3112" />
+        <entry key="RUSSIAN" value="3117" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
