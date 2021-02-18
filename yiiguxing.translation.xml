@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! Bidspirit replied that they added domains to the whitelist. Please check." />
+      <item value="Bidspirit ответили что добавили домены в белый список. Пожалуйста проверьте." />
       <item value="1) Which table is relevant for lots? 2) How are the lots and categories of authors or art related to each other, which are located in the tables termsArtist, termsArt?" />
       <item value="Lots table" />
       <item value="Lots of table" />
@@ -49,20 +51,18 @@
       <item value="Синхронизация в процессе, лоты для аукционов 7, 8, 9 скоро появятся." />
       <item value="Once done, I'll drop the link to the demo site." />
       <item value="Как завершим, я скину ссылку на demo site." />
-      <item value="We're almost done with this. Today we plan to complete work on these tasks." />
-      <item value="Мы почти закончили с этим. Сегодня в планах завершить работу над этими задачами." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3093" />
+        <entry key="ENGLISH" value="3094" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3093" />
+        <entry key="RUSSIAN" value="3094" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
