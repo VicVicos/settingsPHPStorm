@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2) Updated the plugin, now sorting and searching is available on the auctions page. Pagination on auction pages is activated in the plugin settings. You can also set the number of displayed lots on the page in the WP system settings:" />
+      <item value="2) Обновил плагин, теперь на странице аукционов доступна сортировка и поиск. Пагинация на страницах аукционов активируется в настройках плагина. Количество отображаемых лотов на странице вы так же можете задать в настройках системы WP:" />
+      <item value="1) we will answer you tomorrow at the expense of the picture, there are no pictures only with the background, you need to ask the designer." />
+      <item value="1) We will answer you tomorrow at the expense of the picture, there are no pictures only with the background, you need to ask the designer." />
+      <item value="1) На счёт картинки мы ответим вам завтра, картинки только с фоном нет, надо спросить у дизайнера." />
       <item value="This was added in the latest plugin updates and will soon be able to update from the admin panel." />
       <item value="Это было добавлено в последних обновлениях плагина и скоро появится возможность обновиться из админ панели." />
       <item value="Can link to the general tab only, if you like." />
@@ -46,23 +51,18 @@
       <item value="Hello! Bidspirit replied that they added domains to the whitelist. Please check." />
       <item value="Bidspirit ответили что добавили домены в белый список. Пожалуйста проверьте." />
       <item value="1) Which table is relevant for lots? 2) How are the lots and categories of authors or art related to each other, which are located in the tables termsArtist, termsArt?" />
-      <item value="Lots table" />
-      <item value="Lots of table" />
-      <item value="Отвалились настройки sliderRevolution" />
-      <item value="Слетели настройки sliderRevolution" />
-      <item value="here is their IP address." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3127" />
+        <entry key="ENGLISH" value="3129" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3127" />
+        <entry key="RUSSIAN" value="3129" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
