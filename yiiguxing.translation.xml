@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I mean that the plugin is not fully configured." />
+      <item value="Я о том что не до конца плагин настроен." />
+      <item value="If everything was done correctly with synchronization, then it remains to configure the pages." />
+      <item value="Если с синхронизацией всё сделали верно, то осталось настроить страницы." />
       <item value="You have not configured pages for auction pages" />
       <item value="Вы не настроили страницы для страниц аукционов" />
       <item value="And you not set page for auction pages" />
@@ -47,22 +51,18 @@
       <item value="То как вы настроили cron задачи не верно, это не работает, так как прямое обращение к файлам запрещено. Пожалуйста, сделайте как описано в инструкции." />
       <item value="We have updated the plugin on the site for you, and enabled pagination. You can view. You can turn off pagination and return to the old mode in the plugin settings. Option name: &quot;Enable pagination&quot;" />
       <item value="Мы обновили вам плагин на сайте, и включили пагинацию. Можете посмотреть. Пагинацию можно выключить и вернуться к старому режиму в настройках плагина. Имя опции: &quot;Enable pagination&quot;" />
-      <item value="Hello! Please, send me this slide in psd format. The client wants to make slides on his own." />
-      <item value="Клиент самостоятельно хочет делать слайды." />
-      <item value="Hello! Please, send me this slide in psd format." />
-      <item value="Hello! I'm interested in Hebrew support in Adobe XD layouts. I imported a new design and I don't see any texts in Avocode." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3163" />
+        <entry key="ENGLISH" value="3165" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3163" />
+        <entry key="RUSSIAN" value="3165" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
