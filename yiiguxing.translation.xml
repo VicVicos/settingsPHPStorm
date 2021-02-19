@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have not configured pages for auction pages" />
+      <item value="Вы не настроили страницы для страниц аукционов" />
+      <item value="And you not set page for auction pages" />
       <item value="And you can delete file info.php" />
       <item value="And you have delete file info.php" />
       <item value="В панели создания крон задач нет генератора задач? Надо сделать раз в 3 дня к примеру." />
@@ -48,21 +51,18 @@
       <item value="Клиент самостоятельно хочет делать слайды." />
       <item value="Hello! Please, send me this slide in psd format." />
       <item value="Hello! I'm interested in Hebrew support in Adobe XD layouts. I imported a new design and I don't see any texts in Avocode." />
-      <item value="Здравствуйте! Меня интересует наличие поддержки иврита в макетах Adobe XD. Импортировал новый дизайн и я не вижу текстов в Avocode." />
-      <item value="Support Hebrew in xd layouts" />
-      <item value="Support Иврита в макетах xd" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3161" />
+        <entry key="ENGLISH" value="3163" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3161" />
+        <entry key="RUSSIAN" value="3163" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
