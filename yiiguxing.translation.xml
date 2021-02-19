@@ -1,6 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="And you can delete file info.php" />
+      <item value="And you have delete file info.php" />
+      <item value="В панели создания крон задач нет генератора задач? Надо сделать раз в 3 дня к примеру." />
+      <item value="Try it like this." />
+      <item value="Попробуйте вот так." />
+      <item value="Какая?" />
+      <item value="Let's wait a little" />
+      <item value="Подождём немного" />
+      <item value="I'll check later to see if everything works." />
+      <item value="Позднее я проверю что всё ли работает." />
+      <item value="I'll check later that everything works." />
+      <item value="Позднее я проверю что всё работает." />
+      <item value="Change the cron's task to the following:" />
+      <item value="Change the task crowns to the following:" />
+      <item value="Измените крон задачи на следующее:" />
+      <item value="You have ftp manager on hosting?" />
+      <item value="You can upload 1 file to the root of the site, which will help us find out the root directory on your site?" />
+      <item value="Вы сможете залить в корень сайта 1 файлик что поможет нам узнать корневую директорию на вашем сайте?" />
+      <item value="This part is unique for your server: Can you upload 1 file to the site root to specify the root directory on your site?" />
+      <item value="Вот эта часть уникальна для вашего сервера: Вы сможете залить в корень сайта 1 файлик что бы уточнить корневую директорию на вашем сайте?" />
+      <item value="Что означает: выполнять раз в три дня" />
+      <item value="But you can leave as you did." />
+      <item value="Но можно оставить как вы и сделали." />
+      <item value="3 это одно поле" />
+      <item value="The load will be noticeable at the start of synchronization of a new auction when images are uploaded, the rest of the time the load is not significant." />
+      <item value="Нагрузка будет ощутима в моменты начала синхронизации нового аукциона при загрузке картинок, в остальное время нагрузка не значительная." />
+      <item value="Вот эта часть не верная, должен быть абсолютный путь до директории." />
+      <item value="This part is not correct, there must be a path to the directory. See how an example is done on the server." />
+      <item value="Вот эта часть не верная, должен быть путь до директории. Смотрите как пример на сервере сделано." />
       <item value="QA for search and pagination tasks" />
       <item value="Please check the search and pagination tasks on the auction pages." />
       <item value="Пожалуйста проверьте задачи по реализации поиска и пагинации на страницах аукционов." />
@@ -22,47 +51,18 @@
       <item value="Здравствуйте! Меня интересует наличие поддержки иврита в макетах Adobe XD. Импортировал новый дизайн и я не вижу текстов в Avocode." />
       <item value="Support Hebrew in xd layouts" />
       <item value="Support Иврита в макетах xd" />
-      <item value="Будет исправлено в обновлении темы 1.1" />
-      <item value="2) Updated the plugin, now sorting and searching is available on the auctions page. Pagination on auction pages is activated in the plugin settings. You can also set the number of displayed lots on the page in the WP system settings:" />
-      <item value="2) Обновил плагин, теперь на странице аукционов доступна сортировка и поиск. Пагинация на страницах аукционов активируется в настройках плагина. Количество отображаемых лотов на странице вы так же можете задать в настройках системы WP:" />
-      <item value="1) we will answer you tomorrow at the expense of the picture, there are no pictures only with the background, you need to ask the designer." />
-      <item value="1) We will answer you tomorrow at the expense of the picture, there are no pictures only with the background, you need to ask the designer." />
-      <item value="1) На счёт картинки мы ответим вам завтра, картинки только с фоном нет, надо спросить у дизайнера." />
-      <item value="This was added in the latest plugin updates and will soon be able to update from the admin panel." />
-      <item value="Это было добавлено в последних обновлениях плагина и скоро появится возможность обновиться из админ панели." />
-      <item value="Can link to the general tab only, if you like." />
-      <item value="At the moment, there is no such functionality, the ability to return to the auction page with previously loaded lots." />
-      <item value="На данный момент такого функционала, возможность вернуться на страницу аукциона с ранее загруженными лотами, нет." />
-      <item value="In case of a problem, write a message to this email, so we can more quickly respond to you. Now for your questions." />
-      <item value="В случаи возникновения проблемы пишите сообщения на этой email, так мы сможем более оперативно отвечать вам. Теперь что касается ваших вопросов." />
-      <item value="we can link to the general tab only, if you like." />
-      <item value="can link to the general tab only, if you like." />
-      <item value="we can change to pagination as on bidspirit account" />
-      <item value="can link to the general tab only. If you like" />
-      <item value="can link to the general tab only" />
-      <item value="You can resolve this issue with the technical support of your hosting provider." />
-      <item value="Этот вопрос вы можете решить с технической поддержкой своего хостинг провайдера." />
-      <item value="How long would it take to replace the 'current catalog' and 'results' catalog on our website with this: https:fairhillauction.bidspirit.com?lang=en&amp;confirmationKey=e4620561a3d6439183cc0dcd9de1a330catalog~217~242" />
-      <item value="1) На данный момент такого функционала, возможность вернуться на страницу аукциона с ранее загруженными лотами, нет." />
-      <item value="1) На данный момент такого функционала - возможность вернуться на страницу аукциона с ранее загруженными лотами - нет." />
-      <item value="Please take a look at the attached screenshot. Is it possible to change the function of the circled grid buttonlink to link back to the last position of the previous page. Clicking on the browser back button returns the user to the last viewed position or row, but the dotted grid button between the two arrows will bring the user back to the beginning of the catalog." />
-      <item value="Dr. Andreas," />
-      <item value="is On Paged" />
-      <item value="Can you set up automatic syncing?" />
-      <item value="Вы сможете настроить автоматическую синхронизацию?" />
-      <item value="Was this:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3142" />
+        <entry key="ENGLISH" value="3161" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3142" />
+        <entry key="RUSSIAN" value="3161" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
