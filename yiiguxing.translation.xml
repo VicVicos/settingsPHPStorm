@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="QA for search and pagination tasks" />
+      <item value="Please check the search and pagination tasks on the auction pages." />
+      <item value="Пожалуйста проверьте задачи по реализации поиска и пагинации на страницах аукционов." />
+      <item value="This will not work, such site insertions will be blocked." />
+      <item value="2) Так не будет работать, такие вставки сайтов будут блокироваться." />
+      <item value="This will not work, such site insertions are blocked." />
+      <item value="Так не будет работать, такие вставки сайтов блокируются." />
+      <item value="2) We updated plugin on site. You can see this on the auction pages." />
+      <item value="2) We updated plugin on site. Вы можете увидеть это на страницах аукционов." />
+      <item value="They" />
+      <item value="The way you configured the cron task is not correct, it does not work, since direct access to files is prohibited. Please do as described in the instructions." />
+      <item value="То как вы настроили cron задачи не верно, это не работает, так как прямое обращение к файлам запрещено. Пожалуйста, сделайте как описано в инструкции." />
+      <item value="We have updated the plugin on the site for you, and enabled pagination. You can view. You can turn off pagination and return to the old mode in the plugin settings. Option name: &quot;Enable pagination&quot;" />
+      <item value="Мы обновили вам плагин на сайте, и включили пагинацию. Можете посмотреть. Пагинацию можно выключить и вернуться к старому режиму в настройках плагина. Имя опции: &quot;Enable pagination&quot;" />
+      <item value="Hello! Please, send me this slide in psd format. The client wants to make slides on his own." />
+      <item value="Клиент самостоятельно хочет делать слайды." />
+      <item value="Hello! Please, send me this slide in psd format." />
       <item value="Hello! I'm interested in Hebrew support in Adobe XD layouts. I imported a new design and I don't see any texts in Avocode." />
       <item value="Здравствуйте! Меня интересует наличие поддержки иврита в макетах Adobe XD. Импортировал новый дизайн и я не вижу текстов в Avocode." />
       <item value="Support Hebrew in xd layouts" />
@@ -34,35 +51,18 @@
       <item value="Can you set up automatic syncing?" />
       <item value="Вы сможете настроить автоматическую синхронизацию?" />
       <item value="Was this:" />
-      <item value="It was this:" />
-      <item value="Было это:" />
-      <item value="You made a mistake in configuring the plugin with a link to your Bidspirit profile." />
-      <item value="Вы ошиблись в настройке плагина со ссылкой на профиль в Bidspirit." />
-      <item value="Thanks! You are mistaken in the plugin configuration." />
-      <item value="Thank! You are mistaken in the plugin configuration." />
-      <item value="Вы ошиблись в настройке плагина." />
-      <item value="Спасибо! Проблема идёт от серверов Bidspirit. Я сейчас свяжусь с ними что бы они проверили наличие этого домена в белом списке." />
-      <item value="И дальнейшее общение по аукционам тебе надо продолжать с Alexander Sh." />
-      <item value="Это всё что клиент предоставил" />
-      <item value="Can you give us access to the admin panel so that we can understand the problem? Are you clicking on the Sync Now button?" />
-      <item value="Please send us a full screenshot screen including url so we can understand where this is going." />
-      <item value="Please send us a screenshot of the entire screen including url so we can understand where this is going. Can you give us access to the admin panel so that we can understand the problem? Are you clicking on the Sync Now button?" />
-      <item value="Отправьте нам скриншот всего экрана включая url, чтобы мы могли понять, где это происходит." />
-      <item value="Please send us a screenshot of the whole screen so that we can understand where this is happening" />
-      <item value="Please send us a screenshot of the whole screen so that we can understand where this is happening." />
-      <item value="What domain are you doing this from? Can you give us access to the admin panel so that we can understand the problem? Are you clicking on the Sync Now button?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3132" />
+        <entry key="ENGLISH" value="3142" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3132" />
+        <entry key="RUSSIAN" value="3142" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
