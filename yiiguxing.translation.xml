@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Будет исправлено в обновлении темы 1.1" />
       <item value="2) Updated the plugin, now sorting and searching is available on the auctions page. Pagination on auction pages is activated in the plugin settings. You can also set the number of displayed lots on the page in the WP system settings:" />
       <item value="2) Обновил плагин, теперь на странице аукционов доступна сортировка и поиск. Пагинация на страницах аукционов активируется в настройках плагина. Количество отображаемых лотов на странице вы так же можете задать в настройках системы WP:" />
       <item value="1) we will answer you tomorrow at the expense of the picture, there are no pictures only with the background, you need to ask the designer." />
@@ -50,7 +51,6 @@
       <item value="Пожалуйста пришлите нам скриншот целого экрана, что бы мы могли понять где это происходит. Вы нажимаете на кнопку Sync Now?" />
       <item value="Hello! Bidspirit replied that they added domains to the whitelist. Please check." />
       <item value="Bidspirit ответили что добавили домены в белый список. Пожалуйста проверьте." />
-      <item value="1) Which table is relevant for lots? 2) How are the lots and categories of authors or art related to each other, which are located in the tables termsArtist, termsArt?" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3129" />
+        <entry key="RUSSIAN" value="3130" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
