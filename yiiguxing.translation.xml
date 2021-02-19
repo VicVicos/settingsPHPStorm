@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! I'm interested in Hebrew support in Adobe XD layouts. I imported a new design and I don't see any texts in Avocode." />
+      <item value="Здравствуйте! Меня интересует наличие поддержки иврита в макетах Adobe XD. Импортировал новый дизайн и я не вижу текстов в Avocode." />
+      <item value="Support Hebrew in xd layouts" />
+      <item value="Support Иврита в макетах xd" />
       <item value="Будет исправлено в обновлении темы 1.1" />
       <item value="2) Updated the plugin, now sorting and searching is available on the auctions page. Pagination on auction pages is activated in the plugin settings. You can also set the number of displayed lots on the page in the WP system settings:" />
       <item value="2) Обновил плагин, теперь на странице аукционов доступна сортировка и поиск. Пагинация на страницах аукционов активируется в настройках плагина. Количество отображаемых лотов на странице вы так же можете задать в настройках системы WP:" />
@@ -47,22 +51,18 @@
       <item value="Please send us a screenshot of the whole screen so that we can understand where this is happening" />
       <item value="Please send us a screenshot of the whole screen so that we can understand where this is happening." />
       <item value="What domain are you doing this from? Can you give us access to the admin panel so that we can understand the problem? Are you clicking on the Sync Now button?" />
-      <item value="С какого домена вы это делаете? Можете предоставить нам доступ в админ панель что бы мы могли понять проблему? Вы нажимаете на кнопку Sync Now?" />
-      <item value="Пожалуйста пришлите нам скриншот целого экрана, что бы мы могли понять где это происходит. Вы нажимаете на кнопку Sync Now?" />
-      <item value="Hello! Bidspirit replied that they added domains to the whitelist. Please check." />
-      <item value="Bidspirit ответили что добавили домены в белый список. Пожалуйста проверьте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3129" />
+        <entry key="ENGLISH" value="3132" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3130" />
+        <entry key="RUSSIAN" value="3132" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
