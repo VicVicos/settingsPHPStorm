@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="squere" />
       <item value="We have trouble on site for client 12stulauction" />
       <item value="Мы видим проблемы с клиентов 12auction." />
       <item value="Trouble with client 12stulauction" />
@@ -50,19 +51,18 @@
       <item value="2) We updated plugin on site. You can see this on the auction pages." />
       <item value="2) We updated plugin on site. Вы можете увидеть это на страницах аукционов." />
       <item value="They" />
-      <item value="The way you configured the cron task is not correct, it does not work, since direct access to files is prohibited. Please do as described in the instructions." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3167" />
+        <entry key="ENGLISH" value="3168" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3167" />
+        <entry key="RUSSIAN" value="3168" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
