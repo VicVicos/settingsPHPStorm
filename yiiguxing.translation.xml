@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Go to result" />
       <item value="Filter is done" />
       <item value="some questions" />
       <item value="seen" />
@@ -50,19 +51,18 @@
       <item value="This part is not correct, there must be a path to the directory. See how an example is done on the server." />
       <item value="Вот эта часть не верная, должен быть путь до директории. Смотрите как пример на сервере сделано." />
       <item value="QA for search and pagination tasks" />
-      <item value="Please check the search and pagination tasks on the auction pages." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3174" />
+        <entry key="ENGLISH" value="3175" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3174" />
+        <entry key="RUSSIAN" value="3175" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
