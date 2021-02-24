@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="В консоли требуется активировать эти API" />
+      <item value="В консоли требуется активировать этот API" />
+      <item value="In console required activate that API" />
       <item value="Go to result" />
       <item value="Filter is done" />
       <item value="some questions" />
@@ -48,21 +51,18 @@
       <item value="The load will be noticeable at the start of synchronization of a new auction when images are uploaded, the rest of the time the load is not significant." />
       <item value="Нагрузка будет ощутима в моменты начала синхронизации нового аукциона при загрузке картинок, в остальное время нагрузка не значительная." />
       <item value="Вот эта часть не верная, должен быть абсолютный путь до директории." />
-      <item value="This part is not correct, there must be a path to the directory. See how an example is done on the server." />
-      <item value="Вот эта часть не верная, должен быть путь до директории. Смотрите как пример на сервере сделано." />
-      <item value="QA for search and pagination tasks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3175" />
+        <entry key="ENGLISH" value="3177" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3175" />
+        <entry key="RUSSIAN" value="3178" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
