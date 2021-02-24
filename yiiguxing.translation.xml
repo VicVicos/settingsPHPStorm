@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Here is the file for the slides." />
+      <item value="Вот файл для слайдов." />
+      <item value="The domain has been added. API issue resolved. Please check." />
+      <item value="Домен был добавлен. Проблема с API решена. Пожалуйста проверьте." />
+      <item value="Домен был добавлен." />
+      <item value="We have written to bidspirit technical support. Waiting." />
+      <item value="We have written to bidspirit technical support. We are waiting." />
+      <item value="Мы написали в техническую поддержку bidspirit. Ожидаем." />
+      <item value="I did not quite understand what was wrong. Can I transfer this psd file to the client?" />
+      <item value="Не совсем понял что не так. Могу я передать этот psd файл клиенту?" />
       <item value="their domain" />
       <item value="Trouble with API for clients:" />
       <item value="Trouble with API on clients:" />
@@ -41,28 +51,18 @@
       <item value="Позднее я проверю что всё работает." />
       <item value="Change the cron's task to the following:" />
       <item value="Change the task crowns to the following:" />
-      <item value="Измените крон задачи на следующее:" />
-      <item value="You have ftp manager on hosting?" />
-      <item value="You can upload 1 file to the root of the site, which will help us find out the root directory on your site?" />
-      <item value="Вы сможете залить в корень сайта 1 файлик что поможет нам узнать корневую директорию на вашем сайте?" />
-      <item value="This part is unique for your server: Can you upload 1 file to the site root to specify the root directory on your site?" />
-      <item value="Вот эта часть уникальна для вашего сервера: Вы сможете залить в корень сайта 1 файлик что бы уточнить корневую директорию на вашем сайте?" />
-      <item value="Что означает: выполнять раз в три дня" />
-      <item value="But you can leave as you did." />
-      <item value="Но можно оставить как вы и сделали." />
-      <item value="3 это одно поле" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3180" />
+        <entry key="ENGLISH" value="3186" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3180" />
+        <entry key="RUSSIAN" value="3186" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
