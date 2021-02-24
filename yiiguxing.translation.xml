@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="their domain" />
+      <item value="Trouble with API for clients:" />
+      <item value="Trouble with API on clients:" />
       <item value="В консоли требуется активировать эти API" />
       <item value="В консоли требуется активировать этот API" />
       <item value="In console required activate that API" />
@@ -48,21 +51,18 @@
       <item value="But you can leave as you did." />
       <item value="Но можно оставить как вы и сделали." />
       <item value="3 это одно поле" />
-      <item value="The load will be noticeable at the start of synchronization of a new auction when images are uploaded, the rest of the time the load is not significant." />
-      <item value="Нагрузка будет ощутима в моменты начала синхронизации нового аукциона при загрузке картинок, в остальное время нагрузка не значительная." />
-      <item value="Вот эта часть не верная, должен быть абсолютный путь до директории." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3177" />
+        <entry key="ENGLISH" value="3180" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3178" />
+        <entry key="RUSSIAN" value="3180" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
