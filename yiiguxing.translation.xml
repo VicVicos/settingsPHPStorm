@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="And in fact, I cannot work with your application now, although I like it, but I see no reason to pay for the next month. Or do you guarantee me that problems with AdobeXD layouts will be solved in the next updates." />
+      <item value="And yet, in fact, I cannot work with your application now, although I like it, but I see no reason to pay for the next month. Or do you guarantee me that problems with AdobeXD layouts will be solved in the next updates." />
+      <item value="И ещё, фактически я не могу сейчас работать с вашим приложением, хотя оно мне и нравится, но я не вижу смысла оплачивать следующий месяц. Или же вы мне гарантируете что проблемы с макетами AdobeXD решаться в ближайших обновлениях." />
+      <item value="Yes, this is the one I sent recently. Hebrew text display problem. The index page threw this error after a recent update. The text never appeared." />
+      <item value="Да, это тот что я недавно присылал. Проблема с отображением текста на иврите. После недавнего обновления страница index выдала эту ошибку. Текст так и не появился." />
+      <item value="Yes, this is the one I sent recently. Hebrew text display problem. After a recent update, the main page of the layout stopped opening and the text never appeared." />
+      <item value="Да, это тот что я недавно присылал. Проблема с отображением текста на иврите. После недавнего обновления главная страница макета перестала открываться, а текст так и не появился." />
       <item value="Processing" />
       <item value="We see that the previously configured CRON tasks do not work. Please create a ticket in support of the hosting so that they would check what the problem is. Now we switched the synchronization to the core of the site, but this method does not guarantee high-quality synchronization if there is a large auction, so its use is permissible only in extreme cases if it is not possible to configure synchronization from the server side." />
       <item value="Мы видим что настроенные нами ранее CRON задачи не работают. Создайте пожалуйста тикет в поддержку хостинга что бы они проверили в чём проблема. Сейчас мы переключили выполнение синхронизации на ядро сайта, но этот метод не гарантирует качественной синхронизации если будет большой аукцион, поэтому его использование допустимо только в крайних случаях если нет возможности настроить синхронизацию со стороны сервера." />
@@ -44,25 +51,18 @@
       <item value="You have not configured pages for auction pages" />
       <item value="Вы не настроили страницы для страниц аукционов" />
       <item value="And you not set page for auction pages" />
-      <item value="And you can delete file info.php" />
-      <item value="And you have delete file info.php" />
-      <item value="В панели создания крон задач нет генератора задач? Надо сделать раз в 3 дня к примеру." />
-      <item value="Try it like this." />
-      <item value="Попробуйте вот так." />
-      <item value="Какая?" />
-      <item value="Let's wait a little" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3191" />
+        <entry key="ENGLISH" value="3195" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3191" />
+        <entry key="RUSSIAN" value="3195" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
