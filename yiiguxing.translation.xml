@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Есть какие либо новости?" />
+      <item value="Есть новости?" />
       <item value="Here is the file for the slides." />
       <item value="Вот файл для слайдов." />
       <item value="The domain has been added. API issue resolved. Please check." />
@@ -49,20 +51,18 @@
       <item value="Позднее я проверю что всё ли работает." />
       <item value="I'll check later that everything works." />
       <item value="Позднее я проверю что всё работает." />
-      <item value="Change the cron's task to the following:" />
-      <item value="Change the task crowns to the following:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3186" />
+        <entry key="ENGLISH" value="3187" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3186" />
+        <entry key="RUSSIAN" value="3188" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
