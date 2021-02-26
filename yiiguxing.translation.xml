@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="будет" />
+      <item value="Попробуйте убрать вот эту часть." />
+      <item value="Or did you not change anything?" />
+      <item value="Или вы ни чего не меняли?" />
+      <item value="Hello! No, the current option doesn't work. Can you show how the cron tasks are configured now?" />
+      <item value="Нет, текущий вариант не работает. Можете показать как сейчас настроены cron задачи?" />
+      <item value="Approximately the first half of next week." />
+      <item value="Ориентировочно первая половина следующей недели." />
       <item value="Исправлено." />
       <item value="Fixed. The Elementor Pro plugin needed to be updated." />
       <item value="Fixed. Требовалось обновить плагин Elementor Pro." />
@@ -43,26 +51,18 @@
       <item value="Достаточно не надолго отойти от дел и новые мысли о своей деятельности приходят в голову. Ранее я не знал этому объяснение." />
       <item value="It is enough to retire for a short time and new thoughts about what he was doing come to mind. Previously, I did not know the explanation." />
       <item value="Достаточно не надолго отойти от дел и новые мысли о том чем занимался приходят в голову. Ранее я не знал этому объяснение." />
-      <item value="squere" />
-      <item value="We have trouble on site for client 12stulauction" />
-      <item value="Мы видим проблемы с клиентов 12auction." />
-      <item value="Trouble with client 12stulauction" />
-      <item value="I mean that the plugin is not fully configured." />
-      <item value="Я о том что не до конца плагин настроен." />
-      <item value="If everything was done correctly with synchronization, then it remains to configure the pages." />
-      <item value="Если с синхронизацией всё сделали верно, то осталось настроить страницы." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3196" />
+        <entry key="ENGLISH" value="3201" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3197" />
+        <entry key="RUSSIAN" value="3202" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
