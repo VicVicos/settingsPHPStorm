@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Исправлено." />
+      <item value="Fixed. The Elementor Pro plugin needed to be updated." />
+      <item value="Fixed. Требовалось обновить плагин Elementor Pro." />
       <item value="And in fact, I cannot work with your application now, although I like it, but I see no reason to pay for the next month. Or do you guarantee me that problems with AdobeXD layouts will be solved in the next updates." />
       <item value="And yet, in fact, I cannot work with your application now, although I like it, but I see no reason to pay for the next month. Or do you guarantee me that problems with AdobeXD layouts will be solved in the next updates." />
       <item value="И ещё, фактически я не могу сейчас работать с вашим приложением, хотя оно мне и нравится, но я не вижу смысла оплачивать следующий месяц. Или же вы мне гарантируете что проблемы с макетами AdobeXD решаться в ближайших обновлениях." />
@@ -48,21 +51,18 @@
       <item value="Я о том что не до конца плагин настроен." />
       <item value="If everything was done correctly with synchronization, then it remains to configure the pages." />
       <item value="Если с синхронизацией всё сделали верно, то осталось настроить страницы." />
-      <item value="You have not configured pages for auction pages" />
-      <item value="Вы не настроили страницы для страниц аукционов" />
-      <item value="And you not set page for auction pages" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3195" />
+        <entry key="ENGLISH" value="3196" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3195" />
+        <entry key="RUSSIAN" value="3197" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
