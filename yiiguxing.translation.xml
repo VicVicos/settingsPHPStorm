@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Changes for new version API" />
+      <item value="Does changes for new version API" />
+      <item value="Do changes for new version API" />
+      <item value="Do changes for changes in API" />
+      <item value="Submit changes for changes in API" />
+      <item value="ВНести изменения под изменения в API" />
+      <item value="i remembered, i have problems with those requests that need to be sent by the post method." />
+      <item value="Я вспомнил, я имею проблемы с теми запросами которые должны быть отправлены POST методом." />
+      <item value="Trouble on dev zone" />
+      <item value="I am experiencing problems when making API requests on the test site where the main work on the plugin is being done." />
+      <item value="I am experiencing some problems when making API requests on the test site where the main work on the plugin is being done." />
+      <item value="When I try to log in, I get an error, but many other requests work without problems." />
+      <item value="Я испытываю некоторые проблемы при запросах к API на тестовом сайте где ведётся основная работа над плагином." />
+      <item value="При попытке авторизоваться я получаю ошибку. Но многие другие запросы отрабатывают без проблем." />
       <item value="будет" />
       <item value="Попробуйте убрать вот эту часть." />
       <item value="Or did you not change anything?" />
@@ -37,32 +51,18 @@
       <item value="I did not quite understand what was wrong. Can I transfer this psd file to the client?" />
       <item value="Не совсем понял что не так. Могу я передать этот psd файл клиенту?" />
       <item value="their domain" />
-      <item value="Trouble with API for clients:" />
-      <item value="Trouble with API on clients:" />
-      <item value="В консоли требуется активировать эти API" />
-      <item value="В консоли требуется активировать этот API" />
-      <item value="In console required activate that API" />
-      <item value="Go to result" />
-      <item value="Filter is done" />
-      <item value="some questions" />
-      <item value="seen" />
-      <item value="Thanks! I try it." />
-      <item value="It is enough to retire for a short time and new thoughts about their activities come to mind. Previously, I did not know the explanation." />
-      <item value="Достаточно не надолго отойти от дел и новые мысли о своей деятельности приходят в голову. Ранее я не знал этому объяснение." />
-      <item value="It is enough to retire for a short time and new thoughts about what he was doing come to mind. Previously, I did not know the explanation." />
-      <item value="Достаточно не надолго отойти от дел и новые мысли о том чем занимался приходят в голову. Ранее я не знал этому объяснение." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3201" />
+        <entry key="ENGLISH" value="3213" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3202" />
+        <entry key="RUSSIAN" value="3213" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
