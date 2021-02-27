@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have unsubscribed from the auction house newsletter" />
+      <item value="You have subscribed to the auction house newsletter" />
+      <item value="You have unsubscribed from the auction house mailing list" />
+      <item value="Вы отписались от рассылки аукционного дома" />
+      <item value="Вы были подписались на рассылку аукционного дома" />
       <item value="With this api the user can set his preference whether he accepts to get invitations for new auctions from the auction house or not." />
       <item value="weather this user accepts to get invitations for new auctions from the auction house" />
       <item value="Changes for new version API" />
@@ -46,23 +51,18 @@
       <item value="Вот файл для слайдов." />
       <item value="The domain has been added. API issue resolved. Please check." />
       <item value="Домен был добавлен. Проблема с API решена. Пожалуйста проверьте." />
-      <item value="Домен был добавлен." />
-      <item value="We have written to bidspirit technical support. Waiting." />
-      <item value="We have written to bidspirit technical support. We are waiting." />
-      <item value="Мы написали в техническую поддержку bidspirit. Ожидаем." />
-      <item value="I did not quite understand what was wrong. Can I transfer this psd file to the client?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3215" />
+        <entry key="ENGLISH" value="3219" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3215" />
+        <entry key="RUSSIAN" value="3219" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
