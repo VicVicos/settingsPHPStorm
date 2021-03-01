@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allow &quot;%s&quot; to send me invitation for new auctions" />
       <item value="Elements in iteration expect to have 'v-bind:key' directives" />
       <item value="You have unsubscribed from the auction house newsletter" />
       <item value="You have subscribed to the auction house newsletter" />
@@ -50,19 +51,18 @@
       <item value="Есть новости?" />
       <item value="Here is the file for the slides." />
       <item value="Вот файл для слайдов." />
-      <item value="The domain has been added. API issue resolved. Please check." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3220" />
+        <entry key="ENGLISH" value="3221" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3220" />
+        <entry key="RUSSIAN" value="3221" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
