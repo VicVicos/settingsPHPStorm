@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Красный - не корректно Зелёный - корректно" />
+      <item value="You can attach a screen of how cron tasks are configured on the hosting. Because in the sync history I see records for 1 auction." />
+      <item value="Вы можете пристать скрин как настроены cron задачи на хостинге. Потому как в истории синхронизации я вижу записи для 1 аукциона." />
+      <item value="Synchronization is fine on the test site. We think that synchronization on your site is not configured correctly." />
+      <item value="На тестовом сайте всё в порядке с синхронизацией. Думаем что на вашемс сайте синхронизация всё настроена не корректно." />
+      <item value="Synchronization is fine on the test site. We think that the synchronization is still not configured correctly." />
+      <item value="На тестовом сайте всё в порядке с синхронизацией. Думаем что синхронизация всё же настроена не корректно." />
       <item value="Bidspirit has a commission field for auctions that shows the commission value for the auction. You don't have this field in the auctions table. What should it be equal to?" />
       <item value="В Bidspirit для аукционов есть поле commissionю которое показывает значение комиссии для аукциона. У вас этого поля нет в таблице auctions. Чему оно должно быть равно?" />
       <item value="The auction table has a field auctionType with the prev - next value. This value can be understood as the fact that the auction was held?" />
@@ -44,25 +51,18 @@
       <item value="Does changes for new version API" />
       <item value="Do changes for new version API" />
       <item value="Do changes for changes in API" />
-      <item value="Submit changes for changes in API" />
-      <item value="ВНести изменения под изменения в API" />
-      <item value="i remembered, i have problems with those requests that need to be sent by the post method." />
-      <item value="Я вспомнил, я имею проблемы с теми запросами которые должны быть отправлены POST методом." />
-      <item value="Trouble on dev zone" />
-      <item value="I am experiencing problems when making API requests on the test site where the main work on the plugin is being done." />
-      <item value="I am experiencing some problems when making API requests on the test site where the main work on the plugin is being done." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3240" />
+        <entry key="ENGLISH" value="3244" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3240" />
+        <entry key="RUSSIAN" value="3245" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
