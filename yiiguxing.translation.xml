@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only for mobile device" />
       <item value="Добавлено" />
       <item value="Добавил" />
       <item value="ALL BANKS REVIEWS" />
@@ -50,12 +51,11 @@
       <item value="Approximately the first half of next week." />
       <item value="Ориентировочно первая половина следующей недели." />
       <item value="Исправлено." />
-      <item value="Fixed. The Elementor Pro plugin needed to be updated." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3232" />
+        <entry key="ENGLISH" value="3233" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
