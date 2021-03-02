@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="length Title" />
+      <item value="Do by analogy with those marked in green" />
+      <item value="Сделайте по аналогии с теми что отмечены зелёным" />
+      <item value="There will be new entries in the sync history." />
+      <item value="i have now run into manual sync." />
+      <item value="I have now run into manual sync." />
+      <item value="В истории синхронизации будут новые записи. https:soca-art.comwp-adminedit.php?post_type=lot&amp;page=auction_history Сейчас я запустил в ручную синхронизацию." />
       <item value="Красный - не корректно Зелёный - корректно" />
       <item value="You can attach a screen of how cron tasks are configured on the hosting. Because in the sync history I see records for 1 auction." />
       <item value="Вы можете пристать скрин как настроены cron задачи на хостинге. Потому как в истории синхронизации я вижу записи для 1 аукциона." />
@@ -44,25 +51,18 @@
       <item value="You have subscribed to the auction house newsletter" />
       <item value="You have unsubscribed from the auction house mailing list" />
       <item value="Вы отписались от рассылки аукционного дома" />
-      <item value="Вы были подписались на рассылку аукционного дома" />
-      <item value="With this api the user can set his preference whether he accepts to get invitations for new auctions from the auction house or not." />
-      <item value="weather this user accepts to get invitations for new auctions from the auction house" />
-      <item value="Changes for new version API" />
-      <item value="Does changes for new version API" />
-      <item value="Do changes for new version API" />
-      <item value="Do changes for changes in API" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3244" />
+        <entry key="ENGLISH" value="3249" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3245" />
+        <entry key="RUSSIAN" value="3249" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
