@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="патч от 02,03" />
+      <item value="It is necessary to agree on the time of work on this item." />
+      <item value="Надо согласовать по времени работу над этим пунктом." />
+      <item value="The idea was that it was duplicated in the footer." />
+      <item value="Идея была в том что оно дублируется в подвале." />
       <item value="Only for mobile device" />
       <item value="Добавлено" />
       <item value="Добавил" />
@@ -46,23 +51,18 @@
       <item value="Попробуйте убрать вот эту часть." />
       <item value="Or did you not change anything?" />
       <item value="Или вы ни чего не меняли?" />
-      <item value="Hello! No, the current option doesn't work. Can you show how the cron tasks are configured now?" />
-      <item value="Нет, текущий вариант не работает. Можете показать как сейчас настроены cron задачи?" />
-      <item value="Approximately the first half of next week." />
-      <item value="Ориентировочно первая половина следующей недели." />
-      <item value="Исправлено." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3233" />
+        <entry key="ENGLISH" value="3235" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3233" />
+        <entry key="RUSSIAN" value="3236" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
