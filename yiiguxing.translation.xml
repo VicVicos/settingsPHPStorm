@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Добавлено" />
+      <item value="Добавил" />
+      <item value="ALL BANKS REVIEWS" />
+      <item value="Title of Reviews" />
+      <item value="איפו אני מעדכן את הכותרת ALL BANKS REVIEWS? צריך שיהיה Al banks and Financial Institutions reviews https:money-gate.comreviews" />
+      <item value="Increased indentation and added faint shadow" />
+      <item value="Увеличил отступ и добавил слабую тень" />
       <item value="We have completed the first iteration of this task and have updated the plugin on your site. We are planning to finalize this issue this week." />
       <item value="At the expense of optimizing the site. We have completed the first iteration of this task and have updated the plugin on your site. We are planning to finalize this issue this week." />
       <item value="На счёт оптимизации работы сайта. Мы выполнили первую итерацию по этой задачи и обновили плагин на вашем сайте. На этой неделе мы планируем завершить работу по этой проблеме." />
@@ -44,25 +51,18 @@
       <item value="Ориентировочно первая половина следующей недели." />
       <item value="Исправлено." />
       <item value="Fixed. The Elementor Pro plugin needed to be updated." />
-      <item value="Fixed. Требовалось обновить плагин Elementor Pro." />
-      <item value="And in fact, I cannot work with your application now, although I like it, but I see no reason to pay for the next month. Or do you guarantee me that problems with AdobeXD layouts will be solved in the next updates." />
-      <item value="And yet, in fact, I cannot work with your application now, although I like it, but I see no reason to pay for the next month. Or do you guarantee me that problems with AdobeXD layouts will be solved in the next updates." />
-      <item value="И ещё, фактически я не могу сейчас работать с вашим приложением, хотя оно мне и нравится, но я не вижу смысла оплачивать следующий месяц. Или же вы мне гарантируете что проблемы с макетами AdobeXD решаться в ближайших обновлениях." />
-      <item value="Yes, this is the one I sent recently. Hebrew text display problem. The index page threw this error after a recent update. The text never appeared." />
-      <item value="Да, это тот что я недавно присылал. Проблема с отображением текста на иврите. После недавнего обновления страница index выдала эту ошибку. Текст так и не появился." />
-      <item value="Yes, this is the one I sent recently. Hebrew text display problem. After a recent update, the main page of the layout stopped opening and the text never appeared." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3228" />
+        <entry key="ENGLISH" value="3232" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3228" />
+        <entry key="RUSSIAN" value="3233" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="31" />
+        <entry key="HEBREW" value="32" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
