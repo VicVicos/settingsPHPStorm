@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The auction table has a field auctionType with the prev - next value. This value can be understood as the fact that the auction was held?" />
+      <item value="В таблице auction есть поле auctionType со значением prev - next." />
+      <item value="The auction talit has an auctionType field with the prev - next value. This value can be understood as the fact that the auction was held?" />
+      <item value="Am I correct in understanding that: The allProducts table had a prodEstimate field. Now in the table allProductNew1 this field has changed to two lowEst and highEst." />
+      <item value="Верно ли я понимаю что: В таблице allProducts было поле prodEstimate. Сейчас в таблице allProductNew1 это поле изменилось на два lowEst and highEst. В талице auction есть поле auctionType со значением prev - next. Это значение можно понимать как то что аукцион прошёл?" />
       <item value="патч от 02,03" />
       <item value="It is necessary to agree on the time of work on this item." />
       <item value="Надо согласовать по времени работу над этим пунктом." />
@@ -46,23 +51,18 @@
       <item value="I am experiencing some problems when making API requests on the test site where the main work on the plugin is being done." />
       <item value="When I try to log in, I get an error, but many other requests work without problems." />
       <item value="Я испытываю некоторые проблемы при запросах к API на тестовом сайте где ведётся основная работа над плагином." />
-      <item value="При попытке авторизоваться я получаю ошибку. Но многие другие запросы отрабатывают без проблем." />
-      <item value="будет" />
-      <item value="Попробуйте убрать вот эту часть." />
-      <item value="Or did you not change anything?" />
-      <item value="Или вы ни чего не меняли?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3235" />
+        <entry key="ENGLISH" value="3239" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3236" />
+        <entry key="RUSSIAN" value="3239" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
