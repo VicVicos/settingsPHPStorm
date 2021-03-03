@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check for updates in 10 minutes, I will just release a new version of the plugin." />
+      <item value="Через 10 минут проверьте обновления, я как раз выпущу новую версию плагина." />
+      <item value="And besides, synchronization works for them in those moments when there is activity on the site, I think it overlaps and because of this there are problems with the speed of the site." />
+      <item value="И к тому же синхронизация у них работает в те моменты когда есть активность на сайте, думаю это накладывается и из за этого возникают проблемы с быстродействием сайта." />
+      <item value="Скорость работы зависит на прямую от их хостинга." />
+      <item value="Check if their plugin has been updated, in the latest versions we added pagination and I think this functionality will not be so burdensome for the user." />
+      <item value="Проверьте обновлён ли у них плагин, в последних версиях мы добавили пагинацию и думаю этот функционал будет не так обременительно для пользователя." />
+      <item value="The speed of work depends directly on their hosting. Check if their plugin is updated, in the latest versions we added pagination and I think it will not be so burdensome for the user." />
+      <item value="Скорость работы зависит на прямую от их хостинга. Проверьте обновлён ли у них плагин, в последних версиях мы добавили пагинацию и думаю это будет не так обременительно для пользователя." />
+      <item value="They didn't seem to have any caching plugins. And since access to the admin panel was closed for me, I can't say for sure. What are the problems with synchronization?" />
+      <item value="У них вроде не было плагинов для кеширования. А так как доступ в админку мне закрыли точно сказать не могу. Какие то проблемы с синхронизацией?" />
       <item value="Video categories" />
       <item value="Swapped lots for auctions that are split into parts." />
       <item value="Поменяны местами лоты для аукционов что разбиты на части." />
@@ -40,29 +51,18 @@
       <item value="איפו אני מעדכן את הכותרת ALL BANKS REVIEWS? צריך שיהיה Al banks and Financial Institutions reviews https:money-gate.comreviews" />
       <item value="Increased indentation and added faint shadow" />
       <item value="Увеличил отступ и добавил слабую тень" />
-      <item value="We have completed the first iteration of this task and have updated the plugin on your site. We are planning to finalize this issue this week." />
-      <item value="At the expense of optimizing the site. We have completed the first iteration of this task and have updated the plugin on your site. We are planning to finalize this issue this week." />
-      <item value="На счёт оптимизации работы сайта. Мы выполнили первую итерацию по этой задачи и обновили плагин на вашем сайте. На этой неделе мы планируем завершить работу по этой проблеме." />
-      <item value="West german vase" />
-      <item value="West vase of german" />
-      <item value="do Clear Cache For Auction Pages" />
-      <item value="The instruction was sent to the specified e-mail" />
-      <item value="Инструкция была отправлена на указанный e-mail" />
-      <item value="The instruction has been sent to the mail" />
-      <item value="Инструкция отправлена на почту" />
-      <item value="Allow &quot;%s&quot; to send me invitation for new auctions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3252" />
+        <entry key="ENGLISH" value="3258" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3252" />
+        <entry key="RUSSIAN" value="3258" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
