@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Was error because you core wordpress very oldest" />
+      <item value="Was error because" />
+      <item value="We've upload an older version of the plugin, and I'm checking errors." />
+      <item value="Мы подняли старую версию плагина, и выполняю проверки." />
+      <item value="Синхронизация прошла, но почему лоты не отображаются я не пойму." />
+      <item value="Can I get access to the admin panel? How long ago was this auction established?" />
+      <item value="Можно получить доступы в админку? Как давно этот аукцион был создан?" />
       <item value="This is what I see when I try to enter" />
       <item value="Это то что я вижу когда пытаюсь войти" />
       <item value="Hello! Please clarify the access in aruba.it. We need to change NS records. The data indicated in the google form is not suitable." />
@@ -44,25 +51,18 @@
       <item value="Верно ли я понимаю что: В таблице allProducts было поле prodEstimate. Сейчас в таблице allProductNew1 это поле изменилось на два lowEst and highEst. В талице auction есть поле auctionType со значением prev - next. Это значение можно понимать как то что аукцион прошёл?" />
       <item value="патч от 02,03" />
       <item value="It is necessary to agree on the time of work on this item." />
-      <item value="Надо согласовать по времени работу над этим пунктом." />
-      <item value="The idea was that it was duplicated in the footer." />
-      <item value="Идея была в том что оно дублируется в подвале." />
-      <item value="Only for mobile device" />
-      <item value="Добавлено" />
-      <item value="Добавил" />
-      <item value="ALL BANKS REVIEWS" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3260" />
+        <entry key="ENGLISH" value="3265" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3260" />
+        <entry key="RUSSIAN" value="3265" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
