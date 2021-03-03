@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is what I see when I try to enter" />
+      <item value="Это то что я вижу когда пытаюсь войти" />
+      <item value="Hello! Please clarify the access in aruba.it. We need to change NS records. The data indicated in the google form is not suitable." />
+      <item value="Уточните пожалуйста доступы в aruba.it. Нам надо сменить NS записи. Данные что указаны в google форме не подходят." />
       <item value="Check for updates in 10 minutes, I will just release a new version of the plugin." />
       <item value="Через 10 минут проверьте обновления, я как раз выпущу новую версию плагина." />
       <item value="And besides, synchronization works for them in those moments when there is activity on the site, I think it overlaps and because of this there are problems with the speed of the site." />
@@ -47,22 +51,18 @@
       <item value="Добавлено" />
       <item value="Добавил" />
       <item value="ALL BANKS REVIEWS" />
-      <item value="Title of Reviews" />
-      <item value="איפו אני מעדכן את הכותרת ALL BANKS REVIEWS? צריך שיהיה Al banks and Financial Institutions reviews https:money-gate.comreviews" />
-      <item value="Increased indentation and added faint shadow" />
-      <item value="Увеличил отступ и добавил слабую тень" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3258" />
+        <entry key="ENGLISH" value="3260" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3258" />
+        <entry key="RUSSIAN" value="3260" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
