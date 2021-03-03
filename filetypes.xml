@@ -25,8 +25,8 @@
       <mapping pattern="var_dump-2020-06-19-07-39-55" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-12-24-12-36-00" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-12-24-12-06-22" type="PLAIN_TEXT" />
-      <mapping pattern="var_dump-2020-06-19-07-44-30" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2020-06-19-07-39-58" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2020-06-19-07-44-30" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
