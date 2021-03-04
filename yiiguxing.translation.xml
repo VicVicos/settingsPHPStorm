@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is this information required? Bidspirit has a &quot;Display hourse&quot; field for auctions, but we don't use it. If information is needed, in what format should it be displayed?" />
+      <item value="Обязательна ли эта информация? В Bidspirit для аукционов есть поле &quot;Display hourse&quot;, но мы его не используем. Если информация нужна, в каком формате её отображать?" />
+      <item value="Many auctions are split into parts, A-B-C, but I have not come across information on how lots are tied to a specific part of the auction." />
+      <item value="Многие аукционы разбиты на части, A-B-C, но я не встретил информации о том как лоты привязаны к конкретной части аукциона." />
+      <item value="We only need this field for the duration of the import, after which you can change this value in the Bidspirit admin panel." />
+      <item value="Это поле нам нужно лишь на время импорта, после вы сможете менять это значение в админке Bidspirit." />
+      <item value="Amitai: Our commission is %18. That means that if an item in Bidspirit was sold for 1,000 the result shown on the our website is 1,180 (Hammer price X 1.18). In the future the commission will probably change so we need the option to edit the field." />
+      <item value="Amitai: Yes. When shown Next, this is a future auction that didn’t take place yet. Prev means this is a past auction. Once the auction has ended we manually switch from next to prev." />
+      <item value="Amitai: Not sure I understood the question. Where is the prodEstimate field. Items in auctions have low est and high est." />
       <item value="Image list to trash" />
       <item value="And having ftp access to the site would be very useful to us in the future." />
       <item value="И наличие ftp доступа к сайту нам бы очень пригодились в будущем." />
@@ -42,27 +51,18 @@
       <item value="Красный - не корректно Зелёный - корректно" />
       <item value="You can attach a screen of how cron tasks are configured on the hosting. Because in the sync history I see records for 1 auction." />
       <item value="Вы можете пристать скрин как настроены cron задачи на хостинге. Потому как в истории синхронизации я вижу записи для 1 аукциона." />
-      <item value="Synchronization is fine on the test site. We think that synchronization on your site is not configured correctly." />
-      <item value="На тестовом сайте всё в порядке с синхронизацией. Думаем что на вашемс сайте синхронизация всё настроена не корректно." />
-      <item value="Synchronization is fine on the test site. We think that the synchronization is still not configured correctly." />
-      <item value="На тестовом сайте всё в порядке с синхронизацией. Думаем что синхронизация всё же настроена не корректно." />
-      <item value="Bidspirit has a commission field for auctions that shows the commission value for the auction. You don't have this field in the auctions table. What should it be equal to?" />
-      <item value="В Bidspirit для аукционов есть поле commissionю которое показывает значение комиссии для аукциона. У вас этого поля нет в таблице auctions. Чему оно должно быть равно?" />
-      <item value="The auction table has a field auctionType with the prev - next value. This value can be understood as the fact that the auction was held?" />
-      <item value="В таблице auction есть поле auctionType со значением prev - next." />
-      <item value="The auction talit has an auctionType field with the prev - next value. This value can be understood as the fact that the auction was held?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3268" />
+        <entry key="ENGLISH" value="3274" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3268" />
+        <entry key="RUSSIAN" value="3274" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
