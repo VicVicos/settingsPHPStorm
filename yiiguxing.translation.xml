@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crooked auctions" />
+      <item value="кривые аукционы" />
+      <item value="This domain http:auctions-test.ln3.tempurl.info 173.249.8.135 here is IP address." />
+      <item value="Profile on bidspirit: https:web2-qa.bidspirit.com This domain http:auctions-test.ln3.tempurl.info 173.249.8.135 here is their IP address. Please addition this to whitelist." />
+      <item value="Hello! We are planning to create a new dev zone. Client profile on bidspirit: https:web2-qa.bidspirit.com This domain http:auctions-test.ln3.tempurl.info 173.249.8.135 here is their IP address. Please addition this to whitelist." />
+      <item value="Hello! We are planning to create a new website. Client profile on bidspirit: https:antichitabova.bidspirit.com Production domain https:astebova.it 173.249.8.135 here is their IP address. Please addition this to whitelist." />
       <item value="The allProducts table used the prodEstimate field. Ok, so the fields lowEst and highEst suit us." />
       <item value="В таблице allProducts использовалось поле prodEstimate. Хорошо, значит поля lowEst and highEst нам подходят." />
       <item value="В таблице allProducts использовалось поле prodEstimate. Хорошо, значит эти два поля нам подходят." />
@@ -45,24 +51,18 @@
       <item value="Swapped lots for auctions that are split into parts." />
       <item value="Поменяны местами лоты для аукционов что разбиты на части." />
       <item value="Changed lots for auctions that are split into parts." />
-      <item value="Поменяны лоты для аукционов что разбиты на части." />
-      <item value="length Title" />
-      <item value="Do by analogy with those marked in green" />
-      <item value="Сделайте по аналогии с теми что отмечены зелёным" />
-      <item value="There will be new entries in the sync history." />
-      <item value="i have now run into manual sync." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3277" />
+        <entry key="ENGLISH" value="3282" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3277" />
+        <entry key="RUSSIAN" value="3282" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
