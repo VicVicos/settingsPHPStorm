@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The allProducts table used the prodEstimate field. Ok, so the fields lowEst and highEst suit us." />
+      <item value="В таблице allProducts использовалось поле prodEstimate. Хорошо, значит поля lowEst and highEst нам подходят." />
+      <item value="В таблице allProducts использовалось поле prodEstimate. Хорошо, значит эти два поля нам подходят." />
+      <item value="The allProducts table used this field. Okay, so these two fields are good for us." />
+      <item value="В таблице allProducts использовалось это поле. Хорошо, значит эти два поля нам подходят." />
       <item value="Is this information required? Bidspirit has a &quot;Display hourse&quot; field for auctions, but we don't use it. If information is needed, in what format should it be displayed?" />
       <item value="Обязательна ли эта информация? В Bidspirit для аукционов есть поле &quot;Display hourse&quot;, но мы его не используем. Если информация нужна, в каком формате её отображать?" />
       <item value="Many auctions are split into parts, A-B-C, but I have not come across information on how lots are tied to a specific part of the auction." />
@@ -46,23 +51,18 @@
       <item value="Сделайте по аналогии с теми что отмечены зелёным" />
       <item value="There will be new entries in the sync history." />
       <item value="i have now run into manual sync." />
-      <item value="I have now run into manual sync." />
-      <item value="В истории синхронизации будут новые записи. https:soca-art.comwp-adminedit.php?post_type=lot&amp;page=auction_history Сейчас я запустил в ручную синхронизацию." />
-      <item value="Красный - не корректно Зелёный - корректно" />
-      <item value="You can attach a screen of how cron tasks are configured on the hosting. Because in the sync history I see records for 1 auction." />
-      <item value="Вы можете пристать скрин как настроены cron задачи на хостинге. Потому как в истории синхронизации я вижу записи для 1 аукциона." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3274" />
+        <entry key="ENGLISH" value="3277" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3274" />
+        <entry key="RUSSIAN" value="3277" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
