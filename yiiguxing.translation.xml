@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Есть какие либо новости?" />
+      <item value="Access to the admin panel of your profile in Bidspirit would also help us a lot. Can you provide it to us? Needed to verify information." />
+      <item value="Сможете ли вы предоставить нам его? Нужен для сверки информации." />
+      <item value="Access to the admin panel of your profile in Bidspirit would also help us a lot." />
+      <item value="Так же нам бы очень помог доступ к админ панели вашего профиля в Bidspirit" />
       <item value="crooked auctions" />
       <item value="кривые аукционы" />
       <item value="This domain http:auctions-test.ln3.tempurl.info 173.249.8.135 here is IP address." />
@@ -46,23 +51,18 @@
       <item value="The speed of work depends directly on their hosting. Check if their plugin is updated, in the latest versions we added pagination and I think it will not be so burdensome for the user." />
       <item value="Скорость работы зависит на прямую от их хостинга. Проверьте обновлён ли у них плагин, в последних версиях мы добавили пагинацию и думаю это будет не так обременительно для пользователя." />
       <item value="They didn't seem to have any caching plugins. And since access to the admin panel was closed for me, I can't say for sure. What are the problems with synchronization?" />
-      <item value="У них вроде не было плагинов для кеширования. А так как доступ в админку мне закрыли точно сказать не могу. Какие то проблемы с синхронизацией?" />
-      <item value="Video categories" />
-      <item value="Swapped lots for auctions that are split into parts." />
-      <item value="Поменяны местами лоты для аукционов что разбиты на части." />
-      <item value="Changed lots for auctions that are split into parts." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3282" />
+        <entry key="ENGLISH" value="3284" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3282" />
+        <entry key="RUSSIAN" value="3285" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
