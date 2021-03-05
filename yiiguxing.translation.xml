@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lot picture original_" />
+      <item value="lot original picture" />
       <item value="Есть какие либо новости?" />
       <item value="Access to the admin panel of your profile in Bidspirit would also help us a lot. Can you provide it to us? Needed to verify information." />
       <item value="Сможете ли вы предоставить нам его? Нужен для сверки информации." />
@@ -49,20 +51,18 @@
       <item value="Check if their plugin has been updated, in the latest versions we added pagination and I think this functionality will not be so burdensome for the user." />
       <item value="Проверьте обновлён ли у них плагин, в последних версиях мы добавили пагинацию и думаю этот функционал будет не так обременительно для пользователя." />
       <item value="The speed of work depends directly on their hosting. Check if their plugin is updated, in the latest versions we added pagination and I think it will not be so burdensome for the user." />
-      <item value="Скорость работы зависит на прямую от их хостинга. Проверьте обновлён ли у них плагин, в последних версиях мы добавили пагинацию и думаю это будет не так обременительно для пользователя." />
-      <item value="They didn't seem to have any caching plugins. And since access to the admin panel was closed for me, I can't say for sure. What are the problems with synchronization?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3284" />
+        <entry key="ENGLISH" value="3286" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3285" />
+        <entry key="RUSSIAN" value="3286" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
