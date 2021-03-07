@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We found a problem with the plugin's incompatibility with the old version of WP and we can update, but for the correct archived auctions we will have to wait a while until all lots are updated. Then you can update." />
+      <item value="Мы нашли проблему несовместимости плагина со старой версией WP и можем выполнить обновление, но для корректной архивных аукционов надо будет подождать какое то время пока все лоты не обновятся. После чего можно будет выполнить обновление." />
+      <item value="We found a problem with the plugin's incompatibility with the old version of WP and wanted to notify you that we can update the plugin to the latest version, but for the auctions to work correctly, that in the archive you have to wait a while until all lots are updated. Then you can update." />
+      <item value="Мы нашли проблему несовместимости плагина со старой версией WP и хотели уведомить вас о том что сможем обновить плагин до последней версии, но для корректной работы аукционов что в архиве надо подождать какое то время пока все лоты не обновятся. После чего можно будет выполнить обновление." />
+      <item value="We found an incompatibility problem and wanted to notify you that we can update the plugin to the latest version, but for the auctions to work correctly, that in the archive you have to wait a while until all lots are updated. Then you can update." />
+      <item value="Мы нашли проблему несовместимости и хотели уведомить вас о том что сможем обновить плагин до последней версии, но для корректной работы аукционов что в архиве надо подождать какое то время пока все лоты не обновятся. После чего можно будет выполнить обновление." />
       <item value="What the fields in the allProductsNew1 table mean:" />
       <item value="Что означают поля в таблице allProductsNew1:" />
       <item value="lot picture original_" />
@@ -45,24 +51,18 @@
       <item value="Это то что я вижу когда пытаюсь войти" />
       <item value="Hello! Please clarify the access in aruba.it. We need to change NS records. The data indicated in the google form is not suitable." />
       <item value="Уточните пожалуйста доступы в aruba.it. Нам надо сменить NS записи. Данные что указаны в google форме не подходят." />
-      <item value="Check for updates in 10 minutes, I will just release a new version of the plugin." />
-      <item value="Через 10 минут проверьте обновления, я как раз выпущу новую версию плагина." />
-      <item value="And besides, synchronization works for them in those moments when there is activity on the site, I think it overlaps and because of this there are problems with the speed of the site." />
-      <item value="И к тому же синхронизация у них работает в те моменты когда есть активность на сайте, думаю это накладывается и из за этого возникают проблемы с быстродействием сайта." />
-      <item value="Скорость работы зависит на прямую от их хостинга." />
-      <item value="Check if their plugin has been updated, in the latest versions we added pagination and I think this functionality will not be so burdensome for the user." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3288" />
+        <entry key="ENGLISH" value="3293" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3288" />
+        <entry key="RUSSIAN" value="3293" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614509914263" />
+    <option name="lastTrimTime" value="1615112953490" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
