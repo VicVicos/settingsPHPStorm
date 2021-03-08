@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Are you talking about this auction? Please check now." />
+      <item value="Вы об этом аукционе говорите? Проверьте пожалуйста сейчас." />
+      <item value="Вы об этом аукционе говорите?" />
       <item value="We found a problem with the plugin's incompatibility with the old version of WP and we can update, but for the correct archived auctions we will have to wait a while until all lots are updated. Then you can update." />
       <item value="Мы нашли проблему несовместимости плагина со старой версией WP и можем выполнить обновление, но для корректной архивных аукционов надо будет подождать какое то время пока все лоты не обновятся. После чего можно будет выполнить обновление." />
       <item value="We found a problem with the plugin's incompatibility with the old version of WP and wanted to notify you that we can update the plugin to the latest version, but for the auctions to work correctly, that in the archive you have to wait a while until all lots are updated. Then you can update." />
@@ -48,21 +51,18 @@
       <item value="Can I get access to the admin panel? How long ago was this auction established?" />
       <item value="Можно получить доступы в админку? Как давно этот аукцион был создан?" />
       <item value="This is what I see when I try to enter" />
-      <item value="Это то что я вижу когда пытаюсь войти" />
-      <item value="Hello! Please clarify the access in aruba.it. We need to change NS records. The data indicated in the google form is not suitable." />
-      <item value="Уточните пожалуйста доступы в aruba.it. Нам надо сменить NS записи. Данные что указаны в google форме не подходят." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3293" />
+        <entry key="ENGLISH" value="3295" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3293" />
+        <entry key="RUSSIAN" value="3295" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
