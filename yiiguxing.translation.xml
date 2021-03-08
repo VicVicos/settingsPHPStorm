@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Moment. We deal with the problem." />
+      <item value="Момент. Разбираемся с проблемой." />
       <item value="Are you talking about this auction? Please check now." />
       <item value="Вы об этом аукционе говорите? Проверьте пожалуйста сейчас." />
       <item value="Вы об этом аукционе говорите?" />
@@ -49,20 +51,18 @@
       <item value="Мы подняли старую версию плагина, и выполняю проверки." />
       <item value="Синхронизация прошла, но почему лоты не отображаются я не пойму." />
       <item value="Can I get access to the admin panel? How long ago was this auction established?" />
-      <item value="Можно получить доступы в админку? Как давно этот аукцион был создан?" />
-      <item value="This is what I see when I try to enter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3295" />
+        <entry key="ENGLISH" value="3296" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3295" />
+        <entry key="RUSSIAN" value="3296" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
