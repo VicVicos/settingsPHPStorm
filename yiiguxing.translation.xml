@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1) We need to make a couple of slides for the main page. 2) Banners links on the homepage. 3) A couple of banner options for general pages." />
+      <item value="1) Надо сделать пару сладов для главной страницы. 2) Баннеры ссылки на главной. 3) Пару вариантов баннера для общих страниц." />
+      <item value="Hey! We need banners for this site. Those that were sent earlier do not fit. Don't use text on background." />
+      <item value="Привет! Нам нужны баннеры для этого сайта. Те что были присланы ранее не подходят. Не надо использовать текс на background." />
+      <item value="Hey! We need banners for this site. Those that are not suitable, do not use text on background." />
+      <item value="Привет! Нам нужны баннеры для этого сайта. Те что есть не подходят, не надо использовать текс на background." />
       <item value="Updated pictures for these lots." />
       <item value="Обновили картинки для этих лотов." />
       <item value="Moment. We deal with the problem." />
@@ -45,24 +51,18 @@
       <item value="Amitai: Not sure I understood the question. Where is the prodEstimate field. Items in auctions have low est and high est." />
       <item value="Image list to trash" />
       <item value="And having ftp access to the site would be very useful to us in the future." />
-      <item value="И наличие ftp доступа к сайту нам бы очень пригодились в будущем." />
-      <item value="И наличие ftp доступа к сайту нам бы очень пригодились." />
-      <item value="Was error because you core wordpress very oldest" />
-      <item value="Was error because" />
-      <item value="We've upload an older version of the plugin, and I'm checking errors." />
-      <item value="Мы подняли старую версию плагина, и выполняю проверки." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3298" />
+        <entry key="ENGLISH" value="3301" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3298" />
+        <entry key="RUSSIAN" value="3301" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
