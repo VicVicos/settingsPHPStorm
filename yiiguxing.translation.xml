@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It will take time to solve the problem." />
+      <item value="Understanding. It will take time to solve the problem." />
+      <item value="Разбираемся. Потребуется время что бы решить проблему." />
       <item value="I hooked a full screen with an error." />
       <item value="Прицепил фулл скрин с ошибкой." />
       <item value="Yes, I remember that I wrote to add this site earlier, but when making requests to the API, we get an error." />
@@ -48,21 +51,18 @@
       <item value="lot original picture" />
       <item value="Есть какие либо новости?" />
       <item value="Access to the admin panel of your profile in Bidspirit would also help us a lot. Can you provide it to us? Needed to verify information." />
-      <item value="Сможете ли вы предоставить нам его? Нужен для сверки информации." />
-      <item value="Access to the admin panel of your profile in Bidspirit would also help us a lot." />
-      <item value="Так же нам бы очень помог доступ к админ панели вашего профиля в Bidspirit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3316" />
+        <entry key="ENGLISH" value="3318" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3316" />
+        <entry key="RUSSIAN" value="3318" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
