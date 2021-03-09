@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Yes, I remember that I wrote to add this site earlier, but when making requests to the API, we get an error." />
+      <item value="Да я помню что писал уже добавить этот сайт ранее, но при запросах к API мы получаем ошибку." />
+      <item value="We are working on a solution to this problem and will update the plugin in the near future." />
+      <item value="We are working on a solution to this problem. We will update the plugin in the near future." />
+      <item value="Мы работаем над решением этой проблемы. В ближайшее время обновим плагин." />
+      <item value="We need banners for this site." />
       <item value="for archived auctions the days had to be invert" />
       <item value="for archived auctions the days had to be revert" />
       <item value="for archived auctions the days had to be turned" />
@@ -45,24 +51,18 @@
       <item value="Так же нам бы очень помог доступ к админ панели вашего профиля в Bidspirit" />
       <item value="crooked auctions" />
       <item value="кривые аукционы" />
-      <item value="This domain http:auctions-test.ln3.tempurl.info 173.249.8.135 here is IP address." />
-      <item value="Profile on bidspirit: https:web2-qa.bidspirit.com This domain http:auctions-test.ln3.tempurl.info 173.249.8.135 here is their IP address. Please addition this to whitelist." />
-      <item value="Hello! We are planning to create a new dev zone. Client profile on bidspirit: https:web2-qa.bidspirit.com This domain http:auctions-test.ln3.tempurl.info 173.249.8.135 here is their IP address. Please addition this to whitelist." />
-      <item value="Hello! We are planning to create a new website. Client profile on bidspirit: https:antichitabova.bidspirit.com Production domain https:astebova.it 173.249.8.135 here is their IP address. Please addition this to whitelist." />
-      <item value="The allProducts table used the prodEstimate field. Ok, so the fields lowEst and highEst suit us." />
-      <item value="В таблице allProducts использовалось поле prodEstimate. Хорошо, значит поля lowEst and highEst нам подходят." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3311" />
+        <entry key="ENGLISH" value="3315" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3311" />
+        <entry key="RUSSIAN" value="3315" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
