@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="for archived auctions the days had to be invert" />
+      <item value="for archived auctions the days had to be revert" />
+      <item value="for archived auctions the days had to be turned" />
+      <item value="для архивных аукционов дни надо было перевернуть" />
       <item value="medium" />
       <item value="Use CDN for images of lots (recommended)" />
       <item value="Использовать CDN для картинок лотов (рекомендуется)" />
@@ -47,22 +51,18 @@
       <item value="Hello! We are planning to create a new website. Client profile on bidspirit: https:antichitabova.bidspirit.com Production domain https:astebova.it 173.249.8.135 here is their IP address. Please addition this to whitelist." />
       <item value="The allProducts table used the prodEstimate field. Ok, so the fields lowEst and highEst suit us." />
       <item value="В таблице allProducts использовалось поле prodEstimate. Хорошо, значит поля lowEst and highEst нам подходят." />
-      <item value="В таблице allProducts использовалось поле prodEstimate. Хорошо, значит эти два поля нам подходят." />
-      <item value="The allProducts table used this field. Okay, so these two fields are good for us." />
-      <item value="В таблице allProducts использовалось это поле. Хорошо, значит эти два поля нам подходят." />
-      <item value="Is this information required? Bidspirit has a &quot;Display hourse&quot; field for auctions, but we don't use it. If information is needed, in what format should it be displayed?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3308" />
+        <entry key="ENGLISH" value="3311" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3308" />
+        <entry key="RUSSIAN" value="3311" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
