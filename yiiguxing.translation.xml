@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I hooked a full screen with an error." />
+      <item value="Прицепил фулл скрин с ошибкой." />
       <item value="Yes, I remember that I wrote to add this site earlier, but when making requests to the API, we get an error." />
       <item value="Да я помню что писал уже добавить этот сайт ранее, но при запросах к API мы получаем ошибку." />
       <item value="We are working on a solution to this problem and will update the plugin in the near future." />
@@ -49,20 +51,18 @@
       <item value="Сможете ли вы предоставить нам его? Нужен для сверки информации." />
       <item value="Access to the admin panel of your profile in Bidspirit would also help us a lot." />
       <item value="Так же нам бы очень помог доступ к админ панели вашего профиля в Bidspirit" />
-      <item value="crooked auctions" />
-      <item value="кривые аукционы" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3315" />
+        <entry key="ENGLISH" value="3316" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3315" />
+        <entry key="RUSSIAN" value="3316" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
