@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2 главных слайда и ещё 3 банера." />
+      <item value="hello, i didnt worked yesterday. i'll make the banner you need 3 right?" />
       <item value="We have reworked the display of pictures of lots and can update the plugin on the site." />
       <item value="Мы переделали отображение картинок лотов и можем обновить плагин на сайте." />
       <item value="shift" />
@@ -49,20 +51,18 @@
       <item value="Обновили картинки для этих лотов." />
       <item value="Moment. We deal with the problem." />
       <item value="Момент. Разбираемся с проблемой." />
-      <item value="Are you talking about this auction? Please check now." />
-      <item value="Вы об этом аукционе говорите? Проверьте пожалуйста сейчас." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3325" />
+        <entry key="ENGLISH" value="3326" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3325" />
+        <entry key="RUSSIAN" value="3327" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
