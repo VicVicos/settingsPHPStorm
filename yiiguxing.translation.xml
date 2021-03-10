@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Leave other options as default" />
+      <item value="Другие опции оставьте по умолчанию" />
+      <item value="Все страницы должны быть выбраны." />
+      <item value="Yes. Это должна быть пустая страница." />
+      <item value="Try to save the configuration in one language and not save it in another language." />
+      <item value="Попробуйте сохранить конфигурацию на одном языке и не сохранять её в другом языке." />
+      <item value="The plugin supports the Polylang plugin." />
+      <item value="Плагин поддерживает работу плагина Polylang." />
+      <item value="Let me do this?" />
+      <item value="Разрешите мне сделать это?" />
+      <item value="Didn't specify the desired pages for the plugin." />
+      <item value="Не указали нужные страницы для плагина." />
+      <item value="You haven't completely configured the plugin. Didn't specify a profile page." />
+      <item value="Вы не до конца настроили плагин. Не указали страницу профиля." />
+      <item value="What do you see on your profile?" />
+      <item value="Что вы видите в профиле?" />
+      <item value="We see a notification that the user has not fully completed the registration of the profile, so he sees this message. After registration, the user: 1) Must confirm his email. 2) Fill in all required fields in the profile." />
+      <item value="Мы видим уведомление что пользователь не до конца завершил регистрацию профиля, поэтому он и видит данное сообщение. После регистрации пользователь: 1) Должен подтвердить свой email 2) Заполнить все обязательные поля в профиле." />
       <item value="2 главных слайда и ещё 3 банера." />
       <item value="hello, i didnt worked yesterday. i'll make the banner you need 3 right?" />
       <item value="We have reworked the display of pictures of lots and can update the plugin on the site." />
@@ -33,36 +51,18 @@
       <item value="для архивных аукционов дни надо было перевернуть" />
       <item value="medium" />
       <item value="Use CDN for images of lots (recommended)" />
-      <item value="Использовать CDN для картинок лотов (рекомендуется)" />
-      <item value="Enable CDN for pictures" />
-      <item value="CDN for pictures" />
-      <item value="CDN for images" />
-      <item value="There were minor changes in the display of the pdf file. Corrected." />
-      <item value="Были не большие изменения в отображении pdf файла. Исправил." />
-      <item value="There were minor changes in the display of the pdf file, fixed." />
-      <item value="Были не большие изменения в отображении pdf файла, исправил." />
-      <item value="1) We need to make a couple of slides for the main page. 2) Banners links on the homepage. 3) A couple of banner options for general pages." />
-      <item value="1) Надо сделать пару сладов для главной страницы. 2) Баннеры ссылки на главной. 3) Пару вариантов баннера для общих страниц." />
-      <item value="Hey! We need banners for this site. Those that were sent earlier do not fit. Don't use text on background." />
-      <item value="Привет! Нам нужны баннеры для этого сайта. Те что были присланы ранее не подходят. Не надо использовать текс на background." />
-      <item value="Hey! We need banners for this site. Those that are not suitable, do not use text on background." />
-      <item value="Привет! Нам нужны баннеры для этого сайта. Те что есть не подходят, не надо использовать текс на background." />
-      <item value="Updated pictures for these lots." />
-      <item value="Обновили картинки для этих лотов." />
-      <item value="Moment. We deal with the problem." />
-      <item value="Момент. Разбираемся с проблемой." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3326" />
+        <entry key="ENGLISH" value="3338" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3327" />
+        <entry key="RUSSIAN" value="3338" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
