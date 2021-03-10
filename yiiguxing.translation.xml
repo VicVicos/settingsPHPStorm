@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shift" />
+      <item value="сдвиг" />
       <item value="uncloned" />
       <item value="I also checked the first part of the upcoming auction, all the pictures are in order." />
       <item value="Так же я проверил первую часть грядущего аукциона, все картинки в порядке." />
@@ -49,20 +51,18 @@
       <item value="Вы об этом аукционе говорите? Проверьте пожалуйста сейчас." />
       <item value="Вы об этом аукционе говорите?" />
       <item value="We found a problem with the plugin's incompatibility with the old version of WP and we can update, but for the correct archived auctions we will have to wait a while until all lots are updated. Then you can update." />
-      <item value="Мы нашли проблему несовместимости плагина со старой версией WP и можем выполнить обновление, но для корректной архивных аукционов надо будет подождать какое то время пока все лоты не обновятся. После чего можно будет выполнить обновление." />
-      <item value="We found a problem with the plugin's incompatibility with the old version of WP and wanted to notify you that we can update the plugin to the latest version, but for the auctions to work correctly, that in the archive you have to wait a while until all lots are updated. Then you can update." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3323" />
+        <entry key="ENGLISH" value="3324" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3323" />
+        <entry key="RUSSIAN" value="3324" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
