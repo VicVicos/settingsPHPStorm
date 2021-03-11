@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gutenberg plugin doesn't work properly. Please check Gutenberg plugin." />
       <item value="כנסו לפרטים" />
       <item value="The date of" />
       <item value="Дата проведения" />
@@ -50,19 +51,18 @@
       <item value="We are working on a solution to this problem and will update the plugin in the near future." />
       <item value="We are working on a solution to this problem. We will update the plugin in the near future." />
       <item value="Мы работаем над решением этой проблемы. В ближайшее время обновим плагин." />
-      <item value="We need banners for this site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3341" />
+        <entry key="ENGLISH" value="3342" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3341" />
+        <entry key="RUSSIAN" value="3342" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
