@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether to allow updating metadata for the given type." />
       <item value="The date" />
       <item value="slides" />
       <item value="build Query By String" />
@@ -50,19 +51,18 @@
       <item value="Мы переделали отображение картинок и проблема с этим должна быть решена." />
       <item value="Please check in the admin panel of the bidspirit Increments table. We receive information about the maximum rate of 3000, and for this lot the rate is 3800." />
       <item value="Пожалуйста проверьте в админке профиля bidspirit Increments table. Нам приходит информация о максимальной ставке в 3000, а для данного лота ставка идёт 3800." />
-      <item value="It will take time to solve the problem." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3350" />
+        <entry key="ENGLISH" value="3351" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3350" />
+        <entry key="RUSSIAN" value="3351" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
