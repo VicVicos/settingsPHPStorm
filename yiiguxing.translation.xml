@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="And use this picture:" />
+      <item value="Yes. We need more light. And can you make big slides on a wood background?" />
+      <item value="Да. Нам нужно больше света. И большие слайды сделать на фоне дерева можно?" />
+      <item value="Yes. Wouldn't it be lighter, and could I make large slides against a wood background?" />
+      <item value="Да. Посветлее было бы хорошо, и большие слайды сделать на фоне дерева можно?" />
+      <item value="i think we need more light ill send you." />
+      <item value="I think" />
+      <item value="See result" />
       <item value="Error API query" />
       <item value="We have not added this feature to the plugin." />
       <item value="Мы не добавляли эту фичу в плагин." />
@@ -43,26 +51,18 @@
       <item value="We see a notification that the user has not fully completed the registration of the profile, so he sees this message. After registration, the user: 1) Must confirm his email. 2) Fill in all required fields in the profile." />
       <item value="Мы видим уведомление что пользователь не до конца завершил регистрацию профиля, поэтому он и видит данное сообщение. После регистрации пользователь: 1) Должен подтвердить свой email 2) Заполнить все обязательные поля в профиле." />
       <item value="2 главных слайда и ещё 3 банера." />
-      <item value="hello, i didnt worked yesterday. i'll make the banner you need 3 right?" />
-      <item value="We have reworked the display of pictures of lots and can update the plugin on the site." />
-      <item value="Мы переделали отображение картинок лотов и можем обновить плагин на сайте." />
-      <item value="shift" />
-      <item value="сдвиг" />
-      <item value="uncloned" />
-      <item value="I also checked the first part of the upcoming auction, all the pictures are in order." />
-      <item value="Так же я проверил первую часть грядущего аукциона, все картинки в порядке." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3355" />
+        <entry key="ENGLISH" value="3361" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3355" />
+        <entry key="RUSSIAN" value="3361" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
