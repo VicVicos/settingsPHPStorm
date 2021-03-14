@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error API query" />
       <item value="We have not added this feature to the plugin." />
       <item value="Мы не добавляли эту фичу в плагин." />
       <item value="You can clarify about the post auction, I don't quite understand." />
@@ -50,19 +51,18 @@
       <item value="uncloned" />
       <item value="I also checked the first part of the upcoming auction, all the pictures are in order." />
       <item value="Так же я проверил первую часть грядущего аукциона, все картинки в порядке." />
-      <item value="We redesigned the display of images and updated the plugin. The problem with this should be resolved." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3354" />
+        <entry key="ENGLISH" value="3355" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3354" />
+        <entry key="RUSSIAN" value="3355" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
