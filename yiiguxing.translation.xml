@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We sent email with link to password reset" />
+      <item value="how many its all the banner we need for this website total?" />
+      <item value="ok ill send you soon" />
+      <item value="OK so now ill do for the next one" />
+      <item value="But this site also needs a banner for the internal pages." />
+      <item value="Но для этого сайта ещё нужен баннер для внутренних страниц." />
+      <item value="Нет. Два будет достаточно." />
+      <item value="ok so for the one im working on you need more banners?" />
+      <item value="Will you be able to work on images for another site today?" />
+      <item value="Сегодня будет возможность поработать над картинками для другого сайта?" />
+      <item value="Doesn't seem to match the blue background of their logo." />
+      <item value="Кажется что не сочетается с синим фоном их логотипа" />
       <item value="And use this picture:" />
       <item value="Yes. We need more light. And can you make big slides on a wood background?" />
       <item value="Да. Нам нужно больше света. И большие слайды сделать на фоне дерева можно?" />
@@ -39,30 +51,18 @@
       <item value="Try to save the configuration in one language and not save it in another language." />
       <item value="Попробуйте сохранить конфигурацию на одном языке и не сохранять её в другом языке." />
       <item value="The plugin supports the Polylang plugin." />
-      <item value="Плагин поддерживает работу плагина Polylang." />
-      <item value="Let me do this?" />
-      <item value="Разрешите мне сделать это?" />
-      <item value="Didn't specify the desired pages for the plugin." />
-      <item value="Не указали нужные страницы для плагина." />
-      <item value="You haven't completely configured the plugin. Didn't specify a profile page." />
-      <item value="Вы не до конца настроили плагин. Не указали страницу профиля." />
-      <item value="What do you see on your profile?" />
-      <item value="Что вы видите в профиле?" />
-      <item value="We see a notification that the user has not fully completed the registration of the profile, so he sees this message. After registration, the user: 1) Must confirm his email. 2) Fill in all required fields in the profile." />
-      <item value="Мы видим уведомление что пользователь не до конца завершил регистрацию профиля, поэтому он и видит данное сообщение. После регистрации пользователь: 1) Должен подтвердить свой email 2) Заполнить все обязательные поля в профиле." />
-      <item value="2 главных слайда и ещё 3 банера." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3361" />
+        <entry key="ENGLISH" value="3370" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3361" />
+        <entry key="RUSSIAN" value="3370" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
