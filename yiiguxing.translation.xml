@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I am not working today, please duplicate today's pictures in the group. Next, they will be dealt with by Alexander" />
+      <item value="And I am not working today, please duplicate today's pictures in the group. Next, they will be dealt with by Alexander" />
+      <item value="И я сегодня не работаю, продублируй пожалуйста сегодняшние картинки в группу. Дальше ими заниматься будет Alexander" />
+      <item value="There are no new sites yet." />
+      <item value="Новых сайтов пока нет." />
+      <item value="С пометкой для какого именно сайта." />
+      <item value="There is not enough banner for inner pages." />
+      <item value="All pictures are ready, it remains to approve them." />
+      <item value="As a result, today we have:" />
+      <item value="В итоге на сегодняшний день мы имеем: Для https:kov4egbook.ru Все картинки готовы, осталось утвердить их. Для https:www.astebova.it Не хватает баннера для внутренних страниц. Для http:bik.ln12.tempurl.info Не хватает баннера для внутренних страниц." />
       <item value="Last picture left for internal pages" />
       <item value="Осталось последняя картинки для внутренних страниц" />
       <item value="last image for inner pages" />
@@ -41,28 +51,18 @@
       <item value="The date" />
       <item value="slides" />
       <item value="build Query By String" />
-      <item value="Set options for slide selection" />
-      <item value="Установить параметры для выбора слайдов" />
-      <item value="Set params for selected" />
-      <item value="Filter of slides" />
-      <item value="Filter of slide" />
-      <item value="Slide filter" />
-      <item value="Gutenberg plugin doesn't work properly. Please check Gutenberg plugin." />
-      <item value="כנסו לפרטים" />
-      <item value="The date of" />
-      <item value="Дата проведения" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3381" />
+        <entry key="ENGLISH" value="3388" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3381" />
+        <entry key="RUSSIAN" value="3388" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
