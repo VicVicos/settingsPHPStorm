@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I wanted to say that I am not aware of the future tasks for the development of the plugin and there is no need to ask me about it. Please write to me only in case of problems with the plugin and client sites." />
+      <item value="Я хотел сказать что я не в курсе будущих задач по разработке плагина и спрашивать об этом меня не надо. Пиши мне пожалуйста только в случае возникновения проблем с работой плагина и сайтов клиентов." />
+      <item value="Hello, Matteo! How are you?" />
       <item value="I am not working today, please duplicate today's pictures in the group. Next, they will be dealt with by Alexander" />
       <item value="And I am not working today, please duplicate today's pictures in the group. Next, they will be dealt with by Alexander" />
       <item value="И я сегодня не работаю, продублируй пожалуйста сегодняшние картинки в группу. Дальше ими заниматься будет Alexander" />
@@ -48,21 +51,18 @@
       <item value="Можете уточнить на счёт post auction, Я не совсем понимаю." />
       <item value="При запуске задачи из под cron кеш в Hummingbird не чистится." />
       <item value="Whether to allow updating metadata for the given type." />
-      <item value="The date" />
-      <item value="slides" />
-      <item value="build Query By String" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3388" />
+        <entry key="ENGLISH" value="3391" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3388" />
+        <entry key="RUSSIAN" value="3391" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
