@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Last picture left for internal pages" />
+      <item value="Осталось последняя картинки для внутренних страниц" />
+      <item value="last image for inner pages" />
       <item value="Enable CDN for pictures" />
       <item value="Use CDN for images of lots (recommended)" />
       <item value="Display VAT fields on auctions" />
@@ -48,21 +51,18 @@
       <item value="כנסו לפרטים" />
       <item value="The date of" />
       <item value="Дата проведения" />
-      <item value="What to do with lots with auctionId = null. We are unable to link these items to a specific auction." />
-      <item value="Что делать с лотами которые имеют значение поля auctionId = null. Мы не можем установить связь таких лотов с конкретным аукционом." />
-      <item value="Each lot has prodCategory that relate to the name of the category, and the categories are located in Categories Scheme. Each lot has also the name of the artist, it is called “prodArtist”." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3379" />
+        <entry key="ENGLISH" value="3381" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3379" />
+        <entry key="RUSSIAN" value="3381" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
