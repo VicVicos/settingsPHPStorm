@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fixed. Please check." />
+      <item value="Got it. It's the same on Bidspirit. I'll fix it now." />
+      <item value="Понял. На Bidspirit аналогично. Сейчас исправлю." />
+      <item value="The price increment steps for 3000+ are in 500. 3000 -&gt; 3500 -&gt; 4000 The script selects the closest suitable price not lower than 3800." />
+      <item value="The price increment steps for 3000+ are in 500 increments. 3000 -&gt; 3500 -&gt; 4000 The script selects the closest suitable price not lower than 3800." />
+      <item value="Шаги прироста цены на 3000+ стоит с шагом в 500. 3000 -&gt; 3500 -&gt; 4000 Скрипт выбирает ближайшую подходящую цену не нижу 3800." />
+      <item value="Нашёл." />
+      <item value="How to view this product on Bidspirit.com?" />
+      <item value="How to get this product on Bidspirit.com?" />
+      <item value="А как попасть на этот товар на Bidspirit.com?" />
+      <item value="Сейчас посмотрю." />
+      <item value="Sounds like an issue with vhost configuration, if I understood you well" />
+      <item value="You guys configured the server. I just pointed the domain to the server's ip address." />
+      <item value="Please take a look at how the server is currently configured." />
+      <item value="The coinsmantra.com domain physically links to the test server files, which is not entirely correct." />
+      <item value="Domain coinsmantra.com physically links to the test server files, which is not entirely correct." />
+      <item value="Домен coinsmantra.com физически ссылается на файлы тестового сервера, что не совсем правильно." />
+      <item value="The coinsmantra.com domain physically links to the test server files and shouldn't work like that." />
+      <item value="You can fix this and set it to a correct directory." />
+      <item value="Please take a look at how the server is currently configured. The coinsmantra.com domain physically links to the test server files and shouldn't work like that. You can fix this and set it to a dedicated directory." />
+      <item value="Пожалуйста посмотрите на то как сейчас настроен сервер. Домен coinsmantra.com физически ссылается на файлы тестового сервера и так не должно работать. Можете исправить это и настроить его на отведённую для него директорию." />
+      <item value="on mobile The table still breaks the page" />
+      <item value="https:money-gate.comlargest-islamic-banks-in-the-world במובייל הטבלה עדיין שוברת את הדף" />
       <item value="I wanted to say that I am not aware of the future tasks for the development of the plugin and there is no need to ask me about it. Please write to me only in case of problems with the plugin and client sites." />
       <item value="Я хотел сказать что я не в курсе будущих задач по разработке плагина и спрашивать об этом меня не надо. Пиши мне пожалуйста только в случае возникновения проблем с работой плагина и сайтов клиентов." />
       <item value="Hello, Matteo! How are you?" />
@@ -28,41 +51,18 @@
       <item value="how many its all the banner we need for this website total?" />
       <item value="ok ill send you soon" />
       <item value="OK so now ill do for the next one" />
-      <item value="But this site also needs a banner for the internal pages." />
-      <item value="Но для этого сайта ещё нужен баннер для внутренних страниц." />
-      <item value="Нет. Два будет достаточно." />
-      <item value="ok so for the one im working on you need more banners?" />
-      <item value="Will you be able to work on images for another site today?" />
-      <item value="Сегодня будет возможность поработать над картинками для другого сайта?" />
-      <item value="Doesn't seem to match the blue background of their logo." />
-      <item value="Кажется что не сочетается с синим фоном их логотипа" />
-      <item value="And use this picture:" />
-      <item value="Yes. We need more light. And can you make big slides on a wood background?" />
-      <item value="Да. Нам нужно больше света. И большие слайды сделать на фоне дерева можно?" />
-      <item value="Yes. Wouldn't it be lighter, and could I make large slides against a wood background?" />
-      <item value="Да. Посветлее было бы хорошо, и большие слайды сделать на фоне дерева можно?" />
-      <item value="i think we need more light ill send you." />
-      <item value="I think" />
-      <item value="See result" />
-      <item value="Error API query" />
-      <item value="We have not added this feature to the plugin." />
-      <item value="Мы не добавляли эту фичу в плагин." />
-      <item value="You can clarify about the post auction, I don't quite understand." />
-      <item value="Можете уточнить на счёт post auction, Я не совсем понимаю." />
-      <item value="При запуске задачи из под cron кеш в Hummingbird не чистится." />
-      <item value="Whether to allow updating metadata for the given type." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3391" />
+        <entry key="ENGLISH" value="3409" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3391" />
+        <entry key="RUSSIAN" value="3409" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="33" />
+        <entry key="HEBREW" value="34" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
