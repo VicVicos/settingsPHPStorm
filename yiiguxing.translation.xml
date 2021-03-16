@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Which port do you try to connect with?" />
       <item value="To send mail, we need the SMTP settings of your mail account." />
       <item value="Hello! To send mail, we need the SMTP settings of your mail account." />
       <item value="Для отправки почты нам требуются SMTP настройки вашего почтового аккаунта." />
@@ -50,19 +51,18 @@
       <item value="Domain coinsmantra.com physically links to the test server files, which is not entirely correct." />
       <item value="Домен coinsmantra.com физически ссылается на файлы тестового сервера, что не совсем правильно." />
       <item value="The coinsmantra.com domain physically links to the test server files and shouldn't work like that." />
-      <item value="You can fix this and set it to a correct directory." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3430" />
+        <entry key="ENGLISH" value="3431" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3430" />
+        <entry key="RUSSIAN" value="3431" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
