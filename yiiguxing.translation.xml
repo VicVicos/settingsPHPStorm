@@ -1,6 +1,33 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The recipient in the form is required, and changing it to the site admin is not a good solution." />
+      <item value="Получатель в форме обязателен, а сменить его на админа сайта не совсем хорошее решение." />
+      <item value="The recipient in the form is required, but changing it to the site admin is not entirely." />
+      <item value="Получатель в форме обязателен, а сменить его на админа сайта не совсем." />
+      <item value="For those messages from the forms that will be registered in MailChimp." />
+      <item value="Those messages from the forms that will be registered in MailChimp" />
+      <item value="Те сообщения с форм что будут регистрироваться в MailChimp" />
+      <item value="Sort of:" />
+      <item value="Some of:" />
+      <item value="Что то вроде:" />
+      <item value="collector" />
+      <item value="garbage collector" />
+      <item value="слив" />
+      <item value="stock" />
+      <item value="Can you create a separate mail for collecting form emails that you don't need to watch?" />
+      <item value="Can you create a separate mail for collecting form emails that you don't need to follow?" />
+      <item value="Можете ли вы создать отдельную почту для сбора писем с формы за которыми не надо будет следить?" />
+      <item value="Can you create a separate mail for receiving emails from the form that will not need to be followed?" />
+      <item value="Можете ли вы создать отдельную почту для получения писем с формы за которыми не надо будет следить?" />
+      <item value="Can you create a separate mail collection mailbox to receive form mails that you don't need to follow?" />
+      <item value="Можете ли вы создать отдельную почту для сбора писем для получения писем с формы за которыми не надо будет следить?" />
+      <item value="Can you create a separate mailbox for collecting emails from the form that will not need to be followed?" />
+      <item value="Можете ли вы создать отдельную почту для сбора писем с формы за которой не надо будет следить?" />
+      <item value="Can I create a separate mail for collecting letters from the form that will not need to be followed?" />
+      <item value="Можно создать отдельную почту для сбора писем с формы за которой не надо будет следить?" />
+      <item value="It is required to obtain an authorization file in the Google profile. It is problematic to get information about the number of subscribers from the channel, it will take additional time to solve. Alternatively, the number of subscribers can be replaced by the number of likes for the video." />
+      <item value="Требуется получить файл авторизации в профиле Google. Получить информацию о количестве подписчиков с канала, проблемно, потребуется дополнительное время на решение. Как вариант, количество подписчиков можно заменить количеством like для видео." />
       <item value="restrict key" />
       <item value="Fixed. Please check." />
       <item value="Got it. It's the same on Bidspirit. I'll fix it now." />
@@ -24,45 +51,18 @@
       <item value="Please take a look at how the server is currently configured. The coinsmantra.com domain physically links to the test server files and shouldn't work like that. You can fix this and set it to a dedicated directory." />
       <item value="Пожалуйста посмотрите на то как сейчас настроен сервер. Домен coinsmantra.com физически ссылается на файлы тестового сервера и так не должно работать. Можете исправить это и настроить его на отведённую для него директорию." />
       <item value="on mobile The table still breaks the page" />
-      <item value="https:money-gate.comlargest-islamic-banks-in-the-world במובייל הטבלה עדיין שוברת את הדף" />
-      <item value="I wanted to say that I am not aware of the future tasks for the development of the plugin and there is no need to ask me about it. Please write to me only in case of problems with the plugin and client sites." />
-      <item value="Я хотел сказать что я не в курсе будущих задач по разработке плагина и спрашивать об этом меня не надо. Пиши мне пожалуйста только в случае возникновения проблем с работой плагина и сайтов клиентов." />
-      <item value="Hello, Matteo! How are you?" />
-      <item value="I am not working today, please duplicate today's pictures in the group. Next, they will be dealt with by Alexander" />
-      <item value="And I am not working today, please duplicate today's pictures in the group. Next, they will be dealt with by Alexander" />
-      <item value="И я сегодня не работаю, продублируй пожалуйста сегодняшние картинки в группу. Дальше ими заниматься будет Alexander" />
-      <item value="There are no new sites yet." />
-      <item value="Новых сайтов пока нет." />
-      <item value="С пометкой для какого именно сайта." />
-      <item value="There is not enough banner for inner pages." />
-      <item value="All pictures are ready, it remains to approve them." />
-      <item value="As a result, today we have:" />
-      <item value="В итоге на сегодняшний день мы имеем: Для https:kov4egbook.ru Все картинки готовы, осталось утвердить их. Для https:www.astebova.it Не хватает баннера для внутренних страниц. Для http:bik.ln12.tempurl.info Не хватает баннера для внутренних страниц." />
-      <item value="Last picture left for internal pages" />
-      <item value="Осталось последняя картинки для внутренних страниц" />
-      <item value="last image for inner pages" />
-      <item value="Enable CDN for pictures" />
-      <item value="Use CDN for images of lots (recommended)" />
-      <item value="Display VAT fields on auctions" />
-      <item value="Display Tax Number fields on profile" />
-      <item value="Display &quot;Accept personal data processing&quot; in the form of registration" />
-      <item value="Display &quot;Accept the processing of personal data&quot; on registration form" />
-      <item value="on registration form" />
-      <item value="We sent email with link to password reset" />
-      <item value="how many its all the banner we need for this website total?" />
-      <item value="ok ill send you soon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3410" />
+        <entry key="ENGLISH" value="3427" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3410" />
+        <entry key="RUSSIAN" value="3427" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
