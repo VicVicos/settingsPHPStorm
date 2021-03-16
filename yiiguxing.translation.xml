@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To send mail, we need the SMTP settings of your mail account." />
+      <item value="Hello! To send mail, we need the SMTP settings of your mail account." />
+      <item value="Для отправки почты нам требуются SMTP настройки вашего почтового аккаунта." />
       <item value="The recipient in the form is required, and changing it to the site admin is not a good solution." />
       <item value="Получатель в форме обязателен, а сменить его на админа сайта не совсем хорошее решение." />
       <item value="The recipient in the form is required, but changing it to the site admin is not entirely." />
@@ -48,21 +51,18 @@
       <item value="Домен coinsmantra.com физически ссылается на файлы тестового сервера, что не совсем правильно." />
       <item value="The coinsmantra.com domain physically links to the test server files and shouldn't work like that." />
       <item value="You can fix this and set it to a correct directory." />
-      <item value="Please take a look at how the server is currently configured. The coinsmantra.com domain physically links to the test server files and shouldn't work like that. You can fix this and set it to a dedicated directory." />
-      <item value="Пожалуйста посмотрите на то как сейчас настроен сервер. Домен coinsmantra.com физически ссылается на файлы тестового сервера и так не должно работать. Можете исправить это и настроить его на отведённую для него директорию." />
-      <item value="on mobile The table still breaks the page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3427" />
+        <entry key="ENGLISH" value="3430" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3427" />
+        <entry key="RUSSIAN" value="3430" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
