@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Вы используете корпоративную почту Gmail?" />
+      <item value="Do you want an access to the mail server to check if the configurations meet your needs?" />
+      <item value="I actually don't know what is the problem, because the same mail server configuration works for us on all platforms with PHPMailer..." />
+      <item value="We are using PHPMailer to send emails. I thought you need a script for testing and debugging." />
+      <item value="Я подумал вам нужен скрипт для проверки и отладки." />
+      <item value="We are using PHPMailer to send emails." />
+      <item value="Мы используем PHPMailer для отправки писем." />
+      <item value="No need to change anything... I just want to look at the php code (or whatever you are using) of how you are trying to send the emails..." />
+      <item value="I'll do it now." />
+      <item value="Сейчас сделаю." />
+      <item value="Do you need a script that will send mail?" />
+      <item value="Вам нужна заготовка скрипта которая будет отправлять письма?" />
+      <item value="Can you please send me the part of code that should send the mails?" />
+      <item value="It's still a mistake. If you use third-party SMTP, then the letters go away without problems." />
+      <item value="Всё равно ошибка. Если использовать сторонние SMTP, то письма уходят без проблем." />
+      <item value="Hold" />
+      <item value="Hold on" />
       <item value="Which port do you try to connect with?" />
       <item value="To send mail, we need the SMTP settings of your mail account." />
       <item value="Hello! To send mail, we need the SMTP settings of your mail account." />
@@ -34,35 +51,18 @@
       <item value="Требуется получить файл авторизации в профиле Google. Получить информацию о количестве подписчиков с канала, проблемно, потребуется дополнительное время на решение. Как вариант, количество подписчиков можно заменить количеством like для видео." />
       <item value="restrict key" />
       <item value="Fixed. Please check." />
-      <item value="Got it. It's the same on Bidspirit. I'll fix it now." />
-      <item value="Понял. На Bidspirit аналогично. Сейчас исправлю." />
-      <item value="The price increment steps for 3000+ are in 500. 3000 -&gt; 3500 -&gt; 4000 The script selects the closest suitable price not lower than 3800." />
-      <item value="The price increment steps for 3000+ are in 500 increments. 3000 -&gt; 3500 -&gt; 4000 The script selects the closest suitable price not lower than 3800." />
-      <item value="Шаги прироста цены на 3000+ стоит с шагом в 500. 3000 -&gt; 3500 -&gt; 4000 Скрипт выбирает ближайшую подходящую цену не нижу 3800." />
-      <item value="Нашёл." />
-      <item value="How to view this product on Bidspirit.com?" />
-      <item value="How to get this product on Bidspirit.com?" />
-      <item value="А как попасть на этот товар на Bidspirit.com?" />
-      <item value="Сейчас посмотрю." />
-      <item value="Sounds like an issue with vhost configuration, if I understood you well" />
-      <item value="You guys configured the server. I just pointed the domain to the server's ip address." />
-      <item value="Please take a look at how the server is currently configured." />
-      <item value="The coinsmantra.com domain physically links to the test server files, which is not entirely correct." />
-      <item value="Domain coinsmantra.com physically links to the test server files, which is not entirely correct." />
-      <item value="Домен coinsmantra.com физически ссылается на файлы тестового сервера, что не совсем правильно." />
-      <item value="The coinsmantra.com domain physically links to the test server files and shouldn't work like that." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3431" />
+        <entry key="ENGLISH" value="3442" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3431" />
+        <entry key="RUSSIAN" value="3443" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
