@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The documentation describes what to check and what to transfer, but how should it view for the user on the site?" />
+      <item value="but how should it look for the user on the site?" />
+      <item value="I would like to clarify exactly how the post auction sale (itemspostSalePurchase) should work. The documentation describes what to check and what to transfer, but how should it look for the user on the site?" />
+      <item value="Я бы хотел уточнить как именно должна работать пост аукционная продажа (itemspostSalePurchase) В документации описано что проверить и что надо передать, но как это должно выглядеть для пользователя на сайте?" />
       <item value="Hi, thanks. Please leave it like this. I will check it" />
       <item value="About the task with the latest edits. Everything is ready, except for connecting to the mail server. Please check. If we connect an external SMTP server, then letters go away without problems." />
       <item value="О задаче с последними правками. Всё готово, кроме соединения с mail сервером. Пожалуйста проверьте. Если мы подключим внешний SMTP сервер, то письма уходят без проблем." />
@@ -47,22 +51,18 @@
       <item value="Те сообщения с форм что будут регистрироваться в MailChimp" />
       <item value="Sort of:" />
       <item value="Some of:" />
-      <item value="Что то вроде:" />
-      <item value="collector" />
-      <item value="garbage collector" />
-      <item value="слив" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3453" />
+        <entry key="ENGLISH" value="3456" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3453" />
+        <entry key="RUSSIAN" value="3456" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
