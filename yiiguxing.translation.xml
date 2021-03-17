@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Do you have an account here?" />
+      <item value="Вы имеете аккаунт здесь?" />
+      <item value="Please enter the text exactly as it is displayed to confirm." />
+      <item value="You will not be able to add these contacts back to your audience." />
       <item value="Is this card suitable for the implementation of dynamic sidebars?" />
       <item value="Is this paragraph suitable for the implementation of dynamic sidebars?" />
       <item value="Этот пункт подходит под реализацию динамических сайдбаров?" />
@@ -47,22 +51,18 @@
       <item value="Можете ли вы создать отдельную почту для сбора писем с формы за которыми не надо будет следить?" />
       <item value="Can you create a separate mail for receiving emails from the form that will not need to be followed?" />
       <item value="Можете ли вы создать отдельную почту для получения писем с формы за которыми не надо будет следить?" />
-      <item value="Can you create a separate mail collection mailbox to receive form mails that you don't need to follow?" />
-      <item value="Можете ли вы создать отдельную почту для сбора писем для получения писем с формы за которыми не надо будет следить?" />
-      <item value="Can you create a separate mailbox for collecting emails from the form that will not need to be followed?" />
-      <item value="Можете ли вы создать отдельную почту для сбора писем с формы за которой не надо будет следить?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3446" />
+        <entry key="ENGLISH" value="3449" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3446" />
+        <entry key="RUSSIAN" value="3449" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
