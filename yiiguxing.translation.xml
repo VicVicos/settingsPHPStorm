@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is this card suitable for the implementation of dynamic sidebars?" />
+      <item value="Is this paragraph suitable for the implementation of dynamic sidebars?" />
+      <item value="Этот пункт подходит под реализацию динамических сайдбаров?" />
+      <item value="If &quot;Default&quot; is selected, &quot;Sidebar on news single page&quot; will be displayed." />
+      <item value="Если выбран &quot;Default&quot; будет выводится &quot;Sidebar on news single page&quot;." />
       <item value="Purchase the item in a post sale. To check if the item is available for post sale you need to verify that the auction day of this items has ended, that the item was not sold and to check the postAuctionSaleOpenedUntil field of the auction day (see auctionsgetAuctionInfo). Also - the user must be approved to the auction house in order to purchase" />
       <item value="Вы используете корпоративную почту Gmail?" />
       <item value="Do you want an access to the mail server to check if the configurations meet your needs?" />
@@ -46,23 +51,18 @@
       <item value="Можете ли вы создать отдельную почту для сбора писем для получения писем с формы за которыми не надо будет следить?" />
       <item value="Can you create a separate mailbox for collecting emails from the form that will not need to be followed?" />
       <item value="Можете ли вы создать отдельную почту для сбора писем с формы за которой не надо будет следить?" />
-      <item value="Can I create a separate mail for collecting letters from the form that will not need to be followed?" />
-      <item value="Можно создать отдельную почту для сбора писем с формы за которой не надо будет следить?" />
-      <item value="It is required to obtain an authorization file in the Google profile. It is problematic to get information about the number of subscribers from the channel, it will take additional time to solve. Alternatively, the number of subscribers can be replaced by the number of likes for the video." />
-      <item value="Требуется получить файл авторизации в профиле Google. Получить информацию о количестве подписчиков с канала, проблемно, потребуется дополнительное время на решение. Как вариант, количество подписчиков можно заменить количеством like для видео." />
-      <item value="restrict key" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3443" />
+        <entry key="ENGLISH" value="3446" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3443" />
+        <entry key="RUSSIAN" value="3446" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
