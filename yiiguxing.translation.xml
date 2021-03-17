@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Purchase the item in a post sale. To check if the item is available for post sale you need to verify that the auction day of this items has ended, that the item was not sold and to check the postAuctionSaleOpenedUntil field of the auction day (see auctionsgetAuctionInfo). Also - the user must be approved to the auction house in order to purchase" />
       <item value="Вы используете корпоративную почту Gmail?" />
       <item value="Do you want an access to the mail server to check if the configurations meet your needs?" />
       <item value="I actually don't know what is the problem, because the same mail server configuration works for us on all platforms with PHPMailer..." />
@@ -50,12 +51,11 @@
       <item value="It is required to obtain an authorization file in the Google profile. It is problematic to get information about the number of subscribers from the channel, it will take additional time to solve. Alternatively, the number of subscribers can be replaced by the number of likes for the video." />
       <item value="Требуется получить файл авторизации в профиле Google. Получить информацию о количестве подписчиков с канала, проблемно, потребуется дополнительное время на решение. Как вариант, количество подписчиков можно заменить количеством like для видео." />
       <item value="restrict key" />
-      <item value="Fixed. Please check." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3442" />
+        <entry key="ENGLISH" value="3443" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
