@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="See an example of implementation this is what I need to understand the task." />
+      <item value="See an example of implementation this is what I need to understand the problem." />
+      <item value="Посмотреть пример реализации это то что мне нужно для понимания задачи." />
+      <item value="See how you implemented it - what I need." />
+      <item value="Посмотреть, как это реализовали вы - то что мне нужно." />
+      <item value="To see how this is implemented with you, this is what I need to understand the task." />
+      <item value="To see how this is implemented with you is what I need to understand the task." />
+      <item value="Посмотреть, как это реализовано у вас - то, что мне нужно, что бы понять задачу." />
+      <item value="Посмотреть, как это реализовано у вас это то что мне нужно что бы понять задачу." />
+      <item value="Посмотреть как это реализовано у вас это то что мне нужно что бы понять задачу." />
       <item value="did it" />
       <item value="fixed it" />
       <item value="fix it" />
@@ -41,28 +51,18 @@
       <item value="You will not be able to add these contacts back to your audience." />
       <item value="Is this card suitable for the implementation of dynamic sidebars?" />
       <item value="Is this paragraph suitable for the implementation of dynamic sidebars?" />
-      <item value="Этот пункт подходит под реализацию динамических сайдбаров?" />
-      <item value="If &quot;Default&quot; is selected, &quot;Sidebar on news single page&quot; will be displayed." />
-      <item value="Если выбран &quot;Default&quot; будет выводится &quot;Sidebar on news single page&quot;." />
-      <item value="Purchase the item in a post sale. To check if the item is available for post sale you need to verify that the auction day of this items has ended, that the item was not sold and to check the postAuctionSaleOpenedUntil field of the auction day (see auctionsgetAuctionInfo). Also - the user must be approved to the auction house in order to purchase" />
-      <item value="Вы используете корпоративную почту Gmail?" />
-      <item value="Do you want an access to the mail server to check if the configurations meet your needs?" />
-      <item value="I actually don't know what is the problem, because the same mail server configuration works for us on all platforms with PHPMailer..." />
-      <item value="We are using PHPMailer to send emails. I thought you need a script for testing and debugging." />
-      <item value="Я подумал вам нужен скрипт для проверки и отладки." />
-      <item value="We are using PHPMailer to send emails." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3473" />
+        <entry key="ENGLISH" value="3481" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3473" />
+        <entry key="RUSSIAN" value="3481" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
