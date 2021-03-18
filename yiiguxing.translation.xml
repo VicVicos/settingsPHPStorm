@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Installed plugin and paste that code" />
+      <item value="Install plugin and paste that code" />
       <item value="I am having very serious problems with this xd layout. Can I count on solving these problems?" />
       <item value="Я имею очень серьёзные проблемы при работе с этим макетом xd. Могу ли я расчитвать на решение этих проблем?" />
       <item value="I thought you would drop the link how it works on bidspirit.com" />
@@ -49,20 +51,18 @@
       <item value="I would like to clarify exactly how the post auction sale (itemspostSalePurchase) should work. The documentation describes what to check and what to transfer, but how should it look for the user on the site?" />
       <item value="Я бы хотел уточнить как именно должна работать пост аукционная продажа (itemspostSalePurchase) В документации описано что проверить и что надо передать, но как это должно выглядеть для пользователя на сайте?" />
       <item value="Hi, thanks. Please leave it like this. I will check it" />
-      <item value="About the task with the latest edits. Everything is ready, except for connecting to the mail server. Please check. If we connect an external SMTP server, then letters go away without problems." />
-      <item value="О задаче с последними правками. Всё готово, кроме соединения с mail сервером. Пожалуйста проверьте. Если мы подключим внешний SMTP сервер, то письма уходят без проблем." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3486" />
+        <entry key="ENGLISH" value="3488" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3486" />
+        <entry key="RUSSIAN" value="3488" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
