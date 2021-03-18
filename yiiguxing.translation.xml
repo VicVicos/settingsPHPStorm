@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Those items that are ready on the dev zone and will be transferred to production, I will mark with a blue mark." />
+      <item value="Those items that are ready on the test and will be transferred to production, I will mark with a blue mark." />
+      <item value="Те пункты что готовы на тестовом и будут перенесены на продакшен я буду помечать синей меткой." />
       <item value="критично" />
       <item value="важно" />
       <item value="Thanks! This is what I need." />
@@ -48,21 +51,18 @@
       <item value="Изучаю структуру данных я заметил следующие закономерности: Картинки для лотов имеют составной характер и строится по принципу auctionId + lotId + .jpg Других форматов изображений не используется? Так же заметил что для лотов имеется только одно изображение. Верны ли эти утверждение для всех лотов или только для определённой группы?" />
       <item value="allow" />
       <item value="import lot" />
-      <item value="true reduce image sizes" />
-      <item value="Hello! The solution with changing the global array works. The problem can be solved closed." />
-      <item value="Решение с изменением глобального массива работает. Задачу можно решать закрытой." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3493" />
+        <entry key="ENGLISH" value="3496" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3494" />
+        <entry key="RUSSIAN" value="3496" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
