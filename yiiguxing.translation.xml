@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true reduce image sizes" />
       <item value="Hello! The solution with changing the global array works. The problem can be solved closed." />
       <item value="Решение с изменением глобального массива работает. Задачу можно решать закрытой." />
       <item value="Do you have the password of support mailbox?" />
@@ -50,19 +51,18 @@
       <item value="Получатель в форме обязателен, а сменить его на админа сайта не совсем хорошее решение." />
       <item value="The recipient in the form is required, but changing it to the site admin is not entirely." />
       <item value="Получатель в форме обязателен, а сменить его на админа сайта не совсем." />
-      <item value="For those messages from the forms that will be registered in MailChimp." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3459" />
+        <entry key="ENGLISH" value="3460" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3459" />
+        <entry key="RUSSIAN" value="3460" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
