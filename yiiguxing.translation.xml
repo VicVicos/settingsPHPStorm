@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="See picture attached below" />
+      <item value="There are problems getting pictures for auctions. From the database, we get pictures along the way: http:tiroche.coItemPicsimageName.jpg Moreover, on the site https:tiroche.co.il for the same auctions, the pictures are located in a different way: https:tiroche.co.ilItemPicsimageName.jpg That is, we have a difference between what comes to us from the database and what we see on the original site. And in addition, not all pictures for auctions are available to us along the way that come from the database http:tiroche.coItemPicsimageName.jpg As a result, we have a lot of auctions with broken pictures." />
+      <item value="There are problems getting pictures for auctions. From the database, we get pictures along the way: http:tiroche.coItemPicsimageName.jpg And there are many pictures for auctions along this path. Moreover, on the site https:tiroche.co.il for the same auctions, the pictures are located in a different way: https:tiroche.co.ilItemPicsimageName.jpg That is, we have a difference between what comes to us from the database and what we see on the original site. And in addition, not all pictures for auctions are available to us along the way that come from the database http:tiroche.coItemPicsimageName.jpg As a result, we have a lot of auctions with broken pictures." />
+      <item value="Есть проблемы с получением картинок для аукционов. Из БД мы получаем картинки по пути: http:tiroche.coItemPicsimageName.jpg И множество картинок для аукционов есть по такому пути. Причём на сайте https:tiroche.co.il для этих же аукционов картинки расположены по другому пути: https:tiroche.co.ilItemPicsimageName.jpg Т.е. мы имеем разницу между тем что нам приходит из БД и тем что мы видим на сайте оригинала. И дополнительно не все картинки для аукционов доступны нам по пути что приходят из БД http:tiroche.coItemPicsimageName.jpg В итоге мы имеем множество аукционов с с битыми картинками." />
+      <item value="Moreover, on the site https: tiroche.co.il for auctions, the pictures are located in a different way" />
+      <item value="Причём на сайте https:tiroche.co.il для аукционов картинки расположены по другому пути" />
       <item value="Studying the data structure, I noticed the following regularities: Pictures for lots have a composite character and are built according to the principle of auctionId + lotId + .jpg No other image formats are used? I also noticed that there is only one image for lots. Are these statements true for all lots or only for a specific group?" />
       <item value="Изучаю структуру данных я заметил следующие закономерности: Картинки для лотов имеют составной характер и строится по принципу auctionId + lotId + .jpg Других форматов изображений не используется? Так же заметил что для лотов имеется только одно изображение. Верны ли эти утверждение для всех лотов или только для определённой группы?" />
       <item value="allow" />
@@ -45,24 +51,18 @@
       <item value="Can you please send me the part of code that should send the mails?" />
       <item value="It's still a mistake. If you use third-party SMTP, then the letters go away without problems." />
       <item value="Всё равно ошибка. Если использовать сторонние SMTP, то письма уходят без проблем." />
-      <item value="Hold" />
-      <item value="Hold on" />
-      <item value="Which port do you try to connect with?" />
-      <item value="To send mail, we need the SMTP settings of your mail account." />
-      <item value="Hello! To send mail, we need the SMTP settings of your mail account." />
-      <item value="Для отправки почты нам требуются SMTP настройки вашего почтового аккаунта." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3462" />
+        <entry key="ENGLISH" value="3466" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3462" />
+        <entry key="RUSSIAN" value="3466" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
