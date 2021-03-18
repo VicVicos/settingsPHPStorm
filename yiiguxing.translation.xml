@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="критично" />
+      <item value="важно" />
       <item value="Thanks! This is what I need." />
       <item value="Thank! This is what I need." />
       <item value="Спасибо! Это то что мне нужно." />
@@ -49,20 +51,18 @@
       <item value="true reduce image sizes" />
       <item value="Hello! The solution with changing the global array works. The problem can be solved closed." />
       <item value="Решение с изменением глобального массива работает. Задачу можно решать закрытой." />
-      <item value="Do you have the password of support mailbox?" />
-      <item value="Recipient address rejected: Sender is not same as SMTP authenticate username;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3492" />
+        <entry key="ENGLISH" value="3493" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3492" />
+        <entry key="RUSSIAN" value="3494" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615640810445" />
+    <option name="lastTrimTime" value="1616079249594" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
