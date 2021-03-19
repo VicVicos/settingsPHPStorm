@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="5.189.179.106 here is IP address." />
+      <item value="5.189.179.106 here is they IP address." />
+      <item value="5.189.179.106 here is their IP address." />
       <item value="Hello! Could you provide a link to your auction house on Bidspirit?" />
       <item value="Good day! Could you provide a link to your auction house on Bidspirit?" />
       <item value="Добрый день! Не могли бы вы сообщить ссылку на ваш аукционный дом в Bidspirit?" />
@@ -48,21 +51,18 @@
       <item value="Я сделал это" />
       <item value="I was do it" />
       <item value="I do it" />
-      <item value="I will do it" />
-      <item value="See picture attached below" />
-      <item value="There are problems getting pictures for auctions. From the database, we get pictures along the way: http:tiroche.coItemPicsimageName.jpg Moreover, on the site https:tiroche.co.il for the same auctions, the pictures are located in a different way: https:tiroche.co.ilItemPicsimageName.jpg That is, we have a difference between what comes to us from the database and what we see on the original site. And in addition, not all pictures for auctions are available to us along the way that come from the database http:tiroche.coItemPicsimageName.jpg As a result, we have a lot of auctions with broken pictures." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3501" />
+        <entry key="ENGLISH" value="3504" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3501" />
+        <entry key="RUSSIAN" value="3504" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
