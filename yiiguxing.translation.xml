@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="להתנתק" />
       <item value="הירשמו לבית מכירות תירוש ותתעדכנו על מוצרים חדשים" />
       <item value="Да, это всё тот же файл." />
       <item value="Да, это всё тот же макет." />
@@ -50,7 +51,6 @@
       <item value="Есть проблемы с получением картинок для аукционов. Из БД мы получаем картинки по пути: http:tiroche.coItemPicsimageName.jpg И множество картинок для аукционов есть по такому пути. Причём на сайте https:tiroche.co.il для этих же аукционов картинки расположены по другому пути: https:tiroche.co.ilItemPicsimageName.jpg Т.е. мы имеем разницу между тем что нам приходит из БД и тем что мы видим на сайте оригинала. И дополнительно не все картинки для аукционов доступны нам по пути что приходят из БД http:tiroche.coItemPicsimageName.jpg В итоге мы имеем множество аукционов с с битыми картинками." />
       <item value="Moreover, on the site https: tiroche.co.il for auctions, the pictures are located in a different way" />
       <item value="Причём на сайте https:tiroche.co.il для аукционов картинки расположены по другому пути" />
-      <item value="Studying the data structure, I noticed the following regularities: Pictures for lots have a composite character and are built according to the principle of auctionId + lotId + .jpg No other image formats are used? I also noticed that there is only one image for lots. Are these statements true for all lots or only for a specific group?" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="35" />
+        <entry key="HEBREW" value="36" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
