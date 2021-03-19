@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="הירשמו לבית מכירות תירוש ותתעדכנו על מוצרים חדשים" />
       <item value="Да, это всё тот же файл." />
       <item value="Да, это всё тот же макет." />
       <item value="Those items that are ready on the dev zone and will be transferred to production, I will mark with a blue mark." />
@@ -50,12 +51,11 @@
       <item value="Moreover, on the site https: tiroche.co.il for auctions, the pictures are located in a different way" />
       <item value="Причём на сайте https:tiroche.co.il для аукционов картинки расположены по другому пути" />
       <item value="Studying the data structure, I noticed the following regularities: Pictures for lots have a composite character and are built according to the principle of auctionId + lotId + .jpg No other image formats are used? I also noticed that there is only one image for lots. Are these statements true for all lots or only for a specific group?" />
-      <item value="Изучаю структуру данных я заметил следующие закономерности: Картинки для лотов имеют составной характер и строится по принципу auctionId + lotId + .jpg Других форматов изображений не используется? Так же заметил что для лотов имеется только одно изображение. Верны ли эти утверждение для всех лотов или только для определённой группы?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3497" />
+        <entry key="ENGLISH" value="3498" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="34" />
+        <entry key="HEBREW" value="35" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
