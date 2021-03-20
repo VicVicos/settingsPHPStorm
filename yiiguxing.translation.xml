@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="מכירה:" />
+      <item value="פריט" />
       <item value="רוצה למכור?" />
       <item value="מכירות עבר" />
       <item value="קניה ישירה" />
       <item value="המכירות הבאות" />
-      <item value="פריט" />
       <item value="purge post cache" />
       <item value="5.189.179.106 here is IP address." />
       <item value="5.189.179.106 here is they IP address." />
@@ -50,7 +51,6 @@
       <item value="Посмотреть, как это реализовано у вас это то что мне нужно что бы понять задачу." />
       <item value="Посмотреть как это реализовано у вас это то что мне нужно что бы понять задачу." />
       <item value="did it" />
-      <item value="fixed it" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="44" />
+        <entry key="HEBREW" value="46" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
