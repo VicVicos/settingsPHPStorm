@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Before installing the plugin, contact the bidspirit support team to whitelist the domain by informing them of your Bidspirit profile and the ip address of your site." />
       <item value="We received a request to implement the possibility of selling lots before the start of the auction at a blitz price. What API requests should I use for this?" />
       <item value="К нам поступил запрос на реализацию возможности продажи лотов до начала аукциона по блиц цене. Какие API запросы использовать для этого?" />
       <item value="The error still appears. Please check again." />
@@ -50,19 +51,18 @@
       <item value="See how you implemented it - what I need." />
       <item value="Посмотреть, как это реализовали вы - то что мне нужно." />
       <item value="To see how this is implemented with you, this is what I need to understand the task." />
-      <item value="To see how this is implemented with you is what I need to understand the task." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3507" />
+        <entry key="ENGLISH" value="3508" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3507" />
+        <entry key="RUSSIAN" value="3508" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
