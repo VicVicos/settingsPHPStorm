@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="חזרה לקטלוג" />
+      <item value="פריט הבא" />
       <item value="כניסה" />
       <item value="Display Hours should appear in each auctions banner, and at the top of the page of the catalog on the site (see photos attached). Once clicked, there is a pop up with the info." />
       <item value="I don’t know how to help you with pictures from the server. I think only Tomer and Oren can. We started sending you pictures starting from auctions 120 through WeTransfer. Did you receive them? Basically we have all pictures from auctions 131. Before 131 we need to take them from the server. But I don’t know anything about the server" />
@@ -49,8 +51,6 @@
       <item value="Я имею очень серьёзные проблемы при работе с этим макетом xd. Могу ли я расчитвать на решение этих проблем?" />
       <item value="I thought you would drop the link how it works on bidspirit.com" />
       <item value="Я думал, вы скинете ссылку как это работает на bidspirit.com" />
-      <item value="I thought you would throw off the link for me how it works on bidspirit.com" />
-      <item value="Я думал вы мне скинете ссылку как это работает на bidspirit.com" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="47" />
+        <entry key="HEBREW" value="49" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
