@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Что на счёт этого клиента?" />
+      <item value="Извините, я ошибся" />
       <item value="חזרה לקטלוג" />
       <item value="פריט הבא" />
       <item value="כניסה" />
@@ -49,20 +51,18 @@
       <item value="Install plugin and paste that code" />
       <item value="I am having very serious problems with this xd layout. Can I count on solving these problems?" />
       <item value="Я имею очень серьёзные проблемы при работе с этим макетом xd. Могу ли я расчитвать на решение этих проблем?" />
-      <item value="I thought you would drop the link how it works on bidspirit.com" />
-      <item value="Я думал, вы скинете ссылку как это работает на bidspirit.com" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3517" />
+        <entry key="ENGLISH" value="3518" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3517" />
+        <entry key="RUSSIAN" value="3519" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
