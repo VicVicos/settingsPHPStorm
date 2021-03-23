@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="כניסה" />
       <item value="Display Hours should appear in each auctions banner, and at the top of the page of the catalog on the site (see photos attached). Once clicked, there is a pop up with the info." />
       <item value="I don’t know how to help you with pictures from the server. I think only Tomer and Oren can. We started sending you pictures starting from auctions 120 through WeTransfer. Did you receive them? Basically we have all pictures from auctions 131. Before 131 we need to take them from the server. But I don’t know anything about the server" />
       <item value="Moreover, on the site https:tiroche.co.il for the same auctions, the pictures are located in a different way: https:tiroche.co.ilItemPicsimageName.jpg That is, we have a difference between what comes to us from the database and what we see on the original site. And in addition, not all pictures for auctions are available to us along the way that come from the database http:tiroche.coItemPicsimageName.jpg As a result, we have a lot of auctions with broken pictures. See picture attached below." />
@@ -50,7 +51,6 @@
       <item value="Я думал, вы скинете ссылку как это работает на bidspirit.com" />
       <item value="I thought you would throw off the link for me how it works on bidspirit.com" />
       <item value="Я думал вы мне скинете ссылку как это работает на bidspirit.com" />
-      <item value="I thought you would throw off my link how it works on bidspirit.com" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="46" />
+        <entry key="HEBREW" value="47" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
