@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill" />
       <item value="פריט" />
       <item value="Auction" />
       <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
@@ -50,19 +51,18 @@
       <item value="Те пункты что готовы на тестовом и будут перенесены на продакшен я буду помечать синей меткой." />
       <item value="критично" />
       <item value="важно" />
-      <item value="Thanks! This is what I need." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3530" />
+        <entry key="ENGLISH" value="3531" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3530" />
+        <entry key="RUSSIAN" value="3531" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
