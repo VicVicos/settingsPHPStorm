@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auction" />
+      <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
       <item value="The statement is true for the larger auctions: larger auctions are 180, 179, 178 etc. The number of the image is always Auction number+ item in 4 digits. However, some lots do have 2-3 pictures. The format today is not unique but we should decide on format for additional pics such as 1800500A or 1800500_A We need to set a format for the smaller auctions as well. Those are smaller auctions (online auctions) that consists 40 - 90 items and until today they were not shown on our website but just on Bidspirit. Today the pics are numbered just 1, 2, 3… etc with no specific auction number. However as the online auctions were never uploaded on Tiroche.co.il it was not a problem. We need to figure out a format for those online auctions as well." />
       <item value="Before installing the plugin please give us the domain and IP address and we will contact the bidspirit support team to whitelist the domain." />
       <item value="Give us the domain and IP address and we will contact the bidspirit support team to whitelist the domain." />
@@ -49,20 +51,18 @@
       <item value="критично" />
       <item value="важно" />
       <item value="Thanks! This is what I need." />
-      <item value="Thank! This is what I need." />
-      <item value="Спасибо! Это то что мне нужно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3528" />
+        <entry key="ENGLISH" value="3530" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3528" />
+        <entry key="RUSSIAN" value="3530" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616079249594" />
+    <option name="lastTrimTime" value="1616543878195" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
