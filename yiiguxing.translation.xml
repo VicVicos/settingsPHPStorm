@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="פריט" />
       <item value="Auction" />
       <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
       <item value="The statement is true for the larger auctions: larger auctions are 180, 179, 178 etc. The number of the image is always Auction number+ item in 4 digits. However, some lots do have 2-3 pictures. The format today is not unique but we should decide on format for additional pics such as 1800500A or 1800500_A We need to set a format for the smaller auctions as well. Those are smaller auctions (online auctions) that consists 40 - 90 items and until today they were not shown on our website but just on Bidspirit. Today the pics are numbered just 1, 2, 3… etc with no specific auction number. However as the online auctions were never uploaded on Tiroche.co.il it was not a problem. We need to figure out a format for those online auctions as well." />
@@ -28,7 +29,6 @@
       <item value="The error still appears. Please check again." />
       <item value="Ошибка по прежнему появляется. Проверьте пожалуйста ещё раз." />
       <item value="מכירה:" />
-      <item value="פריט" />
       <item value="רוצה למכור?" />
       <item value="מכירות עבר" />
       <item value="קניה ישירה" />
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="49" />
+        <entry key="HEBREW" value="50" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
