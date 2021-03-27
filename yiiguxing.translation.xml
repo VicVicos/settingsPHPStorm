@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Page Empty" />
+      <item value="We have added a blank template for these pages for the &quot;Thanks page&quot; page. All design elements can be customized from the admin panel." />
+      <item value="Мы добавили пустой шаблон для таких страниц для страницы &quot;Thanks page&quot;. Все элементы дизайна могут быть настроены из админ панели." />
       <item value="uco before init mutation" />
       <item value="לקטלוג המכירה" />
       <item value="Select the categories you want" />
@@ -48,21 +51,18 @@
       <item value="Good day! Could you provide a link to your auction house on Bidspirit?" />
       <item value="Добрый день! Не могли бы вы сообщить ссылку на ваш аукционный дом в Bidspirit?" />
       <item value="delimiter" />
-      <item value="להתנתק" />
-      <item value="הירשמו לבית מכירות תירוש ותתעדכנו על מוצרים חדשים" />
-      <item value="Да, это всё тот же файл." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3534" />
+        <entry key="ENGLISH" value="3536" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3534" />
+        <entry key="RUSSIAN" value="3536" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
