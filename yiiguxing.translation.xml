@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auction list for Tiroche" />
+      <item value="The date of their first auction that was created on Bidspirit will also help us solve the problem." />
+      <item value="Eщё нам поможет решить проблему дата их первого аукциона что был создан на Bidspirit." />
+      <item value="Can you provide us with a list of all the auctions?" />
+      <item value="Сможете предоставить нам список всех аукционов?" />
+      <item value="You can provide us with a list of all auctions or else help us solve the problem with the date of the first auction that was created on Bidspirit." />
+      <item value="Сможете предоставить нам список всех аукционов или ещё нам поможет решить проблему дата их первого аукциона что был создан на Bidspirit." />
+      <item value="We are working on a website for the auction house tiroche. (tiroche.bidspirit.com) Would like to get a list of all the auctions they have on your portal. They have their own old auctions and in some cases their numbering overlaps which causes problems migrating their old site to WordPress." />
+      <item value="Работаем над сайтом для аукционного дома tiroche. (tiroche.bidspirit.com) Хотели бы получить список всех аукционов которые у них есть на вашем портале. У них есть свои старые аукционы и в некоторых случаях их нумерация пересекается что вызывает проблемы с переносом их старого сайта на WordPress." />
       <item value="Page Empty" />
       <item value="We have added a blank template for these pages for the &quot;Thanks page&quot; page. All design elements can be customized from the admin panel." />
       <item value="Мы добавили пустой шаблон для таких страниц для страницы &quot;Thanks page&quot;. Все элементы дизайна могут быть настроены из админ панели." />
@@ -42,27 +51,18 @@
       <item value="רוצה למכור?" />
       <item value="מכירות עבר" />
       <item value="קניה ישירה" />
-      <item value="המכירות הבאות" />
-      <item value="purge post cache" />
-      <item value="5.189.179.106 here is IP address." />
-      <item value="5.189.179.106 here is they IP address." />
-      <item value="5.189.179.106 here is their IP address." />
-      <item value="Hello! Could you provide a link to your auction house on Bidspirit?" />
-      <item value="Good day! Could you provide a link to your auction house on Bidspirit?" />
-      <item value="Добрый день! Не могли бы вы сообщить ссылку на ваш аукционный дом в Bidspirit?" />
-      <item value="delimiter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3536" />
+        <entry key="ENGLISH" value="3542" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3536" />
+        <entry key="RUSSIAN" value="3542" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
