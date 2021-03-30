@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No problem" />
+      <item value="Можно" />
       <item value="arrow Parens" />
       <item value="unaccepted" />
       <item value="squares" />
@@ -49,20 +51,18 @@
       <item value="We received a request to implement the possibility of selling lots before the start of the auction at a blitz price. What API requests should I use for this?" />
       <item value="К нам поступил запрос на реализацию возможности продажи лотов до начала аукциона по блиц цене. Какие API запросы использовать для этого?" />
       <item value="The error still appears. Please check again." />
-      <item value="Ошибка по прежнему появляется. Проверьте пожалуйста ещё раз." />
-      <item value="מכירה:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3544" />
+        <entry key="ENGLISH" value="3546" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3545" />
+        <entry key="RUSSIAN" value="3546" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
