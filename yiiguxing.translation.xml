@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Last to first" />
       <item value="Reassign time" />
       <item value="Fixed. There is a separate template for the home page." />
       <item value="Исправилено. Для главной страницы существует отдельный шаблон." />
@@ -50,19 +51,18 @@
       <item value="Или сообщите нам домен и IP-адрес, и мы свяжемся со службой поддержки bidspirit что бы они добавили домен в белый список." />
       <item value="Or send us domain and ip address and we will contact bidspirit support for you." />
       <item value="Before installing the plugin please contact bidspirit support to whitelist the domain. Until then the plugin will not be functional." />
-      <item value="Что на счёт этого клиента?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3555" />
+        <entry key="ENGLISH" value="3556" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3555" />
+        <entry key="RUSSIAN" value="3556" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
