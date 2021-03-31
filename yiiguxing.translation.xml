@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Поможете решить эту проблему?" />
+      <item value="Image upload problem for old auctions" />
+      <item value="Проблема загрузки картинок для старых аукционов" />
+      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some of them. For all lots of auctions numbered 1, 2, 3, we form the wrong path for displaying pictures from the CDN server." />
+      <item value="Для всех лотов аукционов под номерами 1,2,3 мы формируем не верные путь для отображения картинок с CDN сервера." />
+      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some of them. For auction lots numbered 1, 2, 3, we form the wrong path for displaying pictures from the CDN server." />
+      <item value="Клиент 12stulauction.bidspirit.com хочет синхронизировать все свои старые аукционы. И мы столкнулись с проблемой получить картинки для некоторых из них. Для лотов аукционов под номерами 1,2,3 мы формируем не верные путь для отображения картинок с CDN сервера." />
+      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some of them. They have old auctions numbered 1, 2, 3, and for their lots, we form the wrong path for displaying pictures from the CDN server." />
+      <item value="Клиент 12stulauction.bidspirit.com хочет синхронизировать все свои старые аукционы. И мы столкнулись с проблемой получить картинки для некоторых из них. У них есть старые аукционы под номерами 1,2,3 и для их лотов мы формируем не верные путь для отображения картинок с CDN сервера." />
+      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some auctions. They have old auctions numbered 1, 2, 3, and for their lots, we form the wrong path for displaying pictures from the CDN server." />
+      <item value="Клиент 12stulauction.bidspirit.com хочет синхронизировать все свои старые аукционы. И мы столкнулись с проблемой получить картинки для некоторых аукционов. У них есть старые аукционы под номерами 1,2,3 и для их лотов мы формируем не верные путь для отображения картинок с CDN сервера." />
       <item value="יום ראשון 17012021 בשעה 18:00" />
       <item value="No problem" />
       <item value="Можно" />
@@ -40,29 +51,18 @@
       <item value="Извините, я ошибся" />
       <item value="חזרה לקטלוג" />
       <item value="פריט הבא" />
-      <item value="כניסה" />
-      <item value="Display Hours should appear in each auctions banner, and at the top of the page of the catalog on the site (see photos attached). Once clicked, there is a pop up with the info." />
-      <item value="I don’t know how to help you with pictures from the server. I think only Tomer and Oren can. We started sending you pictures starting from auctions 120 through WeTransfer. Did you receive them? Basically we have all pictures from auctions 131. Before 131 we need to take them from the server. But I don’t know anything about the server" />
-      <item value="Moreover, on the site https:tiroche.co.il for the same auctions, the pictures are located in a different way: https:tiroche.co.ilItemPicsimageName.jpg That is, we have a difference between what comes to us from the database and what we see on the original site. And in addition, not all pictures for auctions are available to us along the way that come from the database http:tiroche.coItemPicsimageName.jpg As a result, we have a lot of auctions with broken pictures. See picture attached below." />
-      <item value="Where does it shown?" />
-      <item value="What to do with lots with auctionId = null. We are unable to link these items to a specific auction." />
-      <item value="The auction items can include only two price fields: Hammer price Price Inc. Commission Our commission is %18. once the hammer price is 1,000 the price with commission is automatically1,180 (unless the commission will increase). Final Price can be shown only on Buy-Now items (not auctions)." />
-      <item value="As the information is extremely sensitive, we would need you to sign a confidentiality agreement." />
-      <item value="Before installing the plugin, contact the bidspirit support team to whitelist the domain by informing them of your Bidspirit profile and the ip address of your site." />
-      <item value="We received a request to implement the possibility of selling lots before the start of the auction at a blitz price. What API requests should I use for this?" />
-      <item value="К нам поступил запрос на реализацию возможности продажи лотов до начала аукциона по блиц цене. Какие API запросы использовать для этого?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3546" />
+        <entry key="ENGLISH" value="3552" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3546" />
+        <entry key="RUSSIAN" value="3553" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
