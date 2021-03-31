@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fixed. There is a separate template for the home page." />
+      <item value="Исправилено. Для главной страницы существует отдельный шаблон." />
       <item value="Поможете решить эту проблему?" />
       <item value="Image upload problem for old auctions" />
       <item value="Проблема загрузки картинок для старых аукционов" />
@@ -49,20 +51,18 @@
       <item value="Before installing the plugin please contact bidspirit support to whitelist the domain. Until then the plugin will not be functional." />
       <item value="Что на счёт этого клиента?" />
       <item value="Извините, я ошибся" />
-      <item value="חזרה לקטלוג" />
-      <item value="פריט הבא" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3552" />
+        <entry key="ENGLISH" value="3554" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3553" />
+        <entry key="RUSSIAN" value="3554" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
