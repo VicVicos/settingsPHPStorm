@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ignore the &quot;Last update of the lot&quot; timestamp when synchronizing." />
       <item value="Принудительная синхронизация" />
       <item value="Synchronization forced" />
       <item value="Synchronization Forced" />
-      <item value="Ignore the &quot;Last update of the lot&quot; timestamp when synchronizing." />
       <item value="Последнее обновление лота" />
       <item value="last updated lot" />
       <item value="Ignore the &quot;last updated lot&quot; timestamp when synchronizing." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3571" />
+        <entry key="ENGLISH" value="3572" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
