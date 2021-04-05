@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is important for the Tiroche client to use the link between Authors and lots." />
+      <item value="Для клинету Tiroche важно использовать связь Авторов с лотами." />
+      <item value="It is important for the Tiroche client to use the comparison of Authors with lots." />
+      <item value="Для клинету Tiroche важно использовать сопоставление Авторов с лотами." />
+      <item value="It is important for the Tiroche client to use a bunch of Authors with lots." />
+      <item value="bunch of Authors with lots." />
+      <item value="It is important for the Tiroche client to use a bunch of Authors with lots. I would like to clarify in which field the author of lots is filled in on the Bidspirit portal." />
+      <item value="Для клинету Tiroche важно использовать связку Авторов с лотами. Я хотел бы уточнить в какое поле заполняется автор лотов на портале Bidspirit." />
+      <item value="I see all four auctions" />
+      <item value="Я вижу все четыре аукциона" />
+      <item value="I watch all fourth auctions" />
+      <item value="I see all fourth auctions" />
       <item value="It new feature to be implemented in the plugin." />
       <item value="Новая фича для реализации в плагине." />
       <item value="There are no other auctions." />
@@ -39,30 +51,18 @@
       <item value="Исправилено. Для главной страницы существует отдельный шаблон." />
       <item value="Поможете решить эту проблему?" />
       <item value="Image upload problem for old auctions" />
-      <item value="Проблема загрузки картинок для старых аукционов" />
-      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some of them. For all lots of auctions numbered 1, 2, 3, we form the wrong path for displaying pictures from the CDN server." />
-      <item value="Для всех лотов аукционов под номерами 1,2,3 мы формируем не верные путь для отображения картинок с CDN сервера." />
-      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some of them. For auction lots numbered 1, 2, 3, we form the wrong path for displaying pictures from the CDN server." />
-      <item value="Клиент 12stulauction.bidspirit.com хочет синхронизировать все свои старые аукционы. И мы столкнулись с проблемой получить картинки для некоторых из них. Для лотов аукционов под номерами 1,2,3 мы формируем не верные путь для отображения картинок с CDN сервера." />
-      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some of them. They have old auctions numbered 1, 2, 3, and for their lots, we form the wrong path for displaying pictures from the CDN server." />
-      <item value="Клиент 12stulauction.bidspirit.com хочет синхронизировать все свои старые аукционы. И мы столкнулись с проблемой получить картинки для некоторых из них. У них есть старые аукционы под номерами 1,2,3 и для их лотов мы формируем не верные путь для отображения картинок с CDN сервера." />
-      <item value="Customer 12stulauction.bidspirit.com wants to sync all of their old auctions. And we faced the problem of getting pictures for some auctions. They have old auctions numbered 1, 2, 3, and for their lots, we form the wrong path for displaying pictures from the CDN server." />
-      <item value="Клиент 12stulauction.bidspirit.com хочет синхронизировать все свои старые аукционы. И мы столкнулись с проблемой получить картинки для некоторых аукционов. У них есть старые аукционы под номерами 1,2,3 и для их лотов мы формируем не верные путь для отображения картинок с CDN сервера." />
-      <item value="יום ראשון 17012021 בשעה 18:00" />
-      <item value="No problem" />
-      <item value="Можно" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3576" />
+        <entry key="ENGLISH" value="3584" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3576" />
+        <entry key="RUSSIAN" value="3584" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
