@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There are no other auctions." />
+      <item value="Других аукционов нет." />
+      <item value="Are these missing? Does the number of lots match?" />
+      <item value="Вот этих не хватает? Количество лотов совпадает?" />
       <item value="Ignore the &quot;Last update of the lot&quot; timestamp when synchronizing." />
       <item value="Принудительная синхронизация" />
       <item value="Synchronization forced" />
@@ -47,22 +51,18 @@
       <item value="Можно" />
       <item value="arrow Parens" />
       <item value="unaccepted" />
-      <item value="squares" />
-      <item value="Auction list for Tiroche" />
-      <item value="The date of their first auction that was created on Bidspirit will also help us solve the problem." />
-      <item value="Eщё нам поможет решить проблему дата их первого аукциона что был создан на Bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3572" />
+        <entry key="ENGLISH" value="3574" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3572" />
+        <entry key="RUSSIAN" value="3574" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
