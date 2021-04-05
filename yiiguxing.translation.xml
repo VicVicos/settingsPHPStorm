@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It new feature to be implemented in the plugin." />
+      <item value="Новая фича для реализации в плагине." />
       <item value="There are no other auctions." />
       <item value="Других аукционов нет." />
       <item value="Are these missing? Does the number of lots match?" />
@@ -49,20 +51,18 @@
       <item value="יום ראשון 17012021 בשעה 18:00" />
       <item value="No problem" />
       <item value="Можно" />
-      <item value="arrow Parens" />
-      <item value="unaccepted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3574" />
+        <entry key="ENGLISH" value="3576" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3574" />
+        <entry key="RUSSIAN" value="3576" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
