@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Принудительная синхронизация" />
+      <item value="Synchronization forced" />
+      <item value="Synchronization Forced" />
+      <item value="Ignore the &quot;Last update of the lot&quot; timestamp when synchronizing." />
+      <item value="Последнее обновление лота" />
+      <item value="last updated lot" />
+      <item value="Ignore the &quot;last updated lot&quot; timestamp when synchronizing." />
+      <item value="Игнорировать метку времени &quot;последнее обновление лота&quot; при синхронизации." />
+      <item value="Force synchronization" />
+      <item value="Can you help me?" />
+      <item value="I don't find option for auction settings &quot;Exact date is not known yet&quot;" />
+      <item value="I don't find option &quot;Exact date is not known yet&quot;" />
       <item value="We will add this feature in one of the next plugin updates and will inform you about the implementation on your site." />
       <item value="We will add this feature in plugin updates and will inform you about the implementation on your site." />
       <item value="Hello! We got acquainted with your task and it will not be possible to do it quickly. We will add this feature in one of the next plugin updates and will inform you about the implementation on your site." />
@@ -39,30 +51,18 @@
       <item value="Auction list for Tiroche" />
       <item value="The date of their first auction that was created on Bidspirit will also help us solve the problem." />
       <item value="Eщё нам поможет решить проблему дата их первого аукциона что был создан на Bidspirit." />
-      <item value="Can you provide us with a list of all the auctions?" />
-      <item value="Сможете предоставить нам список всех аукционов?" />
-      <item value="You can provide us with a list of all auctions or else help us solve the problem with the date of the first auction that was created on Bidspirit." />
-      <item value="Сможете предоставить нам список всех аукционов или ещё нам поможет решить проблему дата их первого аукциона что был создан на Bidspirit." />
-      <item value="We are working on a website for the auction house tiroche. (tiroche.bidspirit.com) Would like to get a list of all the auctions they have on your portal. They have their own old auctions and in some cases their numbering overlaps which causes problems migrating their old site to WordPress." />
-      <item value="Работаем над сайтом для аукционного дома tiroche. (tiroche.bidspirit.com) Хотели бы получить список всех аукционов которые у них есть на вашем портале. У них есть свои старые аукционы и в некоторых случаях их нумерация пересекается что вызывает проблемы с переносом их старого сайта на WordPress." />
-      <item value="Page Empty" />
-      <item value="We have added a blank template for these pages for the &quot;Thanks page&quot; page. All design elements can be customized from the admin panel." />
-      <item value="Мы добавили пустой шаблон для таких страниц для страницы &quot;Thanks page&quot;. Все элементы дизайна могут быть настроены из админ панели." />
-      <item value="uco before init mutation" />
-      <item value="לקטלוג המכירה" />
-      <item value="Select the categories you want" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3562" />
+        <entry key="ENGLISH" value="3571" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3562" />
+        <entry key="RUSSIAN" value="3572" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
