@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please add to white list" />
+      <item value="Hello! We need to deploy a new test site for the clien" />
+      <item value="Hello! Нам надо развернуть новый тестовый сайт для клиента https:soca-art.bidspirit.com" />
       <item value="We found an issue related to a bug in the WPML plugin. We will need to make a copy of the site, deploy it on a test server and find a solution to this problem. Now I have temporarily fixed the problem which allowed synchronization to work further. Temporarily, because the problem will return after the next plugin update." />
       <item value="На данный момент я временно исправил проблему что позволило синхронизации работать дальше." />
       <item value="Мы нашли проблему, она связана с ошибкой в плагине WPML. Нам надо будет сделать копию сайта развернуть его на тестовом сервере и найти решение этой проблемы. Сейчас я временно исправил проблему что позволило синхронизации работать дальше. Временно, потому что после следующего обновления плагина проблема вернётся." />
@@ -48,21 +51,18 @@
       <item value="מכירה:" />
       <item value="It is important for the Tiroche client to use the link between Authors and lots." />
       <item value="Для клинету Tiroche важно использовать связь Авторов с лотами." />
-      <item value="It is important for the Tiroche client to use the comparison of Authors with lots." />
-      <item value="Для клинету Tiroche важно использовать сопоставление Авторов с лотами." />
-      <item value="It is important for the Tiroche client to use a bunch of Authors with lots." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3616" />
+        <entry key="ENGLISH" value="3618" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3616" />
+        <entry key="RUSSIAN" value="3618" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
