@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sorry to bother you, this issue has been resolved with the client." />
+      <item value="Извините за беспокойство, с клиентом решили этот вопрос." />
       <item value="פריט" />
       <item value="מכירה:" />
       <item value="It is important for the Tiroche client to use the link between Authors and lots." />
@@ -49,20 +51,18 @@
       <item value="Hello! На сайте ansuiniaste.com всё готово для обновления плагина. Вы хотите что бы мы обновили плагин?" />
       <item value="Last to first" />
       <item value="Reassign time" />
-      <item value="Fixed. There is a separate template for the home page." />
-      <item value="Исправилено. Для главной страницы существует отдельный шаблон." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3584" />
+        <entry key="ENGLISH" value="3585" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3584" />
+        <entry key="RUSSIAN" value="3585" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
