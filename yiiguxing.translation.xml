@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No. But this link work" />
+      <item value="No. But this link worked" />
+      <item value="I managed to connect via FTP, but I could not connect to the hosting admin panel. After entering data into the authorization form, the page simply reloads without receiving any notification." />
+      <item value="Мне удалось подключить по FTP, не я не смог подключиться к админке хостинга. После ввода данных в форму авторизации страница просто перезагружается не получая ни какого уведомления." />
+      <item value="Мне удалось подключить по FTP, не я не смог подключиться к админке хостинга. После ввода данных в форму авторизации страница просто перезагружается." />
+      <item value="Спасибо! Сейчас займусь проблемой." />
       <item value="Ok, i wait" />
       <item value="Ok, i wait it" />
       <item value="I see an error while syncing. We need to check what's going on there. Can you provide access to the hosting panel? So that I can quickly solve this problem." />
@@ -45,24 +51,18 @@
       <item value="bunch of Authors with lots." />
       <item value="It is important for the Tiroche client to use a bunch of Authors with lots. I would like to clarify in which field the author of lots is filled in on the Bidspirit portal." />
       <item value="Для клинету Tiroche важно использовать связку Авторов с лотами. Я хотел бы уточнить в какое поле заполняется автор лотов на портале Bidspirit." />
-      <item value="I see all four auctions" />
-      <item value="Я вижу все четыре аукциона" />
-      <item value="I watch all fourth auctions" />
-      <item value="I see all fourth auctions" />
-      <item value="It new feature to be implemented in the plugin." />
-      <item value="Новая фича для реализации в плагине." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3609" />
+        <entry key="ENGLISH" value="3614" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3609" />
+        <entry key="RUSSIAN" value="3614" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
