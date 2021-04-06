@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="פריט" />
+      <item value="מכירה:" />
       <item value="It is important for the Tiroche client to use the link between Authors and lots." />
       <item value="Для клинету Tiroche важно использовать связь Авторов с лотами." />
       <item value="It is important for the Tiroche client to use the comparison of Authors with lots." />
@@ -49,8 +51,6 @@
       <item value="Reassign time" />
       <item value="Fixed. There is a separate template for the home page." />
       <item value="Исправилено. Для главной страницы существует отдельный шаблон." />
-      <item value="Поможете решить эту проблему?" />
-      <item value="Image upload problem for old auctions" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="58" />
+        <entry key="HEBREW" value="60" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
