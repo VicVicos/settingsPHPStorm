@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ok, i wait" />
+      <item value="Ok, i wait it" />
+      <item value="I see an error while syncing. We need to check what's going on there. Can you provide access to the hosting panel? So that I can quickly solve this problem." />
+      <item value="Я вижу ошибку в момент синхронизации. Надо проверить что там происходит. Вы можете предоставить доступы к панели хостинга? Что бы я смог оперативно решить эту проблему." />
+      <item value="Auctions 1,2,3 have already passed and are displayed on the archived auctions page. Auction 1: what is available on this link: https:soca-art.comenauctionarte-africano, most likely you changed its sef link and it lost contact with the auction on Bidspirit. Since we have one more auction at number 1 https:soca-art.comenauction1 Auction 4 is coming soon and we can see it on the future auctions page. https:soca-art.comenauction" />
+      <item value="Since we have one more auction at number 1" />
+      <item value="Так как мы имеем ещё один аукцион под номером 1" />
+      <item value="Auction 1: what is available on this link, most likely you changed its sef link and it lost contact with the auction on Bidspirit." />
+      <item value="Аукцион 1: что доступен по этой ссылке, скорей всего вы изменили его sef ссылку и он потерял связь с аукционом на Bidspirit." />
+      <item value="Auctions 1,2,3 have already passed and are displayed on the archived auctions page. Auction 1: what is available on this link: https:soca-art.comenauctionarte-africano is manually created by you and is not linked to the first auction on Bidspirit. Auction 4 is coming soon and we can see it on the future auctions page. https:soca-art.comenauction" />
+      <item value="Auction 1: what is available on this link is manually created by you and is not linked to the first auction on Bidspirit." />
+      <item value="Аукцион 1: что доступен по этой ссылке, создан вами вручную и не имеет связи с первым аукционом на Bidspirit." />
+      <item value="Auction 4 is coming soon and we see it on the future auctions page." />
+      <item value="Auction 4 is coming soon and we can see it on the future auctions page." />
+      <item value="Аукцион 4 скоро состоится и мы его видим на странице будущих аукционов." />
+      <item value="Auction 4 is coming soon and is showing up on the future auctions page." />
+      <item value="Аукцион 4 скоро состоится и он отображается на странице будущих аукционов." />
+      <item value="Auction 1: what is available on this link is manually created by you and is not affiliated with Bidspirit in any way." />
+      <item value="Аукцион 1: что доступен по этой ссылке, создан вами вручную и ни как не связан с Bidspirit." />
+      <item value="Auctions 1,2,3 have already passed and are displayed on the archived auctions page." />
+      <item value="Аукционы 1,2,3 уже прошли и отображаются на странице архивных аукционов." />
       <item value="uco before fixed result lot imports" />
       <item value="uco before fix result lot imports" />
       <item value="uco before fix result lot import" />
@@ -30,39 +51,18 @@
       <item value="I see all fourth auctions" />
       <item value="It new feature to be implemented in the plugin." />
       <item value="Новая фича для реализации в плагине." />
-      <item value="There are no other auctions." />
-      <item value="Других аукционов нет." />
-      <item value="Are these missing? Does the number of lots match?" />
-      <item value="Вот этих не хватает? Количество лотов совпадает?" />
-      <item value="Ignore the &quot;Last update of the lot&quot; timestamp when synchronizing." />
-      <item value="Принудительная синхронизация" />
-      <item value="Synchronization forced" />
-      <item value="Synchronization Forced" />
-      <item value="Последнее обновление лота" />
-      <item value="last updated lot" />
-      <item value="Ignore the &quot;last updated lot&quot; timestamp when synchronizing." />
-      <item value="Игнорировать метку времени &quot;последнее обновление лота&quot; при синхронизации." />
-      <item value="Force synchronization" />
-      <item value="Can you help me?" />
-      <item value="I don't find option for auction settings &quot;Exact date is not known yet&quot;" />
-      <item value="I don't find option &quot;Exact date is not known yet&quot;" />
-      <item value="We will add this feature in one of the next plugin updates and will inform you about the implementation on your site." />
-      <item value="We will add this feature in plugin updates and will inform you about the implementation on your site." />
-      <item value="Hello! We got acquainted with your task and it will not be possible to do it quickly. We will add this feature in one of the next plugin updates and will inform you about the implementation on your site." />
-      <item value="Мы добавим такую возможность в одном из ближайших обновлений плагина и сообщим вам о реализации на вашем сайте." />
-      <item value="Hello! We got acquainted with your task and it will not be possible to do it quickly. We will add this feature in one of the next plugin updates and will inform you about the implementation of this task." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3595" />
+        <entry key="ENGLISH" value="3609" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3595" />
+        <entry key="RUSSIAN" value="3609" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
