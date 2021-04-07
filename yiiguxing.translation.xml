@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You are right, everything is configured correctly, but there is one auction that is not connected with bidspirit in any way and hangs by itself. I think it should be removed as it shouldn't appear on the future auctions page." />
+      <item value="Вы правы, всё верно настроено, но есть один аукцион который ни как не связан с bidspirit и висит сам по себе. Я думаю его надо удалить, так как он не должен отображаться на странице будущих аукционов." />
+      <item value="Auction number 1 is not affiliated with Bidspirit in any way. I suppose that slug was changed to him earlier and he was cut off from synchronization. It can be removed. Past auctions are displayed on the archived auctions page:" />
+      <item value="Аукционом под номером 1 ни как не связан с Bidspirit. Предполагаю что ранее ему изменили slug и он отрезался от синхронизации. Его можно удалить. Прошедшие аукционы отображаются на странице архивных аукционов:" />
+      <item value="Of those auctions that are presented on the future auctions page, only 4 are correct." />
+      <item value="Из тех аукционов что представлены на странице будущих аукционов корректным является только 4." />
       <item value="It looks like we are faced with the problem again that pictures for old auctions are on the old server, a similar problem was previously experienced by the 12auction client. You can see it here: http:tiroche.ln12.tempurl.infoauction154?part=1 http:tiroche.ln12.tempurl.infoauction156?part=1 For newer auctions, pictures are displayed without problems. Can the problem be resolved?" />
       <item value="Добрый день! Похоже мы столкнулись снова с проблемой что картинки для старых аукционов лежат на старом сервере, аналогичная проблема была ранее у клиента 12auction. Можете посмотреть тут: http:tiroche.ln12.tempurl.infoauction154?part=1 http:tiroche.ln12.tempurl.infoauction156?part=1 Для более новых аукционов картинки отображаются без проблем. Можно будет разрешить проблему?" />
       <item value="Hello! We are planning to create a new website. Client profile on bidspirit: https:tiroche.bidspirit.com Test domain: http:tiroche.ln12.tempurl.info 5.189.179.106 here is IP address. Please addition this to whitelist." />
@@ -45,24 +51,18 @@
       <item value="uco before fix result lot imports" />
       <item value="uco before fix result lot import" />
       <item value="paintings authors" />
-      <item value="authors paintings" />
-      <item value="bid authors" />
-      <item value="lots authors" />
-      <item value="lots author" />
-      <item value="authors lots" />
-      <item value="Авторы картин" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3623" />
+        <entry key="ENGLISH" value="3626" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3623" />
+        <entry key="RUSSIAN" value="3626" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
