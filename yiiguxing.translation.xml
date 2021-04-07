@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello! We are planning to create a new website. Client profile on bidspirit: https:tiroche.bidspirit.com Test domain: http:tiroche.ln12.tempurl.info 5.189.179.106 here is IP address. Please addition this to whitelist." />
       <item value="If needle is found in haystack more than once, the first matching key is returned. To return the keys for all matching values, use array_keys with the optional search_value parameter instead." />
       <item value="The problem has been resolved." />
       <item value="Проблема решена." />
@@ -50,19 +51,18 @@
       <item value="Авторы картин" />
       <item value="Authors of Auctions" />
       <item value="Sorry to bother you, this issue has been resolved with the client." />
-      <item value="Извините за беспокойство, с клиентом решили этот вопрос." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3621" />
+        <entry key="ENGLISH" value="3622" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3621" />
+        <entry key="RUSSIAN" value="3622" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
