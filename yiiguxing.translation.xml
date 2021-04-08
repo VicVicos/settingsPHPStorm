@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="כניסה למערכת" />
       <item value="You are right, everything is configured correctly, but there is one auction that is not connected with bidspirit in any way and hangs by itself. I think it should be removed as it shouldn't appear on the future auctions page." />
       <item value="Вы правы, всё верно настроено, но есть один аукцион который ни как не связан с bidspirit и висит сам по себе. Я думаю его надо удалить, так как он не должен отображаться на странице будущих аукционов." />
       <item value="Auction number 1 is not affiliated with Bidspirit in any way. I suppose that slug was changed to him earlier and he was cut off from synchronization. It can be removed. Past auctions are displayed on the archived auctions page:" />
@@ -50,7 +51,6 @@
       <item value="uco before fixed result lot imports" />
       <item value="uco before fix result lot imports" />
       <item value="uco before fix result lot import" />
-      <item value="paintings authors" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="60" />
+        <entry key="HEBREW" value="62" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
