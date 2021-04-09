@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uco cdn use conditions" />
       <item value="white" />
       <item value="error parse content of lot" />
       <item value="error parse contents lot" />
@@ -50,19 +51,18 @@
       <item value="Аукцион 1: что доступен по этой ссылке, создан вами вручную и не имеет связи с первым аукционом на Bidspirit." />
       <item value="Auction 4 is coming soon and we see it on the future auctions page." />
       <item value="Auction 4 is coming soon and we can see it on the future auctions page." />
-      <item value="Аукцион 4 скоро состоится и мы его видим на странице будущих аукционов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3633" />
+        <entry key="ENGLISH" value="3634" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3633" />
+        <entry key="RUSSIAN" value="3634" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
