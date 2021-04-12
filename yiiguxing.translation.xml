@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We are waiting for the end of the synchronization and provide you with all the information on the test site." />
+      <item value="Ждём окончания синхронизации и предоставим вас всю информацию по тестовому сайту." />
+      <item value="We are waiting for the end of the synchronization and we will throw you all the information on the test site. We also need to know the IP address of your current site, Bidspirit must add it to the whitelist." />
+      <item value="Ждём окончания синхронизации и скинем вас всю информацию по тестовому сайту. Так же нам надо знать IP адрес вашего текущего сайта, Bidspirit должны добавить его в белый список." />
       <item value="And 5.189.179.106 here is IP address." />
       <item value="And 5.189.179.106 here is him IP address." />
       <item value="And 5.189.179.106 here is their IP address." />
@@ -47,22 +51,18 @@
       <item value="Мне удалось подключить по FTP, не я не смог подключиться к админке хостинга. После ввода данных в форму авторизации страница просто перезагружается." />
       <item value="Спасибо! Сейчас займусь проблемой." />
       <item value="Ok, i wait" />
-      <item value="Ok, i wait it" />
-      <item value="I see an error while syncing. We need to check what's going on there. Can you provide access to the hosting panel? So that I can quickly solve this problem." />
-      <item value="Я вижу ошибку в момент синхронизации. Надо проверить что там происходит. Вы можете предоставить доступы к панели хостинга? Что бы я смог оперативно решить эту проблему." />
-      <item value="Auctions 1,2,3 have already passed and are displayed on the archived auctions page. Auction 1: what is available on this link: https:soca-art.comenauctionarte-africano, most likely you changed its sef link and it lost contact with the auction on Bidspirit. Since we have one more auction at number 1 https:soca-art.comenauction1 Auction 4 is coming soon and we can see it on the future auctions page. https:soca-art.comenauction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3643" />
+        <entry key="ENGLISH" value="3645" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3643" />
+        <entry key="RUSSIAN" value="3645" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
