@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="single Quote" />
+      <item value="We will make you a test site and provide you with access to the admin panel, we will also provide you with a user manual. If you have any questions, write to the group." />
+      <item value="Мы сделаем вам тестовый сайт и предоставим доступы в админку, так же мы предоставим вам инструкцию пользователя. При возникновении вопросов пишите в группу." />
       <item value="uco cdn use conditions" />
       <item value="white" />
       <item value="error parse content of lot" />
@@ -48,21 +51,18 @@
       <item value="Аукцион 1: что доступен по этой ссылке, скорей всего вы изменили его sef ссылку и он потерял связь с аукционом на Bidspirit." />
       <item value="Auctions 1,2,3 have already passed and are displayed on the archived auctions page. Auction 1: what is available on this link: https:soca-art.comenauctionarte-africano is manually created by you and is not linked to the first auction on Bidspirit. Auction 4 is coming soon and we can see it on the future auctions page. https:soca-art.comenauction" />
       <item value="Auction 1: what is available on this link is manually created by you and is not linked to the first auction on Bidspirit." />
-      <item value="Аукцион 1: что доступен по этой ссылке, создан вами вручную и не имеет связи с первым аукционом на Bidspirit." />
-      <item value="Auction 4 is coming soon and we see it on the future auctions page." />
-      <item value="Auction 4 is coming soon and we can see it on the future auctions page." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3634" />
+        <entry key="ENGLISH" value="3638" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3634" />
+        <entry key="RUSSIAN" value="3638" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
