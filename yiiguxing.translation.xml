@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Мы замечаем что синхронизация не успевает за обновлением каталога. Вам необходимо настроить автоматическую синхронизацию как описано в инструкции:" />
+      <item value="For more detailed information, contact the hosting provider's technical support." />
+      <item value="Для получения более точной информации обратитесь в техническую поддержку хостинг провайдера." />
+      <item value="Для получения более точной информации обратитесь" />
+      <item value="After setting it up, it is important to check the correctness of the commands and all tasks work correctly." />
+      <item value="Samples" />
+      <item value="После настройки важно проверить правильность команд и все задачи работают корректно." />
+      <item value="After setting it up, it is important to check that the commands are correct and everything works." />
+      <item value="После настройки важно проверить что команды указаны верно и всё работает." />
       <item value="We are waiting for the end of the synchronization and provide you with all the information on the test site." />
       <item value="Ждём окончания синхронизации и предоставим вас всю информацию по тестовому сайту." />
       <item value="We are waiting for the end of the synchronization and we will throw you all the information on the test site. We also need to know the IP address of your current site, Bidspirit must add it to the whitelist." />
@@ -42,27 +51,18 @@
       <item value="Hello! We need to deploy a new test site for the clien" />
       <item value="Hello! Нам надо развернуть новый тестовый сайт для клиента https:soca-art.bidspirit.com" />
       <item value="We found an issue related to a bug in the WPML plugin. We will need to make a copy of the site, deploy it on a test server and find a solution to this problem. Now I have temporarily fixed the problem which allowed synchronization to work further. Temporarily, because the problem will return after the next plugin update." />
-      <item value="На данный момент я временно исправил проблему что позволило синхронизации работать дальше." />
-      <item value="Мы нашли проблему, она связана с ошибкой в плагине WPML. Нам надо будет сделать копию сайта развернуть его на тестовом сервере и найти решение этой проблемы. Сейчас я временно исправил проблему что позволило синхронизации работать дальше. Временно, потому что после следующего обновления плагина проблема вернётся." />
-      <item value="No. But this link work" />
-      <item value="No. But this link worked" />
-      <item value="I managed to connect via FTP, but I could not connect to the hosting admin panel. After entering data into the authorization form, the page simply reloads without receiving any notification." />
-      <item value="Мне удалось подключить по FTP, не я не смог подключиться к админке хостинга. После ввода данных в форму авторизации страница просто перезагружается не получая ни какого уведомления." />
-      <item value="Мне удалось подключить по FTP, не я не смог подключиться к админке хостинга. После ввода данных в форму авторизации страница просто перезагружается." />
-      <item value="Спасибо! Сейчас займусь проблемой." />
-      <item value="Ok, i wait" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3645" />
+        <entry key="ENGLISH" value="3652" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3645" />
+        <entry key="RUSSIAN" value="3653" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
