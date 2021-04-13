@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="At the moment, no matter how. This functionality will appear in the plugin soon." />
+      <item value="На данный момент ни как. Скоро этот функционал появится в плагине." />
+      <item value="And I formalized this in the plugin update, now it will be enough to update the plugin from the admin panel." />
+      <item value="И я оформил это в обновление плагина, теперь достаточно будет обновить плагин из админ панели." />
+      <item value="Made changes that fix the synchronization problem. Now let's wait a bit, as I think the automatic sync is working." />
+      <item value="Внёс изменения что устраняют проблему синхронизации. Сейчас давайте подождём немного, так как я думаю что автоматическая синхронизация работает." />
       <item value="Now we do not sync content, there are translations only for the interface. But we are already working on this functionality and it will appear in one of the future updates, in about 1 - 1.5 months. And now we are working only with the Polylang plugin." />
       <item value="Сейчас мы не синхронизируем контент, переводы есть только для интерфейса. Но мы уже работаем над этим функционалом и он появится в одном из будущих обновлений, примерно через 1 - 1,5 месяца. И сейчас мы работаем только с плагином Polylang." />
       <item value="Then the problem with syncing is only on your site. We need access to the site admin panel." />
@@ -45,24 +51,18 @@
       <item value="Thank you! We are aware of this issue and it has been fixed for the next plugin update. Fixed a bug on your site. Synchronization works." />
       <item value="Спасибо! Нам известна эта проблема и она исправлена для следующего обновления плагина. Исправил ошибку на вашем сайте. Синхронизация работает." />
       <item value="Can I install the File Manager plugin? Synchronization fails with server error and I need to enable debug mode. With the help of the File Manager, I will be able to view the error logs." />
-      <item value="Могу я установить плагин File Manager? Синхронизация завершается серверной ошибкой и мне надо включить режим отладки. С помощью File Manager я смогу просмотреть логи ошибок." />
-      <item value="Bidspirit has added your domain to the whitelist and shouldn't be a problem. I checked it on the test and the synchronization works. Please set up automatic synchronization as described in the instructions. This solves a lot of problems for large auctions." />
-      <item value="Bidspirit добавили ваш домен в белый список и с этим проблем быть не должно. На тестовом я проверил и синхронизация отрабатывает. Пожалуйста, настройте автоматическую синхронизацию как описано в инструкции. Это решает множество проблем для больших аукционов." />
-      <item value="Synchronization error:" />
-      <item value="Об ошибке при синхронизации:" />
-      <item value="I suppose that the error occurs due to the long running of the script at the first start." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3706" />
+        <entry key="ENGLISH" value="3709" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3706" />
+        <entry key="RUSSIAN" value="3709" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
