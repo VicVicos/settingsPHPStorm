@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Before installing the plugin please give us the domain and IP address and we will contact the bidspirit support team to whitelist the site." />
+      <item value="If you have any questions about the plugin - please ask us with reference to our demo site, we are not going to be able to check your site or fix your site. Please send all support requests to support@bidspirit-themes.com" />
       <item value="Мы замечаем что синхронизация не успевает за обновлением каталога. Вам необходимо настроить автоматическую синхронизацию как описано в инструкции:" />
       <item value="For more detailed information, contact the hosting provider's technical support." />
       <item value="Для получения более точной информации обратитесь в техническую поддержку хостинг провайдера." />
@@ -49,20 +51,18 @@
       <item value="Problem will resolve" />
       <item value="Please add to white list" />
       <item value="Hello! We need to deploy a new test site for the clien" />
-      <item value="Hello! Нам надо развернуть новый тестовый сайт для клиента https:soca-art.bidspirit.com" />
-      <item value="We found an issue related to a bug in the WPML plugin. We will need to make a copy of the site, deploy it on a test server and find a solution to this problem. Now I have temporarily fixed the problem which allowed synchronization to work further. Temporarily, because the problem will return after the next plugin update." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3652" />
+        <entry key="ENGLISH" value="3654" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3653" />
+        <entry key="RUSSIAN" value="3654" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
