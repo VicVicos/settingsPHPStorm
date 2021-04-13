@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="These auctions in their name on Bidspirit have nothing superfluous except 3 digits?" />
+      <item value="Эти аукционы в своем названии на Bidspirit не имеют ни чего лишнего кроме 3 цифр?" />
+      <item value="This moment is not clear to me myself. For some reason they are excluded." />
+      <item value="Вот этот момент мне самому не ясен. Почему то они исключены." />
+      <item value="Added launching it to the &quot;SyncNow&quot; button." />
+      <item value="Добавил запуск её в на кнопку &quot;SyncNow&quot;." />
+      <item value="Added launching it to the &quot;SyncNow&quot; button earlier this was not required." />
+      <item value="Добавил запуск её в на кнопку &quot;SyncNow&quot; ранее этого не требовалось." />
+      <item value="It was necessary to launch the lotBidSpiritOld.php task" />
+      <item value="Нужно было осуществить запуск задачи lotBidSpiritOld.php" />
+      <item value="На строке 69" />
+      <item value="инициализация константы" />
+      <item value="file wp-config.php, initialization constant 'RAW_LOT_LIMIT'" />
+      <item value="And I increased the number of synchronized lots per minute." />
+      <item value="И я увеличил количество лотов синхронизируемых в минуту." />
+      <item value="Now everything works automatically." />
+      <item value="Теперь всё работает автоматом." />
+      <item value="Now everything is automatic." />
+      <item value="Теперь всё идёт автоматом." />
+      <item value="One moment, I'll check it out now." />
+      <item value="Один момент, сейчас проверю." />
       <item value="I don't see a problem, everything seems to be working, but a new auction does not appear, I can only identify such a problem with access to the hosting panel." />
       <item value="Я не вижу проблемы, вроде всё работает, но новый аукцион не появляется, такую проблему я смогу выявить только с доступом к хостинг панели." />
       <item value="This opportunity will appear soon. After about 1-1.5 months." />
@@ -30,39 +51,18 @@
       <item value="Then the problem with syncing is only on your site. We need access to the site admin panel." />
       <item value="Тогда проблема с синхронизацией только на вашем сайте. Нам нужен доступ в админку сайта." />
       <item value="Is the test site okay with the syncing of future auctions?" />
-      <item value="На тестовом сайте всё в порядке с синхронизацией будущих аукционов?" />
-      <item value="Check it out on the test site with sync?" />
-      <item value="Проверьте на тестовом сайте всё в порядке с синхронизацией?" />
-      <item value="And now 388 lots have already been loaded. Haven't you started manual synchronization anymore?" />
-      <item value="And now 388 lots have already been loaded. Haven't you started manual synchronization?" />
-      <item value="И сейчас загружено уже 388 лотов. Вы не запускали более синхронизацию в ручную?" />
-      <item value="And now 388 lots have already been loaded. Haven't you clicked sync now?" />
-      <item value="And now 388 lots have already been loaded. Haven't you clicked sync again?" />
-      <item value="И сейчас загружено уже 388 лотов. Вы более не нажимали на синхронизацию?" />
-      <item value="Let's increase the number of lots synchronized per clock cycle, but on condition that the pictures will be taken from the Bidspirit CDN. If you want to upload them to yourself, we recommend leaving 10." />
-      <item value="Давайте увеличим количество лотов синхронизируемых за один такт, но при условии что картинки будут браться с CDN Bidspirit. Если вы хотите загружать их к себе, то рекомендуем оставить 10." />
-      <item value="Let's increase the number of lots synchronized per clock cycle, but on condition that the pictures will be taken from Bidspirit servers. If you want to upload them to yourself, we recommend leaving 10." />
-      <item value="Давайте увеличим количество лотов синхронизируемых за один такт, но при условии что картинки будут браться с серверов Bidspirit. Если вы хотите загружать их к себе, то рекомендуем оставить 10." />
-      <item value="Lots are linked to auctions. We do not currently use categories in the plugin." />
-      <item value="Лоты привязаны к аукционам. Категории на данный момент мы не используем в плагине." />
-      <item value="In the history of synchronization, I see already 360 lots have been synchronized. Did you do it manually or did it happen automatically?" />
-      <item value="В истории синхронизации я вижу уже 360 лотов было синхронизированы. Вы в ручную это сделали или это автоматически произошло?" />
-      <item value="Automatic synchronization is recommended as a priority method. For large auctions, this is the only working option, since other options may lag far behind and do not guarantee the relevance of the data with the data on the Bidspirit profile." />
-      <item value="Автоматическая синхронизация рекомендуется как приоритетный способ. Для больших аукционов это единственный рабочий вариант, так как другие варианты могут сильно отставать и не гарантируют актуальность данных с данными на профиле Bidspirit." />
-      <item value="Let's check the correctness of the work of cron tasks, since the specifics of the configuration strongly depend on the hosting." />
-      <item value="Давайте проверим корректность работы cron задач, так как специфика настройки сильно зависит от хостинга." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3718" />
+        <entry key="ENGLISH" value="3731" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3718" />
+        <entry key="RUSSIAN" value="3731" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
