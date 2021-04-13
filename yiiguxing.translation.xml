@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I don't see a problem, everything seems to be working, but a new auction does not appear, I can only identify such a problem with access to the hosting panel." />
+      <item value="Я не вижу проблемы, вроде всё работает, но новый аукцион не появляется, такую проблему я смогу выявить только с доступом к хостинг панели." />
+      <item value="This opportunity will appear soon. After about 1-1.5 months." />
+      <item value="Эта возможность появится в скором времени. Примерно через 1-1,5 месяца." />
+      <item value="Currently, you can only sync content with Bidspirit in one language specified in the plugin settings. The plugin interface supports many languages. For now, the plugin only works with Polylang." />
+      <item value="Сейчас вы можете синхронизировать контент с Bidspirit только на одном языке, указанный в настройках плагина." />
+      <item value="Currently, you can only sync content with Bidspirit in one language. The plugin interface supports many languages. For now, the plugin only works with Polylang." />
+      <item value="Сейчас вы можете синхронизировать контент с Bidspirit только на одном языке. Интерфейс плагина поддерживает множество языков. На данный момент плагин работает только с Polylang." />
+      <item value="I think you can migrate from WPML to Polylang. In our practice, this had to be done and there were no problems with migration." />
+      <item value="Я думаю вы можете сделать миграцию с WPML на Polylang. В нашей практике такое приходилось делать и проблем с миграцией не возникло." />
       <item value="Everything related to the plugin will be translated automatically. Translation for static pages will need to be added manually. Namely, add translation pages to those specified in the plugin settings." />
       <item value="А именно добавить страницы переводов к тем что указаны в настройках плагина." />
       <item value="Everything related to the plugin will be translated automatically. Translation for static pages will need to be added manually. Namely, add translation pages to those specified in the settings." />
@@ -41,28 +51,18 @@
       <item value="Автоматическая синхронизация рекомендуется как приоритетный способ. Для больших аукционов это единственный рабочий вариант, так как другие варианты могут сильно отставать и не гарантируют актуальность данных с данными на профиле Bidspirit." />
       <item value="Let's check the correctness of the work of cron tasks, since the specifics of the configuration strongly depend on the hosting." />
       <item value="Давайте проверим корректность работы cron задач, так как специфика настройки сильно зависит от хостинга." />
-      <item value="Only 10 lots are synchronized per clock cycle. You can increase this value. If you do not upload pictures to your site, but leave them on Bidspirit servers, then this value can be increased." />
-      <item value="За один такт синхронизируется только 10 лотов. Можно увеличить это значение. Если вы не будите загружать картинки на свой сайт, а оставите их на серверах Bidspirit, то это значение можно сделать больше." />
-      <item value="By default, this feature only syncs active auctions. Since we do not do manual synchronization, it should work in automatic mode. For the sake of demonstration, I added synchronization of archived auctions, but it will disappear when the plugin is updated." />
-      <item value="По умолчанию эта функция синхронизирует только активные аукционы. Так как в ручную синхронизацию мы не делаем, она должна работать в автоматическом режиме. Для демонстрации я добавил синхронизацию архивных аукционов, но она пропадёт при обновлении плагина." />
-      <item value="I think you can delete the categories and they will not be imported since they were loaded before you set up the exceptions." />
-      <item value="Думаю вы можете удалить категории и они не будут импортироваться, так как они были загружены до того как вы настроили исключения." />
-      <item value="Думаю вы можете удалить категории и они не будут импортироваться, так как они были импортированы до того как вы настроили исключения." />
-      <item value="I think you can delete the categories and they won't appear anymore since they were imported before you set up the exceptions." />
-      <item value="Думаю вы можете удалить категории и они более не появятся, так как они были импортированы до того как вы настроили исключения." />
-      <item value="This field will not sync and populate." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3713" />
+        <entry key="ENGLISH" value="3718" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3713" />
+        <entry key="RUSSIAN" value="3718" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
