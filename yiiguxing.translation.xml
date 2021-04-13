@@ -1,9 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wp-cron synchronization, does not have time" />
+      <item value="wp-cron синхронизация, не успевает" />
+      <item value="We also noticed that you have added all auctions except 79 to the list of exclusions, this is not necessary, since active auctions have priority over archived auctions." />
+      <item value="You also noticed that you have added all auctions except 79 to the list of exclusions, this is not necessary, since active auctions have priority over archived auctions." />
+      <item value="Так же заметили что вы добавили в список исключений все аукционы кроме 79, это не обязательно делать, так как у активных аукционов есть приоритет над архивными аукционами." />
+      <item value="After the next synchronization, the problems will be resolved, but it is imperative for you to do automatic sync." />
+      <item value="but it is imperative for you to do automatic sync." />
+      <item value="но вам крайне важно сделать автоматическую синхронизацию." />
+      <item value="The error in which lots do not appear, but when the filter is applied, is covered in one of the latest updates when we added support for sorting lots with letter indices." />
+      <item value="The error in which lots do not appear, but when the filter is applied, is covered in one of the latest updates when we added support for sorting lots with letter indexes." />
+      <item value="3) Archive auctions 1-32 were on the ignored list, cleared the list. The error in which lots do not appear, but when the filter is applied, is covered in one of the latest updates when we added support for sorting lots with letter indices. After the next synchronization, the problems will be resolved." />
+      <item value="3) Архивные аукционы 1-32 были в списке игнорируемых, очистили список. Ошибка при которой лоты не появляются, а при применении фильтра появляются, кроется в одном из последних обновлений когда мы добавили поддержку сортировки лотов с буквенными индексами. После очередной синхронизации проблемы будут решены." />
+      <item value="2) Changes to lots in Bidspirit after synchronization are taken into account in the plugin and will be updated on the site during synchronization." />
+      <item value="2) Изменения лотов в Bidspirit после синхронизации учтены в работе плагина и при синхронизацией будет обновляться на сайте." />
+      <item value="1) Missing pictures for new lots in auction 76 have appeared." />
+      <item value="1) Отсутствующие картинки для новых лотов в аукционе 76 появились." />
+      <item value="The current sync setting is only suitable for small auctions, in your case this is not enough." />
+      <item value="Текущая настройка синхронизации подходит только для маленьких аукционов, в вашем случае этого не хватает." />
+      <item value="Now on the site you have synchronization only during the moments of activity on the site, switching to automatic mode will allow you to increase the number of synchronized lots." />
+      <item value="Сейчас на сайте у вас работает синхронизация только в моменты активности на сайте, переход на автоматический режим позволит вам увеличить количество синхронизируемых лотов." />
+      <item value="We notice that the sync is not keeping pace with the catalog update. You need to set up automatic synchronization as described in the instructions:" />
+      <item value="Мы замечаем что синхронизация не успевает за обновлением каталога. Вам необходимо настроить автоматическую синхронизацию как описано в инструкции:" />
       <item value="Before installing the plugin please give us the domain and IP address and we will contact the bidspirit support team to whitelist the site." />
       <item value="If you have any questions about the plugin - please ask us with reference to our demo site, we are not going to be able to check your site or fix your site. Please send all support requests to support@bidspirit-themes.com" />
-      <item value="Мы замечаем что синхронизация не успевает за обновлением каталога. Вам необходимо настроить автоматическую синхронизацию как описано в инструкции:" />
       <item value="For more detailed information, contact the hosting provider's technical support." />
       <item value="Для получения более точной информации обратитесь в техническую поддержку хостинг провайдера." />
       <item value="Для получения более точной информации обратитесь" />
@@ -30,39 +51,18 @@
       <item value="error parse content of lot" />
       <item value="error parse contents lot" />
       <item value="experemental" />
-      <item value="Render the lot on the front" />
-      <item value="Лот отрисовывать на сайте" />
-      <item value="lot render front" />
-      <item value="הרשמה" />
-      <item value="כניסה" />
-      <item value="כניסה למערכת" />
-      <item value="You are right, everything is configured correctly, but there is one auction that is not connected with bidspirit in any way and hangs by itself. I think it should be removed as it shouldn't appear on the future auctions page." />
-      <item value="Вы правы, всё верно настроено, но есть один аукцион который ни как не связан с bidspirit и висит сам по себе. Я думаю его надо удалить, так как он не должен отображаться на странице будущих аукционов." />
-      <item value="Auction number 1 is not affiliated with Bidspirit in any way. I suppose that slug was changed to him earlier and he was cut off from synchronization. It can be removed. Past auctions are displayed on the archived auctions page:" />
-      <item value="Аукционом под номером 1 ни как не связан с Bidspirit. Предполагаю что ранее ему изменили slug и он отрезался от синхронизации. Его можно удалить. Прошедшие аукционы отображаются на странице архивных аукционов:" />
-      <item value="Of those auctions that are presented on the future auctions page, only 4 are correct." />
-      <item value="Из тех аукционов что представлены на странице будущих аукционов корректным является только 4." />
-      <item value="It looks like we are faced with the problem again that pictures for old auctions are on the old server, a similar problem was previously experienced by the 12auction client. You can see it here: http:tiroche.ln12.tempurl.infoauction154?part=1 http:tiroche.ln12.tempurl.infoauction156?part=1 For newer auctions, pictures are displayed without problems. Can the problem be resolved?" />
-      <item value="Добрый день! Похоже мы столкнулись снова с проблемой что картинки для старых аукционов лежат на старом сервере, аналогичная проблема была ранее у клиента 12auction. Можете посмотреть тут: http:tiroche.ln12.tempurl.infoauction154?part=1 http:tiroche.ln12.tempurl.infoauction156?part=1 Для более новых аукционов картинки отображаются без проблем. Можно будет разрешить проблему?" />
-      <item value="Hello! We are planning to create a new website. Client profile on bidspirit: https:tiroche.bidspirit.com Test domain: http:tiroche.ln12.tempurl.info 5.189.179.106 here is IP address. Please addition this to whitelist." />
-      <item value="If needle is found in haystack more than once, the first matching key is returned. To return the keys for all matching values, use array_keys with the optional search_value parameter instead." />
-      <item value="The problem has been resolved." />
-      <item value="Проблема решена." />
-      <item value="Problem will resolve" />
-      <item value="Please add to white list" />
-      <item value="Hello! We need to deploy a new test site for the clien" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3654" />
+        <entry key="ENGLISH" value="3670" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3654" />
+        <entry key="RUSSIAN" value="3670" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
