@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Everything related to the plugin will be translated automatically. Translation for static pages will need to be added manually. Namely, add translation pages to those specified in the plugin settings." />
+      <item value="А именно добавить страницы переводов к тем что указаны в настройках плагина." />
+      <item value="Everything related to the plugin will be translated automatically. Translation for static pages will need to be added manually. Namely, add translation pages to those specified in the settings." />
+      <item value="Всё что касается плагина переведётся автоматом. Перевод для статичных страниц надо будет добавить в ручную. А именно добавить страницы переводов к тем что указаны в настройках." />
+      <item value="You can add more languages using the Polylang plugin, but localization is only for the interface. The content is currently not synchronized in several languages and supports the language set in the plugin settings." />
+      <item value="Вы можете добавить больше языков с помощью плагина Polylang, но локализация есть только для интерфейса. Контент на данный момент не синхронизируется на несколько языков и поддерживает язык установленный в настройках плагина." />
+      <item value="You can add more languages using the Polylang plugin, but localization is only for the interface. The content is currently not synchronized and only supports one language set in the plugin settings." />
+      <item value="Вы можете добавить больше языков с помощью плагина Polylang, но локализация есть только для интерфейса. Контент на данный момент не синхронизируется и поддерживает только один язык установленный в настройках плагина." />
       <item value="At the moment, no matter how. This functionality will appear in the plugin soon." />
       <item value="На данный момент ни как. Скоро этот функционал появится в плагине." />
       <item value="And I formalized this in the plugin update, now it will be enough to update the plugin from the admin panel." />
@@ -43,26 +51,18 @@
       <item value="I think you can delete the categories and they won't appear anymore since they were imported before you set up the exceptions." />
       <item value="Думаю вы можете удалить категории и они более не появятся, так как они были импортированы до того как вы настроили исключения." />
       <item value="This field will not sync and populate." />
-      <item value="Это поле не будет синхронизироваться и заполняться." />
-      <item value="You can run the cron task manually or configure the output of the result to the mail so that we make sure that there are no errors." />
-      <item value="Вы можете запустить cron задачу в ручную или настроить вывод результата на почту что бы мы убедились что ошибок нет." />
-      <item value="You can customize to your choice. This option takes a photo from the Bidspirit server." />
-      <item value="Вы можете настроить на свой выбор. Этот вариант берёт фото с сервера Bidspirit." />
-      <item value="Thank you! We are aware of this issue and it has been fixed for the next plugin update. Fixed a bug on your site. Synchronization works." />
-      <item value="Спасибо! Нам известна эта проблема и она исправлена для следующего обновления плагина. Исправил ошибку на вашем сайте. Синхронизация работает." />
-      <item value="Can I install the File Manager plugin? Synchronization fails with server error and I need to enable debug mode. With the help of the File Manager, I will be able to view the error logs." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3709" />
+        <entry key="ENGLISH" value="3713" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3709" />
+        <entry key="RUSSIAN" value="3713" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
