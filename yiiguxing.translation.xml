@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bidspirit has added your domain to the whitelist and shouldn't be a problem. I checked it on the test and the synchronization works. Please set up automatic synchronization as described in the instructions. This solves a lot of problems for large auctions." />
+      <item value="Bidspirit добавили ваш домен в белый список и с этим проблем быть не должно. На тестовом я проверил и синхронизация отрабатывает. Пожалуйста, настройте автоматическую синхронизацию как описано в инструкции. Это решает множество проблем для больших аукционов." />
+      <item value="Synchronization error:" />
+      <item value="Об ошибке при синхронизации:" />
+      <item value="I suppose that the error occurs due to the long running of the script at the first start." />
+      <item value="Предполагаю что ошибка возникает из за долгой работы скрипта при первом запуске." />
+      <item value="You can customize your design by redefining the plugin templates, similar to how it is done in Woocommerce." />
+      <item value="Вы можете сделать свой дизайн переопределив шаблоны плагина, по аналогии как это сделано в Woocommerce." />
+      <item value="No, we cannot do that. Integration with Elementor is not provided." />
+      <item value="You can add auctions to exclusions that do not need to be synchronized." />
+      <item value="Вы можете добавить аукционы в исключения которые не надо синхронизировать." />
+      <item value="Fields added with ACF will not be removed." />
+      <item value="Удаляться поля добавленные с помощью ACF не будут." />
+      <item value="We will take a look and give an estimate of the time to implement support with WPML. For now, we only support Polylang." />
+      <item value="Мы посмотрим и дадим оценку времени по реализации поддержки с WPML. Сейчас мы поддерживаем только Polylang." />
+      <item value="Нет, это мы не можем сделать. Интеграция с Elementor не предусмотрена." />
       <item value="wp-cron synchronization, does not have time" />
       <item value="wp-cron синхронизация, не успевает" />
       <item value="We also noticed that you have added all auctions except 79 to the list of exclusions, this is not necessary, since active auctions have priority over archived auctions." />
@@ -35,34 +51,18 @@
       <item value="После настройки важно проверить что команды указаны верно и всё работает." />
       <item value="We are waiting for the end of the synchronization and provide you with all the information on the test site." />
       <item value="Ждём окончания синхронизации и предоставим вас всю информацию по тестовому сайту." />
-      <item value="We are waiting for the end of the synchronization and we will throw you all the information on the test site. We also need to know the IP address of your current site, Bidspirit must add it to the whitelist." />
-      <item value="Ждём окончания синхронизации и скинем вас всю информацию по тестовому сайту. Так же нам надо знать IP адрес вашего текущего сайта, Bidspirit должны добавить его в белый список." />
-      <item value="And 5.189.179.106 here is IP address." />
-      <item value="And 5.189.179.106 here is him IP address." />
-      <item value="And 5.189.179.106 here is their IP address." />
-      <item value="And add production domain please." />
-      <item value="And add another production domain please." />
-      <item value="И добавьте ещё продакшен домен пожалуйста." />
-      <item value="single Quote" />
-      <item value="We will make you a test site and provide you with access to the admin panel, we will also provide you with a user manual. If you have any questions, write to the group." />
-      <item value="Мы сделаем вам тестовый сайт и предоставим доступы в админку, так же мы предоставим вам инструкцию пользователя. При возникновении вопросов пишите в группу." />
-      <item value="uco cdn use conditions" />
-      <item value="white" />
-      <item value="error parse content of lot" />
-      <item value="error parse contents lot" />
-      <item value="experemental" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3670" />
+        <entry key="ENGLISH" value="3680" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3670" />
+        <entry key="RUSSIAN" value="3680" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
