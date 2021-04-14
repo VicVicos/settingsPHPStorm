@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Let me take a look at this problem tomorrow morning." />
+      <item value="Разрешите я посмотрю на эту проблему завтра утром." />
+      <item value="We do not provide support for the ACF plugin. If you find a working solution for how to return the display of standard fields, use it." />
+      <item value="Поддержку по ACF плагину мы не осуществляем. Если вы найдёте рабочее решение как вернуть отображение стандартных полей, воспользуйтесь им." />
+      <item value="For some reason, the auctions themselves got into an exception; on the test site, these auctions are synchronized." />
+      <item value="По какой то причине сами аукционы попали в исключение, на тестовом сайте эти аукционы синхронизированы." />
+      <item value="This is why the auctions themselves were included in the exception, on the test site these auctions are synchronized." />
+      <item value="Тут почему сами аукционы попали в исключение, на тестовом сайте эти аукционы синхронизированы." />
+      <item value="Я думаю плагин ACF скрывает их." />
       <item value="These auctions in their name on Bidspirit have nothing superfluous except 3 digits?" />
       <item value="Эти аукционы в своем названии на Bidspirit не имеют ни чего лишнего кроме 3 цифр?" />
       <item value="This moment is not clear to me myself. For some reason they are excluded." />
@@ -42,27 +51,18 @@
       <item value="Вы можете добавить больше языков с помощью плагина Polylang, но локализация есть только для интерфейса. Контент на данный момент не синхронизируется и поддерживает только один язык установленный в настройках плагина." />
       <item value="At the moment, no matter how. This functionality will appear in the plugin soon." />
       <item value="На данный момент ни как. Скоро этот функционал появится в плагине." />
-      <item value="And I formalized this in the plugin update, now it will be enough to update the plugin from the admin panel." />
-      <item value="И я оформил это в обновление плагина, теперь достаточно будет обновить плагин из админ панели." />
-      <item value="Made changes that fix the synchronization problem. Now let's wait a bit, as I think the automatic sync is working." />
-      <item value="Внёс изменения что устраняют проблему синхронизации. Сейчас давайте подождём немного, так как я думаю что автоматическая синхронизация работает." />
-      <item value="Now we do not sync content, there are translations only for the interface. But we are already working on this functionality and it will appear in one of the future updates, in about 1 - 1.5 months. And now we are working only with the Polylang plugin." />
-      <item value="Сейчас мы не синхронизируем контент, переводы есть только для интерфейса. Но мы уже работаем над этим функционалом и он появится в одном из будущих обновлений, примерно через 1 - 1,5 месяца. И сейчас мы работаем только с плагином Polylang." />
-      <item value="Then the problem with syncing is only on your site. We need access to the site admin panel." />
-      <item value="Тогда проблема с синхронизацией только на вашем сайте. Нам нужен доступ в админку сайта." />
-      <item value="Is the test site okay with the syncing of future auctions?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3731" />
+        <entry key="ENGLISH" value="3736" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3731" />
+        <entry key="RUSSIAN" value="3736" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
