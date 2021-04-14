@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Here is the auction that syncs with Bidspirit" />
+      <item value="Вот тот аукцион который синхронизируется с Bidspirit" />
+      <item value="This auction is in no way connected with Bidspirit, as it changed its slug and at that moment the synchronization with it was broken." />
+      <item value="Этот аукцион ни как не связан с Bidspirit, так как ему сменили slug и в тот момент синхронизация с ним разорвалась." />
+      <item value="Ещё раз повторю, этот аукцион ни как не связан с Bidspirit, так как ему сменили slug и в тот момент синхронизация с ним разорвалась." />
+      <item value="More precisely, how long ago did you publish it?" />
+      <item value="Точнее как давно вы его опубликовали?" />
+      <item value="How long ago did you add this auction to Bidspirit?" />
+      <item value="Как давно вы добавили этот аукцион на Bidspirit?" />
+      <item value="Hello! Add another domain for this client:" />
+      <item value="Добавьте ещё один домен для этого клиента:" />
+      <item value="Because Bidspirit did not allow this domain" />
+      <item value="Потому что Bidspirit не разрешил этот домен" />
+      <item value="Pictures are uploaded only once, they are reloaded only if there were changes. Likewise with other fields. Each lot has a timestamp of when the last change was made, and if it does not coincide with the time when we last updated, then we update the lot. We would not recommend disabling the CDN option. Uploading images greatly increases the load on the server, especially if the auction is large." />
+      <item value="Картинки загружаются только один раз, перезагружаются только в случае если были изменения. Аналогично и с другими полями. У каждого лота есть метка времени когда было последнее изменение, и если оно не совпадает с тем когда мы последний раз обновляли, то мы обновляем лот. Мы бы не рекомендовали отключать опцию CDN. Загрузка картинок очень сильно увеличивает нагрузку на сервер особенно если аукцион большой." />
       <item value="There is &quot;Asta N8&quot; If you change the name to Asta 8 there will be no problem" />
       <item value="Есть &quot;Asta N8&quot; Если изменить имя на Asta 8 проблемы не будет" />
       <item value="Если изменить имя на Asta 8 проблемы не будет" />
@@ -36,21 +51,6 @@
       <item value="Can you provide FTP access to the site?" />
       <item value="Вы можете предоставить FTP доступ к сайту?" />
       <item value="We will finalize this point in the plugin so that this problem does not recur again. This issue will be resolved in the next update." />
-      <item value="Мы доработаем этот момент в плагине что бы такая проблема больше не повторялась. В следующем обновлении эта проблема будет решена." />
-      <item value="Perhaps we will finalize this point in the plugin so that this problem does not recur again. This issue will be resolved in the next update." />
-      <item value="Пожалуй мы доработаем этот момент в плагине что бы такая проблема больше не повторялась. В следующем обновлении эта проблема будет решена." />
-      <item value="I noticed that the auction appeared with the number 124 appeared, for the rest the errors are the same." />
-      <item value="Я заметил что аукцион появился с номером 124 появился, для остальных ошибки те же." />
-      <item value="I noticed that 124 auctions appeared, for the rest the errors are the same." />
-      <item value="Я заметил что 124 аукцион появился, для остальных ошибки те же." />
-      <item value="Думаю что да." />
-      <item value="Похоже что так" />
-      <item value="I see the same errors. Auction number and taxonomy id with which it conflicts." />
-      <item value="Я вижу те же самые ошибки. Номер аукциона и id таксономии с которой он конфликтует." />
-      <item value="Я подключился." />
-      <item value="Yes. Give me a little more time and I'll find the problem." />
-      <item value="Да. Дайте мне ещё немного времени и я найду проблему." />
-      <item value="This concerns editing the plugin source code. We will include this moment in the next update of the plugin and this issue will not be raised anymore." />
     </histories>
     <option name="languageScores">
       <map>
