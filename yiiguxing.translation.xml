@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auction 127 in Bidspirit has an additional &quot;Unlimited&quot; and nothing prevented us from saving the taxonomy as 127-unlimited. For example, I renamed the category 125 slug and did the import again, as a result auction 125 appeared." />
+      <item value="You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, and we could not create auctions with the same names (slug)." />
+      <item value="You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, we could not create auctions with the same names (slug)." />
+      <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, you could not create auctions with the same names (slug). Auction 127 in Bidspirit has an additional &quot;Unlimited&quot; and nothing prevented us from saving the taxonomy as 127-unlimited. For example, I renamed the category 125 slug and did the import again, as a result auction 125 appeared." />
+      <item value="Из за того что в Bidspirit для аукционов нет отдельных идентификаторов, мы используем имя аукциона для этой цели. У вас на сайте уже были зарегистрированы таксономии с номерами 125, 126, 128, при импорте не удавалось создать аукционы с такими же именами (slug). Аукцион 127 в Bidspirit у вас имеет дополнительно &quot;Unlimited&quot; и сохранить таксономию как 127-unlimited нам ни чего не мешало . Для примера я переименовал slug категории 125 и сделал импорт ещё раз, в итоге аукцион 125 появился." />
       <item value="Let me take a look at this problem tomorrow morning." />
       <item value="Разрешите я посмотрю на эту проблему завтра утром." />
       <item value="We do not provide support for the ACF plugin. If you find a working solution for how to return the display of standard fields, use it." />
@@ -46,23 +51,18 @@
       <item value="Everything related to the plugin will be translated automatically. Translation for static pages will need to be added manually. Namely, add translation pages to those specified in the settings." />
       <item value="Всё что касается плагина переведётся автоматом. Перевод для статичных страниц надо будет добавить в ручную. А именно добавить страницы переводов к тем что указаны в настройках." />
       <item value="You can add more languages using the Polylang plugin, but localization is only for the interface. The content is currently not synchronized in several languages and supports the language set in the plugin settings." />
-      <item value="Вы можете добавить больше языков с помощью плагина Polylang, но локализация есть только для интерфейса. Контент на данный момент не синхронизируется на несколько языков и поддерживает язык установленный в настройках плагина." />
-      <item value="You can add more languages using the Polylang plugin, but localization is only for the interface. The content is currently not synchronized and only supports one language set in the plugin settings." />
-      <item value="Вы можете добавить больше языков с помощью плагина Polylang, но локализация есть только для интерфейса. Контент на данный момент не синхронизируется и поддерживает только один язык установленный в настройках плагина." />
-      <item value="At the moment, no matter how. This functionality will appear in the plugin soon." />
-      <item value="На данный момент ни как. Скоро этот функционал появится в плагине." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3736" />
+        <entry key="ENGLISH" value="3740" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3736" />
+        <entry key="RUSSIAN" value="3740" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
