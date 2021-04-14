@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is &quot;Asta N8&quot; If you change the name to Asta 8 there will be no problem" />
+      <item value="Есть &quot;Asta N8&quot; Если изменить имя на Asta 8 проблемы не будет" />
+      <item value="Если изменить имя на Asta 8 проблемы не будет" />
+      <item value="Сейчас проверю." />
+      <item value="But perhaps Asta 8 is already on the site." />
+      <item value="Но возможно и Asta 8 уже есть на сайте." />
+      <item value="Now I can only offer a temporary solution to the problem, change the category slug, which causes a conflict." />
+      <item value="Сейчас могу предложить только временное решение проблемы, изменить slug категории что вызывает конфликт." />
+      <item value="We will add a fix for this issue to the plugin in the next update. Now I can only offer a temporary solution to the problem, change the slug of the confidential category. Or change the name of the 8 auction on the Bidspirit portal." />
+      <item value="Мы добавим решение этой проблемы в плагин в следующее обновление. Сейчас могу предложить только временное решение проблемы, изменить slug конфиликтной категории. Или смените имя 8 аукциона на Bidspirit портале." />
+      <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomiy with number 8 on your site, while importing, and we could not create auctions with the same names (slug)." />
+      <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, and we could not create auctions with the same names (slug)." />
+      <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, and we could not create auctions with the same names (slug). Auction 127 in Bidspirit has an additional &quot;Unlimited&quot; and nothing prevented us from saving the taxonomy as 127-unlimited. For example, I renamed the category 125 slug and did the import again, as a result auction 125 appeared." />
       <item value="Elementor takes this page for itself and does not allow the plugin template to connect." />
       <item value="Elementor забирает себе эту страницу и не даёт подключиться шаблону плагина." />
       <item value="Дайте мне время" />
@@ -38,31 +51,18 @@
       <item value="Yes. Give me a little more time and I'll find the problem." />
       <item value="Да. Дайте мне ещё немного времени и я найду проблему." />
       <item value="This concerns editing the plugin source code. We will include this moment in the next update of the plugin and this issue will not be raised anymore." />
-      <item value="Это касается редактирования исходного кода плагина. Этот момент включим в следующее обновление плагина и более этот вопрос не будет подниматься." />
-      <item value="You have deployed a new test site, and the update with the start of synchronization of old lots is not available in the current version of the plugin. It will be in the next update. I'll add this manually for you now." />
-      <item value="Вы развернули новый тестовый сайт, а обновление с запуском синхронизации старых лотов нет в текущей версии плагина. Это будет в следующем обновлении. Сейчас я добавлю вам это вручную." />
-      <item value="Forgot to attach pictures where categories with the same slug." />
-      <item value="Забыл приложить картинки где категории с такими же slug." />
-      <item value="Auction 127 in Bidspirit has an additional &quot;Unlimited&quot; and nothing prevented us from saving the taxonomy as 127-unlimited. For example, I renamed the category 125 slug and did the import again, as a result auction 125 appeared." />
-      <item value="You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, and we could not create auctions with the same names (slug)." />
-      <item value="You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, we could not create auctions with the same names (slug)." />
-      <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, you could not create auctions with the same names (slug). Auction 127 in Bidspirit has an additional &quot;Unlimited&quot; and nothing prevented us from saving the taxonomy as 127-unlimited. For example, I renamed the category 125 slug and did the import again, as a result auction 125 appeared." />
-      <item value="Из за того что в Bidspirit для аукционов нет отдельных идентификаторов, мы используем имя аукциона для этой цели. У вас на сайте уже были зарегистрированы таксономии с номерами 125, 126, 128, при импорте не удавалось создать аукционы с такими же именами (slug). Аукцион 127 в Bidspirit у вас имеет дополнительно &quot;Unlimited&quot; и сохранить таксономию как 127-unlimited нам ни чего не мешало . Для примера я переименовал slug категории 125 и сделал импорт ещё раз, в итоге аукцион 125 появился." />
-      <item value="Let me take a look at this problem tomorrow morning." />
-      <item value="Разрешите я посмотрю на эту проблему завтра утром." />
-      <item value="We do not provide support for the ACF plugin. If you find a working solution for how to return the display of standard fields, use it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3764" />
+        <entry key="ENGLISH" value="3774" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3764" />
+        <entry key="RUSSIAN" value="3774" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
