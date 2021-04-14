@@ -1,6 +1,48 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Elementor takes this page for itself and does not allow the plugin template to connect." />
+      <item value="Elementor забирает себе эту страницу и не даёт подключиться шаблону плагина." />
+      <item value="Дайте мне время" />
+      <item value="Are we done then?" />
+      <item value="Тогда мы закончили?" />
+      <item value="As for auctions, all categories with the slugs we need belong to a taxonomy like &quot;auctions&quot;" />
+      <item value="Что до аукционов все категории с нужными нами slug принадлежат таксономии типа &quot;auctions&quot;" />
+      <item value="No, the reason why i could not connect." />
+      <item value="No, the reason why he could not connect." />
+      <item value="причину по которой не мог подключиться." />
+      <item value="Спасибо! Нашёл ошибку." />
+      <item value="I can not connect. Maybe you need to resolve the IP address?" />
+      <item value="Не могу подключиться. Может надо разрешить IP адрес?" />
+      <item value="We receive prices when making an API request to Bidspirit" />
+      <item value="Цены мы получаем при API запросе к Bidspirit" />
+      <item value="Prices are pulled up dynamically in real time when API requests are made to Bidspirit" />
+      <item value="Цены подтягиваются динамически в реальном времени при API запросе к Bidspirit" />
+      <item value="Prices are pulled dynamically in real time with Bidspirit" />
+      <item value="Цены подтягиваются динамически в реальном времени с Bidspirit" />
+      <item value="Can you provide FTP access to the site?" />
+      <item value="Вы можете предоставить FTP доступ к сайту?" />
+      <item value="We will finalize this point in the plugin so that this problem does not recur again. This issue will be resolved in the next update." />
+      <item value="Мы доработаем этот момент в плагине что бы такая проблема больше не повторялась. В следующем обновлении эта проблема будет решена." />
+      <item value="Perhaps we will finalize this point in the plugin so that this problem does not recur again. This issue will be resolved in the next update." />
+      <item value="Пожалуй мы доработаем этот момент в плагине что бы такая проблема больше не повторялась. В следующем обновлении эта проблема будет решена." />
+      <item value="I noticed that the auction appeared with the number 124 appeared, for the rest the errors are the same." />
+      <item value="Я заметил что аукцион появился с номером 124 появился, для остальных ошибки те же." />
+      <item value="I noticed that 124 auctions appeared, for the rest the errors are the same." />
+      <item value="Я заметил что 124 аукцион появился, для остальных ошибки те же." />
+      <item value="Думаю что да." />
+      <item value="Похоже что так" />
+      <item value="I see the same errors. Auction number and taxonomy id with which it conflicts." />
+      <item value="Я вижу те же самые ошибки. Номер аукциона и id таксономии с которой он конфликтует." />
+      <item value="Я подключился." />
+      <item value="Yes. Give me a little more time and I'll find the problem." />
+      <item value="Да. Дайте мне ещё немного времени и я найду проблему." />
+      <item value="This concerns editing the plugin source code. We will include this moment in the next update of the plugin and this issue will not be raised anymore." />
+      <item value="Это касается редактирования исходного кода плагина. Этот момент включим в следующее обновление плагина и более этот вопрос не будет подниматься." />
+      <item value="You have deployed a new test site, and the update with the start of synchronization of old lots is not available in the current version of the plugin. It will be in the next update. I'll add this manually for you now." />
+      <item value="Вы развернули новый тестовый сайт, а обновление с запуском синхронизации старых лотов нет в текущей версии плагина. Это будет в следующем обновлении. Сейчас я добавлю вам это вручную." />
+      <item value="Forgot to attach pictures where categories with the same slug." />
+      <item value="Забыл приложить картинки где категории с такими же slug." />
       <item value="Auction 127 in Bidspirit has an additional &quot;Unlimited&quot; and nothing prevented us from saving the taxonomy as 127-unlimited. For example, I renamed the category 125 slug and did the import again, as a result auction 125 appeared." />
       <item value="You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, and we could not create auctions with the same names (slug)." />
       <item value="You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, we could not create auctions with the same names (slug)." />
@@ -9,60 +51,18 @@
       <item value="Let me take a look at this problem tomorrow morning." />
       <item value="Разрешите я посмотрю на эту проблему завтра утром." />
       <item value="We do not provide support for the ACF plugin. If you find a working solution for how to return the display of standard fields, use it." />
-      <item value="Поддержку по ACF плагину мы не осуществляем. Если вы найдёте рабочее решение как вернуть отображение стандартных полей, воспользуйтесь им." />
-      <item value="For some reason, the auctions themselves got into an exception; on the test site, these auctions are synchronized." />
-      <item value="По какой то причине сами аукционы попали в исключение, на тестовом сайте эти аукционы синхронизированы." />
-      <item value="This is why the auctions themselves were included in the exception, on the test site these auctions are synchronized." />
-      <item value="Тут почему сами аукционы попали в исключение, на тестовом сайте эти аукционы синхронизированы." />
-      <item value="Я думаю плагин ACF скрывает их." />
-      <item value="These auctions in their name on Bidspirit have nothing superfluous except 3 digits?" />
-      <item value="Эти аукционы в своем названии на Bidspirit не имеют ни чего лишнего кроме 3 цифр?" />
-      <item value="This moment is not clear to me myself. For some reason they are excluded." />
-      <item value="Вот этот момент мне самому не ясен. Почему то они исключены." />
-      <item value="Added launching it to the &quot;SyncNow&quot; button." />
-      <item value="Добавил запуск её в на кнопку &quot;SyncNow&quot;." />
-      <item value="Added launching it to the &quot;SyncNow&quot; button earlier this was not required." />
-      <item value="Добавил запуск её в на кнопку &quot;SyncNow&quot; ранее этого не требовалось." />
-      <item value="It was necessary to launch the lotBidSpiritOld.php task" />
-      <item value="Нужно было осуществить запуск задачи lotBidSpiritOld.php" />
-      <item value="На строке 69" />
-      <item value="инициализация константы" />
-      <item value="file wp-config.php, initialization constant 'RAW_LOT_LIMIT'" />
-      <item value="And I increased the number of synchronized lots per minute." />
-      <item value="И я увеличил количество лотов синхронизируемых в минуту." />
-      <item value="Now everything works automatically." />
-      <item value="Теперь всё работает автоматом." />
-      <item value="Now everything is automatic." />
-      <item value="Теперь всё идёт автоматом." />
-      <item value="One moment, I'll check it out now." />
-      <item value="Один момент, сейчас проверю." />
-      <item value="I don't see a problem, everything seems to be working, but a new auction does not appear, I can only identify such a problem with access to the hosting panel." />
-      <item value="Я не вижу проблемы, вроде всё работает, но новый аукцион не появляется, такую проблему я смогу выявить только с доступом к хостинг панели." />
-      <item value="This opportunity will appear soon. After about 1-1.5 months." />
-      <item value="Эта возможность появится в скором времени. Примерно через 1-1,5 месяца." />
-      <item value="Currently, you can only sync content with Bidspirit in one language specified in the plugin settings. The plugin interface supports many languages. For now, the plugin only works with Polylang." />
-      <item value="Сейчас вы можете синхронизировать контент с Bidspirit только на одном языке, указанный в настройках плагина." />
-      <item value="Currently, you can only sync content with Bidspirit in one language. The plugin interface supports many languages. For now, the plugin only works with Polylang." />
-      <item value="Сейчас вы можете синхронизировать контент с Bidspirit только на одном языке. Интерфейс плагина поддерживает множество языков. На данный момент плагин работает только с Polylang." />
-      <item value="I think you can migrate from WPML to Polylang. In our practice, this had to be done and there were no problems with migration." />
-      <item value="Я думаю вы можете сделать миграцию с WPML на Polylang. В нашей практике такое приходилось делать и проблем с миграцией не возникло." />
-      <item value="Everything related to the plugin will be translated automatically. Translation for static pages will need to be added manually. Namely, add translation pages to those specified in the plugin settings." />
-      <item value="А именно добавить страницы переводов к тем что указаны в настройках плагина." />
-      <item value="Everything related to the plugin will be translated automatically. Translation for static pages will need to be added manually. Namely, add translation pages to those specified in the settings." />
-      <item value="Всё что касается плагина переведётся автоматом. Перевод для статичных страниц надо будет добавить в ручную. А именно добавить страницы переводов к тем что указаны в настройках." />
-      <item value="You can add more languages using the Polylang plugin, but localization is only for the interface. The content is currently not synchronized in several languages and supports the language set in the plugin settings." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3740" />
+        <entry key="ENGLISH" value="3764" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3740" />
+        <entry key="RUSSIAN" value="3764" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
