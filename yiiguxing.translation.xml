@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I'll tell you now" />
+      <item value="Сейчас скажу" />
       <item value="This problem is again related to the lack of uniqueness of the name of the auctions." />
       <item value="Эта проблема опять же связана с не достаточной уникальностью имени аукционов." />
       <item value="Those. two auctions in Bidspirit are suitable for one of the auctions" />
@@ -49,8 +51,6 @@
       <item value="I can not connect. Maybe you need to resolve the IP address?" />
       <item value="Не могу подключиться. Может надо разрешить IP адрес?" />
       <item value="We receive prices when making an API request to Bidspirit" />
-      <item value="Цены мы получаем при API запросе к Bidspirit" />
-      <item value="Prices are pulled up dynamically in real time when API requests are made to Bidspirit" />
     </histories>
     <option name="languageScores">
       <map>
