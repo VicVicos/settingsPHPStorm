@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maybe. We figured out how to simplify the error detection process, we will add in the future." />
+      <item value="Возможно. Мы придумали как упростить процесс выявления ошибок, добавим в будущем." />
+      <item value="Maybe. We will add logging to the plugin." />
+      <item value="Возможно. Мы добавим логирование в плагин." />
       <item value="I'll tell you now" />
       <item value="Сейчас скажу" />
       <item value="This problem is again related to the lack of uniqueness of the name of the auctions." />
@@ -47,10 +51,6 @@
       <item value="No, the reason why i could not connect." />
       <item value="No, the reason why he could not connect." />
       <item value="причину по которой не мог подключиться." />
-      <item value="Спасибо! Нашёл ошибку." />
-      <item value="I can not connect. Maybe you need to resolve the IP address?" />
-      <item value="Не могу подключиться. Может надо разрешить IP адрес?" />
-      <item value="We receive prices when making an API request to Bidspirit" />
     </histories>
     <option name="languageScores">
       <map>
