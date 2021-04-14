@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This problem is again related to the lack of uniqueness of the name of the auctions." />
+      <item value="Эта проблема опять же связана с не достаточной уникальностью имени аукционов." />
+      <item value="Those. two auctions in Bidspirit are suitable for one of the auctions" />
+      <item value="Т.е. под один из аукционов подходит два аукциона в Bidspirit" />
+      <item value="Response from Bidspirit:" />
+      <item value="Ответ от Bidspirit:" />
       <item value="Here is the auction that syncs with Bidspirit" />
       <item value="Вот тот аукцион который синхронизируется с Bidspirit" />
       <item value="This auction is in no way connected with Bidspirit, as it changed its slug and at that moment the synchronization with it was broken." />
@@ -45,12 +51,6 @@
       <item value="We receive prices when making an API request to Bidspirit" />
       <item value="Цены мы получаем при API запросе к Bidspirit" />
       <item value="Prices are pulled up dynamically in real time when API requests are made to Bidspirit" />
-      <item value="Цены подтягиваются динамически в реальном времени при API запросе к Bidspirit" />
-      <item value="Prices are pulled dynamically in real time with Bidspirit" />
-      <item value="Цены подтягиваются динамически в реальном времени с Bidspirit" />
-      <item value="Can you provide FTP access to the site?" />
-      <item value="Вы можете предоставить FTP доступ к сайту?" />
-      <item value="We will finalize this point in the plugin so that this problem does not recur again. This issue will be resolved in the next update." />
     </histories>
     <option name="languageScores">
       <map>
