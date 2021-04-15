@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="логировать данные" />
+      <item value="logging Data" />
       <item value="второй запрос" />
       <item value="data Second" />
       <item value="get Second Lang Code" />
@@ -49,8 +51,6 @@
       <item value="We will add a fix for this issue to the plugin in the next update. Now I can only offer a temporary solution to the problem, change the slug of the confidential category. Or change the name of the 8 auction on the Bidspirit portal." />
       <item value="Мы добавим решение этой проблемы в плагин в следующее обновление. Сейчас могу предложить только временное решение проблемы, изменить slug конфиликтной категории. Или смените имя 8 аукциона на Bidspirit портале." />
       <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomiy with number 8 on your site, while importing, and we could not create auctions with the same names (slug)." />
-      <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, and we could not create auctions with the same names (slug)." />
-      <item value="Due to the fact that Bidspirit does not have separate identifiers for auctions, we use the auction name for this purpose. You have already registered taxonomies with numbers 125, 126, 128 on your site, while importing, and we could not create auctions with the same names (slug). Auction 127 in Bidspirit has an additional &quot;Unlimited&quot; and nothing prevented us from saving the taxonomy as 127-unlimited. For example, I renamed the category 125 slug and did the import again, as a result auction 125 appeared." />
     </histories>
     <option name="languageScores">
       <map>
