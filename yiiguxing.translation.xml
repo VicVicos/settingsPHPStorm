@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uco current lang code checker" />
+      <item value="Multi Language Support" />
       <item value="Maybe. We figured out how to simplify the error detection process, we will add in the future." />
       <item value="Возможно. Мы придумали как упростить процесс выявления ошибок, добавим в будущем." />
       <item value="Maybe. We will add logging to the plugin." />
@@ -49,8 +51,6 @@
       <item value="As for auctions, all categories with the slugs we need belong to a taxonomy like &quot;auctions&quot;" />
       <item value="Что до аукционов все категории с нужными нами slug принадлежат таксономии типа &quot;auctions&quot;" />
       <item value="No, the reason why i could not connect." />
-      <item value="No, the reason why he could not connect." />
-      <item value="причину по которой не мог подключиться." />
     </histories>
     <option name="languageScores">
       <map>
