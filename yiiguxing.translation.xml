@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates duplicates of lots and auctions in the second language selected in Bidspirit" />
+      <item value="Создаёт дубли лотов и аукционов на втором языке выбранном в Bidspirit" />
+      <item value="Создаёт дубли лотов на втором языке выбранном в Bidspirit" />
+      <item value="Enable synchronization of multi languages" />
+      <item value="Включить синхронизацию нескольких языков" />
       <item value="uco current lang code checker" />
       <item value="Multi Language Support" />
       <item value="Maybe. We figured out how to simplify the error detection process, we will add in the future." />
@@ -46,11 +51,6 @@
       <item value="Elementor takes this page for itself and does not allow the plugin template to connect." />
       <item value="Elementor забирает себе эту страницу и не даёт подключиться шаблону плагина." />
       <item value="Дайте мне время" />
-      <item value="Are we done then?" />
-      <item value="Тогда мы закончили?" />
-      <item value="As for auctions, all categories with the slugs we need belong to a taxonomy like &quot;auctions&quot;" />
-      <item value="Что до аукционов все категории с нужными нами slug принадлежат таксономии типа &quot;auctions&quot;" />
-      <item value="No, the reason why i could not connect." />
     </histories>
     <option name="languageScores">
       <map>
