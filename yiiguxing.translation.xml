@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="an associative array of translations with language code as key and post id as value" />
+      <item value="an array of all the keys in input." />
       <item value="We will solve this problem tomorrow morning." />
       <item value="Завтра утром мы решим эту проблему." />
       <item value="Hello! We'll check it out now." />
@@ -49,8 +51,6 @@
       <item value="How long ago did you add this auction to Bidspirit?" />
       <item value="Как давно вы добавили этот аукцион на Bidspirit?" />
       <item value="Hello! Add another domain for this client:" />
-      <item value="Добавьте ещё один домен для этого клиента:" />
-      <item value="Because Bidspirit did not allow this domain" />
     </histories>
     <option name="languageScores">
       <map>
