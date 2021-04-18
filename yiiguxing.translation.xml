@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A bug was made in one of the latest updates. The problem is resolved. Run the lotBidSpiritOld.php task again using the ssh console. Manual synchronization will not have time to process all archived lots." />
+      <item value="A bug was made in one of the latest updates. The problem is resolved. Run the lotBidSpiritOld.php task again using the ssh console. Manual synchronization will not have time to process all archived records." />
+      <item value="В одном из последних обновлений была допущена ошибка. Проблема устранена. Запустите ещё раз задачу lotBidSpiritOld.php с помощью ssh консоли. Ручная синхронизация не успеет обработать все архивные записи." />
       <item value="Запустите ещё раз задачу lotBidSpiritOld.php с помощью ssh консоли. Ручная синхронизация не успеет обработать все архивные записи." />
       <item value="null if the current language is not defined yet" />
       <item value="When launching tasks using the &quot;Sync Now&quot; button, the server limits us by the time the script is executed." />
@@ -48,9 +51,6 @@
       <item value="The answer to problems with the site heartlandartifacts.com We notice that the sync is not keeping pace with the catalog update. You need to set up automatic synchronization as described in the instructions: https:docs.google.comdocumentd1pB01I5nv8cXUynJR-g-i95JjPxCgencKt279M8rwikAeditheading=h.8np1wpqu4047 Now on the site you have synchronization only during the moments of activity on the site, switching to automatic mode will allow you to increase the number of synchronized lots. The current sync setting is only suitable for small auctions, in your case this is not enough. 1) Missing pictures for new lots in auction 76 have appeared. 2) Changes to lots in Bidspirit after synchronization are taken into account in the plugin and will be updated on the site during synchronization. 3) Archive auctions 1-32 were on the ignored list. The error in which lots do not appear, but when the filter is applied, is covered in one of the latest updates when we added support for sorting lots with letter indices. To solve it, remove the auction from the ignored list and enable the option in the &quot;Force sync&quot; plugin settings (attached screenshot). After the next synchronization, the problems will be resolved, but it is imperative for you to do automatic sync. We also noticed that you have added all auctions except 79 to the list of exclusions, this is not necessary, since active auctions have priority over archived auctions." />
       <item value="The answer to problems with the site heartlandartifacts.com" />
       <item value="Ответ по проблемам с сайтом heartlandartifacts.com" />
-      <item value="To solve it, remove the auction from the ignored list and enable the option in the &quot;Force sync&quot; plugin settings (attached screenshot)." />
-      <item value="Для её решения уберите аукциона из списка игнорируемых и включите опцию в настройках плагина &quot;Force sync&quot; (приложил скриншот)." />
-      <item value="The error in which lots do not appear, but when the filter is applied, is covered in one of the latest updates when we added support for sorting lots with letter indices." />
     </histories>
     <option name="languageScores">
       <map>
