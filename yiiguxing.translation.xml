@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Запустите ещё раз задачу lotBidSpiritOld.php с помощью ssh консоли. Ручная синхронизация не успеет обработать все архивные записи." />
       <item value="null if the current language is not defined yet" />
       <item value="When launching tasks using the &quot;Sync Now&quot; button, the server limits us by the time the script is executed." />
       <item value="Запуская задачи с помощью кнопки &quot;Sync Now&quot; нас ограничивает сервер по времени исполнении скрипта." />
@@ -50,7 +51,6 @@
       <item value="To solve it, remove the auction from the ignored list and enable the option in the &quot;Force sync&quot; plugin settings (attached screenshot)." />
       <item value="Для её решения уберите аукциона из списка игнорируемых и включите опцию в настройках плагина &quot;Force sync&quot; (приложил скриншот)." />
       <item value="The error in which lots do not appear, but when the filter is applied, is covered in one of the latest updates when we added support for sorting lots with letter indices." />
-      <item value="The error in which lots do not appear, but when the filter is applied, is covered in one of the latest updates when we added support for sorting lots with letter indices. After the next synchronization, the problems will be resolved, but it is imperative for you to do automatic sync." />
     </histories>
     <option name="languageScores">
       <map>
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618294967749" />
+    <option name="lastTrimTime" value="1618731310224" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
