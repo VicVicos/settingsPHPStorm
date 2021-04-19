@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Don't set cookie in javascript when a cache plugin is active." />
       <item value="We have configured synchronization, now it works in automatic mode." />
       <item value="Мы настроили синхронизацию, сейчас она работает в автоматическом режиме." />
       <item value="Я сообщил в Bidspirit о проблемах с картинками" />
@@ -50,7 +51,6 @@
       <item value="Я понял ещё одну причину ошибки ручной синхронизации. В момент импорта все лоты старых аукционов заходят в БД, а из за большого количества записей это занимает время. Так же я бы посоветовал вам очистить таблицу wp_import_history деактивировав и снова активировав плагин." />
       <item value="Я понял ещё одну причину ошибки ручной синхронизации. В момент импорта все лоты старых аукционов заходят в БД, а из за большого количества записей это занимает время. По хорошему ручную синхронизацию надо разбить на несколько частей, но так как ей мало кто пользуется эта функция осталась со старых версий плагина и не дорабатывалась. Так же я бы посоветовал вам очистить таблицу wp_import_history деактивировав и снова активировав плагин. Так как при" />
       <item value="Let's not touch manual synchronization, let's leave everything on automatic. Remove the auctions you need from the list of exclusions. And shorten the time between runs for the lotBidSpiritOld.php task" />
-      <item value="Давайте не будет трогать ручную синхронизацию, оставим всё на автоматической. Уберите из списка исключений аукционы которые вам нужны. И сократите время между запусками для задачи lotBidSpiritOld.php" />
     </histories>
     <option name="languageScores">
       <map>
