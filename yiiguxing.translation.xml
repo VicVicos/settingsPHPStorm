@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The list of popular lots on the main page is configured individually for each lot." />
+      <item value="Список популярных лотов на главной настраиваются индивидуально для каждого лота." />
       <item value="I made a similar list of exceptions on our test site. If the auctions you specified do not appear, then the problem exists and I will deal with it. Allow time for the sync to take place on the test site." />
       <item value="Я сделал аналогичный список исключений на нашем тестовом сайте. Если указанные вами аукционы не появятся, значит проблема существует и я займусь её решением. Дайте время чтобы синхронизация прошла на тестовом сайте." />
       <item value="You have not run the lotBidSpiritOld.php task. The last entries in the sync table are from April 16th." />
@@ -49,8 +51,6 @@
       <item value="Вот как сейчас выглядят настройки в cloudflare" />
       <item value="an associative array of translations with language code as key and post id as value" />
       <item value="an array of all the keys in input." />
-      <item value="We will solve this problem tomorrow morning." />
-      <item value="Завтра утром мы решим эту проблему." />
     </histories>
     <option name="languageScores">
       <map>
