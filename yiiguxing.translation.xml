@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I can offer the following solution to the problem. You have set up synchronization of old lots every 5 days. We also have a problem with displaying images for old auctions, it will take time for Bidspirit to solve this problem. You can not do anything now and just wait for Bidspirit to update the pictures and synchronization will pick up these changes next time." />
+      <item value="Могу предложить следующий вариант решения проблемы. Синхронизацию старых лотов у вас настроена каждые 5 дней. Так же у нас имеется проблема с отображением картинок для старых аукционов, на решение этой проблемы у Bidspirit потребуется время. Можно ни чего сейчас не делать и просто подождать пока Bidspirit обновят картинки и синхронизация в следующий раз подхватит эти изменения." />
       <item value="Don't set cookie in javascript when a cache plugin is active." />
       <item value="We have configured synchronization, now it works in automatic mode." />
       <item value="Мы настроили синхронизацию, сейчас она работает в автоматическом режиме." />
@@ -49,8 +51,6 @@
       <item value="Я бы посоветовал вам очистить таблицу wp_import_history деактивировав и снова активировав плагин." />
       <item value="I figured out another reason for the manual sync error. At the time of import, all lots of old auctions go into the database, and due to the large number of records it takes time. I would also advise you to clear the wp_import_history table by deactivating and reactivating the plugin." />
       <item value="Я понял ещё одну причину ошибки ручной синхронизации. В момент импорта все лоты старых аукционов заходят в БД, а из за большого количества записей это занимает время. Так же я бы посоветовал вам очистить таблицу wp_import_history деактивировав и снова активировав плагин." />
-      <item value="Я понял ещё одну причину ошибки ручной синхронизации. В момент импорта все лоты старых аукционов заходят в БД, а из за большого количества записей это занимает время. По хорошему ручную синхронизацию надо разбить на несколько частей, но так как ей мало кто пользуется эта функция осталась со старых версий плагина и не дорабатывалась. Так же я бы посоветовал вам очистить таблицу wp_import_history деактивировав и снова активировав плагин. Так как при" />
-      <item value="Let's not touch manual synchronization, let's leave everything on automatic. Remove the auctions you need from the list of exclusions. And shorten the time between runs for the lotBidSpiritOld.php task" />
     </histories>
     <option name="languageScores">
       <map>
