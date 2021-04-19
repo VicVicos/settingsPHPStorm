@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Я сообщил в Bidspirit о проблемах с картинками" />
+      <item value="The winners-auctions client has problems displaying images for old auctions. Auction numbers 94 and below, or July 19, 2016 and older. Can we fix this problem?" />
+      <item value="Клиент winners-auctions имеет проблемы с отображением картинок для старых аукционов. Номера аукционов 94 и ниже, or July 19, 2016 и старее. Можем решить эту проблему?" />
+      <item value="Using those accesses I cannot connect with Putty. FTP only." />
+      <item value="Используя те доступы я не могу подключиться с помощью Putty. Только FTP." />
+      <item value="For those accesses, I cannot connect using Putty. FTP only." />
+      <item value="По тем доступам я не могу подключиться с помощью Putty. Только FTP." />
+      <item value="You must run the task of synchronizing old lots manually. If you provide ssh access to the server, I can check the correctness of the configuration and solve your problem." />
+      <item value="Вы должны запустить задачу синхронизации старых лотов в ручную. Если предоставите ssh доступы к серверу я смогу проверить корректность настройки и решить вашу проблему." />
+      <item value="Попросить их об этом?" />
+      <item value="Old auctions have different CDN image storage servers. We do not support old servers in the plugin. In order for them to appear, Bidspirit must update the pictures for the old auctions. We can write to the technical support of Bidspirit so that they update the images to the new servers." />
+      <item value="У старых аукционов другие CDN сервера хранения картинок. Старые сервера мы не поддерживаем в плагине. Для того что бы они появились Bidspirit должны обновить картинки для старых аукционов. Мы можем написать в техническую поддержку Bidspirit что бы они обновили картинки на новые сервера." />
+      <item value="Are you talking about pictures?" />
+      <item value="Вы говорите о картинках?" />
+      <item value="Good day! Please check the sync status on our test server." />
+      <item value="Добрый день! Пожалуйста, проверьте состояние синхронизации на нашем тестовом сервер." />
       <item value="Array of post objects or post IDs." />
       <item value="The list of popular lots on the main page is configured individually for each lot." />
       <item value="Список популярных лотов на главной настраиваются индивидуально для каждого лота." />
@@ -35,22 +51,6 @@
       <item value="Давайте не будет трогать ручную синхронизацию, оставим всё на автоматической. Уберите из списка исключений аукционы которые вам нужны. И сократите время между запусками для задачи lotBidSpiritOld.php" />
       <item value="Давайте не будет трогать ручную синхронизацию, оставим всё на автоматической. Уберите из списка исключений аукционы которые вам нужны." />
       <item value="Let's not touch manual synchronization, let's leave everything on automatic." />
-      <item value="Давайте не будет трогать ручную синхронизацию, оставим всё на автоматической." />
-      <item value="I changed the value" />
-      <item value="I changed the meaning" />
-      <item value="Я поменял значение" />
-      <item value="Попробуйте 10" />
-      <item value="Сan also try" />
-      <item value="You can also try" />
-      <item value="Можно попробовать" />
-      <item value="I think this is due to the fact that you decided to download pictures to the site. It is necessary to decrease the number of processed lots per cycle." />
-      <item value="Надо убавить количество обрабатываемых лотов за один такт." />
-      <item value="I think this is due to the fact that you decided to download pictures to the site." />
-      <item value="Я думаю это из за того что вы решили скачивать картинки на сайт." />
-      <item value="This is what the settings look like in cloudflare now. What do you want to change?" />
-      <item value="Вот как сейчас выглядят настройки в cloudflare. Что вы хотите поменять?" />
-      <item value="Вот как сейчас выглядят настройки в cloudflare" />
-      <item value="an associative array of translations with language code as key and post id as value" />
     </histories>
     <option name="languageScores">
       <map>
