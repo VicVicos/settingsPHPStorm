@@ -5,6 +5,7 @@
       <mapping pattern="var_dump-2021-03-02-12-18-47" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
       <mapping pattern="var_dump-2021-03-05-02-57-07" type="AUTO_DETECTED" />
+      <mapping pattern="lot-list-new-2021-04-20-05-05-04" type="AUTO_DETECTED" />
       <mapping pattern="var_dump-2020-06-19-07-40-14" type="Native" />
       <mapping pattern="var_dump-2019-12-24-12-36-14" type="Native" />
       <mapping pattern="var_dump-2020-06-19-07-39-57" type="Native" />
