@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please check if I have configured everything correctly. And then on the test, I do not see the opportunity to buy a lot before the start of the auction." />
+      <item value="Проверьте пожалуйста, верно ли я всё настроил. А то на тестовом я не вижу возможности купить лот до начала аукциона." />
+      <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
+      <item value="purchase the item in a post sale. to check if the item is available for post sale you need to verify that the auction day of this items has ended, that the item was not sold and to check the postauctionsaleopeneduntil field of the auction day (see auctionsgetauctioninfo). also - the user must be approved to the auction house in order to purchase" />
       <item value="We are starting work on the implementation of post and pre sales at auctions. How do I enable these options on a test profile?" />
       <item value="Мы начинаем работу над реализацией post и pre продаж на аукционах. Как мне включить эти опции на тестовом профиле?" />
       <item value="I can offer the following solution to the problem. You have set up synchronization of old lots every 5 days. We also have a problem with displaying images for old auctions, it will take time for Bidspirit to solve this problem. You can not do anything now and just wait for Bidspirit to update the pictures and synchronization will pick up these changes next time." />
@@ -47,10 +51,6 @@
       <item value="Я внёс изменения. Если что то потребуется ещё сообщите об этом пожалуйста." />
       <item value="Я внёс изменения" />
       <item value="Can you provide us with access to hosting? We will try to do this. With ssh access, setting up cron tasks is not a difficult task." />
-      <item value="Можете предоставить нам доступы к хостингу? Мы попробуем это сделать. Имея доступы ssh настроить cron задачи не сложная задача." />
-      <item value="Можете предоставить нам доступы к хостингу? Мы попробуем это сделать." />
-      <item value="I figured out another reason for the manual sync error. At the time of import, all lots of old auctions go into the database, and due to the large number of records it takes time. I would advise you to clear the wp_import_history table by deactivating and reactivating the plugin." />
-      <item value="Я бы посоветовал вам очистить таблицу wp_import_history деактивировав и снова активировав плагин." />
     </histories>
     <option name="languageScores">
       <map>
