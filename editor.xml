@@ -6,7 +6,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="160" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
   </component>
 </application>

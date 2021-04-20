@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
       <item value="Please check if I have configured everything correctly. And then on the test, I do not see the opportunity to buy a lot before the start of the auction." />
       <item value="Проверьте пожалуйста, верно ли я всё настроил. А то на тестовом я не вижу возможности купить лот до начала аукциона." />
-      <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
       <item value="purchase the item in a post sale. to check if the item is available for post sale you need to verify that the auction day of this items has ended, that the item was not sold and to check the postauctionsaleopeneduntil field of the auction day (see auctionsgetauctioninfo). also - the user must be approved to the auction house in order to purchase" />
       <item value="We are starting work on the implementation of post and pre sales at auctions. How do I enable these options on a test profile?" />
       <item value="Мы начинаем работу над реализацией post и pre продаж на аукционах. Как мне включить эти опции на тестовом профиле?" />
