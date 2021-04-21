@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All problems will be resolved after Bidspirit has updated the pictures for the old auctions and the site will once again synchronize these old auctions." />
+      <item value="Все проблемы решаться после того как Bidspirit обновит картинки для старых аукционов и на сайте ещё раз отработает синхронизация этих старых аукционов." />
+      <item value="Because we removed these auctions from the exception and I manually started the task of synchronizing old lots. As described in the instructions." />
+      <item value="Потому что мы убрали из исключения эти аукционы и я в ручную запустил задачу синхронизации старых лотов. Как это описано в инструкции." />
+      <item value="Проблема решена. Пожалуйста проверьте." />
+      <item value="These lots are actually not in the database. No text can be displayed on the site." />
+      <item value="Этих лотов фактически нет в БД. Ни какого текста не может быть отображено на сайте." />
+      <item value="When you start synchronization from under the WordPress engine, this amount of data does not have time to be processed and ends with an error." />
+      <item value="При запуске синхронизации из под движка WordPress такой объём данных не успевает обработаться и завершается с ошибкой." />
+      <item value="So I understand everything correctly. Lots are not synchronized because these auctions were previously an exception, and the task of synchronizing old lots was completed on the 16th. You removed old auctions from the exception after the 16th. All that is needed for the synchronization for old auctions to work is to launch or wait for the start of the lotBidSpiritOld.php task that you previously configured in the hosting panel." />
+      <item value="Значит я всё верно вас понимаю. Лоты не синхронизированы потому что, ранее эти аукционы были в исключении, а задача по синхронизации старых лотов была выполнена 16 числа. Старые аукционы из исключения вы убрали после 16 числа. Всё что нужно что бы синхронизация для старых аукционов заработала - это запустить или дождаться старта задачи lotBidSpiritOld.php что ранее вы настраивали в панели хостинга." />
       <item value="Sorry, but I don't quite understand what the problem is with the text. We have done the synchronization on the test site, there are no problems there. We give you advice on how to set up the correct synchronization. As far as problems with your site are concerned, we do not deal with these issues." />
       <item value="Извините, но я не совсем понимаю что за проблема с текстом. Мы сделали синхронизацию на тестовом сайте, проблем там нет. Мы даём вас советы как настроить правильно синхронизацию. Всё что касается проблем с вашим сайтом мы не занимаемся этими вопросами." />
       <item value="Извините, но я не совсем понимаю что за проблема с текстом. Мы сделали синхронизацию на тестовом сайте, проблем там нет. Всё что касается проблем с вашим сайтом мы не занимаемся этими вопросами." />
@@ -40,17 +51,6 @@
       <item value="Вы говорите о картинках?" />
       <item value="Good day! Please check the sync status on our test server." />
       <item value="Добрый день! Пожалуйста, проверьте состояние синхронизации на нашем тестовом сервер." />
-      <item value="Array of post objects or post IDs." />
-      <item value="The list of popular lots on the main page is configured individually for each lot." />
-      <item value="Список популярных лотов на главной настраиваются индивидуально для каждого лота." />
-      <item value="I made a similar list of exceptions on our test site. If the auctions you specified do not appear, then the problem exists and I will deal with it. Allow time for the sync to take place on the test site." />
-      <item value="Я сделал аналогичный список исключений на нашем тестовом сайте. Если указанные вами аукционы не появятся, значит проблема существует и я займусь её решением. Дайте время чтобы синхронизация прошла на тестовом сайте." />
-      <item value="You have not run the lotBidSpiritOld.php task. The last entries in the sync table are from April 16th." />
-      <item value="Вы не запустили задачу lotBidSpiritOld.php. Последние записи в таблице синхронизации от 16 апреля." />
-      <item value="Array of term taxonomy IDs of affected terms. WP_Error or false on failure." />
-      <item value="Do you have the ability to manually run the cron task you created in the hosting panel? Manual synchronization, due to the time limit for executing the script, will not have time to receive all the lots. Therefore, it must be started manually." />
-      <item value="Вы имеете возможность в ручную запустить созданную вами cron задачу в панели хостинга? Ручная синхронизация, из за ограничение по времени выполнения скрипта, не успеет получить все лоты. Поэтому её надо запустить в ручную." />
-      <item value="A bug was made in one of the latest updates. The problem is resolved. Run the lotBidSpiritOld.php task again using the ssh console. Manual synchronization will not have time to process all archived lots." />
     </histories>
     <option name="languageScores">
       <map>
