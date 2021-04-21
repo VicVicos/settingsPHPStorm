@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pictures for the 94th auction have appeared." />
+      <item value="Картинки для 94 аукциона появились." />
+      <item value="Okay. Now I will do it and inform you about the results." />
+      <item value="Хорошо. Сейчас сделаю и сообщу вам о результатах." />
       <item value="banks review" />
       <item value="bank reviews" />
       <item value="I would like to ask you about this problem." />
@@ -47,10 +51,6 @@
       <item value="Don't set cookie in javascript when a cache plugin is active." />
       <item value="We have configured synchronization, now it works in automatic mode." />
       <item value="Мы настроили синхронизацию, сейчас она работает в автоматическом режиме." />
-      <item value="Я сообщил в Bidspirit о проблемах с картинками" />
-      <item value="The winners-auctions client has problems displaying images for old auctions. Auction numbers 94 and below, or July 19, 2016 and older. Can we fix this problem?" />
-      <item value="Клиент winners-auctions имеет проблемы с отображением картинок для старых аукционов. Номера аукционов 94 и ниже, or July 19, 2016 и старее. Можем решить эту проблему?" />
-      <item value="Using those accesses I cannot connect with Putty. FTP only." />
     </histories>
     <option name="languageScores">
       <map>
