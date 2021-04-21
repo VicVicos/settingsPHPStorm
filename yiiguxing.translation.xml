@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sorry, but I don't quite understand what the problem is with the text. We have done the synchronization on the test site, there are no problems there. We give you advice on how to set up the correct synchronization. As far as problems with your site are concerned, we do not deal with these issues." />
+      <item value="Извините, но я не совсем понимаю что за проблема с текстом. Мы сделали синхронизацию на тестовом сайте, проблем там нет. Мы даём вас советы как настроить правильно синхронизацию. Всё что касается проблем с вашим сайтом мы не занимаемся этими вопросами." />
+      <item value="Извините, но я не совсем понимаю что за проблема с текстом. Мы сделали синхронизацию на тестовом сайте, проблем там нет. Всё что касается проблем с вашим сайтом мы не занимаемся этими вопросами." />
+      <item value="We see the problem, now we are going to fix it." />
+      <item value="Проблему видим, сейчас займёмся её устранением." />
+      <item value="Bidspirit didn’t answer us regarding the pictures. And you do not see lots for old auctions, since old lots are rarely synchronized. At the moment, the table with lots for synchronization is empty, in fact there is nothing to synchronize. Change the frequency of the lotBidSpiritOld.php task every hour, and after it completes, return the old value. If the cron tasks are configured correctly, synchronization will start shortly." />
+      <item value="Bidspirit нам не ответили что касается картинок. А лотов для старых аукционов вы не видите так как синхронизация старых лотов выполняется редко. На текущий момент в таблице с лотами для синхронизации пусто, по факту синхронизировать не чего. Измените частоту выполнения задачи lotBidSpiritOld.php каждый час, и после её выполнения верните старое значение. Если задачи cron настроены верно синхронизация начнётся в ближайшее время." />
       <item value="Button for &quot;Review&quot;" />
       <item value="URL for &quot;Single review&quot;" />
       <item value="Button on &quot;Single review&quot;" />
@@ -44,13 +51,6 @@
       <item value="Do you have the ability to manually run the cron task you created in the hosting panel? Manual synchronization, due to the time limit for executing the script, will not have time to receive all the lots. Therefore, it must be started manually." />
       <item value="Вы имеете возможность в ручную запустить созданную вами cron задачу в панели хостинга? Ручная синхронизация, из за ограничение по времени выполнения скрипта, не успеет получить все лоты. Поэтому её надо запустить в ручную." />
       <item value="A bug was made in one of the latest updates. The problem is resolved. Run the lotBidSpiritOld.php task again using the ssh console. Manual synchronization will not have time to process all archived lots." />
-      <item value="A bug was made in one of the latest updates. The problem is resolved. Run the lotBidSpiritOld.php task again using the ssh console. Manual synchronization will not have time to process all archived records." />
-      <item value="В одном из последних обновлений была допущена ошибка. Проблема устранена. Запустите ещё раз задачу lotBidSpiritOld.php с помощью ssh консоли. Ручная синхронизация не успеет обработать все архивные записи." />
-      <item value="Запустите ещё раз задачу lotBidSpiritOld.php с помощью ssh консоли. Ручная синхронизация не успеет обработать все архивные записи." />
-      <item value="null if the current language is not defined yet" />
-      <item value="When launching tasks using the &quot;Sync Now&quot; button, the server limits us by the time the script is executed." />
-      <item value="Запуская задачи с помощью кнопки &quot;Sync Now&quot; нас ограничивает сервер по времени исполнении скрипта." />
-      <item value="Having access to ssh is very convenient to test and debug imports by manually running the necessary tasks" />
     </histories>
     <option name="languageScores">
       <map>
