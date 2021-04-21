@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I apologize. We do not provide assistance in updating the content on the site." />
+      <item value="To create slides, we will be able to provide you with the source psd file on the basis of which we originally made the slides." />
+      <item value="Для создания слайдов сможем предоставить вам исходный psd файл на основе которого мы изначально делали слайды." />
+      <item value="I apologize. We do not provide assistance in updating the content on the site. Only support for working with the plugin. You can find out how to work with Elementor by following the links: How to use elementor:" />
+      <item value="Прошу прощения. Мы не оказываем помощь в модернизации контента на сайте. Только поддержка в работе с плагином. Как работать с Elementor вы можете ознакомится по ссылкам:" />
+      <item value="Если вы просто хотите сменить ссылки и описание то можете сделать это самостоятельно." />
+      <item value="Do you have a preference for which pictures from which lots would you like to use?" />
+      <item value="Есть предпочтения какие картинки с каких лотов вы хотели бы использовать?" />
+      <item value="Есть предпочтения какие картинки вы хотели бы использовать?" />
+      <item value="Just replace the links from 4 to 5 auctions or will the images also need to be updated?" />
+      <item value="Просто заменить ссылки с 4 на 5 аукционы или картинки тоже надо будет обновить?" />
+      <item value="Do you want to link to the 5th auction from the main slider?" />
+      <item value="Вы хотите разместить ссылку на 5 аукцион с главного слайдера?" />
+      <item value="Вы хотите разместить ссылку на 4 аукцион с главного слайдера?" />
+      <item value="I'll check it out now." />
+      <item value="Сейчас проверю." />
+      <item value="We found the problem and fixed it. We are watching the site." />
+      <item value="Мы нашли проблему и исправили её. Наблюдаем за сайтом." />
+      <item value="We are in the process of solving the problem. We carry out server maintenance." />
+      <item value="Проводим обслуживание сервера." />
+      <item value="We are in the process of solving the problem." />
+      <item value="Мы занимаемся решением проблемы." />
       <item value="Hello! We removed the Sandbox, the creation of which most likely led to problems with the available space on the server." />
       <item value="Мы удалили Sandbox, создание которого скорей всего и привело к проблемам с доступным местом на сервере." />
       <item value="Pictures for the 94th auction have appeared." />
@@ -29,28 +51,6 @@
       <item value="When you start synchronization from under the WordPress engine, this amount of data does not have time to be processed and ends with an error." />
       <item value="При запуске синхронизации из под движка WordPress такой объём данных не успевает обработаться и завершается с ошибкой." />
       <item value="So I understand everything correctly. Lots are not synchronized because these auctions were previously an exception, and the task of synchronizing old lots was completed on the 16th. You removed old auctions from the exception after the 16th. All that is needed for the synchronization for old auctions to work is to launch or wait for the start of the lotBidSpiritOld.php task that you previously configured in the hosting panel." />
-      <item value="Значит я всё верно вас понимаю. Лоты не синхронизированы потому что, ранее эти аукционы были в исключении, а задача по синхронизации старых лотов была выполнена 16 числа. Старые аукционы из исключения вы убрали после 16 числа. Всё что нужно что бы синхронизация для старых аукционов заработала - это запустить или дождаться старта задачи lotBidSpiritOld.php что ранее вы настраивали в панели хостинга." />
-      <item value="Sorry, but I don't quite understand what the problem is with the text. We have done the synchronization on the test site, there are no problems there. We give you advice on how to set up the correct synchronization. As far as problems with your site are concerned, we do not deal with these issues." />
-      <item value="Извините, но я не совсем понимаю что за проблема с текстом. Мы сделали синхронизацию на тестовом сайте, проблем там нет. Мы даём вас советы как настроить правильно синхронизацию. Всё что касается проблем с вашим сайтом мы не занимаемся этими вопросами." />
-      <item value="Извините, но я не совсем понимаю что за проблема с текстом. Мы сделали синхронизацию на тестовом сайте, проблем там нет. Всё что касается проблем с вашим сайтом мы не занимаемся этими вопросами." />
-      <item value="We see the problem, now we are going to fix it." />
-      <item value="Проблему видим, сейчас займёмся её устранением." />
-      <item value="Bidspirit didn’t answer us regarding the pictures. And you do not see lots for old auctions, since old lots are rarely synchronized. At the moment, the table with lots for synchronization is empty, in fact there is nothing to synchronize. Change the frequency of the lotBidSpiritOld.php task every hour, and after it completes, return the old value. If the cron tasks are configured correctly, synchronization will start shortly." />
-      <item value="Bidspirit нам не ответили что касается картинок. А лотов для старых аукционов вы не видите так как синхронизация старых лотов выполняется редко. На текущий момент в таблице с лотами для синхронизации пусто, по факту синхронизировать не чего. Измените частоту выполнения задачи lotBidSpiritOld.php каждый час, и после её выполнения верните старое значение. Если задачи cron настроены верно синхронизация начнётся в ближайшее время." />
-      <item value="Button for &quot;Review&quot;" />
-      <item value="URL for &quot;Single review&quot;" />
-      <item value="Button on &quot;Single review&quot;" />
-      <item value="Button on Single review" />
-      <item value="Single review" />
-      <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
-      <item value="Please check if I have configured everything correctly. And then on the test, I do not see the opportunity to buy a lot before the start of the auction." />
-      <item value="Проверьте пожалуйста, верно ли я всё настроил. А то на тестовом я не вижу возможности купить лот до начала аукциона." />
-      <item value="purchase the item in a post sale. to check if the item is available for post sale you need to verify that the auction day of this items has ended, that the item was not sold and to check the postauctionsaleopeneduntil field of the auction day (see auctionsgetauctioninfo). also - the user must be approved to the auction house in order to purchase" />
-      <item value="We are starting work on the implementation of post and pre sales at auctions. How do I enable these options on a test profile?" />
-      <item value="Мы начинаем работу над реализацией post и pre продаж на аукционах. Как мне включить эти опции на тестовом профиле?" />
-      <item value="I can offer the following solution to the problem. You have set up synchronization of old lots every 5 days. We also have a problem with displaying images for old auctions, it will take time for Bidspirit to solve this problem. You can not do anything now and just wait for Bidspirit to update the pictures and synchronization will pick up these changes next time." />
-      <item value="Могу предложить следующий вариант решения проблемы. Синхронизацию старых лотов у вас настроена каждые 5 дней. Так же у нас имеется проблема с отображением картинок для старых аукционов, на решение этой проблемы у Bidspirit потребуется время. Можно ни чего сейчас не делать и просто подождать пока Bidspirit обновят картинки и синхронизация в следующий раз подхватит эти изменения." />
-      <item value="Don't set cookie in javascript when a cache plugin is active." />
     </histories>
     <option name="languageScores">
       <map>
