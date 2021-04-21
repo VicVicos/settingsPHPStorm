@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="URL for &quot;Single review&quot;" />
+      <item value="Button on &quot;Single review&quot;" />
+      <item value="Button on Single review" />
+      <item value="Single review" />
       <item value="Buys the item out of the auction. This api is available only for items that have a value in their buyoutPrice field. It is not possible to buyout an item if there is a higher leading bid. Also, it is not possible to buyout an item while the auction is live" />
       <item value="Please check if I have configured everything correctly. And then on the test, I do not see the opportunity to buy a lot before the start of the auction." />
       <item value="Проверьте пожалуйста, верно ли я всё настроил. А то на тестовом я не вижу возможности купить лот до начала аукциона." />
@@ -47,10 +51,6 @@
       <item value="Запуская задачи с помощью кнопки &quot;Sync Now&quot; нас ограничивает сервер по времени исполнении скрипта." />
       <item value="Having access to ssh is very convenient to test and debug imports by manually running the necessary tasks" />
       <item value="Имея доступ к ssh очень удобно тестировать и делать отладку импорта запуская в ручную нужные задачи" />
-      <item value="I made changes. If you need something else, please let us know." />
-      <item value="Я внёс изменения. Если что то потребуется ещё сообщите об этом пожалуйста." />
-      <item value="Я внёс изменения" />
-      <item value="Can you provide us with access to hosting? We will try to do this. With ssh access, setting up cron tasks is not a difficult task." />
     </histories>
     <option name="languageScores">
       <map>
