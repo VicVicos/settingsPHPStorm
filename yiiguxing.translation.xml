@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can you check the auction page now? I suppose that after another bypass of synchronization, the problems with the content were resolved." />
+      <item value="Можете проверить страницу аукциона сейчас? Предполагаю что после очередного обхода синхронизации проблемы с контентом были решены." />
+      <item value="Можжете проверить страницу аукциона сейчас? Предполагаю что после очередного обхода синхронизации проблемы с контентом были решены." />
       <item value="I apologize. We do not provide assistance in updating the content on the site." />
       <item value="To create slides, we will be able to provide you with the source psd file on the basis of which we originally made the slides." />
       <item value="Для создания слайдов сможем предоставить вам исходный psd файл на основе которого мы изначально делали слайды." />
@@ -48,9 +51,6 @@
       <item value="Проблема решена. Пожалуйста проверьте." />
       <item value="These lots are actually not in the database. No text can be displayed on the site." />
       <item value="Этих лотов фактически нет в БД. Ни какого текста не может быть отображено на сайте." />
-      <item value="When you start synchronization from under the WordPress engine, this amount of data does not have time to be processed and ends with an error." />
-      <item value="При запуске синхронизации из под движка WordPress такой объём данных не успевает обработаться и завершается с ошибкой." />
-      <item value="So I understand everything correctly. Lots are not synchronized because these auctions were previously an exception, and the task of synchronizing old lots was completed on the 16th. You removed old auctions from the exception after the 16th. All that is needed for the synchronization for old auctions to work is to launch or wait for the start of the lotBidSpiritOld.php task that you previously configured in the hosting panel." />
     </histories>
     <option name="languageScores">
       <map>
