@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="On our auction, on special events, lectures and more Join our mailing list now to get more information ..." />
+      <item value="I am interested in" />
+      <item value="אני מעוניין ב:" />
+      <item value="שלח" />
       <item value="Can you check the auction page now? I suppose that after another bypass of synchronization, the problems with the content were resolved." />
       <item value="Можете проверить страницу аукциона сейчас? Предполагаю что после очередного обхода синхронизации проблемы с контентом были решены." />
       <item value="Можжете проверить страницу аукциона сейчас? Предполагаю что после очередного обхода синхронизации проблемы с контентом были решены." />
@@ -47,10 +51,6 @@
       <item value="All problems will be resolved after Bidspirit has updated the pictures for the old auctions and the site will once again synchronize these old auctions." />
       <item value="Все проблемы решаться после того как Bidspirit обновит картинки для старых аукционов и на сайте ещё раз отработает синхронизация этих старых аукционов." />
       <item value="Because we removed these auctions from the exception and I manually started the task of synchronizing old lots. As described in the instructions." />
-      <item value="Потому что мы убрали из исключения эти аукционы и я в ручную запустил задачу синхронизации старых лотов. Как это описано в инструкции." />
-      <item value="Проблема решена. Пожалуйста проверьте." />
-      <item value="These lots are actually not in the database. No text can be displayed on the site." />
-      <item value="Этих лотов фактически нет в БД. Ни какого текста не может быть отображено на сайте." />
     </histories>
     <option name="languageScores">
       <map>
