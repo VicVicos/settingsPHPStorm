@@ -3,6 +3,7 @@
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="var_dump-2021-03-02-12-18-47" type="AUTO_DETECTED" />
+      <mapping pattern="var_dump-2021-04-22-07-36-00" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
       <mapping pattern="var_dump-2021-03-05-02-57-07" type="AUTO_DETECTED" />
       <mapping pattern="lot-list-new-2021-04-20-05-05-04" type="AUTO_DETECTED" />
