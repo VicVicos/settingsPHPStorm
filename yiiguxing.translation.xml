@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto Excluder For Auction" />
       <item value="If you will get the error please contacts you hosting provider about memory on server." />
       <item value="If you will get errors please contacts you hosting provider about memory on server." />
       <item value="We checked the error and we saw that the server was out of memory." />
@@ -50,7 +51,6 @@
       <item value="We found the problem and fixed it. We are watching the site." />
       <item value="Мы нашли проблему и исправили её. Наблюдаем за сайтом." />
       <item value="We are in the process of solving the problem. We carry out server maintenance." />
-      <item value="Проводим обслуживание сервера." />
     </histories>
     <option name="languageScores">
       <map>
