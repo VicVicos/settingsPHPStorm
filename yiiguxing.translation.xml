@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you will get the error please contacts you hosting provider about memory on server." />
+      <item value="If you will get errors please contacts you hosting provider about memory on server." />
+      <item value="We checked the error and we saw that the server was out of memory." />
+      <item value="Мы проверили ошибку и мы увидели что на сервере не хватает памяти." />
+      <item value="We checked the error and looks liked the is not have memory on server." />
+      <item value="We checked the error and looks liked the is not have memory on server. If you will get errors please contacts you hosting provider about memory on server." />
+      <item value="We checked the error and looks liked" />
       <item value="Automatic exclusion of auctions" />
       <item value="Автоматическое исключение аукционов" />
       <item value="Do not sync auctions that ended later than the number of days" />
@@ -44,13 +51,6 @@
       <item value="Мы нашли проблему и исправили её. Наблюдаем за сайтом." />
       <item value="We are in the process of solving the problem. We carry out server maintenance." />
       <item value="Проводим обслуживание сервера." />
-      <item value="We are in the process of solving the problem." />
-      <item value="Мы занимаемся решением проблемы." />
-      <item value="Hello! We removed the Sandbox, the creation of which most likely led to problems with the available space on the server." />
-      <item value="Мы удалили Sandbox, создание которого скорей всего и привело к проблемам с доступным местом на сервере." />
-      <item value="Pictures for the 94th auction have appeared." />
-      <item value="Картинки для 94 аукциона появились." />
-      <item value="Okay. Now I will do it and inform you about the results." />
     </histories>
     <option name="languageScores">
       <map>
