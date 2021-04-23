@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Automatic exclusion of auctions" />
+      <item value="Автоматическое исключение аукционов" />
+      <item value="Do not sync auctions that ended later than the number of days" />
+      <item value="Не синхронизировать аукционы которые завершились позднее количества дней" />
+      <item value="oldest days" />
       <item value="false otherwise" />
       <item value="קנייה ישירה" />
       <item value="לקטלוג המכירה" />
@@ -46,11 +51,6 @@
       <item value="Pictures for the 94th auction have appeared." />
       <item value="Картинки для 94 аукциона появились." />
       <item value="Okay. Now I will do it and inform you about the results." />
-      <item value="Хорошо. Сейчас сделаю и сообщу вам о результатах." />
-      <item value="banks review" />
-      <item value="bank reviews" />
-      <item value="I would like to ask you about this problem." />
-      <item value="Хотел бы спросить касательно этой проблемы." />
     </histories>
     <option name="languageScores">
       <map>
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618731310224" />
+    <option name="lastTrimTime" value="1619163752534" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
