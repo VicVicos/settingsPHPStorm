@@ -1,12 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="השתתפו אונליין במכירה הפומבית" />
+      <item value="דרך האינטרנט LIVE למתן הצעה והשתתפות" />
+      <item value="ציורים, תכשיטים שטיחים ועוד" />
+      <item value="אמנות ישראלית" />
+      <item value="מכירה אינטרנטית וחיה מספר 180" />
+      <item value="יום ראשון 17012021 בשעה 18:00" />
+      <item value="Attend the online auction" />
       <item value="I see that" />
       <item value="Solved the problem with Elementor. As for the display of the catalog on mobiles, I'll check." />
       <item value="Проблему с Elementor разрешил. Что касается отображения каталога на мобильных, проверю." />
       <item value="Hello! We have already encountered a similar problem in the latest version of Elementor. I'll fix it now." />
       <item value="Здравствуйте! Мы уже встречались с подобной проблемой в последней версии Elementor. Сейчас исправлю." />
-      <item value="יום ראשון 17012021 בשעה 18:00" />
       <item value="אודות" />
       <item value="להרשמה" />
       <item value="כניסה" />
@@ -45,12 +51,6 @@
       <item value="oldest days" />
       <item value="false otherwise" />
       <item value="לקטלוג המכירה" />
-      <item value="I would like to ask you about this problem. To help you solve your problem, here are some possible lines of inquiry. Please don't ask us for help with specific themes or plugins. Either investigate these issues yourself or ask the bundle author how to translate their product using whatever software they recommend. Your translation files are not being loaded Themes and plugins have to load their own translation files and Loco Translate cannot force them to. Check that themes are calling the &quot;load_theme_textdomain&quot; function, and plugins are calling &quot;load_plugin_textdomain&quot;. If they're not then ask the author nicely to fix it. The files are named wrongly It can happen that bundles declare incorrect information which causes your files to be saved with the wrong names. Check that the bundle declares the same Text Domain that it actually uses and configure Loco Translate as necessary. If you can't check this yourself, ask the bundle author to confirm what your files should be called. The strings aren't actually translatable The bundle's template file defines the strings that are available for translation. This does not guarantee the string actually exists. Authors often ship template files that are not up to date with their source code, but Loco Translate will not argue with the author's template file. Your language isn't set correctly You need to set your language for translations to display on your site. Although we can't provide personal help with this, see our brief guide to setting your WordPress language. Your files have been deleted If you've saved your own custom files in the &quot;author&quot; or &quot;system&quot; locations then WordPress may have deleted or modified them during an update. See the FAQ about disappearing translation files. You can't use our custom (safe) folder We recommended you save your own translation files in Loco Translate's &quot;custom&quot; folder at wp-contentlanguagesloco, but this can suffer from its own problems. Themes and plugins that haven't been written properly can prevent this location from working. Please read the FAQ about custom loading problems. The translations are for JavaScript Loco Translate supports JSON language packs for use with wp_set_script_translations but there are other ways authors might localize JavaScript. Check with the vendor how they handle this and whether they use standard WordPress methods." />
-      <item value="Watch it all" />
-      <item value="הערכת מחיר" />
-      <item value="מכירות עבר" />
-      <item value="המכירה הבאה" />
-      <item value="טופס הצעת מחיר" />
     </histories>
     <option name="languageScores">
       <map>
