@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I see that" />
+      <item value="Solved the problem with Elementor. As for the display of the catalog on mobiles, I'll check." />
+      <item value="Проблему с Elementor разрешил. Что касается отображения каталога на мобильных, проверю." />
+      <item value="Hello! We have already encountered a similar problem in the latest version of Elementor. I'll fix it now." />
+      <item value="Здравствуйте! Мы уже встречались с подобной проблемой в последней версии Elementor. Сейчас исправлю." />
+      <item value="יום ראשון 17012021 בשעה 18:00" />
       <item value="אודות" />
       <item value="להרשמה" />
       <item value="כניסה" />
@@ -45,12 +51,6 @@
       <item value="מכירות עבר" />
       <item value="המכירה הבאה" />
       <item value="טופס הצעת מחיר" />
-      <item value="On our auction, on special events, lectures and more Join our mailing list now to get more information ..." />
-      <item value="I am interested in" />
-      <item value="אני מעוניין ב:" />
-      <item value="שלח" />
-      <item value="Can you check the auction page now? I suppose that after another bypass of synchronization, the problems with the content were resolved." />
-      <item value="Можете проверить страницу аукциона сейчас? Предполагаю что после очередного обхода синхронизации проблемы с контентом были решены." />
     </histories>
     <option name="languageScores">
       <map>
