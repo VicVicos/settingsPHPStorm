@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="להרשמה" />
+      <item value="כניסה" />
+      <item value="Submit a quote by phone or leave details and we will get back to you" />
+      <item value="הגישו הצעת מחיר טלפונית או השאירו פרטים ואנחנו נחזור אליכם" />
+      <item value="אינך רשום" />
+      <item value="אינך רשום?" />
+      <item value="אודות" />
+      <item value="אודות ראובן רובין" />
+      <item value="צור קשר" />
+      <item value="מועדפים" />
+      <item value="הגש הצעה טלפונית" />
+      <item value="פריט הבא" />
+      <item value="פריט קודם" />
+      <item value="חזרה לקטלוג" />
+      <item value="פריט" />
+      <item value="מכירה" />
+      <item value="על מנת להגיש הצעה, עליך להתחבר למערכת" />
+      <item value="In order to submit a bid, you must log in to the system" />
+      <item value="To the sale catalog" />
+      <item value="צפה בהכל" />
+      <item value="קנייה ישירה" />
+      <item value="פריטים שלא נמכרו" />
+      <item value="כנסו לפרטים" />
       <item value="auto Excluder For Auction" />
       <item value="If you will get the error please contacts you hosting provider about memory on server." />
       <item value="If you will get errors please contacts you hosting provider about memory on server." />
@@ -15,11 +38,8 @@
       <item value="Не синхронизировать аукционы которые завершились позднее количества дней" />
       <item value="oldest days" />
       <item value="false otherwise" />
-      <item value="קנייה ישירה" />
       <item value="לקטלוג המכירה" />
       <item value="I would like to ask you about this problem. To help you solve your problem, here are some possible lines of inquiry. Please don't ask us for help with specific themes or plugins. Either investigate these issues yourself or ask the bundle author how to translate their product using whatever software they recommend. Your translation files are not being loaded Themes and plugins have to load their own translation files and Loco Translate cannot force them to. Check that themes are calling the &quot;load_theme_textdomain&quot; function, and plugins are calling &quot;load_plugin_textdomain&quot;. If they're not then ask the author nicely to fix it. The files are named wrongly It can happen that bundles declare incorrect information which causes your files to be saved with the wrong names. Check that the bundle declares the same Text Domain that it actually uses and configure Loco Translate as necessary. If you can't check this yourself, ask the bundle author to confirm what your files should be called. The strings aren't actually translatable The bundle's template file defines the strings that are available for translation. This does not guarantee the string actually exists. Authors often ship template files that are not up to date with their source code, but Loco Translate will not argue with the author's template file. Your language isn't set correctly You need to set your language for translations to display on your site. Although we can't provide personal help with this, see our brief guide to setting your WordPress language. Your files have been deleted If you've saved your own custom files in the &quot;author&quot; or &quot;system&quot; locations then WordPress may have deleted or modified them during an update. See the FAQ about disappearing translation files. You can't use our custom (safe) folder We recommended you save your own translation files in Loco Translate's &quot;custom&quot; folder at wp-contentlanguagesloco, but this can suffer from its own problems. Themes and plugins that haven't been written properly can prevent this location from working. Please read the FAQ about custom loading problems. The translations are for JavaScript Loco Translate supports JSON language packs for use with wp_set_script_translations but there are other ways authors might localize JavaScript. Check with the vendor how they handle this and whether they use standard WordPress methods." />
-      <item value="צפה בהכל" />
-      <item value="פריטים שלא נמכרו" />
       <item value="Watch it all" />
       <item value="הערכת מחיר" />
       <item value="מכירות עבר" />
@@ -31,26 +51,6 @@
       <item value="שלח" />
       <item value="Can you check the auction page now? I suppose that after another bypass of synchronization, the problems with the content were resolved." />
       <item value="Можете проверить страницу аукциона сейчас? Предполагаю что после очередного обхода синхронизации проблемы с контентом были решены." />
-      <item value="Можжете проверить страницу аукциона сейчас? Предполагаю что после очередного обхода синхронизации проблемы с контентом были решены." />
-      <item value="I apologize. We do not provide assistance in updating the content on the site." />
-      <item value="To create slides, we will be able to provide you with the source psd file on the basis of which we originally made the slides." />
-      <item value="Для создания слайдов сможем предоставить вам исходный psd файл на основе которого мы изначально делали слайды." />
-      <item value="I apologize. We do not provide assistance in updating the content on the site. Only support for working with the plugin. You can find out how to work with Elementor by following the links: How to use elementor:" />
-      <item value="Прошу прощения. Мы не оказываем помощь в модернизации контента на сайте. Только поддержка в работе с плагином. Как работать с Elementor вы можете ознакомится по ссылкам:" />
-      <item value="Если вы просто хотите сменить ссылки и описание то можете сделать это самостоятельно." />
-      <item value="Do you have a preference for which pictures from which lots would you like to use?" />
-      <item value="Есть предпочтения какие картинки с каких лотов вы хотели бы использовать?" />
-      <item value="Есть предпочтения какие картинки вы хотели бы использовать?" />
-      <item value="Just replace the links from 4 to 5 auctions or will the images also need to be updated?" />
-      <item value="Просто заменить ссылки с 4 на 5 аукционы или картинки тоже надо будет обновить?" />
-      <item value="Do you want to link to the 5th auction from the main slider?" />
-      <item value="Вы хотите разместить ссылку на 5 аукцион с главного слайдера?" />
-      <item value="Вы хотите разместить ссылку на 4 аукцион с главного слайдера?" />
-      <item value="I'll check it out now." />
-      <item value="Сейчас проверю." />
-      <item value="We found the problem and fixed it. We are watching the site." />
-      <item value="Мы нашли проблему и исправили её. Наблюдаем за сайтом." />
-      <item value="We are in the process of solving the problem. We carry out server maintenance." />
     </histories>
     <option name="languageScores">
       <map>
