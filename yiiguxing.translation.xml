@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="פריט" />
       <item value="צפיה בפריטים" />
       <item value="מידע" />
       <item value="השתתפו אונליין במכירה הפומבית" />
@@ -29,7 +30,6 @@
       <item value="פריט הבא" />
       <item value="פריט קודם" />
       <item value="חזרה לקטלוג" />
-      <item value="פריט" />
       <item value="מכירה" />
       <item value="על מנת להגיש הצעה, עליך להתחבר למערכת" />
       <item value="In order to submit a bid, you must log in to the system" />
