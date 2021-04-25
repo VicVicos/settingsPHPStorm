@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="צפיה בפריטים" />
+      <item value="מידע" />
       <item value="השתתפו אונליין במכירה הפומבית" />
       <item value="דרך האינטרנט LIVE למתן הצעה והשתתפות" />
       <item value="ציורים, תכשיטים שטיחים ועוד" />
@@ -49,8 +51,6 @@
       <item value="Do not sync auctions that ended later than the number of days" />
       <item value="Не синхронизировать аукционы которые завершились позднее количества дней" />
       <item value="oldest days" />
-      <item value="false otherwise" />
-      <item value="לקטלוג המכירה" />
     </histories>
     <option name="languageScores">
       <map>
