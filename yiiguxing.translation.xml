@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add prefix for auctions slug" />
+      <item value="Добавить префикс для слага аукционов" />
+      <item value="Synchronization will only work when clicked, but you won't be able to sync old auctions this way. We also received a response from Bidspirit that pictures were updated for all old auctions. Now, when synchronizing, images for all auctions will be displayed." />
+      <item value="Синхронизация будет работать только при нажатии, но старые аукционы вы таким способом не сможете синхронизировать. Так же нам пришёл ответ от Bidspirit что для всех старых аукционов были обновлены картинки. Теперь при синхронизации картинки для всех аукционов будут отображаться." />
       <item value="פריט" />
       <item value="צפיה בפריטים" />
       <item value="מידע" />
@@ -47,10 +51,6 @@
       <item value="We checked the error and looks liked the is not have memory on server. If you will get errors please contacts you hosting provider about memory on server." />
       <item value="We checked the error and looks liked" />
       <item value="Automatic exclusion of auctions" />
-      <item value="Автоматическое исключение аукционов" />
-      <item value="Do not sync auctions that ended later than the number of days" />
-      <item value="Не синхронизировать аукционы которые завершились позднее количества дней" />
-      <item value="oldest days" />
     </histories>
     <option name="languageScores">
       <map>
