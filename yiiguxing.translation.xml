@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grid-gap only works if grid-template(-areas) is being used" />
       <item value="Add prefix for auctions slug" />
       <item value="Добавить префикс для слага аукционов" />
       <item value="Synchronization will only work when clicked, but you won't be able to sync old auctions this way. We also received a response from Bidspirit that pictures were updated for all old auctions. Now, when synchronizing, images for all auctions will be displayed." />
@@ -50,7 +51,6 @@
       <item value="We checked the error and looks liked the is not have memory on server." />
       <item value="We checked the error and looks liked the is not have memory on server. If you will get errors please contacts you hosting provider about memory on server." />
       <item value="We checked the error and looks liked" />
-      <item value="Automatic exclusion of auctions" />
     </histories>
     <option name="languageScores">
       <map>
