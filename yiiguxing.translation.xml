@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="go and action" />
       <item value="Thank you! We will check, in case of problems, I will inform you." />
       <item value="Спасибо! Мы проверим, в случае возникновения проблем сообщу вам." />
       <item value="grid-gap only works if grid-template(-areas) is being used" />
@@ -50,7 +51,6 @@
       <item value="If you will get errors please contacts you hosting provider about memory on server." />
       <item value="We checked the error and we saw that the server was out of memory." />
       <item value="Мы проверили ошибку и мы увидели что на сервере не хватает памяти." />
-      <item value="We checked the error and looks liked the is not have memory on server." />
     </histories>
     <option name="languageScores">
       <map>
