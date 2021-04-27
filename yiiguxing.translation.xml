@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I was unable to get into the domain control panel." />
+      <item value="Я не смог попасть в панель управления доменом." />
+      <item value="And it is preferable to have ftp. Without ftp it will take longer." />
+      <item value="Без ftp это займёт больше времени." />
+      <item value="И предпочтительнее иметь ftp." />
+      <item value="hours" />
+      <item value="For customers who bought only the plug-in, we do such improvements for separately purchased hours." />
+      <item value="For customers who bought only the plug-in, we do such improvements for separately purchased watches." />
+      <item value="Для клиентов которые купили только плагин, такие доработки за отдельно купленные часы мы делаем." />
+      <item value="Hello! There is a button, but it needs to be integrated on the site. Paste in a small html code." />
+      <item value="Кнопка есть, но её надо интегрировать на сайта. Вставить небольшой html код." />
       <item value="go and action" />
       <item value="Thank you! We will check, in case of problems, I will inform you." />
       <item value="Спасибо! Мы проверим, в случае возникновения проблем сообщу вам." />
@@ -40,17 +51,6 @@
       <item value="חזרה לקטלוג" />
       <item value="מכירה" />
       <item value="על מנת להגיש הצעה, עליך להתחבר למערכת" />
-      <item value="In order to submit a bid, you must log in to the system" />
-      <item value="To the sale catalog" />
-      <item value="צפה בהכל" />
-      <item value="קנייה ישירה" />
-      <item value="פריטים שלא נמכרו" />
-      <item value="כנסו לפרטים" />
-      <item value="auto Excluder For Auction" />
-      <item value="If you will get the error please contacts you hosting provider about memory on server." />
-      <item value="If you will get errors please contacts you hosting provider about memory on server." />
-      <item value="We checked the error and we saw that the server was out of memory." />
-      <item value="Мы проверили ошибку и мы увидели что на сервере не хватает памяти." />
     </histories>
     <option name="languageScores">
       <map>
