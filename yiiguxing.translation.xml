@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please add to white list" />
+      <item value="Мы создали новый тестовый сервер для tiroche.bidspirit.com" />
       <item value="I was unable to get into the domain control panel." />
       <item value="Я не смог попасть в панель управления доменом." />
       <item value="And it is preferable to have ftp. Without ftp it will take longer." />
@@ -49,8 +52,6 @@
       <item value="פריט הבא" />
       <item value="פריט קודם" />
       <item value="חזרה לקטלוג" />
-      <item value="מכירה" />
-      <item value="על מנת להגיש הצעה, עליך להתחבר למערכת" />
     </histories>
     <option name="languageScores">
       <map>
