@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Top Author" />
+      <item value="Paintings Authors" />
       <item value="Please add to white list" />
       <item value="Мы создали новый тестовый сервер для tiroche.bidspirit.com" />
       <item value="I was unable to get into the domain control panel." />
@@ -50,8 +52,6 @@
       <item value="מועדפים" />
       <item value="הגש הצעה טלפונית" />
       <item value="פריט הבא" />
-      <item value="פריט קודם" />
-      <item value="חזרה לקטלוג" />
     </histories>
     <option name="languageScores">
       <map>
