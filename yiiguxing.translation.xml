@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="first Simbol" />
+      <item value="first Letter" />
       <item value="ספריית אמנים" />
       <item value="Yes, I'm talking about client Tiroche auctions." />
       <item value="Да, я говорю о аукционах клиента Tiroche." />
@@ -50,8 +52,6 @@
       <item value="ציורים, תכשיטים שטיחים ועוד" />
       <item value="אמנות ישראלית" />
       <item value="מכירה אינטרנטית וחיה מספר 180" />
-      <item value="יום ראשון 17012021 בשעה 18:00" />
-      <item value="Attend the online auction" />
     </histories>
     <option name="languageScores">
       <map>
