@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="authors Form" />
       <item value="no data" />
       <item value="нет данных" />
       <item value="Optional. How to sanitize term fields. Default 'raw'." />
@@ -51,7 +52,6 @@
       <item value="Синхронизация будет работать только при нажатии, но старые аукционы вы таким способом не сможете синхронизировать. Так же нам пришёл ответ от Bidspirit что для всех старых аукционов были обновлены картинки. Теперь при синхронизации картинки для всех аукционов будут отображаться." />
       <item value="פריט" />
       <item value="צפיה בפריטים" />
-      <item value="מידע" />
     </histories>
     <option name="languageScores">
       <map>
