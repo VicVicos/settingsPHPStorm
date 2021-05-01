@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Optional. How to sanitize term fields. Default 'raw'." />
       <item value="FIELD VISIBLE AUTHOR" />
       <item value="FIELD DISPLAY AUTHOR" />
       <item value="first Simbol" />
@@ -51,7 +52,6 @@
       <item value="מידע" />
       <item value="השתתפו אונליין במכירה הפומבית" />
       <item value="דרך האינטרנט LIVE למתן הצעה והשתתפות" />
-      <item value="ציורים, תכשיטים שטיחים ועוד" />
     </histories>
     <option name="languageScores">
       <map>
