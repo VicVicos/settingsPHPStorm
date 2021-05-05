@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="what is the trigger for post sales" />
+      <item value="что является триггером post продаж" />
       <item value="reviews-bank" />
       <item value="authors Form" />
       <item value="no data" />
@@ -50,8 +52,6 @@
       <item value="Add prefix for auctions slug" />
       <item value="Добавить префикс для слага аукционов" />
       <item value="Synchronization will only work when clicked, but you won't be able to sync old auctions this way. We also received a response from Bidspirit that pictures were updated for all old auctions. Now, when synchronizing, images for all auctions will be displayed." />
-      <item value="Синхронизация будет работать только при нажатии, но старые аукционы вы таким способом не сможете синхронизировать. Так же нам пришёл ответ от Bidspirit что для всех старых аукционов были обновлены картинки. Теперь при синхронизации картинки для всех аукционов будут отображаться." />
-      <item value="פריט" />
     </histories>
     <option name="languageScores">
       <map>
