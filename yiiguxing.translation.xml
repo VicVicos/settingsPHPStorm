@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="want-to-sell" />
       <item value="Select a year" />
       <item value="years" />
       <item value="פריטים שלא נמכרו" />
@@ -51,7 +52,6 @@
       <item value="go and action" />
       <item value="Thank you! We will check, in case of problems, I will inform you." />
       <item value="Спасибо! Мы проверим, в случае возникновения проблем сообщу вам." />
-      <item value="grid-gap only works if grid-template(-areas) is being used" />
     </histories>
     <option name="languageScores">
       <map>
