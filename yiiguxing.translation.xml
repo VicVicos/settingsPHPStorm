@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have not received inquiries from clients for this task." />
+      <item value="От клиентов мы не получали запросов по этой задачи." />
+      <item value="We have such a task, to implement this functionality in the plugin that Nitzan Dikshtein created for us. We did not receive more from clients to do this." />
+      <item value="У нас есть такая задача, реализовать этот функционал в плагине которую нам создал Nitzan Dikshtein. От клиентов сделать такое мы не получали больше." />
       <item value="We fixed a bug with filling in fields when creating a child user, but we still have one question: Look at these two screens: on the first, the problem is not solved, on the second, we added some fields that should be cleared. What fields do you need to add for clearing on creation? Since the plugin could not be deployed in the sandbox of your hosting, we are conducting test work on the local server." />
       <item value="Мы исправили баг с заполнением полей при создании дочернего пользователя, но у нас остался один вопрос: Посмотрите на эти два скрина: на первом проблема не решена, на втором мы добавили некоторые поля которые должны очищаться. Какие поля требуется добавить для очистки при создании? Так как работу плагина не удалось развернуть в песочнице вашего хостинга, тестовые работы мы проводим на локальном сервере." />
       <item value="Мы исправили баг с заполнением полей при создании дочернего пользователя, но у нас остался один вопрос: Посмотрите на эти два скрина: на первом проблема не решена, на втором мы добавили некоторые поля которые должны очищаться. Какие поля требуется добавить для очищения при создании? Так как работу плагина не удалось развернуть в песочнице вашего хостинга, тестовые работы мы проводим на локальном сервере." />
@@ -48,10 +52,6 @@
       <item value="I made the changes that Ivan suggested." />
       <item value="Я внёс изменения что предложил Ivan." />
       <item value="Я внёс изменения что предложил Arbel." />
-      <item value="I'm fine! Thanks." />
-      <item value="I fine! Thanks." />
-      <item value="Top Author" />
-      <item value="Paintings Authors" />
     </histories>
     <option name="languageScores">
       <map>
