@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="плюс" />
+      <item value="крест" />
       <item value="We have not received inquiries from clients for this task." />
       <item value="От клиентов мы не получали запросов по этой задачи." />
       <item value="We have such a task, to implement this functionality in the plugin that Nitzan Dikshtein created for us. We did not receive more from clients to do this." />
@@ -50,20 +52,18 @@
       <item value="Я внёс изменения что предложили." />
       <item value="I made the changes that Arbel suggested." />
       <item value="I made the changes that Ivan suggested." />
-      <item value="Я внёс изменения что предложил Ivan." />
-      <item value="Я внёс изменения что предложил Arbel." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3774" />
+        <entry key="ENGLISH" value="3775" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3774" />
+        <entry key="RUSSIAN" value="3776" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
