@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have finished working on the implementation of the features post and pre auction sale, but there is one thing left. After the customer confirms the purchase, a modal window with contact information appears. Attached a screenshot. Currently, in the plugin, we do not ask customers to provide this information. In order for this information to be pulled up automatically, we would like to receive it through a request to the API, and the user did not have to re-fill this information on the site." />
+      <item value="Мы закончили работу над реализацией features post and pre auction sale, но остался один момент. После того как клиент подтверждает покупку, появляется модальное окно с контактными данными. Приложил скриншот. Сейчас, в плагине, мы не просим клиентов указывать эту информацию. Для того что бы эта информация подтягивалась автоматически мы бы хотели получить её через запрос к API, и пользователю не пришлось повторно заполнять эту информацию на сайте." />
+      <item value="We have finished working on the implementation of the features post and pre auction sale, but there is one thing left. After the customer confirms the purchase, a modal window with contact information appears. Attached a screenshot. In order for this information to be pulled up automatically, we would like to receive it through a request to the API, and the user did not have to re-fill this information on the site." />
+      <item value="Мы закончили работу над реализацией features post and pre auction sale, но остался один момент. После того как клиент подтверждает покупку, появляется модальное окно с контактными данными. Приложил скриншот. Для того что бы эта информация подтягивалась автоматически мы бы хотели получить её через запрос к API, и пользователю не пришлось повторно заполнять эту информацию на сайте." />
+      <item value="SMTP Error: The following recipients failed: test-ukcfcbxh9@srv1.mail-tester.com: Temporary local problem - please try later" />
       <item value="שם פרטי" />
       <item value="שם משפחה" />
       <item value="סוג הפריט" />
@@ -47,23 +52,18 @@
       <item value="what is the trigger for post sales" />
       <item value="что является триггером post продаж" />
       <item value="reviews-bank" />
-      <item value="authors Form" />
-      <item value="no data" />
-      <item value="нет данных" />
-      <item value="Optional. How to sanitize term fields. Default 'raw'." />
-      <item value="FIELD VISIBLE AUTHOR" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3786" />
+        <entry key="ENGLISH" value="3790" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3786" />
+        <entry key="RUSSIAN" value="3790" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
