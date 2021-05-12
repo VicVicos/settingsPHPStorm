@@ -2,6 +2,19 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fill in the fields with stars &quot;Missing information&quot; - write in red" />
+      <item value="Fill in the fields with asterisks &quot;Missing information&quot; - write in red" />
+      <item value="Поля со звёздочками заполнить &quot;Missing information&quot; - написать красным" />
+      <item value="Date fields must be empty." />
+      <item value="Поля с информацией по датам должны пустыми." />
+      <item value="Fields with information about parents must be empty." />
+      <item value="Поля с информацией о родителях должны быть пустыми." />
+      <item value="Поля с данными о родителях должны быть пустыми." />
+      <item value="Parent fields must be empty." />
+      <item value="Поля с данными родителей должны быть пустыми." />
+      <item value="The parent fields must be empty." />
+      <item value="Поля родителей должны быть пустыми." />
+      <item value="Поля адресов должны быть скопированы из родительского." />
       <item value="Returns an array of translations of a term." />
       <item value="An associative array of translations with language code as key and translation term id as value." />
       <item value="We have finished working on the implementation of the features post and pre auction sale, but there is one thing left. After the customer confirms the purchase, a modal window with contact information appears. Attached a screenshot. Currently, in the plugin, we do not ask customers to provide this information. In order for this information to be pulled up automatically, we would like to receive it through a request to the API, and the user did not have to re-fill this information on the site." />
@@ -39,31 +52,18 @@
       <item value="The task says about the possibility to specify only a month without a day, but you say that the time field is no longer required, the day of the start of the auction is required." />
       <item value="The task says about the possibility to specify only a month without a day, but you say that the time field is no longer required, the day of the start of the auction remains mandatory. In response to a request for auctionsgetAuctionInfo, we receive the date of the start of the auction with the date and without the time. We must display a line about the beginning of the auction as shown in the picture, provided that time == null?" />
       <item value="В задаче говорится о возможности указать только месяц без дня, но вы говорите о том что поле time теперь не обязательно, день начала аукциона остаётся обязательным. В ответ при запросе на auctionsgetAuctionInfo нам приходит дата начала аукциона с днём проведения и без времени. Мы должны выводить строку о начале аукциона как показано на картинке при соблюдении условия что time == null?" />
-      <item value="The problem says about the ability to specify only a month without a day, but you say that the time field is no longer required. In response, we receive the start date of the auction with the day of the auction and without the time. We must display a line about the beginning of the auction as shown in the picture, provided that time == null?" />
-      <item value="В задаче говорится о возможности указать только месяц без дня, но вы говорите о том что поле time теперь не обязательно. В ответ нам приходит дата начала аукциона с днём проведения и без времени. Мы должны выводить строку о начале аукциона как показано на картинке при соблюдении условия что time == null?" />
-      <item value="The task says about the ability to specify only a month without a day, but you say that the time field is no longer required. In response, we receive the start date of the auction with the day of the auction and without the time. We have to display a line about the beginning of the auction as shown in the picture under the condition that time = null?" />
-      <item value="The problem says about the ability to specify only a month without a day, but you say that the time field is no longer required. In response, we receive the start date of the auction with the day of the auction and without the time. We have to display a line about the beginning of the auction as shown in the picture under the condition that time = null?" />
-      <item value="В задаче говорится о возможности указать только месяц без дня, но вы говорите о том что поле time теперь не обязательно. В ответ нам приходит дата начала аукциона с днём проведения и без времени. Мы должны выводить строку о начале аукциона как показано на картинке по условию что time = null?" />
-      <item value="The task says about the ability to specify only the month, but you say that the time field is now optional. In response, we receive an auction start date without time. We have to display a line about the beginning of the auction as shown in the picture under the condition that time = null?" />
-      <item value="The problem says about the ability to specify only the month, but you say that the time field is now optional. In response, we receive an auction start date without time. We have to display a line about the beginning of the auction as shown in the picture under the condition that time = null?" />
-      <item value="В задаче говорится о возможности указать только месяц, но вы говорите о том что поле time теперь не обязательно. В ответ нам приходит дата начала аукциона без времени. Мы должны выводить строку о начале аукциона как показано на картинке по условию что time = null?" />
-      <item value="want-to-sell" />
-      <item value="Select a year" />
-      <item value="years" />
-      <item value="פריטים שלא נמכרו" />
-      <item value="what is the trigger for post sales" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3792" />
+        <entry key="ENGLISH" value="3800" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3792" />
+        <entry key="RUSSIAN" value="3800" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
