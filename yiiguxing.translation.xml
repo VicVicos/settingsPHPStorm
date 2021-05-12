@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ראובן רובין" />
       <item value="I wanted to know if you have finished updating the images for the old auctions for Tiroche client?" />
       <item value="I wanted to know if you have finished updating the images for the old Tiroche client auctions?" />
       <item value="Я хотел узнать, закончили вы работу по обновлению картинок дя старых аукционов клиента Tiroche?" />
@@ -51,7 +52,6 @@
       <item value="We have such a task, to implement this functionality in the plugin that Nitzan Dikshtein created for us. We did not receive more from clients to do this." />
       <item value="У нас есть такая задача, реализовать этот функционал в плагине которую нам создал Nitzan Dikshtein. От клиентов сделать такое мы не получали больше." />
       <item value="We fixed a bug with filling in fields when creating a child user, but we still have one question: Look at these two screens: on the first, the problem is not solved, on the second, we added some fields that should be cleared. What fields do you need to add for clearing on creation? Since the plugin could not be deployed in the sandbox of your hosting, we are conducting test work on the local server." />
-      <item value="Мы исправили баг с заполнением полей при создании дочернего пользователя, но у нас остался один вопрос: Посмотрите на эти два скрина: на первом проблема не решена, на втором мы добавили некоторые поля которые должны очищаться. Какие поля требуется добавить для очистки при создании? Так как работу плагина не удалось развернуть в песочнице вашего хостинга, тестовые работы мы проводим на локальном сервере." />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="68" />
+        <entry key="HEBREW" value="69" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
