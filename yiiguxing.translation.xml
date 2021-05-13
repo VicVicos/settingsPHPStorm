@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="התחברו" />
+      <item value="הירשם" />
       <item value="forgotten-password" />
       <item value="הרשמה" />
       <item value="כניסה" />
@@ -50,8 +52,6 @@
       <item value="Want to sell?" />
       <item value="darkness" />
       <item value="строгий" />
-      <item value="плюс" />
-      <item value="крест" />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="71" />
+        <entry key="HEBREW" value="73" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
