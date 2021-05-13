@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="forgotten-password" />
+      <item value="הרשמה" />
+      <item value="כניסה" />
       <item value="Создать рабочую песочницу" />
       <item value="Промежуточный вариант" />
       <item value="ראובן רובין" />
@@ -49,21 +52,18 @@
       <item value="строгий" />
       <item value="плюс" />
       <item value="крест" />
-      <item value="We have not received inquiries from clients for this task." />
-      <item value="От клиентов мы не получали запросов по этой задачи." />
-      <item value="We have such a task, to implement this functionality in the plugin that Nitzan Dikshtein created for us. We did not receive more from clients to do this." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3806" />
+        <entry key="ENGLISH" value="3808" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3807" />
+        <entry key="RUSSIAN" value="3808" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="69" />
+        <entry key="HEBREW" value="71" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
