@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="post Second Id" />
       <item value="You can help us and create a test auction, in the test environment https: qa-il.bidspirit.com, which is marked with the beginning of only a month, as shown in the picture." />
       <item value="Можете нам помочь и создать тестовый аукцион, в тестовой среде https:qa-il.bidspirit.com, который отмечен началом только месяц, как изображено на картинке." />
       <item value="The dialogue with Arbel led us to misunderstand each other." />
@@ -51,19 +52,18 @@
       <item value="Мы закончили работу над реализацией features post and pre auction sale, но остался один момент. После того как клиент подтверждает покупку, появляется модальное окно с контактными данными. Приложил скриншот. Сейчас, в плагине, мы не просим клиентов указывать эту информацию. Для того что бы эта информация подтягивалась автоматически мы бы хотели получить её через запрос к API, и пользователю не пришлось повторно заполнять эту информацию на сайте." />
       <item value="We have finished working on the implementation of the features post and pre auction sale, but there is one thing left. After the customer confirms the purchase, a modal window with contact information appears. Attached a screenshot. In order for this information to be pulled up automatically, we would like to receive it through a request to the API, and the user did not have to re-fill this information on the site." />
       <item value="Мы закончили работу над реализацией features post and pre auction sale, но остался один момент. После того как клиент подтверждает покупку, появляется модальное окно с контактными данными. Приложил скриншот. Для того что бы эта информация подтягивалась автоматически мы бы хотели получить её через запрос к API, и пользователю не пришлось повторно заполнять эту информацию на сайте." />
-      <item value="SMTP Error: The following recipients failed: test-ukcfcbxh9@srv1.mail-tester.com: Temporary local problem - please try later" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3817" />
+        <entry key="ENGLISH" value="3818" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3817" />
+        <entry key="RUSSIAN" value="3818" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
