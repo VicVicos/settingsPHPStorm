@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I tested this on the Italian version of the site." />
+      <item value="Я проверял это на итальянской версии сайта." />
       <item value="להתנתק" />
       <item value="after" />
       <item value="Fixed. It was a cache. I'll see why the cache was not cleared automatically when the auction was synchronized." />
@@ -50,20 +52,18 @@
       <item value="The parent fields must be empty." />
       <item value="Поля родителей должны быть пустыми." />
       <item value="Поля адресов должны быть скопированы из родительского." />
-      <item value="Returns an array of translations of a term." />
-      <item value="An associative array of translations with language code as key and translation term id as value." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3820" />
+        <entry key="ENGLISH" value="3821" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3820" />
+        <entry key="RUSSIAN" value="3821" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
