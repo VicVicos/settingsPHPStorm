@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tried to allocate 20480 bytes" />
       <item value="and the production https:accordauctions.co.il 5.189.179.106 here is IP address." />
       <item value="Test domain: http:accordauctions.ln3.tempurl.info here is IP: 173.249.8.135" />
       <item value="I tested this on the Italian version of the site." />
@@ -51,19 +52,18 @@
       <item value="Поля с данными о родителях должны быть пустыми." />
       <item value="Parent fields must be empty." />
       <item value="Поля с данными родителей должны быть пустыми." />
-      <item value="The parent fields must be empty." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3823" />
+        <entry key="ENGLISH" value="3824" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3823" />
+        <entry key="RUSSIAN" value="3824" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
