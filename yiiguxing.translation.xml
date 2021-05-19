@@ -2,6 +2,25 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ההודעה שלך" />
+      <item value="אימייל:" />
+      <item value="שם משפחה:" />
+      <item value="שם פרטי" />
+      <item value="שליחה" />
+      <item value="אני מסכים ל תנאי" />
+      <item value="השימוש בשירות" />
+      <item value="שדות חובה" />
+      <item value="הוסף תמונה" />
+      <item value="ציורים" />
+      <item value="תכשיטים" />
+      <item value="עתיקות" />
+      <item value="אמנות דקורטיבית" />
+      <item value="שטיחים" />
+      <item value="אחר" />
+      <item value="אימייל" />
+      <item value="שם משפחה" />
+      <item value="הערות" />
+      <item value="שם" />
       <item value="טלפון" />
       <item value="Replace all &quot;Asterisks&quot; in the files for-MINOR-MOTHER and for-MINOR-FATHER that are generated when you click on the link חברות - &quot;action = membership&quot;" />
       <item value="Заменить все &quot;Звездочки&quot; в файлах for-MINOR-MOTHER and for-MINOR-FATHER, что генерируются при переходе по ссылке חברות - &quot;action=membership&quot;" />
@@ -33,25 +52,6 @@
       <item value="Now about the problem with fields marked with an asterisk. I could not find a form that has such fields. Can you help us and show us an example on the test site?" />
       <item value="Теперь о задаче с полями помеченные звёздочкой. Я не смог найти форму которая имеет такие поля. Можете нам помочь и показать пример на тестовом сайте?" />
       <item value="As an example, you can look at the user created earlier:" />
-      <item value="Как пример можете посмотреть на созданного ранее пользователя:" />
-      <item value="The login details must come from the main site." />
-      <item value="Данные для входа должны подойти от основного сайта." />
-      <item value="We fixed the problem with creating a new user that we talked about earlier. You can check on the test site:" />
-      <item value="Мы исправили проблему с созданием нового пользователя о которой говорили ранее. Можете проверить на тестовом сайте:" />
-      <item value="התחברו" />
-      <item value="הירשם" />
-      <item value="forgotten-password" />
-      <item value="הרשמה" />
-      <item value="כניסה" />
-      <item value="Создать рабочую песочницу" />
-      <item value="Промежуточный вариант" />
-      <item value="ראובן רובין" />
-      <item value="I wanted to know if you have finished updating the images for the old auctions for Tiroche client?" />
-      <item value="I wanted to know if you have finished updating the images for the old Tiroche client auctions?" />
-      <item value="Я хотел узнать, закончили вы работу по обновлению картинок дя старых аукционов клиента Tiroche?" />
-      <item value="Я хотел узнать, закончили вы работу по обновлению картинок дя старых аукционов клиента Tiroche" />
-      <item value="Artist years" />
-      <item value="Artist year" />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="77" />
+        <entry key="HEBREW" value="101" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
