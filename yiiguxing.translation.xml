@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can you add an auction id for this API call?" />
+      <item value="Can I add an auction id for this API call?" />
+      <item value="Можно добавить id аукциона для этого API call?" />
+      <item value="Very often there is a problem with the absence of a value for the &quot;number&quot; field, and besides, there is a uniqueness requirement for this field. If the API call &quot;auctionsgetAllAuctions.api&quot; for each auction returned the id of this auction, we would get rid of these problems." />
+      <item value="Очень часто возникает проблема с отсутствием значения поля &quot;number&quot;, к тому же для этого поля есть требование уникальности. Если бы при API вызове &quot;auctionsgetAllAuctions.api&quot; для каждого аукциона приходил в ответ id этого аукциона мы бы избавились от этих проблем." />
       <item value="The accordauctions client has a problem with auctions: the number field is empty. Could you please fill it out so that we can start syncing." />
       <item value="У клиента accordauctions имеется проблема с аукционами: поле number пустое. Не могли бы вы заполнить его что мы могли начать синхронизацию." />
       <item value="tried to allocate 20480 bytes" />
@@ -47,23 +52,18 @@
       <item value="Fill in the fields with stars &quot;Missing information&quot; - write in red" />
       <item value="Fill in the fields with asterisks &quot;Missing information&quot; - write in red" />
       <item value="Поля со звёздочками заполнить &quot;Missing information&quot; - написать красным" />
-      <item value="Date fields must be empty." />
-      <item value="Поля с информацией по датам должны пустыми." />
-      <item value="Fields with information about parents must be empty." />
-      <item value="Поля с информацией о родителях должны быть пустыми." />
-      <item value="Поля с данными о родителях должны быть пустыми." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3825" />
+        <entry key="ENGLISH" value="3828" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3825" />
+        <entry key="RUSSIAN" value="3828" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
