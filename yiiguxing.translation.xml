@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="טלפון" />
       <item value="Replace all &quot;Asterisks&quot; in the files for-MINOR-MOTHER and for-MINOR-FATHER that are generated when you click on the link חברות - &quot;action = membership&quot;" />
       <item value="Заменить все &quot;Звездочки&quot; в файлах for-MINOR-MOTHER and for-MINOR-FATHER, что генерируются при переходе по ссылке חברות - &quot;action=membership&quot;" />
       <item value="Can you add an auction id for this API call?" />
@@ -51,7 +52,6 @@
       <item value="Я хотел узнать, закончили вы работу по обновлению картинок дя старых аукционов клиента Tiroche" />
       <item value="Artist years" />
       <item value="Artist year" />
-      <item value="Fill in the fields with stars &quot;Missing information&quot; - write in red" />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="76" />
+        <entry key="HEBREW" value="77" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
