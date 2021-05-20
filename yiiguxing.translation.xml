@@ -2,13 +2,16 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="מספר טלפון" />
+      <item value="מספר טלפון סלולרי" />
+      <item value="שם משפחה" />
+      <item value="שם פרטי" />
+      <item value="Postal code" />
       <item value="סכום" />
       <item value="מיקוד" />
       <item value="רחוב ומספר" />
       <item value="עיר" />
       <item value="ישראל" />
-      <item value="מספר טלפון" />
-      <item value="מספר טלפון סלולרי" />
       <item value="Here we replace all unreplaced variables in .docx file ({...} is a variable)" />
       <item value="Да Я работаю ещё над этим вопросом." />
       <item value="Hello! I did task with Asterisk and Missing information. Please check on dev site." />
@@ -26,7 +29,6 @@
       <item value="ההודעה שלך" />
       <item value="אימייל:" />
       <item value="שם משפחה:" />
-      <item value="שם פרטי" />
       <item value="שליחה" />
       <item value="אני מסכים ל תנאי" />
       <item value="השימוש בשירות" />
@@ -39,7 +41,6 @@
       <item value="שטיחים" />
       <item value="אחר" />
       <item value="אימייל" />
-      <item value="שם משפחה" />
       <item value="הערות" />
       <item value="שם" />
       <item value="טלפון" />
@@ -51,19 +52,18 @@
       <item value="Very often there is a problem with the absence of a value for the &quot;number&quot; field, and besides, there is a uniqueness requirement for this field. If the API call &quot;auctionsgetAllAuctions.api&quot; for each auction returned the id of this auction, we would get rid of these problems." />
       <item value="Очень часто возникает проблема с отсутствием значения поля &quot;number&quot;, к тому же для этого поля есть требование уникальности. Если бы при API вызове &quot;auctionsgetAllAuctions.api&quot; для каждого аукциона приходил в ответ id этого аукциона мы бы избавились от этих проблем." />
       <item value="The accordauctions client has a problem with auctions: the number field is empty. Could you please fill it out so that we can start syncing." />
-      <item value="У клиента accordauctions имеется проблема с аукционами: поле number пустое. Не могли бы вы заполнить его что мы могли начать синхронизацию." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3840" />
+        <entry key="ENGLISH" value="3841" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3840" />
+        <entry key="RUSSIAN" value="3841" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="109" />
+        <entry key="HEBREW" value="113" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
