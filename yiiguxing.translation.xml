@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Here we replace all unreplaced variables in .docx file ({...} is a variable)" />
       <item value="Да Я работаю ещё над этим вопросом." />
       <item value="Hello! I did task with Asterisk and Missing information. Please check on dev site." />
       <item value="I did task with Asterisk and Missing information." />
@@ -51,12 +52,11 @@
       <item value="Я проверял это на итальянской версии сайта." />
       <item value="להתנתק" />
       <item value="after" />
-      <item value="Fixed. It was a cache. I'll see why the cache was not cleared automatically when the auction was synchronized." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3839" />
+        <entry key="ENGLISH" value="3840" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
