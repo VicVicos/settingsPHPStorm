@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="הגש הצעה טלפונית" />
       <item value="auction Is Archived" />
       <item value="asterisk" />
       <item value="asteriks" />
@@ -51,7 +52,6 @@
       <item value="Можете нам помочь и создать тестовый аукцион, в тестовой среде https:qa-il.bidspirit.com, который отмечен началом только месяц, как изображено на картинке." />
       <item value="The dialogue with Arbel led us to misunderstand each other." />
       <item value="Диалог с Arbel привел нас к непониманию друг друга." />
-      <item value="We cannot recreate an auction with appropriate settings for this task." />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="101" />
+        <entry key="HEBREW" value="102" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
