@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! I did task with Asterisk and Missing information. Please check on dev site." />
+      <item value="I did task with Asterisk and Missing information." />
+      <item value="I did it task with Asterisk and Missing information." />
+      <item value="Я сделал" />
+      <item value="Hello! I do it task with Asterisk and Missing information." />
       <item value="הגש הצעה טלפונית" />
       <item value="auction Is Archived" />
       <item value="asterisk" />
@@ -47,23 +52,18 @@
       <item value="after" />
       <item value="Fixed. It was a cache. I'll see why the cache was not cleared automatically when the auction was synchronized." />
       <item value="Исправил. Это был кеш. Я посмотрю почему кеш не очистился автоматически при синхронизации аукциона." />
-      <item value="post Second Id" />
-      <item value="You can help us and create a test auction, in the test environment https: qa-il.bidspirit.com, which is marked with the beginning of only a month, as shown in the picture." />
-      <item value="Можете нам помочь и создать тестовый аукцион, в тестовой среде https:qa-il.bidspirit.com, который отмечен началом только месяц, как изображено на картинке." />
-      <item value="The dialogue with Arbel led us to misunderstand each other." />
-      <item value="Диалог с Arbel привел нас к непониманию друг друга." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3835" />
+        <entry key="ENGLISH" value="3839" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3835" />
+        <entry key="RUSSIAN" value="3839" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
