@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="auction Is Archived" />
       <item value="asterisk" />
       <item value="asteriks" />
       <item value="Unsold items coming soon" />
@@ -51,19 +52,18 @@
       <item value="The dialogue with Arbel led us to misunderstand each other." />
       <item value="Диалог с Arbel привел нас к непониманию друг друга." />
       <item value="We cannot recreate an auction with appropriate settings for this task." />
-      <item value="Мы не можем воссоздать аукцион который бы имел подходящие настройки для этой задачи." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3834" />
+        <entry key="ENGLISH" value="3835" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3834" />
+        <entry key="RUSSIAN" value="3835" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
