@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Для клиента cascobayauctions при попытке синхронизации я получаю много ошибок &quot;Number&quot; field is empty&quot;" />
+      <item value="For cascobayauctions client, when trying to sync, I get many &quot;Number&quot; field is empty&quot; errors" />
+      <item value="Для клиента cascobayauctions при попытке синхронизации я получаю много ошибок &quot;Number&quot; field is empty" />
+      <item value="I have made backup files and databases. And uploaded the edits related to the tasks to the server." />
+      <item value="Я сделал backup файлов и базы данных. И загрузил на сервер правки связанные с задачами." />
       <item value="Client tronzelasleiloes, when trying to get lots for auctions 15,3,2,1, gets an error about auction duplicates." />
       <item value="У клиента tronzelasleiloes при попытке получить лоты для аукционов 15,3,2,1 в ответ получаем ошибку о дублях аукциона." />
       <item value="Hello! Is there a problem with the plugin? And can you describe or show an error in the site in more detail?" />
@@ -47,23 +52,18 @@
       <item value="ציורים" />
       <item value="תכשיטים" />
       <item value="עתיקות" />
-      <item value="אמנות דקורטיבית" />
-      <item value="שטיחים" />
-      <item value="אחר" />
-      <item value="אימייל" />
-      <item value="הערות" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3847" />
+        <entry key="ENGLISH" value="3849" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3847" />
+        <entry key="RUSSIAN" value="3850" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
