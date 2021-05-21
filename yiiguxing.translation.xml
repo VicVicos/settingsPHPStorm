@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If it's a full HTML, no need to add 'body' tag" />
       <item value="We have finished working on the postpre sale task. Please accept work, yes we will send an update to all customers. You can see it on the test site:" />
       <item value="Мы закончили работу над задачей с postpre sale. Пожалуйста примите работу, да мы отправим обновление для всех клиентов. Посмотреть можно на тестовом сайте:" />
       <item value="It was simply not possible to solve this problem, we had to read the documentation for the library that we use to generate files. I switched to other tasks in order to do your task with a fresh mind tomorrow morning." />
@@ -51,19 +52,18 @@
       <item value="Replace all &quot;Asterisks&quot; in the files for-MINOR-MOTHER and for-MINOR-FATHER that are generated when you click on the link חברות - &quot;action = membership&quot;" />
       <item value="Заменить все &quot;Звездочки&quot; в файлах for-MINOR-MOTHER and for-MINOR-FATHER, что генерируются при переходе по ссылке חברות - &quot;action=membership&quot;" />
       <item value="Can you add an auction id for this API call?" />
-      <item value="Can I add an auction id for this API call?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3843" />
+        <entry key="ENGLISH" value="3844" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3843" />
+        <entry key="RUSSIAN" value="3844" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
