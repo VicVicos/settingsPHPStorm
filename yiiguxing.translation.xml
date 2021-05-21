@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Client tronzelasleiloes, when trying to get lots for auctions 15,3,2,1, gets an error about auction duplicates." />
+      <item value="У клиента tronzelasleiloes при попытке получить лоты для аукционов 15,3,2,1 в ответ получаем ошибку о дублях аукциона." />
       <item value="Hello! Is there a problem with the plugin? And can you describe or show an error in the site in more detail?" />
       <item value="Проблема связана с работой плагина? И можете подробнее описать или показать ошибку в работе сайта?" />
       <item value="Adding Text element with font customized using named font style..." />
@@ -50,20 +52,18 @@
       <item value="אחר" />
       <item value="אימייל" />
       <item value="הערות" />
-      <item value="שם" />
-      <item value="טלפון" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3846" />
+        <entry key="ENGLISH" value="3847" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3846" />
+        <entry key="RUSSIAN" value="3847" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
