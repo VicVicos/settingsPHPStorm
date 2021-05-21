@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! Is there a problem with the plugin? And can you describe or show an error in the site in more detail?" />
+      <item value="Проблема связана с работой плагина? И можете подробнее описать или показать ошибку в работе сайта?" />
       <item value="Adding Text element with font customized using named font style..." />
       <item value="If it's a full HTML, no need to add 'body' tag" />
       <item value="We have finished working on the postpre sale task. Please accept work, yes we will send an update to all customers. You can see it on the test site:" />
@@ -50,20 +52,18 @@
       <item value="הערות" />
       <item value="שם" />
       <item value="טלפון" />
-      <item value="Replace all &quot;Asterisks&quot; in the files for-MINOR-MOTHER and for-MINOR-FATHER that are generated when you click on the link חברות - &quot;action = membership&quot;" />
-      <item value="Заменить все &quot;Звездочки&quot; в файлах for-MINOR-MOTHER and for-MINOR-FATHER, что генерируются при переходе по ссылке חברות - &quot;action=membership&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3845" />
+        <entry key="ENGLISH" value="3846" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3845" />
+        <entry key="RUSSIAN" value="3846" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
