@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You need to fill in the &quot;Auction number&quot; field for all auctions." />
+      <item value="Вам надо для всех аукционов заполнить поле &quot;Auction number&quot;." />
+      <item value="To solve them, you need to change the number in the &quot;Auction number&quot; field for auctions 15,3,2,1, make it unique for each auction." />
+      <item value="Что бы их решить вам надо изменить номер в поле &quot;Auction number&quot; для аукционов 15,3,2,1, сделать его уникальным для каждого аукциона." />
+      <item value="We get errors when synchronizing." />
+      <item value="При синхронизации мы получаем ошибки." />
       <item value="Для клиента cascobayauctions при попытке синхронизации я получаю много ошибок &quot;Number&quot; field is empty&quot;" />
       <item value="For cascobayauctions client, when trying to sync, I get many &quot;Number&quot; field is empty&quot; errors" />
       <item value="Для клиента cascobayauctions при попытке синхронизации я получаю много ошибок &quot;Number&quot; field is empty" />
@@ -46,24 +52,18 @@
       <item value="שם משפחה:" />
       <item value="שליחה" />
       <item value="אני מסכים ל תנאי" />
-      <item value="השימוש בשירות" />
-      <item value="שדות חובה" />
-      <item value="הוסף תמונה" />
-      <item value="ציורים" />
-      <item value="תכשיטים" />
-      <item value="עתיקות" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3849" />
+        <entry key="ENGLISH" value="3853" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3850" />
+        <entry key="RUSSIAN" value="3853" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
