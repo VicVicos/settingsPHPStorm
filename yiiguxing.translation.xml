@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Oops, this page could not be found!" />
       <item value="אני מסכים ל תנאי" />
       <item value="השימוש בשירות" />
       <item value="I wanted to inquire about banners for inner pages, for a client of cascobayauctions" />
@@ -51,19 +52,18 @@
       <item value="Да Я работаю ещё над этим вопросом." />
       <item value="Hello! I did task with Asterisk and Missing information. Please check on dev site." />
       <item value="I did task with Asterisk and Missing information." />
-      <item value="I did it task with Asterisk and Missing information." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3862" />
+        <entry key="ENGLISH" value="3863" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3862" />
+        <entry key="RUSSIAN" value="3863" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
