@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Set lot as featured" />
       <item value="Загружено ранее" />
       <item value="load Before" />
       <item value="FTP and access into admin panel." />
@@ -51,12 +52,11 @@
       <item value="מספר טלפון" />
       <item value="מספר טלפון סלולרי" />
       <item value="שם משפחה" />
-      <item value="שם פרטי" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3870" />
+        <entry key="ENGLISH" value="3871" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
