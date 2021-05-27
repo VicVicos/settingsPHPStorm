@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="הדף לא נמצא" />
       <item value="Please note that Your website is based on the bidspirit basic template. If you would like, we can upgrade your website and add more pagessectionscontent for an additional payment based on hour bank. If you would like to get more information about the options, please write here in this WhatsApp group, or send us an email to support@bidspirit-themes.com, and we will send examples." />
       <item value="It is effortless to make changes on your website using the WordPress admin. Please watch these videos before you make changes to your site content, and If you have any question, please let us know:" />
       <item value="When you publish auctions in bidspirit admin, they will be synced to your website automatically. The sync takes place every hour. Any change to the cataloglots should be done directly in the bidspirit admin and not in your website WordPress admin. Content pages – about us, contact us, etc." />
@@ -51,7 +52,6 @@
       <item value="If it's a full HTML, no need to add 'body' tag" />
       <item value="We have finished working on the postpre sale task. Please accept work, yes we will send an update to all customers. You can see it on the test site:" />
       <item value="Мы закончили работу над задачей с postpre sale. Пожалуйста примите работу, да мы отправим обновление для всех клиентов. Посмотреть можно на тестовом сайте:" />
-      <item value="It was simply not possible to solve this problem, we had to read the documentation for the library that we use to generate files. I switched to other tasks in order to do your task with a fresh mind tomorrow morning." />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="115" />
+        <entry key="HEBREW" value="116" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
