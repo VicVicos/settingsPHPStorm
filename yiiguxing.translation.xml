@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="When synchronizing with tiroche, we do not receive lots for auctions 181 and 300. In response, we receive a void:" />
+      <item value="При синхронизации с tiroche мы не получаем лоты для аукционов 181 и 300. В ответ нам приходит пустота:" />
       <item value="Post was delete" />
       <item value="I updated the Bidspirit plugin and fixed the theme conflict with plugin and quite accidentally updated the Divi website theme." />
       <item value="I updated the Bidspirit plugin and fixed the theme conflict issue and quite accidentally updated the Divi website theme." />
@@ -50,20 +52,18 @@
       <item value="We get errors when synchronizing." />
       <item value="При синхронизации мы получаем ошибки." />
       <item value="Для клиента cascobayauctions при попытке синхронизации я получаю много ошибок &quot;Number&quot; field is empty&quot;" />
-      <item value="For cascobayauctions client, when trying to sync, I get many &quot;Number&quot; field is empty&quot; errors" />
-      <item value="Для клиента cascobayauctions при попытке синхронизации я получаю много ошибок &quot;Number&quot; field is empty" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3882" />
+        <entry key="ENGLISH" value="3883" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3882" />
+        <entry key="RUSSIAN" value="3883" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
