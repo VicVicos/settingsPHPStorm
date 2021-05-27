@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I updated the Bidspirit plugin and fixed the theme conflict with plugin and quite accidentally updated the Divi website theme." />
+      <item value="I updated the Bidspirit plugin and fixed the theme conflict issue and quite accidentally updated the Divi website theme." />
+      <item value="Я обновил плагин Bidspirit и пофиксил проблему конфликта с темой, и совершенно случайно обновил тему сайта Divi." />
       <item value="Custom fixes for uco-auctions plugin" />
       <item value="I fixed the problem, but I accidentally updated the theme of the site. In case of problems on the site, contact the hosting technical support and ask to roll back the site theme to the state before 09:00 on 27.05." />
       <item value="Проблему я устранил, но совершенно случайно обновил тему сайта. В случае возникновения проблем на сайте обратитесь техническую поддержку хостинга и попросите откатить тему сайта в состояние до 09:00 27.05 ." />
@@ -49,21 +52,18 @@
       <item value="For cascobayauctions client, when trying to sync, I get many &quot;Number&quot; field is empty&quot; errors" />
       <item value="Для клиента cascobayauctions при попытке синхронизации я получаю много ошибок &quot;Number&quot; field is empty" />
       <item value="I have made backup files and databases. And uploaded the edits related to the tasks to the server." />
-      <item value="Я сделал backup файлов и базы данных. И загрузил на сервер правки связанные с задачами." />
-      <item value="Client tronzelasleiloes, when trying to get lots for auctions 15,3,2,1, gets an error about auction duplicates." />
-      <item value="У клиента tronzelasleiloes при попытке получить лоты для аукционов 15,3,2,1 в ответ получаем ошибку о дублях аукциона." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3879" />
+        <entry key="ENGLISH" value="3881" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3879" />
+        <entry key="RUSSIAN" value="3881" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
