@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Did I understand correctly? Or am I checking something wrong?" />
+      <item value="Верно я понял? Или я не то проверяю?" />
+      <item value="And the forms work there. If there were errors, then when you click on the &quot;Login&quot; button, the modal window with the form would not appear." />
+      <item value="И формы там работают. Если бы были ошибки, то при клике на кнопку &quot;Login&quot; модальное окно с формой не появлялось бы." />
+      <item value="The link in the menu is a link to the profile page" />
+      <item value="Ссылка в меню есть ссылка на страницу профиля" />
       <item value="git restore &lt;file&gt;...&quot; to discard changes in working directory" />
       <item value="When synchronizing with tiroche, we do not receive lots for auctions 181 and 300. In response, we receive a void:" />
       <item value="При синхронизации с tiroche мы не получаем лоты для аукционов 181 и 300. В ответ нам приходит пустота:" />
@@ -46,24 +52,18 @@
       <item value="Dev zone" />
       <item value="responsive" />
       <item value="single-responsive" />
-      <item value="You need to fill in the &quot;Auction number&quot; field for all auctions." />
-      <item value="Вам надо для всех аукционов заполнить поле &quot;Auction number&quot;." />
-      <item value="To solve them, you need to change the number in the &quot;Auction number&quot; field for auctions 15,3,2,1, make it unique for each auction." />
-      <item value="Что бы их решить вам надо изменить номер в поле &quot;Auction number&quot; для аукционов 15,3,2,1, сделать его уникальным для каждого аукциона." />
-      <item value="We get errors when synchronizing." />
-      <item value="При синхронизации мы получаем ошибки." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3884" />
+        <entry key="ENGLISH" value="3888" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3884" />
+        <entry key="RUSSIAN" value="3888" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
