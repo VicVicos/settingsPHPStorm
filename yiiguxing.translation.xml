@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="After syncing is complete, are you ready to connect your domain to the new site?" />
+      <item value="После завершения синхронизации, вы будите готовы подключить свой домен к новому сайту?" />
       <item value="I think this problem will be solved in the near future." />
       <item value="Думаю эта проблема решится в ближайшее время." />
       <item value="As we connect the main domain, the Elementor Pro license will be available on your site." />
@@ -50,20 +52,18 @@
       <item value="Pdf files have a relative path, i.e. do not have a domain. I cannot display the correct link without this. Sample: tirocheauctionDocs209catalogFull_Catalog.pdf" />
       <item value="Pdf файлы имеют относительный путь, т.е. не имеют домена. Я не могу вывести корректную ссылку без этого." />
       <item value="Oops, this page could not be found!" />
-      <item value="אני מסכים ל תנאי" />
-      <item value="השימוש בשירות" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3893" />
+        <entry key="ENGLISH" value="3894" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3893" />
+        <entry key="RUSSIAN" value="3894" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
