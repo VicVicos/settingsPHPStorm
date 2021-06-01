@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Is art category" />
+      <item value="Properties product categories" />
+      <item value="Product categories Properties" />
+      <item value="Products category Properties" />
       <item value="I will remove the extra lots." />
       <item value="Я уберу лишние лоты." />
       <item value="Thank you! I understood what the problem is. These are lots that were copies of the second language. We removed the second language, and the lots remained available for search." />
@@ -48,22 +52,18 @@
       <item value="Проблему я устранил, но совершенно случайно обновил тему сайта. В случае возникновения проблем обратитесь техническую поддержку хостинга и попросите откатить тему сайта в состояние до 09:00 27.05." />
       <item value="Hello! Please try now." />
       <item value="הדף לא נמצא" />
-      <item value="Please note that Your website is based on the bidspirit basic template. If you would like, we can upgrade your website and add more pagessectionscontent for an additional payment based on hour bank. If you would like to get more information about the options, please write here in this WhatsApp group, or send us an email to support@bidspirit-themes.com, and we will send examples." />
-      <item value="It is effortless to make changes on your website using the WordPress admin. Please watch these videos before you make changes to your site content, and If you have any question, please let us know:" />
-      <item value="When you publish auctions in bidspirit admin, they will be synced to your website automatically. The sync takes place every hour. Any change to the cataloglots should be done directly in the bidspirit admin and not in your website WordPress admin. Content pages – about us, contact us, etc." />
-      <item value="Please review the website and if you have any notes about the website design or the content within the bidsprit template - please write here in this WhatsApp group, or send us an email to support@bidspirit-themes.com . We are looking forward to hearing your feedback or approval soon." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3900" />
+        <entry key="ENGLISH" value="3904" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3900" />
+        <entry key="RUSSIAN" value="3904" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
