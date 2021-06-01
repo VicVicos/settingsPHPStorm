@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="crash sync old lots" />
+      <item value="We came up with a solution to this problem as follows: At the time of synchronization of archived auctions, save the final sale price on the site and then display it." />
+      <item value="Мы придумали вариант решения этой задачи следующий: В момент синхронизации архивных аукционов сохранять на сайте финальную цену продажи и после её выводить." />
+      <item value="This page is the author of paintingslots. One author contains many lots from different auctions. We only need the final sale price." />
+      <item value="paintingslots" />
+      <item value="This page is the author of kartlots. One author contains many lots from different auctions. We only need the final sale price." />
+      <item value="Эта страница автора картинлотов. Один автор содержит в себе много лотов из разных аукционов. Нам нужна только финальная цена продажи." />
       <item value="This slider contains lots from active auctions with the label: &quot;Display lot on the main page&quot;" />
       <item value="This slider contains lots from active lots with the label: &quot;Display lot on the main page&quot;" />
       <item value="В этот слайдер попадают лоты из активных аукционов с меткой: &quot;Display lot on the main page&quot;" />
@@ -45,25 +52,18 @@
       <item value="Сейчас посмотрим что не так." />
       <item value="אונליין" />
       <item value="אמנות" />
-      <item value="Did I understand correctly? Or am I checking something wrong?" />
-      <item value="Верно я понял? Или я не то проверяю?" />
-      <item value="And the forms work there. If there were errors, then when you click on the &quot;Login&quot; button, the modal window with the form would not appear." />
-      <item value="И формы там работают. Если бы были ошибки, то при клике на кнопку &quot;Login&quot; модальное окно с формой не появлялось бы." />
-      <item value="The link in the menu is a link to the profile page" />
-      <item value="Ссылка в меню есть ссылка на страницу профиля" />
-      <item value="git restore &lt;file&gt;...&quot; to discard changes in working directory" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3912" />
+        <entry key="ENGLISH" value="3917" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3912" />
+        <entry key="RUSSIAN" value="3917" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
