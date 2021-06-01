@@ -2,6 +2,26 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="With the current auction settings, &quot;post Sale&quot; should not be available?" />
+      <item value="При текущих настройках аукциона &quot;post Sale&quot; не должна быть доступна?" />
+      <item value="Those. with the current settings of the auction &quot;post Sale&quot; should not be available?" />
+      <item value="Т.е. при текущих настройках аукциона &quot;post Sale&quot; не должна быть доступна?" />
+      <item value="At the moment, this functionality is not available, but such a task is in the plans for another client who pays separately for this revision. How we will implement this, then we will be able to do it on your website." />
+      <item value="На текущий момент этого функционала нет, но такая задача есть в планах для другого клиента который оплачивает отдельно эту доработку. Как мы реализуем это, после сможем сделать это у вас на сайте." />
+      <item value="At the moment, this functionality is not available, but such a task is in the plans for another client, how we will do this can be done on your website." />
+      <item value="На текущий момент этого функционала нет, но такая задача есть в планах для другого клиента, как сделаем это, можно будет сделать и у вас на сайте." />
+      <item value="Please clarify this moment. We are talking about already completed auctions and the final sale price of this lot should be displayed. Right?" />
+      <item value="Уточните пожалуйста этот момент. Речь идёт об уже завершённых аукционах и надо отображать цену финальной продажи этого лота. Верно?" />
+      <item value="Надо добавить опцию?" />
+      <item value="I will add options to the plugin settings if you do not have the ability to control this functionality in beadspirit." />
+      <item value="Я добавлю опции в настройки плагина, если в бидспирит вы не имеете возможности управлять этим функционалом." />
+      <item value="Я добавлю опции в настройки плагина." />
+      <item value="I received from the API a field named postSaleDisabled whose value is now responsible for displaying this functionality. So you need to add options to the plugin settings." />
+      <item value="Я получал от API поле с именем postSaleDisabled значение которого сейчас и отвечает за отображение этого функционала. Значить надо добавить опции в настройки плагина." />
+      <item value="I received from the API a field named postSaleDisabled whose value is responsible for displaying this functionality. So you need to add options to the plugin settings." />
+      <item value="Я получал от API поле с именем postSaleDisabled значение которого и отвечает за отображение этого функционала. Значить надо добавить опции в настройки плагина." />
+      <item value="We think to do as described above, keeping the sale price during synchronization." />
+      <item value="Думаем сделать так как описал выше, сохраняя цену продажи при синхронизации." />
       <item value="crash sync old lots" />
       <item value="We came up with a solution to this problem as follows: At the time of synchronization of archived auctions, save the final sale price on the site and then display it." />
       <item value="Мы придумали вариант решения этой задачи следующий: В момент синхронизации архивных аукционов сохранять на сайте финальную цену продажи и после её выводить." />
@@ -32,38 +52,18 @@
       <item value="Спасибо! Я понял в чём проблема. Это лоты которые были копиями второго языка. Второй язык мы убрали, а лоты остались доступны для поиска." />
       <item value="Can you send an example where you can see duplicate lots?" />
       <item value="Можете прислать пример где видно повторяющиеся лоты?" />
-      <item value="The problem is to emulate this situation." />
-      <item value="The problem is to emulate this situation in order to implement this feature." />
-      <item value="Проблема с эмулировать данную ситуацию, что бы реализовать данную фичу." />
-      <item value="שדות חובה" />
-      <item value="I'll follow the process and tell you how the sync will finish." />
-      <item value="Я слежу за процессом и скажу как синхронизация завершится." />
-      <item value="After syncing is complete, are you ready to connect your domain to the new site?" />
-      <item value="После завершения синхронизации, вы будите готовы подключить свой домен к новому сайту?" />
-      <item value="I think this problem will be solved in the near future." />
-      <item value="Думаю эта проблема решится в ближайшее время." />
-      <item value="As we connect the main domain, the Elementor Pro license will be available on your site." />
-      <item value="Как подключим основной домен на вашем сайте будет доступна лицензия Elementor Pro." />
-      <item value="All lots have arrived, soon they will all be updated on the site." />
-      <item value="Все лоты пришли, скоро они все обновятся на сайте." />
-      <item value="Now I will deal with this problem." />
-      <item value="Сейчас займусь этой проблемой." />
-      <item value="Now let's see what's wrong." />
-      <item value="Сейчас посмотрим что не так." />
-      <item value="אונליין" />
-      <item value="אמנות" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3917" />
+        <entry key="ENGLISH" value="3928" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3917" />
+        <entry key="RUSSIAN" value="3928" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
