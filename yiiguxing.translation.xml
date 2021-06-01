@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This slider contains lots from active auctions with the label: &quot;Display lot on the main page&quot;" />
+      <item value="This slider contains lots from active lots with the label: &quot;Display lot on the main page&quot;" />
+      <item value="В этот слайдер попадают лоты из активных аукционов с меткой: &quot;Display lot on the main page&quot;" />
+      <item value="В этот слайдер попадают лоты из активных лотов с меткой: &quot;Display lot on the main page&quot;" />
+      <item value="И не забывайте устанавливать связь сущностей с версией на английском" />
+      <item value="Is this a light load for backend bidspirit?" />
+      <item value="Легкая ли это нагрузка для backend bidspirit?" />
+      <item value="The Tiroche client needs to display the prices of lots sold on all the pages where they are shown. The problem is that on one page we can have many auctions and a certain number of lots for these auctions. In total, we will receive several requests for the itemsgetItemsInfo.api API from one page. Wouldn't this be a problem for backend bidspirit?" />
+      <item value="Не будет ли это проблемой для backend bidspirit?" />
+      <item value="The Tiroche client needs to display the prices of lots sold on all the pages where they are shown. The problem is that on one page we can have many auctions and a certain number of lots for these auctions. In total, we will receive several requests for the itemsgetItemsInfo.api API from one page. Wouldn't that be a problem?" />
+      <item value="Клиенту Tiroche требуется отображать цены на проданные лоты на всех страницах где они показываются. Проблема в том что на одной странице мы можем иметь множество аукционов и некоторое количество лотов для этих аукционов. Итого у нас будет получаться несколько запросов на API itemsgetItemsInfo.api с одной страницы. Не будет ли это проблемой?" />
       <item value="Are you ready to transfer your domain?" />
       <item value="Вы готовы переносить домен?" />
       <item value="Is art category" />
@@ -41,29 +52,18 @@
       <item value="The link in the menu is a link to the profile page" />
       <item value="Ссылка в меню есть ссылка на страницу профиля" />
       <item value="git restore &lt;file&gt;...&quot; to discard changes in working directory" />
-      <item value="When synchronizing with tiroche, we do not receive lots for auctions 181 and 300. In response, we receive a void:" />
-      <item value="При синхронизации с tiroche мы не получаем лоты для аукционов 181 и 300. В ответ нам приходит пустота:" />
-      <item value="Post was delete" />
-      <item value="I updated the Bidspirit plugin and fixed the theme conflict with plugin and quite accidentally updated the Divi website theme." />
-      <item value="I updated the Bidspirit plugin and fixed the theme conflict issue and quite accidentally updated the Divi website theme." />
-      <item value="Я обновил плагин Bidspirit и пофиксил проблему конфликта с темой, и совершенно случайно обновил тему сайта Divi." />
-      <item value="Custom fixes for uco-auctions plugin" />
-      <item value="I fixed the problem, but I accidentally updated the theme of the site. In case of problems on the site, contact the hosting technical support and ask to roll back the site theme to the state before 09:00 on 27.05." />
-      <item value="Проблему я устранил, но совершенно случайно обновил тему сайта. В случае возникновения проблем на сайте обратитесь техническую поддержку хостинга и попросите откатить тему сайта в состояние до 09:00 27.05 ." />
-      <item value="I fixed the problem, but I accidentally updated the theme of the site. In case of problems, contact the hosting technical support and ask to roll back the site theme to the state before 09:00 on 27.05." />
-      <item value="Проблему я устранил, но совершенно случайно обновил тему сайта. В случае возникновения проблем обратитесь техническую поддержку хостинга и попросите откатить тему сайта в состояние до 09:00 27.05." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3905" />
+        <entry key="ENGLISH" value="3912" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3905" />
+        <entry key="RUSSIAN" value="3912" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
