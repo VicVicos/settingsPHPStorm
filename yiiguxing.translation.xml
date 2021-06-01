@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Are you ready to transfer your domain?" />
+      <item value="Вы готовы переносить домен?" />
       <item value="Is art category" />
       <item value="Properties product categories" />
       <item value="Product categories Properties" />
@@ -50,20 +52,18 @@
       <item value="Проблему я устранил, но совершенно случайно обновил тему сайта. В случае возникновения проблем на сайте обратитесь техническую поддержку хостинга и попросите откатить тему сайта в состояние до 09:00 27.05 ." />
       <item value="I fixed the problem, but I accidentally updated the theme of the site. In case of problems, contact the hosting technical support and ask to roll back the site theme to the state before 09:00 on 27.05." />
       <item value="Проблему я устранил, но совершенно случайно обновил тему сайта. В случае возникновения проблем обратитесь техническую поддержку хостинга и попросите откатить тему сайта в состояние до 09:00 27.05." />
-      <item value="Hello! Please try now." />
-      <item value="הדף לא נמצא" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3904" />
+        <entry key="ENGLISH" value="3905" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3904" />
+        <entry key="RUSSIAN" value="3905" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
