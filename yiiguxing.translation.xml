@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I am looking at the site in a private window." />
+      <item value="Я смотрю на сайта в приватном окне." />
+      <item value="I watch site in private window." />
+      <item value="I saw site in private window." />
+      <item value="I see site in private window." />
+      <item value="Hello! What's missing here?" />
+      <item value="Здесь чего то не хватает?" />
+      <item value="Hello! We need to test bids, is there a separate test sandbox account for Tiroche on Bidspirit where we can place bids without interfering with the main sales?" />
+      <item value="We need to test bids, is there a separate test sandbox account for Tiroche on Bidspirit where we can place bids without interfering with the main sales." />
+      <item value="We need to test bids, is there a separate test sandbox account for Tiroche on Bidspirit where you can place bids without interfering with the main sales." />
+      <item value="Нам требуется тестировать ставки, нет ли для Tiroche отдельного тестового аккаунтапесочницы на Bidspirit где можно делать ставки не вмешиваясь в основные продажи." />
       <item value="Is everything working well after the last update? Are there any comments or new tasks?" />
       <item value="После последнего обновления на сайте всё хорошо работает? Нет ли каких замечаний или новых задач?" />
       <item value="You can also attach a product from Woocommerce here by checking the box from the sidebar." />
@@ -41,29 +52,18 @@
       <item value="В этот слайдер попадают лоты из активных лотов с меткой: &quot;Display lot on the main page&quot;" />
       <item value="И не забывайте устанавливать связь сущностей с версией на английском" />
       <item value="Is this a light load for backend bidspirit?" />
-      <item value="Легкая ли это нагрузка для backend bidspirit?" />
-      <item value="The Tiroche client needs to display the prices of lots sold on all the pages where they are shown. The problem is that on one page we can have many auctions and a certain number of lots for these auctions. In total, we will receive several requests for the itemsgetItemsInfo.api API from one page. Wouldn't this be a problem for backend bidspirit?" />
-      <item value="Не будет ли это проблемой для backend bidspirit?" />
-      <item value="The Tiroche client needs to display the prices of lots sold on all the pages where they are shown. The problem is that on one page we can have many auctions and a certain number of lots for these auctions. In total, we will receive several requests for the itemsgetItemsInfo.api API from one page. Wouldn't that be a problem?" />
-      <item value="Клиенту Tiroche требуется отображать цены на проданные лоты на всех страницах где они показываются. Проблема в том что на одной странице мы можем иметь множество аукционов и некоторое количество лотов для этих аукционов. Итого у нас будет получаться несколько запросов на API itemsgetItemsInfo.api с одной страницы. Не будет ли это проблемой?" />
-      <item value="Are you ready to transfer your domain?" />
-      <item value="Вы готовы переносить домен?" />
-      <item value="Is art category" />
-      <item value="Properties product categories" />
-      <item value="Product categories Properties" />
-      <item value="Products category Properties" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3931" />
+        <entry key="ENGLISH" value="3939" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3931" />
+        <entry key="RUSSIAN" value="3939" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
