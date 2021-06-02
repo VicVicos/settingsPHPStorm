@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Связанную с вызовом API вызова settingsgetHouseInfo" />
+      <item value="Relative with API call settingsgetHouseInfo" />
+      <item value="On the test site for the tiroche client, I get the error shown in the screenshot." />
+      <item value="На тестовом сайте для клиента tiroche я получаю ошибку что показана на скриншоте." />
       <item value="I am looking at the site in a private window." />
       <item value="Я смотрю на сайта в приватном окне." />
       <item value="I watch site in private window." />
@@ -48,22 +52,18 @@
       <item value="Эта страница автора картинлотов. Один автор содержит в себе много лотов из разных аукционов. Нам нужна только финальная цена продажи." />
       <item value="This slider contains lots from active auctions with the label: &quot;Display lot on the main page&quot;" />
       <item value="This slider contains lots from active lots with the label: &quot;Display lot on the main page&quot;" />
-      <item value="В этот слайдер попадают лоты из активных аукционов с меткой: &quot;Display lot on the main page&quot;" />
-      <item value="В этот слайдер попадают лоты из активных лотов с меткой: &quot;Display lot on the main page&quot;" />
-      <item value="И не забывайте устанавливать связь сущностей с версией на английском" />
-      <item value="Is this a light load for backend bidspirit?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3939" />
+        <entry key="ENGLISH" value="3942" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3939" />
+        <entry key="RUSSIAN" value="3943" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
