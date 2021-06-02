@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You can also attach a product from Woocommerce here by checking the box from the sidebar." />
+      <item value="Так же сюда можно прицепить товар из Woocommerce отметив галочку из sidebar." />
       <item value="I will now remove the &quot;post sale&quot; feature, how we will deal with the options and complete this functionality, we will return it to the site." />
       <item value="Я сейчас уберу &quot;post sale&quot; фичу, как разберёмся с опциями и доделаем этот функционал вернём на сайте." />
       <item value="With the current auction settings, &quot;post Sale&quot; should not be available?" />
@@ -50,20 +52,18 @@
       <item value="Products category Properties" />
       <item value="I will remove the extra lots." />
       <item value="Я уберу лишние лоты." />
-      <item value="Thank you! I understood what the problem is. These are lots that were copies of the second language. We removed the second language, and the lots remained available for search." />
-      <item value="Спасибо! Я понял в чём проблема. Это лоты которые были копиями второго языка. Второй язык мы убрали, а лоты остались доступны для поиска." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3929" />
+        <entry key="ENGLISH" value="3930" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3929" />
+        <entry key="RUSSIAN" value="3930" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
