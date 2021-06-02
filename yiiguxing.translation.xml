@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Is everything working well after the last update? Are there any comments or new tasks?" />
+      <item value="После последнего обновления на сайте всё хорошо работает? Нет ли каких замечаний или новых задач?" />
       <item value="You can also attach a product from Woocommerce here by checking the box from the sidebar." />
       <item value="Так же сюда можно прицепить товар из Woocommerce отметив галочку из sidebar." />
       <item value="I will now remove the &quot;post sale&quot; feature, how we will deal with the options and complete this functionality, we will return it to the site." />
@@ -50,20 +52,18 @@
       <item value="Properties product categories" />
       <item value="Product categories Properties" />
       <item value="Products category Properties" />
-      <item value="I will remove the extra lots." />
-      <item value="Я уберу лишние лоты." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3930" />
+        <entry key="ENGLISH" value="3931" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3930" />
+        <entry key="RUSSIAN" value="3931" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
