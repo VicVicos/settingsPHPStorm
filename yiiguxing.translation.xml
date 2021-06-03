@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="שטיחים" />
+      <item value="אמנות מודרנית" />
+      <item value="תכשיטים" />
+      <item value="יודאיקה" />
+      <item value="ציורים" />
       <item value="ב" />
       <item value="Связанную с вызовом API вызова settingsgetHouseInfo" />
       <item value="Relative with API call settingsgetHouseInfo" />
@@ -47,11 +52,6 @@
       <item value="crash sync old lots" />
       <item value="We came up with a solution to this problem as follows: At the time of synchronization of archived auctions, save the final sale price on the site and then display it." />
       <item value="Мы придумали вариант решения этой задачи следующий: В момент синхронизации архивных аукционов сохранять на сайте финальную цену продажи и после её выводить." />
-      <item value="This page is the author of paintingslots. One author contains many lots from different auctions. We only need the final sale price." />
-      <item value="paintingslots" />
-      <item value="This page is the author of kartlots. One author contains many lots from different auctions. We only need the final sale price." />
-      <item value="Эта страница автора картинлотов. Один автор содержит в себе много лотов из разных аукционов. Нам нужна только финальная цена продажи." />
-      <item value="This slider contains lots from active auctions with the label: &quot;Display lot on the main page&quot;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="127" />
+        <entry key="HEBREW" value="136" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
