@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Лот не продан, значение поля postSaleDisabled == true," />
+      <item value="For post sale I use the following conditions: Auction is not archived. Lot not sold, postSaleDisabled == true," />
+      <item value="Для post sale я использую условия: Аукцион не в архиве. Лот не продан, значение поля postSaleDisabled == true," />
+      <item value="We also had a problem with the postpre sale feature display condition, which we encountered at CascoBay Auction. By what fields I determine what to display this feature. For pre sale I use the following conditions: The auction is not archived and the sale has not started, There is no leading bid for the lot and the buyout price is indicated." />
+      <item value="Так же у нас возникла проблема с условием отображения postpre sale feature, с который мы столкнулись на CascoBay Auction. По каким полям я определяю что надо отображать эту фичу. Для pre sale я использую условия: Аукцион не архивный и продажа не началась, Для лота нет ведущей ставки и цена выкупа указана." />
+      <item value="I made corrections based on your comments. 1) About buyout1: Fixed a bug with a condition regarding the &quot;Vat is required for the full item price&quot; parameter. Fixed display on devices with small screen diagonal. 2) About buyout2: I think this error may be related to Cross-Origin Request Blocked error. 3) About postsale1: I checked with several accounts and the sales data is displayed correctly for the user who bought it." />
+      <item value="Я внёс правки по вашим замечаниям. 1) About buyout1: Исправил баг с условием относительно параметра &quot;Vat is required for the full item price&quot;. Исправил отображения на устройствах с малой диагональю экрана. 2) About buyout2: Я думаю эта ошибка может быть связаны с ошибкой Cross-Origin Request Blocked. 3) About postsale1: Я проверил с нескольких аккаунтов и данные о продаже отображаются корректно для пользователя который это купил." />
+      <item value="We also have a problem with the condition of displaying the postpre sale feature at CascoBay Auction" />
+      <item value="Так же у нас возникла проблема с условием отображения postpre sale feature на аукционе CascoBay Auction" />
       <item value="שטיחים" />
       <item value="אמנות מודרנית" />
       <item value="תכשיטים" />
@@ -43,27 +52,18 @@
       <item value="I will add options to the plugin settings if you do not have the ability to control this functionality in beadspirit." />
       <item value="Я добавлю опции в настройки плагина, если в бидспирит вы не имеете возможности управлять этим функционалом." />
       <item value="Я добавлю опции в настройки плагина." />
-      <item value="I received from the API a field named postSaleDisabled whose value is now responsible for displaying this functionality. So you need to add options to the plugin settings." />
-      <item value="Я получал от API поле с именем postSaleDisabled значение которого сейчас и отвечает за отображение этого функционала. Значить надо добавить опции в настройки плагина." />
-      <item value="I received from the API a field named postSaleDisabled whose value is responsible for displaying this functionality. So you need to add options to the plugin settings." />
-      <item value="Я получал от API поле с именем postSaleDisabled значение которого и отвечает за отображение этого функционала. Значить надо добавить опции в настройки плагина." />
-      <item value="We think to do as described above, keeping the sale price during synchronization." />
-      <item value="Думаем сделать так как описал выше, сохраняя цену продажи при синхронизации." />
-      <item value="crash sync old lots" />
-      <item value="We came up with a solution to this problem as follows: At the time of synchronization of archived auctions, save the final sale price on the site and then display it." />
-      <item value="Мы придумали вариант решения этой задачи следующий: В момент синхронизации архивных аукционов сохранять на сайте финальную цену продажи и после её выводить." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3943" />
+        <entry key="ENGLISH" value="3947" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3943" />
+        <entry key="RUSSIAN" value="3948" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
