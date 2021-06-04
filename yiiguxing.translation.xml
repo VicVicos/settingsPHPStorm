@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="How you will be ready to transfer your domain, please tell us." />
+      <item value="Как будите готовы переносить домен, сообщите пожалуйста." />
       <item value="Allowed memory size of 268435456 bytes exhausted (tried to allocate 1835008 bytes)" />
       <item value="tried to allocate 1835008 bytes" />
       <item value="Лот не продан, значение поля postSaleDisabled == true," />
@@ -50,20 +52,18 @@
       <item value="На текущий момент этого функционала нет, но такая задача есть в планах для другого клиента, как сделаем это, можно будет сделать и у вас на сайте." />
       <item value="Please clarify this moment. We are talking about already completed auctions and the final sale price of this lot should be displayed. Right?" />
       <item value="Уточните пожалуйста этот момент. Речь идёт об уже завершённых аукционах и надо отображать цену финальной продажи этого лота. Верно?" />
-      <item value="Надо добавить опцию?" />
-      <item value="I will add options to the plugin settings if you do not have the ability to control this functionality in beadspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3949" />
+        <entry key="ENGLISH" value="3950" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3949" />
+        <entry key="RUSSIAN" value="3950" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
