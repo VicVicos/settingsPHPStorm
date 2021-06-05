@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="After you change the entries, all I have to do is connect https." />
+      <item value="После того как вы смените записи, мне останется подключить https." />
+      <item value="I prepared everything. You can change the data for the domain." />
+      <item value="Я всё подготовил. Можете менять данные для домена." />
       <item value="Additional properties" />
       <item value="Please try now." />
       <item value="How to change, let me know, I will need to change the settings on the site and connect https." />
@@ -48,22 +52,18 @@
       <item value="Я сейчас уберу &quot;post sale&quot; фичу, как разберёмся с опциями и доделаем этот функционал вернём на сайте." />
       <item value="With the current auction settings, &quot;post Sale&quot; should not be available?" />
       <item value="При текущих настройках аукциона &quot;post Sale&quot; не должна быть доступна?" />
-      <item value="Those. with the current settings of the auction &quot;post Sale&quot; should not be available?" />
-      <item value="Т.е. при текущих настройках аукциона &quot;post Sale&quot; не должна быть доступна?" />
-      <item value="At the moment, this functionality is not available, but such a task is in the plans for another client who pays separately for this revision. How we will implement this, then we will be able to do it on your website." />
-      <item value="На текущий момент этого функционала нет, но такая задача есть в планах для другого клиента который оплачивает отдельно эту доработку. Как мы реализуем это, после сможем сделать это у вас на сайте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3953" />
+        <entry key="ENGLISH" value="3955" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3953" />
+        <entry key="RUSSIAN" value="3955" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
