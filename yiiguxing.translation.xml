@@ -2,6 +2,31 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="These lots are configured when editing a lot." />
+      <item value="Эти лоты настраиваются при редактировании лота." />
+      <item value="I will fixed it." />
+      <item value="It popular section?" />
+      <item value="Yes, but I can only do this on Monday or Tuesday." />
+      <item value="Да, но я смогу этим заняться только в понедельник или вторник." />
+      <item value="Yes, but I won't be able to do this until Monday." />
+      <item value="Да, но я смогу этим заняться не раньше чем в понедельник." />
+      <item value="The MX settings remain the same, please check the work of the mail, if there are any problems, we will try to solve the problem." />
+      <item value="Настройки MX остались те что и были, проверьте работу почту пожалуйста, если возникнут проблемы мы постараемся решить проблему." />
+      <item value="I enabled https protocol, please check." />
+      <item value="Can't you add them where you edited the NS-records? Or you can tell us these records and we will add them." />
+      <item value="Can't you add them where you edited the posts?" />
+      <item value="Вы не можете добавить их там где сейчас редактировали записи?" />
+      <item value="You can tell us these records and we will add them." />
+      <item value="Или You can tell us these records and we will add them." />
+      <item value="Вы можете сообщить нам эти записи и мы добавим их." />
+      <item value="Сообщите нам и мы внесём эти записи." />
+      <item value="Let us know and we will add them." />
+      <item value="Сообщите нам и мы добавим их." />
+      <item value="Okay. Now I will do HTTPS. I can still see the old IP address of the domain." />
+      <item value="Хорошо. Сейчас сделаю HTTPS. Я до сих пор вижу старый IP адрес домена." />
+      <item value="Хорошо. Сейчас сделаю это. Я до сих пор вижу старый IP адрес домена." />
+      <item value="If you can provide a video or screen of what the problem looks like, we will try to solve it." />
+      <item value="Если вы сможете предоставить видео или скрин как выглядит проблема мы постараемся решить её." />
       <item value="After you change the entries, all I have to do is connect https." />
       <item value="После того как вы смените записи, мне останется подключить https." />
       <item value="I prepared everything. You can change the data for the domain." />
@@ -27,43 +52,18 @@
       <item value="אמנות מודרנית" />
       <item value="תכשיטים" />
       <item value="יודאיקה" />
-      <item value="ציורים" />
-      <item value="ב" />
-      <item value="Связанную с вызовом API вызова settingsgetHouseInfo" />
-      <item value="Relative with API call settingsgetHouseInfo" />
-      <item value="On the test site for the tiroche client, I get the error shown in the screenshot." />
-      <item value="На тестовом сайте для клиента tiroche я получаю ошибку что показана на скриншоте." />
-      <item value="I am looking at the site in a private window." />
-      <item value="Я смотрю на сайта в приватном окне." />
-      <item value="I watch site in private window." />
-      <item value="I saw site in private window." />
-      <item value="I see site in private window." />
-      <item value="Hello! What's missing here?" />
-      <item value="Здесь чего то не хватает?" />
-      <item value="Hello! We need to test bids, is there a separate test sandbox account for Tiroche on Bidspirit where we can place bids without interfering with the main sales?" />
-      <item value="We need to test bids, is there a separate test sandbox account for Tiroche on Bidspirit where we can place bids without interfering with the main sales." />
-      <item value="We need to test bids, is there a separate test sandbox account for Tiroche on Bidspirit where you can place bids without interfering with the main sales." />
-      <item value="Нам требуется тестировать ставки, нет ли для Tiroche отдельного тестового аккаунтапесочницы на Bidspirit где можно делать ставки не вмешиваясь в основные продажи." />
-      <item value="Is everything working well after the last update? Are there any comments or new tasks?" />
-      <item value="После последнего обновления на сайте всё хорошо работает? Нет ли каких замечаний или новых задач?" />
-      <item value="You can also attach a product from Woocommerce here by checking the box from the sidebar." />
-      <item value="Так же сюда можно прицепить товар из Woocommerce отметив галочку из sidebar." />
-      <item value="I will now remove the &quot;post sale&quot; feature, how we will deal with the options and complete this functionality, we will return it to the site." />
-      <item value="Я сейчас уберу &quot;post sale&quot; фичу, как разберёмся с опциями и доделаем этот функционал вернём на сайте." />
-      <item value="With the current auction settings, &quot;post Sale&quot; should not be available?" />
-      <item value="При текущих настройках аукциона &quot;post Sale&quot; не должна быть доступна?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3955" />
+        <entry key="ENGLISH" value="3973" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3955" />
+        <entry key="RUSSIAN" value="3973" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622462991258" />
+    <option name="lastTrimTime" value="1622908833992" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
