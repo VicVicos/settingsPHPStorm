@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Didn't test work with the remote Polylang plugin." />
+      <item value="Не проверял работу с удалённым плагином Polylang." />
       <item value="Create lost auctions" />
       <item value="These lots are configured when editing a lot." />
       <item value="Эти лоты настраиваются при редактировании лота." />
@@ -50,20 +52,18 @@
       <item value="We also have a problem with the condition of displaying the postpre sale feature at CascoBay Auction" />
       <item value="Так же у нас возникла проблема с условием отображения postpre sale feature на аукционе CascoBay Auction" />
       <item value="שטיחים" />
-      <item value="אמנות מודרנית" />
-      <item value="תכשיטים" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3974" />
+        <entry key="ENGLISH" value="3975" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="3974" />
+        <entry key="RUSSIAN" value="3975" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
