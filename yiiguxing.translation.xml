@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="At the moment, there is no way to do this in the plugin, but we will see what can be done to resolve this issue." />
+      <item value="На данный момент сделать это в плагине нет возможности, но мы посмотрим что можно сделать для решения данного вопроса." />
+      <item value="I'll think about what else I can do." />
+      <item value="Я подумаю что можно сделать ещё." />
       <item value="Должность" />
       <item value="tr employee" />
       <item value="If a problem occurs, can you make a video where we can see this problem? We will need to understand the cause and eliminate it." />
@@ -48,22 +52,18 @@
       <item value="С расчётом стоимости с комиссией я ошибся когда не учитывал 17 процентов от надбавки 15 комиссии аукционного дома. Но после я пошёл смотреть откуда берётся значение 17 комиссии VAT и что то изменил, теперь цены на комиссию считаются без 17% надбавки." />
       <item value="Didn't test work with the remote Polylang plugin." />
       <item value="Не проверял работу с удалённым плагином Polylang." />
-      <item value="Create lost auctions" />
-      <item value="These lots are configured when editing a lot." />
-      <item value="Эти лоты настраиваются при редактировании лота." />
-      <item value="I will fixed it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4008" />
+        <entry key="ENGLISH" value="4011" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4009" />
+        <entry key="RUSSIAN" value="4011" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
