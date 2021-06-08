@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="without" />
+      <item value="content-without-bg" />
       <item value="Spoilers Block" />
       <item value="Spoiler Blocks" />
       <item value="is Second Lang" />
@@ -50,20 +52,18 @@
       <item value="The MX settings remain the same, please check the work of the mail, if there are any problems, we will try to solve the problem." />
       <item value="Настройки MX остались те что и были, проверьте работу почту пожалуйста, если возникнут проблемы мы постараемся решить проблему." />
       <item value="I enabled https protocol, please check." />
-      <item value="Can't you add them where you edited the NS-records? Or you can tell us these records and we will add them." />
-      <item value="Can't you add them where you edited the posts?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4001" />
+        <entry key="ENGLISH" value="4003" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4001" />
+        <entry key="RUSSIAN" value="4003" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
