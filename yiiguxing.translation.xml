@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tr employee" />
       <item value="If a problem occurs, can you make a video where we can see this problem? We will need to understand the cause and eliminate it." />
       <item value="Problems with the home page of the Portuguese version of the site no longer occur?" />
       <item value="Проблемы с главной странице португальской версии сайта более не возникает?" />
@@ -51,19 +52,18 @@
       <item value="Эти лоты настраиваются при редактировании лота." />
       <item value="I will fixed it." />
       <item value="It popular section?" />
-      <item value="Yes, but I can only do this on Monday or Tuesday." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4007" />
+        <entry key="ENGLISH" value="4008" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4007" />
+        <entry key="RUSSIAN" value="4008" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
