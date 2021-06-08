@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If a problem occurs, can you make a video where we can see this problem? We will need to understand the cause and eliminate it." />
+      <item value="Problems with the home page of the Portuguese version of the site no longer occur?" />
+      <item value="Проблемы с главной странице португальской версии сайта более не возникает?" />
+      <item value="Hello! Have you had problems with the home page of the Portuguese version of the site again? If a problem occurs, can you make a video where we can see this problem? We will need to understand the cause and eliminate it." />
+      <item value="Здравствуйте! Не возникало ли снова проблем на главной странице португальской версии сайта? Если проблема возникнет можете сделать видео где бы мы могли увидеть эту проблему? Нам надо будет понять причину и устранить её." />
+      <item value="Установить плагины из списка в Trello" />
       <item value="without" />
       <item value="content-without-bg" />
       <item value="Spoilers Block" />
@@ -46,24 +52,18 @@
       <item value="I will fixed it." />
       <item value="It popular section?" />
       <item value="Yes, but I can only do this on Monday or Tuesday." />
-      <item value="Да, но я смогу этим заняться только в понедельник или вторник." />
-      <item value="Yes, but I won't be able to do this until Monday." />
-      <item value="Да, но я смогу этим заняться не раньше чем в понедельник." />
-      <item value="The MX settings remain the same, please check the work of the mail, if there are any problems, we will try to solve the problem." />
-      <item value="Настройки MX остались те что и были, проверьте работу почту пожалуйста, если возникнут проблемы мы постараемся решить проблему." />
-      <item value="I enabled https protocol, please check." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4003" />
+        <entry key="ENGLISH" value="4007" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4003" />
+        <entry key="RUSSIAN" value="4007" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
