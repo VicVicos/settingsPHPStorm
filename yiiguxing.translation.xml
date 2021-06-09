@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="moved To Draft" />
       <item value="I created two page in draft" />
       <item value="At the moment, there is no way to do this in the plugin, but we will see what can be done to resolve this issue." />
       <item value="На данный момент сделать это в плагине нет возможности, но мы посмотрим что можно сделать для решения данного вопроса." />
@@ -51,19 +52,18 @@
       <item value="Для корректной реализации момента с расчётом процентных ставок мне учесть все варианты опций." />
       <item value="With the calculation of the cost with the commission, I was mistaken when I did not take into account 17 percent of the 15 percent premium of the auction house commission. But after I went to see where the value of 17 VAT commission comes from and changed something, now the prices for the commission are calculated without a 17% surcharge." />
       <item value="С расчётом стоимости с комиссией я ошибся когда не учитывал 17 процентов от надбавки 15 комиссии аукционного дома. Но после я пошёл смотреть откуда берётся значение 17 комиссии VAT и что то изменил, теперь цены на комиссию считаются без 17% надбавки." />
-      <item value="Didn't test work with the remote Polylang plugin." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4012" />
+        <entry key="ENGLISH" value="4013" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4012" />
+        <entry key="RUSSIAN" value="4013" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
