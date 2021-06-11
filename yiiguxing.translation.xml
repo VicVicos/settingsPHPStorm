@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! Having problems getting the sessionId API. Checked for clients:" />
+      <item value="Hello! Возникли проблемы с получением sessionId API. Проверил для клиентов:" />
       <item value="Нет публикаций" />
       <item value="Press" />
       <item value="Press item" />
@@ -50,20 +52,18 @@
       <item value="На уровне лота всё понятно." />
       <item value="But the opportunity to buy disappears when the absentee rate becomes equal to the purchase price." />
       <item value="Но возможность купить пропадает когда заочная ставка становится равна цене покупки." />
-      <item value="Вы написали следующее" />
-      <item value="Что касается условий для:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4021" />
+        <entry key="ENGLISH" value="4023" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4023" />
+        <entry key="RUSSIAN" value="4024" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
