@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fixed it." />
+      <item value="Corrected." />
+      <item value="Corrected. Now there is a redirect from www.cascobayauctions.com to cascobayauctions.com" />
+      <item value="Исправил. Сейчас идёт редирект с www.cascobayauctions.com на cascobayauctions.com" />
+      <item value="В итоге домен должен открываться с www или без них?" />
+      <item value="Hello! The bidspirit API has been changed due to which synchronization stopped working. I will update the plugin and the problem will be resolved." />
+      <item value="В bidspirit API были произведены изменения из за которых синхронизация перестала работать. Я обновлю плагин и проблема будет решена." />
       <item value="Сейчас всё работает" />
       <item value="We need this request to implement the feature of the tiroche client with the display of the final selling price of the lot, which we talked about earlier." />
       <item value="Этот запрос нам нужен для реализации фичи клиента tiroche c отображением финальной цены продажи лота, о которой мы говорили ранее." />
@@ -45,25 +52,18 @@
       <item value="If a problem occurs, can you make a video where we can see this problem? We will need to understand the cause and eliminate it." />
       <item value="Problems with the home page of the Portuguese version of the site no longer occur?" />
       <item value="Проблемы с главной странице португальской версии сайта более не возникает?" />
-      <item value="Hello! Have you had problems with the home page of the Portuguese version of the site again? If a problem occurs, can you make a video where we can see this problem? We will need to understand the cause and eliminate it." />
-      <item value="Здравствуйте! Не возникало ли снова проблем на главной странице португальской версии сайта? Если проблема возникнет можете сделать видео где бы мы могли увидеть эту проблему? Нам надо будет понять причину и устранить её." />
-      <item value="Установить плагины из списка в Trello" />
-      <item value="without" />
-      <item value="content-without-bg" />
-      <item value="Spoilers Block" />
-      <item value="Spoiler Blocks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4032" />
+        <entry key="ENGLISH" value="4038" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4033" />
+        <entry key="RUSSIAN" value="4038" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
