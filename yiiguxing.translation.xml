@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Most likely you are not filling out the categories on the Bidspirit portal." />
+      <item value="Скорей всего вы не заполняете категории на Bidspirit портале." />
+      <item value="Direct selling functionality will be available soon. As for the classification of lots, here we do not receive any categories for lots from Bidspirit." />
+      <item value="Функционал прямых продаж станет доступен в ближайшее время. Что касается классификации лотов, тут мы не получаем от Bidspirit каких либо категорий для лотов." />
       <item value="Fixed it." />
       <item value="Corrected." />
       <item value="Corrected. Now there is a redirect from www.cascobayauctions.com to cascobayauctions.com" />
@@ -48,22 +52,18 @@
       <item value="I'll think about what else I can do." />
       <item value="Я подумаю что можно сделать ещё." />
       <item value="Должность" />
-      <item value="tr employee" />
-      <item value="If a problem occurs, can you make a video where we can see this problem? We will need to understand the cause and eliminate it." />
-      <item value="Problems with the home page of the Portuguese version of the site no longer occur?" />
-      <item value="Проблемы с главной странице португальской версии сайта более не возникает?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4038" />
+        <entry key="ENGLISH" value="4040" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4038" />
+        <entry key="RUSSIAN" value="4040" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
