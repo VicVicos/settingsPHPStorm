@@ -2,6 +2,20 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Пожалуйста подскажи мне где на сайте страница Terms &amp; Conditions" />
+      <item value="Обновил настройки после обновления." />
+      <item value="The settings went off after the update. I fixed it." />
+      <item value="Настройки слетели после обновления. Я исправил это." />
+      <item value="Пожалуйста!" />
+      <item value="The site is up and synchronization has started." />
+      <item value="Сайт работает и синхронизация началась." />
+      <item value="Я получил соединение." />
+      <item value="I am getting error in Firefox browser on the tiroche client site" />
+      <item value="I am getting error in Firefox browser на сайте клиента tiroche" />
+      <item value="I have updated the plugin in the repository, but on the site I cannot do this until I get FTP access." />
+      <item value="Я обновил плагин в репозитории, но на сайте я не могу этого сделать пока не получу FTP доступ." />
+      <item value="I have fixed the error. But to update you need FTP access to the site. The one that was given earlier now does not work." />
+      <item value="Я исправил ошибку. Но для обновления нужен FTP доступ к сайту. Тот что давали ранее теперь не работает." />
       <item value="Hello! I am getting error in Firefox browser. There is no problem in Chrome." />
       <item value="Я получаю ошибку в браузере Firefox. В Chrome проблемы нет." />
       <item value="Most likely you are not filling out the categories on the Bidspirit portal." />
@@ -38,32 +52,18 @@
       <item value="bubbles" />
       <item value="הבקשה התקבלה. נציג תירוש יאשר את הבקשה תוך 72 שעות. אם לא קיבלת מייל אישור נא צרו איתנו קשר בטלפון %s או במייל: %s תודה" />
       <item value="הבקשה התקבלה. נציג תירוש יאשר את הבקשה תוך 72 שעות. אם לא קיבלת מייל אישור נא צרו איתנו קשר בטלפון 09-9509893 או במייל: amitai@tiroche.co.il תודה" />
-      <item value="очередь" />
-      <item value="The default Polylang language was switched in the sync loop, the bug was only in production." />
-      <item value="Происходило переключение языка Polylang по умолчанию в цикле синхронизации, баг был только на продакшене." />
-      <item value="Происходило переключение языка Polylang по умолчанию в цикле синхронизации." />
-      <item value="מספר מכירה פומבית" />
-      <item value="Viewing is available only to authorized users" />
-      <item value="Просмотр доступен только авторизованным пользователям" />
-      <item value="לחץ לתוצאה" />
-      <item value="uco lot title field second" />
-      <item value="moved To Draft" />
-      <item value="I created two page in draft" />
-      <item value="At the moment, there is no way to do this in the plugin, but we will see what can be done to resolve this issue." />
-      <item value="На данный момент сделать это в плагине нет возможности, но мы посмотрим что можно сделать для решения данного вопроса." />
-      <item value="I'll think about what else I can do." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4041" />
+        <entry key="ENGLISH" value="4049" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4041" />
+        <entry key="RUSSIAN" value="4050" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
