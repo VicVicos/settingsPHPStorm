@@ -2,6 +2,20 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="2) Calculation of prices for sales. After I changed something on the test account on Bidspirit, the price calculation goes without taking into account 17%." />
+      <item value="2) Расчёт цен для продаж. После того как я что то изменил на тестовом аккаунте на Bidspirit расчёт цены идёт без учёта 17%." />
+      <item value="1) Conditions of display postpre sale." />
+      <item value="1) Условия отображения postpre sale." />
+      <item value="We need to clarify two moment:" />
+      <item value="We need to clarify two points:" />
+      <item value="Нам надо уточнить два момента:" />
+      <item value="I brought back postpre sale functionality on a test site." />
+      <item value="Я вернул функционал postpre sale на тестовом сайте." />
+      <item value="I returned to the test site functionality regarding postpre sale." />
+      <item value="I returned to the test functionality regarding postpre sale. We need to clarify the conditions for displaying these features, as well as the calculation of prices for sales. After I changed something in the test account available to me on Bidspirit, the price is calculated without taking into account the additional 17%." />
+      <item value="Я вернул на тестовый функционал что касается postpre sale. Нам надо уточнить что касается условия отображения этих возможностей а так же расчёт цен для продаж. После того как я что то изменил в доступном мне тестовом аккаунте на Bidspirit расчёт цены идёт без учёта дополнительных 17%." />
+      <item value="Okay. I will look for the problem myself." />
+      <item value="Хорошо. Буду искать проблему у себя." />
       <item value="I am using Firefox 89 version. Don't get this error?" />
       <item value="Я использую Firefox 89 версии. У вас не возникает данной ошибки?" />
       <item value="And mine 89. Do you get this error?" />
@@ -38,32 +52,18 @@
       <item value="Сейчас всё работает" />
       <item value="We need this request to implement the feature of the tiroche client with the display of the final selling price of the lot, which we talked about earlier." />
       <item value="Этот запрос нам нужен для реализации фичи клиента tiroche c отображением финальной цены продажи лота, о которой мы говорили ранее." />
-      <item value="Я думаю проблема в том что при синхронизации я вызываю itemsgetAllItemsInfoForAuction.api. Этот запрос нам нужен для реализации фичи клиента tiroche c отображением финальной цены продажи лота." />
-      <item value="I think the problem is that when synchronizing, I call itemsgetAllItemsInfoForAuction.api. We need this request to implement the feature of the tiroche client with the display of the final selling price of the lot." />
-      <item value="Synchronization script without sessionId now return error:" />
-      <item value="Скрипт синхронизации без sessionId теперь возвращают ошибку:" />
-      <item value="Okay, I need to slightly change the sync script code if this request is no longer needed." />
-      <item value="Хорошо, мне надо слегка изменить код скрипта синхронизации, если этот запрос более не требуется." />
-      <item value="Okay, I need to slightly change the sync script code if I don't need it now." />
-      <item value="Хорошо, мне надо слегка изменить код скрипта синхронизации, если теперь это не требуется." />
-      <item value="How long has it stopped working? I kept making a request for usersinitSession.api, and now I checked it and saw that it works without it. Okay, I need to slightly change the sync script code if I don't need it now." />
-      <item value="Хорошо, мне надо слегка изменить код скрипта синхронизации если теперь это не требуется." />
-      <item value="How long has it stopped working? I kept making a request for usersinitSession.api, and now I checked it and saw that it works without it. Okay, I need to slightly change the sync script code if it's not necessary." />
-      <item value="Как давно это перестало работать? Я всё время делал запрос на usersinitSession.api, а сейчас проверил и увидел что работает без него. Хорошо, мне надо слегка изменить код скрипта синхронизации, если это необязательно." />
-      <item value="Hello! Having problems getting the sessionId API. Checked for clients:" />
-      <item value="Hello! Возникли проблемы с получением sessionId API. Проверил для клиентов:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4054" />
+        <entry key="ENGLISH" value="4062" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4054" />
+        <entry key="RUSSIAN" value="4062" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
