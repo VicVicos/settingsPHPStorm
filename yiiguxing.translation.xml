@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Those lots that you are looking at do not fit the terms. Please see these examples:" />
+      <item value="Те лоты чт овы смотрите не подходят по условиям. Пожалуйста посмотрите эти примеры:" />
+      <item value="Please check again, I haven't changed anything, but I can see it" />
+      <item value="Пожалуйста проверьте ещё раз, я ни чего не менял, но я вижу это" />
       <item value="2) Calculation of prices for sales. After I changed something on the test account on Bidspirit, the price calculation goes without taking into account 17%." />
       <item value="2) Расчёт цен для продаж. После того как я что то изменил на тестовом аккаунте на Bidspirit расчёт цены идёт без учёта 17%." />
       <item value="1) Conditions of display postpre sale." />
@@ -48,22 +52,18 @@
       <item value="Исправил. Сейчас идёт редирект с www.cascobayauctions.com на cascobayauctions.com" />
       <item value="В итоге домен должен открываться с www или без них?" />
       <item value="Hello! The bidspirit API has been changed due to which synchronization stopped working. I will update the plugin and the problem will be resolved." />
-      <item value="В bidspirit API были произведены изменения из за которых синхронизация перестала работать. Я обновлю плагин и проблема будет решена." />
-      <item value="Сейчас всё работает" />
-      <item value="We need this request to implement the feature of the tiroche client with the display of the final selling price of the lot, which we talked about earlier." />
-      <item value="Этот запрос нам нужен для реализации фичи клиента tiroche c отображением финальной цены продажи лота, о которой мы говорили ранее." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4062" />
+        <entry key="ENGLISH" value="4064" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4062" />
+        <entry key="RUSSIAN" value="4064" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
