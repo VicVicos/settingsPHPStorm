@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello, Matteo!" />
+      <item value="Sorry, I forgot to say hello." />
+      <item value="Простите, я забыл поздороваться." />
+      <item value="Let's wait 10 minutes. Synchronization should start soon." />
+      <item value="Давайте подождём 10 минут. Синхронизация должна начаться скоро." />
+      <item value="Incorrect picture from Bidspirit. I will assume that there were changes in the picture." />
+      <item value="Не верная картинка от Bidspirit. Предположу что были изменения картинки." />
+      <item value="How long has this problem with the picture? I think we need to wait for the next sync bypass and the problem will be solved. Unfortunately, I cannot manually speed up this process on this site." />
+      <item value="Давно эта проблема с картинкой? Я думаю надо подождать следующего обхода синхронищации и проблема решится. К сожалению я не могу в ручную ускорить этот процесс на этом сайте." />
       <item value="Those lots that you are looking at do not fit the terms. Please see these examples:" />
       <item value="Те лоты чт овы смотрите не подходят по условиям. Пожалуйста посмотрите эти примеры:" />
       <item value="Please check again, I haven't changed anything, but I can see it" />
@@ -43,27 +52,18 @@
       <item value="Hello! I am getting error in Firefox browser. There is no problem in Chrome." />
       <item value="Я получаю ошибку в браузере Firefox. В Chrome проблемы нет." />
       <item value="Most likely you are not filling out the categories on the Bidspirit portal." />
-      <item value="Скорей всего вы не заполняете категории на Bidspirit портале." />
-      <item value="Direct selling functionality will be available soon. As for the classification of lots, here we do not receive any categories for lots from Bidspirit." />
-      <item value="Функционал прямых продаж станет доступен в ближайшее время. Что касается классификации лотов, тут мы не получаем от Bidspirit каких либо категорий для лотов." />
-      <item value="Fixed it." />
-      <item value="Corrected." />
-      <item value="Corrected. Now there is a redirect from www.cascobayauctions.com to cascobayauctions.com" />
-      <item value="Исправил. Сейчас идёт редирект с www.cascobayauctions.com на cascobayauctions.com" />
-      <item value="В итоге домен должен открываться с www или без них?" />
-      <item value="Hello! The bidspirit API has been changed due to which synchronization stopped working. I will update the plugin and the problem will be resolved." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4064" />
+        <entry key="ENGLISH" value="4068" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4064" />
+        <entry key="RUSSIAN" value="4069" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -87,7 +87,7 @@
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="HEBREW" value="140" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
       </map>
