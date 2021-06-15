@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Нужен доступ к админ панели где вы купили домен." />
+      <item value="This is not quite the right thing. We need access to the admin panel where you bought the domain." />
+      <item value="This is not quite the right thing. You need access to the admin panel where you bought the domain." />
+      <item value="Это не совсем то что надо. Нужен доступ к админ панели где вы покупали домен." />
       <item value="Hello, Matteo!" />
       <item value="Sorry, I forgot to say hello." />
       <item value="Простите, я забыл поздороваться." />
@@ -48,22 +52,18 @@
       <item value="I have updated the plugin in the repository, but on the site I cannot do this until I get FTP access." />
       <item value="Я обновил плагин в репозитории, но на сайте я не могу этого сделать пока не получу FTP доступ." />
       <item value="I have fixed the error. But to update you need FTP access to the site. The one that was given earlier now does not work." />
-      <item value="Я исправил ошибку. Но для обновления нужен FTP доступ к сайту. Тот что давали ранее теперь не работает." />
-      <item value="Hello! I am getting error in Firefox browser. There is no problem in Chrome." />
-      <item value="Я получаю ошибку в браузере Firefox. В Chrome проблемы нет." />
-      <item value="Most likely you are not filling out the categories on the Bidspirit portal." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4068" />
+        <entry key="ENGLISH" value="4071" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4069" />
+        <entry key="RUSSIAN" value="4072" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
