@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No, the problem here is precisely that two people are at melee range." />
+      <item value="No, the problem here is precisely that two people are at close range." />
+      <item value="Нет, тут проблема именно в том что два человека на близкой дистанции." />
       <item value="Please make picture 1 different, it stands out strongly." />
       <item value="Пожалуйста сделай картинку 1 другой, сильно выделяется." />
       <item value="Вот здесь отлично получилось" />
@@ -49,21 +52,18 @@
       <item value="Я вернул функционал postpre sale на тестовом сайте." />
       <item value="I returned to the test site functionality regarding postpre sale." />
       <item value="I returned to the test functionality regarding postpre sale. We need to clarify the conditions for displaying these features, as well as the calculation of prices for sales. After I changed something in the test account available to me on Bidspirit, the price is calculated without taking into account the additional 17%." />
-      <item value="Я вернул на тестовый функционал что касается postpre sale. Нам надо уточнить что касается условия отображения этих возможностей а так же расчёт цен для продаж. После того как я что то изменил в доступном мне тестовом аккаунте на Bidspirit расчёт цены идёт без учёта дополнительных 17%." />
-      <item value="Okay. I will look for the problem myself." />
-      <item value="Хорошо. Буду искать проблему у себя." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4086" />
+        <entry key="ENGLISH" value="4088" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4086" />
+        <entry key="RUSSIAN" value="4088" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
