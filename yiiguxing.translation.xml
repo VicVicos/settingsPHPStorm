@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Perhaps, but I need to test this piece of functionality on a test site." />
+      <item value="Возможно, но мне надо проверить эту часть функционала на тестовом сайте." />
+      <item value="I just did not receive any information that the picture for the auction should be from 151 lots." />
+      <item value="Просто я не получал ни какой информации о том что картинка для аукциона должны быть из 151 лота." />
+      <item value="Previously, for the second part, was the lot selected as a picture for the auction?" />
+      <item value="Ранее для второй части был выбран лот как картинка для аукциона?" />
+      <item value="Вы поменяли что нибудь?" />
+      <item value="Потому как я не вижу наличие картинки для второй части аукциона." />
+      <item value="May I ask you to check the availability of the image for the second part of the 89 auction." />
+      <item value="May I ask you to check the availability of the picture for the second part of the 89 auction." />
+      <item value="Могу я вас попросить проверить наличие картинки для второго части 89 аукциона." />
+      <item value="Нет, только синхронизацией это исправится." />
       <item value="Look at this, they are using a banner like this, I think a similar one will do, but without the logo in the center." />
       <item value="Посмотри это, они используют вот такой баннер, я думаю нам подойдёт аналогичный, но без лого в центре." />
       <item value="Нужен доступ к админ панели где вы купили домен." />
@@ -40,30 +52,18 @@
       <item value="And mine 89. Do you get this error?" />
       <item value="And I mine 89. Do you get this error?" />
       <item value="And I have 89. Do you get this error?" />
-      <item value="И у меня 89. У вас не возникает данной ошибки?" />
-      <item value="Пожалуйста подскажи мне где на сайте страница Terms &amp; Conditions" />
-      <item value="Обновил настройки после обновления." />
-      <item value="The settings went off after the update. I fixed it." />
-      <item value="Настройки слетели после обновления. Я исправил это." />
-      <item value="Пожалуйста!" />
-      <item value="The site is up and synchronization has started." />
-      <item value="Сайт работает и синхронизация началась." />
-      <item value="Я получил соединение." />
-      <item value="I am getting error in Firefox browser on the tiroche client site" />
-      <item value="I am getting error in Firefox browser на сайте клиента tiroche" />
-      <item value="I have updated the plugin in the repository, but on the site I cannot do this until I get FTP access." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4073" />
+        <entry key="ENGLISH" value="4083" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4073" />
+        <entry key="RUSSIAN" value="4083" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
