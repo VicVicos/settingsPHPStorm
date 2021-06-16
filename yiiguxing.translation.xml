@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="What condition should I consider for this?" />
+      <item value="Какое условие мне надо рассматривать для этого?" />
+      <item value="The question is why?" />
+      <item value="Вопрос, почему?" />
+      <item value="The buyout price with commission for it is 588, but if I log in, the price will be 575." />
+      <item value="I looked at the problem again and I still have one question. For example, we will consider this lot:" />
+      <item value="Я ещё раз посмотрел на задачу и у меня остался один вопрос. https:qa-il.bidspirit.comuilotPagesourcecatalogauction1876lot17463Eng-name-Artist-Lot-name-eng-desc?lang=en Для примера мы будем рассматривать этот лот. Цена выкупа с комиссией для него составляет 588, но если я авторизуюсь, то цена будет равна 575." />
       <item value="Let's leave this one then." />
       <item value="Оставим тогда эту." />
       <item value="Not. The problem here is that there are two people at close range. No other picture?" />
@@ -45,25 +52,18 @@
       <item value="Те лоты чт овы смотрите не подходят по условиям. Пожалуйста посмотрите эти примеры:" />
       <item value="Please check again, I haven't changed anything, but I can see it" />
       <item value="Пожалуйста проверьте ещё раз, я ни чего не менял, но я вижу это" />
-      <item value="2) Calculation of prices for sales. After I changed something on the test account on Bidspirit, the price calculation goes without taking into account 17%." />
-      <item value="2) Расчёт цен для продаж. После того как я что то изменил на тестовом аккаунте на Bidspirit расчёт цены идёт без учёта 17%." />
-      <item value="1) Conditions of display postpre sale." />
-      <item value="1) Условия отображения postpre sale." />
-      <item value="We need to clarify two moment:" />
-      <item value="We need to clarify two points:" />
-      <item value="Нам надо уточнить два момента:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4090" />
+        <entry key="ENGLISH" value="4094" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4090" />
+        <entry key="RUSSIAN" value="4094" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
