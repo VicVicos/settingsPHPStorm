@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="audiences" />
       <item value="All institutes" />
       <item value="institute" />
       <item value="It is important to understand in order not to allow a difference in calculations, since I changed the rounding function." />
@@ -51,19 +52,18 @@
       <item value="Пожалуйста сделай картинку 1 другой, сильно выделяется." />
       <item value="Вот здесь отлично получилось" />
       <item value="And we also need these two banners." />
-      <item value="И ещё нам нужны вот эти два баннера." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4113" />
+        <entry key="ENGLISH" value="4114" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4113" />
+        <entry key="RUSSIAN" value="4114" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
