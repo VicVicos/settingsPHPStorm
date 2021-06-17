@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="additional Notice" />
       <item value="What condition should I consider for this?" />
       <item value="Какое условие мне надо рассматривать для этого?" />
       <item value="The question is why?" />
@@ -51,19 +52,18 @@
       <item value="Those lots that you are looking at do not fit the terms. Please see these examples:" />
       <item value="Те лоты чт овы смотрите не подходят по условиям. Пожалуйста посмотрите эти примеры:" />
       <item value="Please check again, I haven't changed anything, but I can see it" />
-      <item value="Пожалуйста проверьте ещё раз, я ни чего не менял, но я вижу это" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4094" />
+        <entry key="ENGLISH" value="4095" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4094" />
+        <entry key="RUSSIAN" value="4095" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
