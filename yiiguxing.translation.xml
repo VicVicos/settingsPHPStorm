@@ -2,6 +2,19 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="It is important to understand in order not to allow a difference in calculations, since I changed the rounding function." />
+      <item value="Важно понимать что бы не допустить разницы в расчётах, так как я поменял функцию округления." />
+      <item value="Since when calculating the price for this from the product, the total price without rounding is 46.2, but your total cost is displayed as 47." />
+      <item value="Так как при расчёте цены для этого из товара, итоговая цена без округления равна 46.2, но у вас отображалась итоговая стоимость равная 47." />
+      <item value="And one more question. Do you round up to calculate tax-inclusive prices?" />
+      <item value="И ещё один вопрос. Для расчёта цен с налогом вы используете округление в большую сторону?" />
+      <item value="See attach." />
+      <item value="But while testing, I was able to buy a lot three times, and also managed to buy it at the request of itemspostSalePurchase.api in parallel with itemsbuyout.api" />
+      <item value="Но пока тестировал мне удавалось купить три раза лот, а так же удалось купить его по запросу itemspostSalePurchase.api параллельно с itemsbuyout.api" />
+      <item value="But while testing, I was able to buy the lot three times, and also managed to buy it on request itemspostSalePurchase.api" />
+      <item value="Но пока тестировал мне удавалось купить три раза лот, а так же удалось купить его по запросу itemspostSalePurchase.api" />
+      <item value="I fixed a bug with sending two or more requests to buy a lot." />
+      <item value="Я исправил баг с отправкой двух и более запросов на покупку лота." />
       <item value="Also, now the additional tax rate of 17% is hardcoded in the code, and if I'm not mistaken, this value is valid for Israel, but how can I get this value for other countries? In addition, I cannot determine from which country the auction house. This is necessary in order to exclude this tax for users from other countries." />
       <item value="Это нужно для того что бы исключить этот налог для пользователей из других стран." />
       <item value="Also, now the additional tax rate of 17% is hardcoded in the code, and if I'm not mistaken, this value is valid for Israel, but how can I get this value for other countries? In addition, I cannot determine from which country the auction house is to exclude this tax for users from other countries." />
@@ -39,31 +52,18 @@
       <item value="И ещё нам нужны вот эти два баннера." />
       <item value="Perhaps, but I need to test this piece of functionality on a test site." />
       <item value="Возможно, но мне надо проверить эту часть функционала на тестовом сайте." />
-      <item value="I just did not receive any information that the picture for the auction should be from 151 lots." />
-      <item value="Просто я не получал ни какой информации о том что картинка для аукциона должны быть из 151 лота." />
-      <item value="Previously, for the second part, was the lot selected as a picture for the auction?" />
-      <item value="Ранее для второй части был выбран лот как картинка для аукциона?" />
-      <item value="Вы поменяли что нибудь?" />
-      <item value="Потому как я не вижу наличие картинки для второй части аукциона." />
-      <item value="May I ask you to check the availability of the image for the second part of the 89 auction." />
-      <item value="May I ask you to check the availability of the picture for the second part of the 89 auction." />
-      <item value="Могу я вас попросить проверить наличие картинки для второго части 89 аукциона." />
-      <item value="Нет, только синхронизацией это исправится." />
-      <item value="Look at this, they are using a banner like this, I think a similar one will do, but without the logo in the center." />
-      <item value="Посмотри это, они используют вот такой баннер, я думаю нам подойдёт аналогичный, но без лого в центре." />
-      <item value="Нужен доступ к админ панели где вы купили домен." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4104" />
+        <entry key="ENGLISH" value="4111" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4104" />
+        <entry key="RUSSIAN" value="4111" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
