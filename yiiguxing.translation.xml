@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please note that Your website is based on the bidspirit basic template. If you would like, we can upgrade your website and add more pagessectionscontent for an additional payment based on hour bank. If you would like to get more information about the options, please write here in this WhatsApp group, or send us an email to support@bidspirit-themes.com, and we will send examples." />
+      <item value="When you publish auctions in bidspirit admin, they will be synced to your website automatically. The sync takes place every hour. Any change to the cataloglots should be done directly in the bidspirit admin and not in your website WordPress admin. Content pages – about us, contact us, etc. It is effortless to make changes on your website using the WordPress admin. Please watch these videos before you make changes to your site content, and If you have any question, please let us know:" />
       <item value="And I repeated the script to reproduce the bug, I attach a screenshot." />
       <item value="И я повторил сценарий для воспроизведения бага, прилагаю скриншот." />
       <item value="Thank you! I have corrected the calculation formula. I calculated using the formula:" />
@@ -50,20 +52,18 @@
       <item value="Вопрос, почему?" />
       <item value="The buyout price with commission for it is 588, but if I log in, the price will be 575." />
       <item value="I looked at the problem again and I still have one question. For example, we will consider this lot:" />
-      <item value="Я ещё раз посмотрел на задачу и у меня остался один вопрос. https:qa-il.bidspirit.comuilotPagesourcecatalogauction1876lot17463Eng-name-Artist-Lot-name-eng-desc?lang=en Для примера мы будем рассматривать этот лот. Цена выкупа с комиссией для него составляет 588, но если я авторизуюсь, то цена будет равна 575." />
-      <item value="Let's leave this one then." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4119" />
+        <entry key="ENGLISH" value="4121" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4119" />
+        <entry key="RUSSIAN" value="4121" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
