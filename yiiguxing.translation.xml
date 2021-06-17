@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="All institutes" />
+      <item value="institute" />
       <item value="It is important to understand in order not to allow a difference in calculations, since I changed the rounding function." />
       <item value="Важно понимать что бы не допустить разницы в расчётах, так как я поменял функцию округления." />
       <item value="Since when calculating the price for this from the product, the total price without rounding is 46.2, but your total cost is displayed as 47." />
@@ -50,20 +52,18 @@
       <item value="Вот здесь отлично получилось" />
       <item value="And we also need these two banners." />
       <item value="И ещё нам нужны вот эти два баннера." />
-      <item value="Perhaps, but I need to test this piece of functionality on a test site." />
-      <item value="Возможно, но мне надо проверить эту часть функционала на тестовом сайте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4111" />
+        <entry key="ENGLISH" value="4113" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4111" />
+        <entry key="RUSSIAN" value="4113" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
