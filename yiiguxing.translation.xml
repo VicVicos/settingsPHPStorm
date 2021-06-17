@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="To complete the task, I will need this new API call." />
+      <item value="Для завершения задачи мне нужен будет этот новый API call." />
+      <item value="Consider an option with a different picture? This one is of very poor quality." />
+      <item value="Рассмотри вариант с другой картинкой? Эта очень низкого качества." />
+      <item value="Consider a variant with a different picture. This one is of very poor quality." />
+      <item value="Рассмотри вариант с другой картинкой. Эта очень низкого качества." />
       <item value="audiences" />
       <item value="All institutes" />
       <item value="institute" />
@@ -46,24 +52,18 @@
       <item value="Not. The problem here is that there are two people at close range. No other picture?" />
       <item value="Нет. Здесь проблема в том что именно два человека на ближней дистанции. Другой картинки нет?" />
       <item value="No, the problem here is precisely that two people are at melee range." />
-      <item value="No, the problem here is precisely that two people are at close range." />
-      <item value="Нет, тут проблема именно в том что два человека на близкой дистанции." />
-      <item value="Please make picture 1 different, it stands out strongly." />
-      <item value="Пожалуйста сделай картинку 1 другой, сильно выделяется." />
-      <item value="Вот здесь отлично получилось" />
-      <item value="And we also need these two banners." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4114" />
+        <entry key="ENGLISH" value="4117" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4114" />
+        <entry key="RUSSIAN" value="4117" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
