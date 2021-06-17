@@ -2,8 +2,16 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="additional-notice" />
+      <item value="Also, now the additional tax rate of 17% is hardcoded in the code, and if I'm not mistaken, this value is valid for Israel, but how can I get this value for other countries? In addition, I cannot determine from which country the auction house. This is necessary in order to exclude this tax for users from other countries." />
+      <item value="Это нужно для того что бы исключить этот налог для пользователей из других стран." />
+      <item value="Also, now the additional tax rate of 17% is hardcoded in the code, and if I'm not mistaken, this value is valid for Israel, but how can I get this value for other countries? In addition, I cannot determine from which country the auction house is to exclude this tax for users from other countries." />
+      <item value="Так же сейчас дополнительная налоговая ставка 17% указано жёстко в коде, и если я не ошибаюсь это значение действительно для Израиля, но как мне получить это значение для других стран? К тому же я не могу определить из какой страны аукционный дом что бы исключить этот налог для пользователей из других стран." />
+      <item value="In the lot settings, I changed the value of the &quot;Vat is required for the full item price&quot; option." />
+      <item value="В настройках лота я поменял значение опции &quot;Vat is required for the full item price&quot;." />
+      <item value="But at the moment when I was working on this on the test site, the opportunity to redeem the lot was lost." />
+      <item value="Но в момент когда я работал над этим на тестовой площадке пропала возможность выкупить лот." />
       <item value="And also added a notification if the user makes a bet greater than or equal to the ransom amount." />
+      <item value="additional-notice" />
       <item value="А так же добавил уведомление если пользователь делает ставку большую или равную сумме выкупа." />
       <item value="And also added a notification if the user leaves an absentee rate greater than or equal to the ransom amount." />
       <item value="А так же добавил уведомление если пользователь оставляет заочную ставку большую или равную сумме выкупа." />
@@ -44,26 +52,18 @@
       <item value="Look at this, they are using a banner like this, I think a similar one will do, but without the logo in the center." />
       <item value="Посмотри это, они используют вот такой баннер, я думаю нам подойдёт аналогичный, но без лого в центре." />
       <item value="Нужен доступ к админ панели где вы купили домен." />
-      <item value="This is not quite the right thing. We need access to the admin panel where you bought the domain." />
-      <item value="This is not quite the right thing. You need access to the admin panel where you bought the domain." />
-      <item value="Это не совсем то что надо. Нужен доступ к админ панели где вы покупали домен." />
-      <item value="Hello, Matteo!" />
-      <item value="Sorry, I forgot to say hello." />
-      <item value="Простите, я забыл поздороваться." />
-      <item value="Let's wait 10 minutes. Synchronization should start soon." />
-      <item value="Давайте подождём 10 минут. Синхронизация должна начаться скоро." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4099" />
+        <entry key="ENGLISH" value="4104" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4099" />
+        <entry key="RUSSIAN" value="4104" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
