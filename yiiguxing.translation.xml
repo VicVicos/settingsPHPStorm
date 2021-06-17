@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="And I repeated the script to reproduce the bug, I attach a screenshot." />
+      <item value="И я повторил сценарий для воспроизведения бага, прилагаю скриншот." />
+      <item value="Thank you! I have corrected the calculation formula. I calculated using the formula:" />
+      <item value="Спасибо! Я исправил формулу расчёта. Я расчитывал по формуле:" />
       <item value="To complete the task, I will need this new API call." />
       <item value="Для завершения задачи мне нужен будет этот новый API call." />
       <item value="Consider an option with a different picture? This one is of very poor quality." />
@@ -48,22 +52,18 @@
       <item value="I looked at the problem again and I still have one question. For example, we will consider this lot:" />
       <item value="Я ещё раз посмотрел на задачу и у меня остался один вопрос. https:qa-il.bidspirit.comuilotPagesourcecatalogauction1876lot17463Eng-name-Artist-Lot-name-eng-desc?lang=en Для примера мы будем рассматривать этот лот. Цена выкупа с комиссией для него составляет 588, но если я авторизуюсь, то цена будет равна 575." />
       <item value="Let's leave this one then." />
-      <item value="Оставим тогда эту." />
-      <item value="Not. The problem here is that there are two people at close range. No other picture?" />
-      <item value="Нет. Здесь проблема в том что именно два человека на ближней дистанции. Другой картинки нет?" />
-      <item value="No, the problem here is precisely that two people are at melee range." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4117" />
+        <entry key="ENGLISH" value="4119" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4117" />
+        <entry key="RUSSIAN" value="4119" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
