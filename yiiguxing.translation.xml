@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="additional-notice" />
+      <item value="And also added a notification if the user makes a bet greater than or equal to the ransom amount." />
+      <item value="А так же добавил уведомление если пользователь делает ставку большую или равную сумме выкупа." />
+      <item value="And also added a notification if the user leaves an absentee rate greater than or equal to the ransom amount." />
+      <item value="А так же добавил уведомление если пользователь оставляет заочную ставку большую или равную сумме выкупа." />
+      <item value="I have modified the calculation of the commission for prices with &quot;Vat is required for the full item price&quot;." />
+      <item value="Я доработал расчёт комиссии для цен с &quot;Vat is required for the full item price&quot;." />
       <item value="additional Notice" />
       <item value="What condition should I consider for this?" />
       <item value="Какое условие мне надо рассматривать для этого?" />
@@ -45,25 +52,18 @@
       <item value="Простите, я забыл поздороваться." />
       <item value="Let's wait 10 minutes. Synchronization should start soon." />
       <item value="Давайте подождём 10 минут. Синхронизация должна начаться скоро." />
-      <item value="Incorrect picture from Bidspirit. I will assume that there were changes in the picture." />
-      <item value="Не верная картинка от Bidspirit. Предположу что были изменения картинки." />
-      <item value="How long has this problem with the picture? I think we need to wait for the next sync bypass and the problem will be solved. Unfortunately, I cannot manually speed up this process on this site." />
-      <item value="Давно эта проблема с картинкой? Я думаю надо подождать следующего обхода синхронищации и проблема решится. К сожалению я не могу в ручную ускорить этот процесс на этом сайте." />
-      <item value="Those lots that you are looking at do not fit the terms. Please see these examples:" />
-      <item value="Те лоты чт овы смотрите не подходят по условиям. Пожалуйста посмотрите эти примеры:" />
-      <item value="Please check again, I haven't changed anything, but I can see it" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4095" />
+        <entry key="ENGLISH" value="4099" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4095" />
+        <entry key="RUSSIAN" value="4099" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
