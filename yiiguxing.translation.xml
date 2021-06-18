@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="allow Clear" />
       <item value="Вы не меняли доступы в админ панель?" />
       <item value="Okay. I'll take care of it." />
       <item value="Хорошо. Я займусь этим." />
@@ -51,12 +52,11 @@
       <item value="See attach." />
       <item value="But while testing, I was able to buy a lot three times, and also managed to buy it at the request of itemspostSalePurchase.api in parallel with itemsbuyout.api" />
       <item value="Но пока тестировал мне удавалось купить три раза лот, а так же удалось купить его по запросу itemspostSalePurchase.api параллельно с itemsbuyout.api" />
-      <item value="But while testing, I was able to buy the lot three times, and also managed to buy it on request itemspostSalePurchase.api" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4138" />
+        <entry key="ENGLISH" value="4139" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
