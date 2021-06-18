@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exempted" />
+      <item value="Users from foreign countries may be exempted from tax payments, according to the relevant tax regulations" />
       <item value="Yes I understand. I showed the formula by which I previously calculated." />
       <item value="Да, я понял. Я показал формулу по которой я ранее расчёт производил." />
       <item value="כתב עת" />
@@ -50,20 +52,18 @@
       <item value="And also added a notification if the user leaves an absentee rate greater than or equal to the ransom amount." />
       <item value="А так же добавил уведомление если пользователь оставляет заочную ставку большую или равную сумме выкупа." />
       <item value="I have modified the calculation of the commission for prices with &quot;Vat is required for the full item price&quot;." />
-      <item value="Я доработал расчёт комиссии для цен с &quot;Vat is required for the full item price&quot;." />
-      <item value="additional Notice" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4124" />
+        <entry key="ENGLISH" value="4126" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4124" />
+        <entry key="RUSSIAN" value="4126" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
