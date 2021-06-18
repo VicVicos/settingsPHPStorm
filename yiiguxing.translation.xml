@@ -2,9 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We also have a problem with the fact that for long ended auctions there is still an opportunity to buy auction items." />
+      <item value="If you, for your part, controlled the value of &quot;postSaleDisabled&quot; when calling itemsgetItemsInfo.api, taking into account all the dependent parameters, I think this would solve this issue. Or am I missing something?" />
+      <item value="Если бы вы со своей стороны управляли значением &quot;postSaleDisabled&quot; при вызове itemsgetItemsInfo.api с учётом всех зависимых параметров думаю это решило бы этот вопрос. Или я что то упустил?" />
+      <item value="And we check the possibility of selling lots after the end of the auctions by the &quot;postSaleDisabled&quot; parameter." />
+      <item value="И возможность продажи лотов после завершения аукционов мы проверяем по параметру &quot;postSaleDisabled&quot;." />
       <item value="I bought it today, provided that there is an option for auctions on the Bidspirit portal: &quot;Days to allow post auction sale&quot;, which cannot be more than 14 days." />
       <item value="купил его сегодня при условии что для аукционов на портале Bidspirit есть опция: &quot;Days to allow post auction sale&quot;, которая не может быть больше 14 дней." />
-      <item value="We also have a problem with the fact that for long ended auctions there is still an opportunity to buy auction items." />
       <item value="We also have a problem with the fact that for long-ended auctions there is still an opportunity to buy auction items." />
       <item value="Так же у нас есть проблема с тем что для давно завершившихся аукционов остаётся возможность купить auction items." />
       <item value="In the description of the api call itemspostSalePurchase.api there is a moment that the user must be approved, and when trying to buy auction item, a user with an unconfirmed account gets an error, but the same user can buy a lot through itemsbuyout.api without any problems." />
@@ -48,22 +52,18 @@
       <item value="Но пока тестировал мне удавалось купить три раза лот, а так же удалось купить его по запросу itemspostSalePurchase.api" />
       <item value="I fixed a bug with sending two or more requests to buy a lot." />
       <item value="Я исправил баг с отправкой двух и более запросов на покупку лота." />
-      <item value="Also, now the additional tax rate of 17% is hardcoded in the code, and if I'm not mistaken, this value is valid for Israel, but how can I get this value for other countries? In addition, I cannot determine from which country the auction house. This is necessary in order to exclude this tax for users from other countries." />
-      <item value="Это нужно для того что бы исключить этот налог для пользователей из других стран." />
-      <item value="Also, now the additional tax rate of 17% is hardcoded in the code, and if I'm not mistaken, this value is valid for Israel, but how can I get this value for other countries? In addition, I cannot determine from which country the auction house is to exclude this tax for users from other countries." />
-      <item value="Так же сейчас дополнительная налоговая ставка 17% указано жёстко в коде, и если я не ошибаюсь это значение действительно для Израиля, но как мне получить это значение для других стран? К тому же я не могу определить из какой страны аукционный дом что бы исключить этот налог для пользователей из других стран." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4133" />
+        <entry key="ENGLISH" value="4137" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4133" />
+        <entry key="RUSSIAN" value="4137" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
