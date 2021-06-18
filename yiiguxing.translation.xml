@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In the description of the api call itemspostSalePurchase.api there is a moment that the user must be approved, and when trying to buy auction item, a user with an unconfirmed account gets an error, but the same user can buy a lot through itemsbuyout.api without any problems." />
+      <item value="In the description of the api call itemspostSalePurchase.api there is a moment that the user must be approved, and when trying to buy lot, a user with an unconfirmed account gets an error, but the same user can buy a lot through itemsbuyout.api without any problems." />
+      <item value="I supplemented the calculation of interest with updated API call getHouseInfo(). In the description of the api call itemspostSalePurchase there is a moment that the user must be approved, and when trying to buy a lot, a user with an unconfirmed account gets an error, but the same user can buy a lot through itemsbuyout.api without any problems." />
+      <item value="Is this how it should be?" />
+      <item value="Я дополнил расчёт процентов с обновлёнными API call getHouseInfo(). В описании к api call itemspostSalePurchase есть момент что пользователь должен быть approved, и при попытке купить лот пользователь с не подтверждённым аккаунтом получает ошибку, но этот же пользователь без проблем может купить лот через itemsbuyout.api. Это так и должно быть?" />
       <item value="exempted" />
       <item value="Users from foreign countries may be exempted from tax payments, according to the relevant tax regulations" />
       <item value="Yes I understand. I showed the formula by which I previously calculated." />
@@ -47,23 +52,18 @@
       <item value="But at the moment when I was working on this on the test site, the opportunity to redeem the lot was lost." />
       <item value="Но в момент когда я работал над этим на тестовой площадке пропала возможность выкупить лот." />
       <item value="And also added a notification if the user makes a bet greater than or equal to the ransom amount." />
-      <item value="additional-notice" />
-      <item value="А так же добавил уведомление если пользователь делает ставку большую или равную сумме выкупа." />
-      <item value="And also added a notification if the user leaves an absentee rate greater than or equal to the ransom amount." />
-      <item value="А так же добавил уведомление если пользователь оставляет заочную ставку большую или равную сумме выкупа." />
-      <item value="I have modified the calculation of the commission for prices with &quot;Vat is required for the full item price&quot;." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4126" />
+        <entry key="ENGLISH" value="4130" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4126" />
+        <entry key="RUSSIAN" value="4130" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
