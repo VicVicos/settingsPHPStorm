@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="There is an option in the plugin settings. I disabled it and cleaned the cache on the site. This will no longer cause problems." />
+      <item value="В настройках плагина есть опция. Я её отключил и почистил кеш на сайте. Больше это не будет вызывать проблем." />
       <item value="allow Clear" />
       <item value="Вы не меняли доступы в админ панель?" />
       <item value="Okay. I'll take care of it." />
@@ -50,20 +52,18 @@
       <item value="And one more question. Do you round up to calculate tax-inclusive prices?" />
       <item value="И ещё один вопрос. Для расчёта цен с налогом вы используете округление в большую сторону?" />
       <item value="See attach." />
-      <item value="But while testing, I was able to buy a lot three times, and also managed to buy it at the request of itemspostSalePurchase.api in parallel with itemsbuyout.api" />
-      <item value="Но пока тестировал мне удавалось купить три раза лот, а так же удалось купить его по запросу itemspostSalePurchase.api параллельно с itemsbuyout.api" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4139" />
+        <entry key="ENGLISH" value="4140" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4139" />
+        <entry key="RUSSIAN" value="4140" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
