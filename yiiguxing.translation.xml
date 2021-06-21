@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="But you still see the wrong time on the site?" />
+      <item value="Но вы всё равно видите не верное время на сайте?" />
+      <item value="4PM is taken based on the local time of your computer. The start time of the auction is indicated at GMT +1. Right?" />
+      <item value="4PM берётся с учётом локального времени вашего компьютера. Время начала аукциона указано по GMT +1. Верно?" />
+      <item value="Now is the start time of the auction also not correct?" />
+      <item value="Сейчас время начала аукциона тоже не верно?" />
+      <item value="Every hour" />
+      <item value="И ещё пример." />
       <item value="This functionality is currently not available. We will implement this moment in the next plugin update within 1-3 weeks." />
       <item value="На данный момент этот функционал не доступен. Мы реализуем этот момент в ближайшем обновлении плагина в течении 1-3 недели." />
       <item value="I think now all the points on this task have been taken into account." />
@@ -44,26 +52,18 @@
       <item value="And I repeated the script to reproduce the bug, I attach a screenshot." />
       <item value="И я повторил сценарий для воспроизведения бага, прилагаю скриншот." />
       <item value="Thank you! I have corrected the calculation formula. I calculated using the formula:" />
-      <item value="Спасибо! Я исправил формулу расчёта. Я расчитывал по формуле:" />
-      <item value="To complete the task, I will need this new API call." />
-      <item value="Для завершения задачи мне нужен будет этот новый API call." />
-      <item value="Consider an option with a different picture? This one is of very poor quality." />
-      <item value="Рассмотри вариант с другой картинкой? Эта очень низкого качества." />
-      <item value="Consider a variant with a different picture. This one is of very poor quality." />
-      <item value="Рассмотри вариант с другой картинкой. Эта очень низкого качества." />
-      <item value="audiences" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4148" />
+        <entry key="ENGLISH" value="4152" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4148" />
+        <entry key="RUSSIAN" value="4152" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
