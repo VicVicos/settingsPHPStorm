@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think now all the points on this task have been taken into account." />
+      <item value="I think now all the points on this problem have been taken into task." />
+      <item value="I think now all the points on this problem have been taken task." />
+      <item value="I think now all the points on this problem have been taken into account." />
+      <item value="I added a condition by postAuctionSaleOpenedUntil. I think now all the points on this problem have been taken into account. Please confirm." />
+      <item value="I added a check by postAuctionSaleOpenedUntil. I think now all the points on this problem have been taken into account. Please confirm." />
+      <item value="Я добавил проверку по postAuctionSaleOpenedUntil. Думаю теперь учтены все моменты по этой задаче. Пожалуйста подтвердите." />
       <item value="There is an option in the plugin settings. I disabled it and cleaned the cache on the site. This will no longer cause problems." />
       <item value="В настройках плагина есть опция. Я её отключил и почистил кеш на сайте. Больше это не будет вызывать проблем." />
       <item value="allow Clear" />
@@ -45,25 +52,18 @@
       <item value="audiences" />
       <item value="All institutes" />
       <item value="institute" />
-      <item value="It is important to understand in order not to allow a difference in calculations, since I changed the rounding function." />
-      <item value="Важно понимать что бы не допустить разницы в расчётах, так как я поменял функцию округления." />
-      <item value="Since when calculating the price for this from the product, the total price without rounding is 46.2, but your total cost is displayed as 47." />
-      <item value="Так как при расчёте цены для этого из товара, итоговая цена без округления равна 46.2, но у вас отображалась итоговая стоимость равная 47." />
-      <item value="And one more question. Do you round up to calculate tax-inclusive prices?" />
-      <item value="И ещё один вопрос. Для расчёта цен с налогом вы используете округление в большую сторону?" />
-      <item value="See attach." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4140" />
+        <entry key="ENGLISH" value="4147" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4140" />
+        <entry key="RUSSIAN" value="4147" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
