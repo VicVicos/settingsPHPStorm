@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Not quite sure what the problem is with 153 lots 89 of the Ansuini auction? Due to the restrictions on Ansuini hosting, we cannot speed up the synchronization process, over time the synchronization will take place." />
+      <item value="Не совсем понял в чём проблема со 153 лотов 89 аукциона Ansuini? Из за ограничений на хостинге Ansuini мы не можем ускорить процесс синхронизации, с течением времени синхронизация пройдёт." />
+      <item value="Selling price for lots. Unsold items + Output final price in search pageauthor" />
+      <item value="Цена продажи для лотов." />
       <item value="But you still see the wrong time on the site?" />
       <item value="Но вы всё равно видите не верное время на сайте?" />
       <item value="4PM is taken based on the local time of your computer. The start time of the auction is indicated at GMT +1. Right?" />
@@ -48,22 +52,18 @@
       <item value="שפיט" />
       <item value="magazine" />
       <item value="Please note that Your website is based on the bidspirit basic template. If you would like, we can upgrade your website and add more pagessectionscontent for an additional payment based on hour bank. If you would like to get more information about the options, please write here in this WhatsApp group, or send us an email to support@bidspirit-themes.com, and we will send examples." />
-      <item value="When you publish auctions in bidspirit admin, they will be synced to your website automatically. The sync takes place every hour. Any change to the cataloglots should be done directly in the bidspirit admin and not in your website WordPress admin. Content pages – about us, contact us, etc. It is effortless to make changes on your website using the WordPress admin. Please watch these videos before you make changes to your site content, and If you have any question, please let us know:" />
-      <item value="And I repeated the script to reproduce the bug, I attach a screenshot." />
-      <item value="И я повторил сценарий для воспроизведения бага, прилагаю скриншот." />
-      <item value="Thank you! I have corrected the calculation formula. I calculated using the formula:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4152" />
+        <entry key="ENGLISH" value="4154" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4152" />
+        <entry key="RUSSIAN" value="4154" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
