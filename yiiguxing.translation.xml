@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="'מכירה אינטרנטית מבוססת זמן - מס\'" />
       <item value="Bidspirit added this to the API just now and we will add this to the plugin in the next update this week." />
       <item value="Bidspirit добавили в API это только что и мы добавим это в плагин в следующем обновлении на этой неделе." />
       <item value="Not quite sure what the problem is with 153 lots 89 of the Ansuini auction? Due to the restrictions on Ansuini hosting, we cannot speed up the synchronization process, over time the synchronization will take place." />
@@ -51,7 +52,6 @@
       <item value="Да, я понял. Я показал формулу по которой я ранее расчёт производил." />
       <item value="כתב עת" />
       <item value="לא שפיט" />
-      <item value="שפיט" />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="143" />
+        <entry key="HEBREW" value="145" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
