@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bidspirit added this to the API just now and we will add this to the plugin in the next update this week." />
+      <item value="Bidspirit добавили в API это только что и мы добавим это в плагин в следующем обновлении на этой неделе." />
       <item value="Not quite sure what the problem is with 153 lots 89 of the Ansuini auction? Due to the restrictions on Ansuini hosting, we cannot speed up the synchronization process, over time the synchronization will take place." />
       <item value="Не совсем понял в чём проблема со 153 лотов 89 аукциона Ansuini? Из за ограничений на хостинге Ansuini мы не можем ускорить процесс синхронизации, с течением времени синхронизация пройдёт." />
       <item value="Selling price for lots. Unsold items + Output final price in search pageauthor" />
@@ -50,20 +52,18 @@
       <item value="כתב עת" />
       <item value="לא שפיט" />
       <item value="שפיט" />
-      <item value="magazine" />
-      <item value="Please note that Your website is based on the bidspirit basic template. If you would like, we can upgrade your website and add more pagessectionscontent for an additional payment based on hour bank. If you would like to get more information about the options, please write here in this WhatsApp group, or send us an email to support@bidspirit-themes.com, and we will send examples." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4154" />
+        <entry key="ENGLISH" value="4155" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4154" />
+        <entry key="RUSSIAN" value="4155" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
