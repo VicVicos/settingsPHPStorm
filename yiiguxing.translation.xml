@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Form shortcode" />
       <item value="I also added a calculation check and display of VAT information." />
       <item value="Automatic synchronization is disabled on the test server, after I ran the synchronization in manual mode, the ability to buy at auction 12 was gone. I have returned 14 days to the auction settings." />
       <item value="2) Synchronization of this data is on the server side, we do not request it from the front." />
@@ -51,19 +52,18 @@
       <item value="I supplemented the calculation of interest with updated API call getHouseInfo(). In the description of the api call itemspostSalePurchase there is a moment that the user must be approved, and when trying to buy a lot, a user with an unconfirmed account gets an error, but the same user can buy a lot through itemsbuyout.api without any problems." />
       <item value="Is this how it should be?" />
       <item value="Я дополнил расчёт процентов с обновлёнными API call getHouseInfo(). В описании к api call itemspostSalePurchase есть момент что пользователь должен быть approved, и при попытке купить лот пользователь с не подтверждённым аккаунтом получает ошибку, но этот же пользователь без проблем может купить лот через itemsbuyout.api. Это так и должно быть?" />
-      <item value="exempted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4159" />
+        <entry key="ENGLISH" value="4160" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4159" />
+        <entry key="RUSSIAN" value="4160" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
