@@ -2,6 +2,26 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode for auction house, similar to what we get for the user for usersinitSession .api. So that you can take this moment into account when calculating the price." />
+      <item value="Что бы можно было учесть этот момент при расчёте цены" />
+      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode for auction house, similar to what we get for the user for usersinitSession .api" />
+      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode from which country the auction house is similar to what we get for the user for usersinitSession.api" />
+      <item value="Можно ли добавить в settingsgetHouseInfo.api stateCode из какой страны auction house аналогично тому, что мы получаем для пользователя для usersinitSession.api" />
+      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the user for usersinitSession.api" />
+      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the usersinitSession.api" />
+      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the authorized user when usersinitSession.api" />
+      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the authorized user when" />
+      <item value="Можно ли добавить в settingsgetHouseInfo.api stateCode аналогичное тому что мы получаем для авторизованного пользователя при" />
+      <item value="When I took your site as an example, I completely forgot that my user is from another country and taxes are not taken into account for him." />
+      <item value="Когда я брал в пример ваш сайт, я совсем забыл что мой пользователь из другой страны и для него налоги не учитываются." />
+      <item value="Shouldn't the buyback price in this case be equal to 1000 for lot 2 of auction 12." />
+      <item value="Не должна ли цена выкупа в этом случае быть равна 1000 для лота 2 аукциона 12." />
+      <item value="И к вопросу что ранее на счёт надписи:" />
+      <item value="Я сравниваю результат с тем что вижу тут:" />
+      <item value="Let's focus on postpre sale only." />
+      <item value="Давайте сосредоточимся только на postpre sale." />
+      <item value="Do I understand correctly that now the questions concern only the display of the commission for the absentee rate?" />
+      <item value="Верно ли я понимаю что теперь вопросы касаются только отображения комиссии для заочной ставки?" />
       <item value="Фильтр по категориям, только для будущих аукционов." />
       <item value="Фильтр по категориям" />
       <item value="And what to do in this situation. It is written that the price does not include the auction house commission and VAT if necessary, but in the end the price includes the auction house commission." />
@@ -32,38 +52,18 @@
       <item value="This functionality is currently not available. We will implement this moment in the next plugin update within 1-3 weeks." />
       <item value="На данный момент этот функционал не доступен. Мы реализуем этот момент в ближайшем обновлении плагина в течении 1-3 недели." />
       <item value="I think now all the points on this task have been taken into account." />
-      <item value="I think now all the points on this problem have been taken into task." />
-      <item value="I think now all the points on this problem have been taken task." />
-      <item value="I think now all the points on this problem have been taken into account." />
-      <item value="I added a condition by postAuctionSaleOpenedUntil. I think now all the points on this problem have been taken into account. Please confirm." />
-      <item value="I added a check by postAuctionSaleOpenedUntil. I think now all the points on this problem have been taken into account. Please confirm." />
-      <item value="Я добавил проверку по postAuctionSaleOpenedUntil. Думаю теперь учтены все моменты по этой задаче. Пожалуйста подтвердите." />
-      <item value="There is an option in the plugin settings. I disabled it and cleaned the cache on the site. This will no longer cause problems." />
-      <item value="В настройках плагина есть опция. Я её отключил и почистил кеш на сайте. Больше это не будет вызывать проблем." />
-      <item value="allow Clear" />
-      <item value="Вы не меняли доступы в админ панель?" />
-      <item value="Okay. I'll take care of it." />
-      <item value="Хорошо. Я займусь этим." />
-      <item value="We also have a problem with the fact that for long ended auctions there is still an opportunity to buy auction items." />
-      <item value="If you, for your part, controlled the value of &quot;postSaleDisabled&quot; when calling itemsgetItemsInfo.api, taking into account all the dependent parameters, I think this would solve this issue. Or am I missing something?" />
-      <item value="Если бы вы со своей стороны управляли значением &quot;postSaleDisabled&quot; при вызове itemsgetItemsInfo.api с учётом всех зависимых параметров думаю это решило бы этот вопрос. Или я что то упустил?" />
-      <item value="And we check the possibility of selling lots after the end of the auctions by the &quot;postSaleDisabled&quot; parameter." />
-      <item value="И возможность продажи лотов после завершения аукционов мы проверяем по параметру &quot;postSaleDisabled&quot;." />
-      <item value="I bought it today, provided that there is an option for auctions on the Bidspirit portal: &quot;Days to allow post auction sale&quot;, which cannot be more than 14 days." />
-      <item value="купил его сегодня при условии что для аукционов на портале Bidspirit есть опция: &quot;Days to allow post auction sale&quot;, которая не может быть больше 14 дней." />
-      <item value="We also have a problem with the fact that for long-ended auctions there is still an opportunity to buy auction items." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4163" />
+        <entry key="ENGLISH" value="4178" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4164" />
+        <entry key="RUSSIAN" value="4178" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
