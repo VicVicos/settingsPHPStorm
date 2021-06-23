@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Фильтр по категориям, только для будущих аукционов." />
+      <item value="Фильтр по категориям" />
       <item value="And what to do in this situation. It is written that the price does not include the auction house commission and VAT if necessary, but in the end the price includes the auction house commission." />
       <item value="А как быть в данной ситуации. Написано что цена не включает комиссию аукционного дома и VAT по необходимости, но в итоге цена включает комиссию аукционного дома." />
       <item value="Sorry, I made a mistake in the script for postSale. Corrected. Now I will deal with the process with &quot;This lot requires vat&quot;" />
@@ -50,20 +52,18 @@
       <item value="I bought it today, provided that there is an option for auctions on the Bidspirit portal: &quot;Days to allow post auction sale&quot;, which cannot be more than 14 days." />
       <item value="купил его сегодня при условии что для аукционов на портале Bidspirit есть опция: &quot;Days to allow post auction sale&quot;, которая не может быть больше 14 дней." />
       <item value="We also have a problem with the fact that for long-ended auctions there is still an opportunity to buy auction items." />
-      <item value="Так же у нас есть проблема с тем что для давно завершившихся аукционов остаётся возможность купить auction items." />
-      <item value="In the description of the api call itemspostSalePurchase.api there is a moment that the user must be approved, and when trying to buy auction item, a user with an unconfirmed account gets an error, but the same user can buy a lot through itemsbuyout.api without any problems." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4162" />
+        <entry key="ENGLISH" value="4163" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4162" />
+        <entry key="RUSSIAN" value="4164" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
