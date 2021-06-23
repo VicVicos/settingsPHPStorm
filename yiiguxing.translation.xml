@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I also added a calculation check and display of VAT information." />
+      <item value="Automatic synchronization is disabled on the test server, after I ran the synchronization in manual mode, the ability to buy at auction 12 was gone. I have returned 14 days to the auction settings." />
+      <item value="2) Synchronization of this data is on the server side, we do not request it from the front." />
+      <item value="1) Fixed the display of prices." />
+      <item value="1) Исправил отображение цен. 2) Синхронизация этих данных у нас стоит на стороне сервера, мы не запрашиваем её с front. Автоматическая синхронизация отключена на тестовом сервере, после того как я прогнал синхронизацию в ручном режиме, возможность купить на 12 аукционе пропала. Я вернул 14 дней в настройки аукциона. Я так же добавил проверку калькуляции и отображение информации о VAT." />
       <item value="'מכירה אינטרנטית מבוססת זמן - מס\'" />
       <item value="Bidspirit added this to the API just now and we will add this to the plugin in the next update this week." />
       <item value="Bidspirit добавили в API это только что и мы добавим это в плагин в следующем обновлении на этой неделе." />
@@ -47,23 +52,18 @@
       <item value="Is this how it should be?" />
       <item value="Я дополнил расчёт процентов с обновлёнными API call getHouseInfo(). В описании к api call itemspostSalePurchase есть момент что пользователь должен быть approved, и при попытке купить лот пользователь с не подтверждённым аккаунтом получает ошибку, но этот же пользователь без проблем может купить лот через itemsbuyout.api. Это так и должно быть?" />
       <item value="exempted" />
-      <item value="Users from foreign countries may be exempted from tax payments, according to the relevant tax regulations" />
-      <item value="Yes I understand. I showed the formula by which I previously calculated." />
-      <item value="Да, я понял. Я показал формулу по которой я ранее расчёт производил." />
-      <item value="כתב עת" />
-      <item value="לא שפיט" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4155" />
+        <entry key="ENGLISH" value="4159" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4155" />
+        <entry key="RUSSIAN" value="4159" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
