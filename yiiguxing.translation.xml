@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="And I want to propose to keep in touch further in a separately created group in WhatsApp. Do you mind?" />
+      <item value="И я хочу предложить далее держать связь в отдельно созданной группе в WhatsApp. Вы не против?" />
+      <item value="Ok, i changed this string." />
+      <item value="On the full lot\'s price and commission" />
       <item value="The moment you send an auction to Bidspirit to be closed and after the next synchronization it goes to &quot;Archive&quot;" />
       <item value="В тот момент когда на Bidspirit вы отправляете аукцион в закрытый и после следующей синхронизации он переходит в &quot;Archive&quot;" />
       <item value="В тот момент когда на Bidspirit вы отправляете аукцион в закрытый и после следующей синхронизации он меняет статус на &quot;Archive&quot;" />
@@ -48,22 +52,18 @@
       <item value="Bidspirit added this to the API just now and we will add this to the plugin in the next update this week." />
       <item value="Bidspirit добавили в API это только что и мы добавим это в плагин в следующем обновлении на этой неделе." />
       <item value="Not quite sure what the problem is with 153 lots 89 of the Ansuini auction? Due to the restrictions on Ansuini hosting, we cannot speed up the synchronization process, over time the synchronization will take place." />
-      <item value="Не совсем понял в чём проблема со 153 лотов 89 аукциона Ansuini? Из за ограничений на хостинге Ansuini мы не можем ускорить процесс синхронизации, с течением времени синхронизация пройдёт." />
-      <item value="Selling price for lots. Unsold items + Output final price in search pageauthor" />
-      <item value="Цена продажи для лотов." />
-      <item value="But you still see the wrong time on the site?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4185" />
+        <entry key="ENGLISH" value="4188" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4185" />
+        <entry key="RUSSIAN" value="4188" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
