@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="תכשיט" />
+      <item value="נצוקיס" />
       <item value="We added displaying commission info." />
       <item value="We adding displaying commission info." />
       <item value="commission" />
@@ -50,8 +52,6 @@
       <item value="4PM берётся с учётом локального времени вашего компьютера. Время начала аукциона указано по GMT +1. Верно?" />
       <item value="Now is the start time of the auction also not correct?" />
       <item value="Сейчас время начала аукциона тоже не верно?" />
-      <item value="Every hour" />
-      <item value="И ещё пример." />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="145" />
+        <entry key="HEBREW" value="147" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
