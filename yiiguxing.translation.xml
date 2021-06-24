@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="phrase by word" />
+      <item value="category by tag" />
+      <item value="category_by tag" />
+      <item value="category by" />
+      <item value="phrase by" />
       <item value="And I want to propose to keep in touch further in a separately created group in WhatsApp. Do you mind?" />
       <item value="И я хочу предложить далее держать связь в отдельно созданной группе в WhatsApp. Вы не против?" />
       <item value="Ok, i changed this string." />
@@ -47,23 +52,18 @@
       <item value="Automatic synchronization is disabled on the test server, after I ran the synchronization in manual mode, the ability to buy at auction 12 was gone. I have returned 14 days to the auction settings." />
       <item value="2) Synchronization of this data is on the server side, we do not request it from the front." />
       <item value="1) Fixed the display of prices." />
-      <item value="1) Исправил отображение цен. 2) Синхронизация этих данных у нас стоит на стороне сервера, мы не запрашиваем её с front. Автоматическая синхронизация отключена на тестовом сервере, после того как я прогнал синхронизацию в ручном режиме, возможность купить на 12 аукционе пропала. Я вернул 14 дней в настройки аукциона. Я так же добавил проверку калькуляции и отображение информации о VAT." />
-      <item value="'מכירה אינטרנטית מבוססת זמן - מס\'" />
-      <item value="Bidspirit added this to the API just now and we will add this to the plugin in the next update this week." />
-      <item value="Bidspirit добавили в API это только что и мы добавим это в плагин в следующем обновлении на этой неделе." />
-      <item value="Not quite sure what the problem is with 153 lots 89 of the Ansuini auction? Due to the restrictions on Ansuini hosting, we cannot speed up the synchronization process, over time the synchronization will take place." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4188" />
+        <entry key="ENGLISH" value="4193" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4188" />
+        <entry key="RUSSIAN" value="4193" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
