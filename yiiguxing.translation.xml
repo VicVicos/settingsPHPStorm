@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Now we have taken into account all the points with prices and commissions. Can send to production?" />
+      <item value="Сейчас мы учли все моменты с ценами и комиссиями. Может отправлять на production?" />
+      <item value="This exception for plugin Elementor. It is not related to the auction plugin in any way and should not interfere with the work." />
+      <item value="Он ни как не связан с плагином аукционов и не должен препятствовать работе." />
+      <item value="I don't look no problem with the response from the server." />
+      <item value="I see no problem with the response from the server." />
+      <item value="Я не вижу проблем с ответом от сервера." />
+      <item value="I don't look problem with" />
+      <item value="I don't look problem with respond server." />
+      <item value="I don't look problem with responding server." />
       <item value="phrase by word" />
       <item value="category by tag" />
       <item value="category_by tag" />
@@ -42,28 +52,18 @@
       <item value="Do I understand correctly that now the questions concern only the display of the commission for the absentee rate?" />
       <item value="Верно ли я понимаю что теперь вопросы касаются только отображения комиссии для заочной ставки?" />
       <item value="Фильтр по категориям, только для будущих аукционов." />
-      <item value="Фильтр по категориям" />
-      <item value="And what to do in this situation. It is written that the price does not include the auction house commission and VAT if necessary, but in the end the price includes the auction house commission." />
-      <item value="А как быть в данной ситуации. Написано что цена не включает комиссию аукционного дома и VAT по необходимости, но в итоге цена включает комиссию аукционного дома." />
-      <item value="Sorry, I made a mistake in the script for postSale. Corrected. Now I will deal with the process with &quot;This lot requires vat&quot;" />
-      <item value="Sorry, я допустил ошибку в скрипте для postSale. Исправил. Сейчас займусь процессом с &quot;This lot requires vat&quot;" />
-      <item value="Form shortcode" />
-      <item value="I also added a calculation check and display of VAT information." />
-      <item value="Automatic synchronization is disabled on the test server, after I ran the synchronization in manual mode, the ability to buy at auction 12 was gone. I have returned 14 days to the auction settings." />
-      <item value="2) Synchronization of this data is on the server side, we do not request it from the front." />
-      <item value="1) Fixed the display of prices." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4193" />
+        <entry key="ENGLISH" value="4201" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4193" />
+        <entry key="RUSSIAN" value="4201" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
