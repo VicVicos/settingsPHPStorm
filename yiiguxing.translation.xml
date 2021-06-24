@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We added displaying commission info." />
+      <item value="We adding displaying commission info." />
       <item value="commission" />
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode for auction house, similar to what we get for the user for usersinitSession .api. So that you can take this moment into account when calculating the price." />
       <item value="Что бы можно было учесть этот момент при расчёте цены" />
@@ -50,20 +52,18 @@
       <item value="Сейчас время начала аукциона тоже не верно?" />
       <item value="Every hour" />
       <item value="И ещё пример." />
-      <item value="This functionality is currently not available. We will implement this moment in the next plugin update within 1-3 weeks." />
-      <item value="На данный момент этот функционал не доступен. Мы реализуем этот момент в ближайшем обновлении плагина в течении 1-3 недели." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4179" />
+        <entry key="ENGLISH" value="4181" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4179" />
+        <entry key="RUSSIAN" value="4181" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
