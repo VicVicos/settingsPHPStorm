@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The moment you send an auction to Bidspirit to be closed and after the next synchronization it goes to &quot;Archive&quot;" />
+      <item value="В тот момент когда на Bidspirit вы отправляете аукцион в закрытый и после следующей синхронизации он переходит в &quot;Archive&quot;" />
+      <item value="В тот момент когда на Bidspirit вы отправляете аукцион в закрытый и после следующей синхронизации он меняет статус на &quot;Archive&quot;" />
       <item value="Select a value" />
       <item value="record Tags" />
       <item value="תכשיט" />
@@ -49,21 +52,18 @@
       <item value="Selling price for lots. Unsold items + Output final price in search pageauthor" />
       <item value="Цена продажи для лотов." />
       <item value="But you still see the wrong time on the site?" />
-      <item value="Но вы всё равно видите не верное время на сайте?" />
-      <item value="4PM is taken based on the local time of your computer. The start time of the auction is indicated at GMT +1. Right?" />
-      <item value="4PM берётся с учётом локального времени вашего компьютера. Время начала аукциона указано по GMT +1. Верно?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4183" />
+        <entry key="ENGLISH" value="4185" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4183" />
+        <entry key="RUSSIAN" value="4185" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
