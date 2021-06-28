@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="theme" />
       <item value="Now we have taken into account all the points with prices and commissions. Can send to production?" />
       <item value="Сейчас мы учли все моменты с ценами и комиссиями. Может отправлять на production?" />
       <item value="This exception for plugin Elementor. It is not related to the auction plugin in any way and should not interfere with the work." />
@@ -51,19 +52,18 @@
       <item value="Давайте сосредоточимся только на postpre sale." />
       <item value="Do I understand correctly that now the questions concern only the display of the commission for the absentee rate?" />
       <item value="Верно ли я понимаю что теперь вопросы касаются только отображения комиссии для заочной ставки?" />
-      <item value="Фильтр по категориям, только для будущих аукционов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4201" />
+        <entry key="ENGLISH" value="4202" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4201" />
+        <entry key="RUSSIAN" value="4202" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
