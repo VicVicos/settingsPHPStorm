@@ -2,11 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Categories researches" />
       <item value="Category Developments" />
       <item value="Category Development" />
       <item value="External Research" />
       <item value="Group researches" />
-      <item value="Categories researches" />
       <item value="To implement the &quot;Auction with no exact date&quot; task, we need 4 hours." />
       <item value="Для реализации задачи &quot;Auction with no exact date&quot; нам потребуется 4 часа." />
       <item value="I would like to know where can I look in the documentation for a description of this checkbox?" />
@@ -56,14 +56,14 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4209" />
+        <entry key="ENGLISH" value="4210" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4209" />
+        <entry key="RUSSIAN" value="4210" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
