@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="To implement the &quot;Auction with no exact date&quot; task, we need 4 hours." />
+      <item value="Для реализации задачи &quot;Auction with no exact date&quot; нам потребуется 4 часа." />
       <item value="I would like to know where can I look in the documentation for a description of this checkbox?" />
       <item value="Я хотел бы узнать где мне искать в документации описание этого checkbox?" />
       <item value="theme" />
@@ -50,20 +52,18 @@
       <item value="Не должна ли цена выкупа в этом случае быть равна 1000 для лота 2 аукциона 12." />
       <item value="И к вопросу что ранее на счёт надписи:" />
       <item value="Я сравниваю результат с тем что вижу тут:" />
-      <item value="Let's focus on postpre sale only." />
-      <item value="Давайте сосредоточимся только на postpre sale." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4203" />
+        <entry key="ENGLISH" value="4204" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4203" />
+        <entry key="RUSSIAN" value="4204" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
