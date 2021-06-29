@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Category Developments" />
+      <item value="Category Development" />
+      <item value="External Research" />
+      <item value="Group researches" />
+      <item value="Categories researches" />
       <item value="To implement the &quot;Auction with no exact date&quot; task, we need 4 hours." />
       <item value="Для реализации задачи &quot;Auction with no exact date&quot; нам потребуется 4 часа." />
       <item value="I would like to know where can I look in the documentation for a description of this checkbox?" />
@@ -47,23 +52,18 @@
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the authorized user when" />
       <item value="Можно ли добавить в settingsgetHouseInfo.api stateCode аналогичное тому что мы получаем для авторизованного пользователя при" />
       <item value="When I took your site as an example, I completely forgot that my user is from another country and taxes are not taken into account for him." />
-      <item value="Когда я брал в пример ваш сайт, я совсем забыл что мой пользователь из другой страны и для него налоги не учитываются." />
-      <item value="Shouldn't the buyback price in this case be equal to 1000 for lot 2 of auction 12." />
-      <item value="Не должна ли цена выкупа в этом случае быть равна 1000 для лота 2 аукциона 12." />
-      <item value="И к вопросу что ранее на счёт надписи:" />
-      <item value="Я сравниваю результат с тем что вижу тут:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4204" />
+        <entry key="ENGLISH" value="4209" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4204" />
+        <entry key="RUSSIAN" value="4209" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
