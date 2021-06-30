@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="תירוש בתקשורת" />
       <item value="Remove the following nameservers" />
       <item value="Categories researches" />
       <item value="Category Developments" />
@@ -51,7 +52,6 @@
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the usersinitSession.api" />
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the authorized user when usersinitSession.api" />
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the authorized user when" />
-      <item value="Можно ли добавить в settingsgetHouseInfo.api stateCode аналогичное тому что мы получаем для авторизованного пользователя при" />
     </histories>
     <option name="languageScores">
       <map>
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="147" />
+        <entry key="HEBREW" value="148" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
