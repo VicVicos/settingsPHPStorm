@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You have the ability to specify videos for lots when editing on the Bidpsirit portal." />
+      <item value="У вас есть возможность указывать видео для лотов при редактировании на портале Bidpsirit." />
       <item value="תירוש בתקשורת" />
       <item value="Remove the following nameservers" />
       <item value="Categories researches" />
@@ -50,20 +52,18 @@
       <item value="Можно ли добавить в settingsgetHouseInfo.api stateCode из какой страны auction house аналогично тому, что мы получаем для пользователя для usersinitSession.api" />
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the user for usersinitSession.api" />
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the usersinitSession.api" />
-      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the authorized user when usersinitSession.api" />
-      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the authorized user when" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4211" />
+        <entry key="ENGLISH" value="4212" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4211" />
+        <entry key="RUSSIAN" value="4212" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
