@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sample: I have assigned a unique class to the parent element: &quot;.no-lazyload&quot; and I need to disable LazyLoad for images using the &quot;.no-lazyload img&quot; selector. I indicate this in the plugin settings (Screen 1). And after saving, a change occurs in the settings: (Screen 2)." />
+      <item value="Sample: Родительскому элементу я задал уникальный класс: &quot;.no-lazyload&quot; и мне надо для картинок по селектору &quot;.no-lazyload img&quot; отключить LazyLoad. Я указываю это в настройках плагина (Screen 1). И после сохранения в настройках происходит изменение: (Screen 2)." />
+      <item value="I need to exclude one image from LazyLoad. The problem is that I cannot set a unique class or id for this image, I can only do this for the parent element." />
+      <item value="Здравствуйте! Мне надо исключить одну картинку из работы LazyLoad. Проблема заключается в том, что я не могу задать уникальный класс или id для этой картинки, сделать я это могу только для родительского элемента." />
+      <item value="Whitch website does this related to" />
       <item value="sold Price" />
       <item value="You have the ability to specify videos for lots when editing on the Bidpsirit portal." />
       <item value="У вас есть возможность указывать видео для лотов при редактировании на портале Bidpsirit." />
@@ -47,23 +52,18 @@
       <item value="We adding displaying commission info." />
       <item value="commission" />
       <item value="Is it possible to add to settingsgetHouseInfo.api stateCode for auction house, similar to what we get for the user for usersinitSession .api. So that you can take this moment into account when calculating the price." />
-      <item value="Что бы можно было учесть этот момент при расчёте цены" />
-      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode for auction house, similar to what we get for the user for usersinitSession .api" />
-      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode from which country the auction house is similar to what we get for the user for usersinitSession.api" />
-      <item value="Можно ли добавить в settingsgetHouseInfo.api stateCode из какой страны auction house аналогично тому, что мы получаем для пользователя для usersinitSession.api" />
-      <item value="Is it possible to add to settingsgetHouseInfo.api stateCode similar to what we get for the user for usersinitSession.api" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4213" />
+        <entry key="ENGLISH" value="4216" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4213" />
+        <entry key="RUSSIAN" value="4216" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
