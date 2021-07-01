@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="asks to implement sorting" />
+      <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots in the user's profile for &quot;Wish list&quot;, &quot;Absentee bids&quot; from newer to oldest." />
+      <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots in the user's profile for Wish list, Absentee bids from newer to oldest." />
+      <item value="12stulauction.bidspirit.com просит реализовать сортировку лотов в профиле пользователя для Wish list, Absentee bids... от более новых к старым." />
+      <item value="Клиент 12stulauction.bidspirit.com просит реализовать сортировку лотов в профиле пользователя для Wish list, Absentee bids... от более новых к старым." />
+      <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots for Wish list, Absentee bids ... from newer to oldest." />
+      <item value="Клиент 12stulauction.bidspirit.com просит реализовать сортировку лотов для Wish list, Absentee bids... от более новых к старым." />
       <item value="&lt;strong&gt;בצורה לא תקינה&lt;strong&gt;. סוג ערך לא נתמך (object). למידע נוסף כנסו ל" />
       <item value="Users from foreign countries may be exempted from tax payments, according to the relevant tax regulations" />
       <item value="here is their IP address." />
@@ -45,25 +52,18 @@
       <item value="Ok, i changed this string." />
       <item value="On the full lot\'s price and commission" />
       <item value="The moment you send an auction to Bidspirit to be closed and after the next synchronization it goes to &quot;Archive&quot;" />
-      <item value="В тот момент когда на Bidspirit вы отправляете аукцион в закрытый и после следующей синхронизации он переходит в &quot;Archive&quot;" />
-      <item value="В тот момент когда на Bidspirit вы отправляете аукцион в закрытый и после следующей синхронизации он меняет статус на &quot;Archive&quot;" />
-      <item value="Select a value" />
-      <item value="record Tags" />
-      <item value="תכשיט" />
-      <item value="נצוקיס" />
-      <item value="We added displaying commission info." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4218" />
+        <entry key="ENGLISH" value="4223" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4218" />
+        <entry key="RUSSIAN" value="4223" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
