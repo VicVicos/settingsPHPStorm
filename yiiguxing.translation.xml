@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ok. I will try to do it from my side, but I think it is not possible to do it individually for this client." />
+      <item value="Хорошо. Я попробую это сделать со своей стороны, но думаю это не возможно сделать индивидуально для этого клиента." />
       <item value="asks to implement sorting" />
       <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots in the user's profile for &quot;Wish list&quot;, &quot;Absentee bids&quot; from newer to oldest." />
       <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots in the user's profile for Wish list, Absentee bids from newer to oldest." />
@@ -50,20 +52,18 @@
       <item value="And I want to propose to keep in touch further in a separately created group in WhatsApp. Do you mind?" />
       <item value="И я хочу предложить далее держать связь в отдельно созданной группе в WhatsApp. Вы не против?" />
       <item value="Ok, i changed this string." />
-      <item value="On the full lot\'s price and commission" />
-      <item value="The moment you send an auction to Bidspirit to be closed and after the next synchronization it goes to &quot;Archive&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4223" />
+        <entry key="ENGLISH" value="4224" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4223" />
+        <entry key="RUSSIAN" value="4224" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
