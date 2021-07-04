@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Create lost auctions as taxonomy" />
+      <item value="Create lots auctions as taxonomy" />
       <item value="Ok. I will try to do it from my side, but I think it is not possible to do it individually for this client." />
       <item value="Хорошо. Я попробую это сделать со своей стороны, но думаю это не возможно сделать индивидуально для этого клиента." />
       <item value="asks to implement sorting" />
@@ -50,20 +52,18 @@
       <item value="category by" />
       <item value="phrase by" />
       <item value="And I want to propose to keep in touch further in a separately created group in WhatsApp. Do you mind?" />
-      <item value="И я хочу предложить далее держать связь в отдельно созданной группе в WhatsApp. Вы не против?" />
-      <item value="Ok, i changed this string." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4224" />
+        <entry key="ENGLISH" value="4226" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4224" />
+        <entry key="RUSSIAN" value="4226" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
