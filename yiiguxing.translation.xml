@@ -2,6 +2,21 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Changing &quot;lastUpdate&quot; when the lot is being sold would solve the problem." />
+      <item value="Если изменять &quot;lastUpdate&quot; в момент продажи лота, это решило бы проблему." />
+      <item value="Hello! For Tiroche, we faced a problem in the implementation of the task with the final sales prices. We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change at the time of sale. We use the &quot;lastUpdate&quot; field to check if the lot needs to be updated during synchronization." />
+      <item value="We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change at the time of sale." />
+      <item value="Мы не можем обновить цену продажи со своей стороны после продажи так как &quot;lastUpdate&quot; не изменяется в момент продажи." />
+      <item value="Hello! For Tiroche, we faced a problem in the implementation of the task with the final sales prices. We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change during the sale. We use the &quot;lastUpdate&quot; field to check if the lot needs to be updated during synchronization." />
+      <item value="We use the &quot;lastUpdate&quot; field to check if the lot needs to be updated during synchronization." />
+      <item value="Поле &quot;lastUpdate&quot; мы используем для проверки нужно ли обновлять лот при синхронизации." />
+      <item value="Это поле мы используем для проверки нужно ли обновлять лот при синхронизации." />
+      <item value="We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change during the sale." />
+      <item value="We cannot update the selling price (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change during the sale." />
+      <item value="We cannot update the selling price from our side after the sale as &quot;lastUpdate&quot; does not change during the sale." />
+      <item value="Мы не можем обновить цену продажи со своей стороны после продажи так как &quot;lastUpdate&quot; не изменяется при продаже." />
+      <item value="For Tiroche, we faced a problem in the implementation of the task with the final sales prices." />
+      <item value="Для Tiroche при реализации задачи с финальными ценами продаж у нас возникла проблема." />
       <item value="Are there any other problems on the site?" />
       <item value="Есть ли ещё какие то проблемы на сайте?" />
       <item value="Upcomming" />
@@ -37,33 +52,18 @@
       <item value="External Research" />
       <item value="Group researches" />
       <item value="To implement the &quot;Auction with no exact date&quot; task, we need 4 hours." />
-      <item value="Для реализации задачи &quot;Auction with no exact date&quot; нам потребуется 4 часа." />
-      <item value="I would like to know where can I look in the documentation for a description of this checkbox?" />
-      <item value="Я хотел бы узнать где мне искать в документации описание этого checkbox?" />
-      <item value="theme" />
-      <item value="Now we have taken into account all the points with prices and commissions. Can send to production?" />
-      <item value="Сейчас мы учли все моменты с ценами и комиссиями. Может отправлять на production?" />
-      <item value="This exception for plugin Elementor. It is not related to the auction plugin in any way and should not interfere with the work." />
-      <item value="Он ни как не связан с плагином аукционов и не должен препятствовать работе." />
-      <item value="I don't look no problem with the response from the server." />
-      <item value="I see no problem with the response from the server." />
-      <item value="Я не вижу проблем с ответом от сервера." />
-      <item value="I don't look problem with" />
-      <item value="I don't look problem with respond server." />
-      <item value="I don't look problem with responding server." />
-      <item value="phrase by word" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4230" />
+        <entry key="ENGLISH" value="4241" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4230" />
+        <entry key="RUSSIAN" value="4241" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
