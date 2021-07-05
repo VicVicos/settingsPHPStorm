@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Are there any other problems on the site?" />
+      <item value="Есть ли ещё какие то проблемы на сайте?" />
       <item value="Upcomming" />
       <item value="I see that items" />
       <item value="I see that lots" />
@@ -50,20 +52,18 @@
       <item value="I don't look problem with respond server." />
       <item value="I don't look problem with responding server." />
       <item value="phrase by word" />
-      <item value="category by tag" />
-      <item value="category_by tag" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4229" />
+        <entry key="ENGLISH" value="4230" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4229" />
+        <entry key="RUSSIAN" value="4230" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
