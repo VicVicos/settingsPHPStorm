@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We receive this field when requesting" />
+      <item value="Это поле мы получаем при запросе" />
+      <item value="This field we got on request" />
       <item value="Changing &quot;lastUpdate&quot; when the lot is being sold would solve the problem." />
       <item value="Если изменять &quot;lastUpdate&quot; в момент продажи лота, это решило бы проблему." />
       <item value="Hello! For Tiroche, we faced a problem in the implementation of the task with the final sales prices. We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change at the time of sale. We use the &quot;lastUpdate&quot; field to check if the lot needs to be updated during synchronization." />
@@ -49,21 +52,18 @@
       <item value="Categories researches" />
       <item value="Category Developments" />
       <item value="Category Development" />
-      <item value="External Research" />
-      <item value="Group researches" />
-      <item value="To implement the &quot;Auction with no exact date&quot; task, we need 4 hours." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4241" />
+        <entry key="ENGLISH" value="4245" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4241" />
+        <entry key="RUSSIAN" value="4245" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
