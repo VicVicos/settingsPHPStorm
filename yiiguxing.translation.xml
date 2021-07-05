@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will check this point." />
+      <item value="Я проверю этот момент." />
+      <item value="Synchronization of auctions starts every hour, but on Ansuini it may take longer if there were no users on the site for an hour, in which case the synchronization is postponed until the first visitor." />
+      <item value="Синхронизация аукционов запускается каждый час, но на Ansuini это может занять больше времени если в течении часа на сайте не было пользователей, в этом случае синхронизация откладывается до первого посетителя." />
+      <item value="You talk about auction 90?" />
       <item value="We receive this field when requesting" />
       <item value="Это поле мы получаем при запросе" />
       <item value="This field we got on request" />
@@ -47,23 +52,18 @@
       <item value="sold Price" />
       <item value="You have the ability to specify videos for lots when editing on the Bidpsirit portal." />
       <item value="У вас есть возможность указывать видео для лотов при редактировании на портале Bidpsirit." />
-      <item value="תירוש בתקשורת" />
-      <item value="Remove the following nameservers" />
-      <item value="Categories researches" />
-      <item value="Category Developments" />
-      <item value="Category Development" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4245" />
+        <entry key="ENGLISH" value="4248" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4245" />
+        <entry key="RUSSIAN" value="4248" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
