@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="равнаяВысота" />
+      <item value="the viewport is at least 400 pixels wide" />
       <item value="Everything is ready in the plugin so that we can implement this in the theme of your site." />
       <item value="Everything is ready in the plugin so that you can implement this in the theme of your site." />
       <item value="В плагине всё готово что бы можно было реализовать это в теме вашего сайта." />
@@ -50,20 +52,18 @@
       <item value="Sample: I have assigned a unique class to the parent element: &quot;.no-lazyload&quot; and I need to disable LazyLoad for images using the &quot;.no-lazyload img&quot; selector. I indicate this in the plugin settings (Screen 1). And after saving, a change occurs in the settings: (Screen 2)." />
       <item value="Sample: Родительскому элементу я задал уникальный класс: &quot;.no-lazyload&quot; и мне надо для картинок по селектору &quot;.no-lazyload img&quot; отключить LazyLoad. Я указываю это в настройках плагина (Screen 1). И после сохранения в настройках происходит изменение: (Screen 2)." />
       <item value="I need to exclude one image from LazyLoad. The problem is that I cannot set a unique class or id for this image, I can only do this for the parent element." />
-      <item value="Здравствуйте! Мне надо исключить одну картинку из работы LazyLoad. Проблема заключается в том, что я не могу задать уникальный класс или id для этой картинки, сделать я это могу только для родительского элемента." />
-      <item value="Whitch website does this related to" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4250" />
+        <entry key="ENGLISH" value="4251" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4250" />
+        <entry key="RUSSIAN" value="4252" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
