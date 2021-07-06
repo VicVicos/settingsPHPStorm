@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="השימוש בשירות" />
+      <item value="אני מסכים לתנאי" />
+      <item value="השימוש בשירות אני" />
+      <item value="מסכים לתנאי" />
+      <item value="We have an &quot;unknown exact date feature&quot; in our plan for next week. We will also take these two requests into development." />
+      <item value="Задача с &quot;unknown exact date feature&quot; у нас в плане на следующей неделе. Так же мы возьмём и эти два запроса в разработку." />
+      <item value="The task &quot;unknown exact date feature&quot; is on the next plan. week. We will also take these two requests into development." />
+      <item value="The task with the &quot;unknown exact date feature&quot; is on the next plan. week. We will also take these two requests into development." />
+      <item value="Задача с &quot;unknown exact date feature&quot; у нас в плане на след. неделе. Так же мы возьмём и эти два запроса в разработку." />
       <item value="Yes, the implementation of this task in planned. Coming soon in a plugin." />
       <item value="Yes, the implementation of this task is planned. Coming soon in a plugin." />
       <item value="Да, реализация этой задачи в плане. Скоро будет реализовано в плагине." />
@@ -43,27 +52,18 @@
       <item value="Create lost auctions as taxonomy" />
       <item value="Create lots auctions as taxonomy" />
       <item value="Ok. I will try to do it from my side, but I think it is not possible to do it individually for this client." />
-      <item value="Хорошо. Я попробую это сделать со своей стороны, но думаю это не возможно сделать индивидуально для этого клиента." />
-      <item value="asks to implement sorting" />
-      <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots in the user's profile for &quot;Wish list&quot;, &quot;Absentee bids&quot; from newer to oldest." />
-      <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots in the user's profile for Wish list, Absentee bids from newer to oldest." />
-      <item value="12stulauction.bidspirit.com просит реализовать сортировку лотов в профиле пользователя для Wish list, Absentee bids... от более новых к старым." />
-      <item value="Клиент 12stulauction.bidspirit.com просит реализовать сортировку лотов в профиле пользователя для Wish list, Absentee bids... от более новых к старым." />
-      <item value="Client 12stulauction.bidspirit.com asks to implement sorting of lots for Wish list, Absentee bids ... from newer to oldest." />
-      <item value="Клиент 12stulauction.bidspirit.com просит реализовать сортировку лотов для Wish list, Absentee bids... от более новых к старым." />
-      <item value="&lt;strong&gt;בצורה לא תקינה&lt;strong&gt;. סוג ערך לא נתמך (object). למידע נוסף כנסו ל" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4255" />
+        <entry key="ENGLISH" value="4258" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4255" />
+        <entry key="RUSSIAN" value="4258" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -86,7 +86,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="HEBREW" value="149" />
+        <entry key="HEBREW" value="157" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="3" />
