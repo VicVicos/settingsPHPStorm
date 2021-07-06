@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Everything is ready in the plugin so that we can implement this in the theme of your site." />
+      <item value="Everything is ready in the plugin so that you can implement this in the theme of your site." />
+      <item value="В плагине всё готово что бы можно было реализовать это в теме вашего сайта." />
       <item value="I will check this point." />
       <item value="Я проверю этот момент." />
       <item value="Synchronization of auctions starts every hour, but on Ansuini it may take longer if there were no users on the site for an hour, in which case the synchronization is postponed until the first visitor." />
@@ -49,21 +52,18 @@
       <item value="I need to exclude one image from LazyLoad. The problem is that I cannot set a unique class or id for this image, I can only do this for the parent element." />
       <item value="Здравствуйте! Мне надо исключить одну картинку из работы LazyLoad. Проблема заключается в том, что я не могу задать уникальный класс или id для этой картинки, сделать я это могу только для родительского элемента." />
       <item value="Whitch website does this related to" />
-      <item value="sold Price" />
-      <item value="You have the ability to specify videos for lots when editing on the Bidpsirit portal." />
-      <item value="У вас есть возможность указывать видео для лотов при редактировании на портале Bidpsirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4248" />
+        <entry key="ENGLISH" value="4250" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4248" />
+        <entry key="RUSSIAN" value="4250" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
