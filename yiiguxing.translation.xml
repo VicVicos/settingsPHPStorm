@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Most likely it will be early next week." />
+      <item value="Скорее всего это будет в начале следующей неделе." />
+      <item value="We have added the correct display of the auction start date if the auction does not have an exact start date. This feature will appear on the site in the next update." />
+      <item value="Мы добавили корректное отображение даты начала аукциона если аукцион не имеет точной даты начала. Эта фича появится на сайте в следующем обновлении." />
+      <item value="Мы добавили корректное отображение даты начала аукциона если аукцион не имеет точной даты начала. Эта фича появится на сайте в ближайшее время." />
+      <item value="We have added the correct display of the auction start date. If the auction does not have an exact start date, it will appear on the site shortly." />
+      <item value="Мы добавили корректное отображение даты начала аукциона если аукцион не имеет точной даты начала, оно появится на сайте в ближайшее время." />
+      <item value="We have added display of lot descriptions." />
+      <item value="Мы добавили отображение описания лотов." />
       <item value="Hide empty auctions on the auctions page" />
       <item value="Скрыть пустые аукционы на странице аукционов" />
       <item value="Hide empty auctions" />
@@ -43,27 +52,18 @@
       <item value="Changing &quot;lastUpdate&quot; when the lot is being sold would solve the problem." />
       <item value="Если изменять &quot;lastUpdate&quot; в момент продажи лота, это решило бы проблему." />
       <item value="Hello! For Tiroche, we faced a problem in the implementation of the task with the final sales prices. We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change at the time of sale. We use the &quot;lastUpdate&quot; field to check if the lot needs to be updated during synchronization." />
-      <item value="We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change at the time of sale." />
-      <item value="Мы не можем обновить цену продажи со своей стороны после продажи так как &quot;lastUpdate&quot; не изменяется в момент продажи." />
-      <item value="Hello! For Tiroche, we faced a problem in the implementation of the task with the final sales prices. We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change during the sale. We use the &quot;lastUpdate&quot; field to check if the lot needs to be updated during synchronization." />
-      <item value="We use the &quot;lastUpdate&quot; field to check if the lot needs to be updated during synchronization." />
-      <item value="Поле &quot;lastUpdate&quot; мы используем для проверки нужно ли обновлять лот при синхронизации." />
-      <item value="Это поле мы используем для проверки нужно ли обновлять лот при синхронизации." />
-      <item value="We cannot update the sold bid (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change during the sale." />
-      <item value="We cannot update the selling price (soldBid.price) from our side after the sale as &quot;lastUpdate&quot; does not change during the sale." />
-      <item value="We cannot update the selling price from our side after the sale as &quot;lastUpdate&quot; does not change during the sale." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4265" />
+        <entry key="ENGLISH" value="4270" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4265" />
+        <entry key="RUSSIAN" value="4270" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
