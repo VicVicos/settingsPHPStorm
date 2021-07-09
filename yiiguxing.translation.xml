@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PART PATH CLONED IMAGES" />
+      <item value="PART PATH CLONED" />
+      <item value="PART CLONED PATH" />
       <item value="Look within passed path within the theme - this is priority." />
       <item value="Most likely it will be early next week." />
       <item value="Скорее всего это будет в начале следующей неделе." />
@@ -49,21 +52,18 @@
       <item value="You talk about auction 90?" />
       <item value="We receive this field when requesting" />
       <item value="Это поле мы получаем при запросе" />
-      <item value="This field we got on request" />
-      <item value="Changing &quot;lastUpdate&quot; when the lot is being sold would solve the problem." />
-      <item value="Если изменять &quot;lastUpdate&quot; в момент продажи лота, это решило бы проблему." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4272" />
+        <entry key="ENGLISH" value="4275" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4272" />
+        <entry key="RUSSIAN" value="4275" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
