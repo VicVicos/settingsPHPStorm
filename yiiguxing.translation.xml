@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Different response for placeBid" />
+      <item value="Different answers for placeBid" />
+      <item value="Разные ответы для placeBid" />
+      <item value="Different response for placeBid." />
       <item value="Hello! I am have problem for API call &quot;itemsplaceBid.api&quot;. On the test site http: http:auctions-dev.ln3.tempurl.info for different auctions, we have different answers with which the problem arises. For auction 10, we have the structure shown in screenshot 1. For auction 9, we get the answer shown in screenshot 2." />
       <item value="For auction 9, we get the answer shown in screenshot 2." />
       <item value="For auction lots 9, we get the answer shown in screenshot 2." />
@@ -48,22 +52,18 @@
       <item value="אני מסכים לתנאי" />
       <item value="השימוש בשירות אני" />
       <item value="מסכים לתנאי" />
-      <item value="We have an &quot;unknown exact date feature&quot; in our plan for next week. We will also take these two requests into development." />
-      <item value="Задача с &quot;unknown exact date feature&quot; у нас в плане на следующей неделе. Так же мы возьмём и эти два запроса в разработку." />
-      <item value="The task &quot;unknown exact date feature&quot; is on the next plan. week. We will also take these two requests into development." />
-      <item value="The task with the &quot;unknown exact date feature&quot; is on the next plan. week. We will also take these two requests into development." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4289" />
+        <entry key="ENGLISH" value="4292" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4289" />
+        <entry key="RUSSIAN" value="4292" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
