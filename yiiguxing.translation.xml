@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Need to display a link to a live auction if less than an hour is left before the start?" />
+      <item value="Do you need to display a link to a live auction if less than an hour is left before the start?" />
+      <item value="Надо выводить ссылку на живой аукцион если до начала остаётся меньше часа?" />
+      <item value="As for the other two requests:" />
+      <item value="Что касается двух других запросов:" />
+      <item value="We have completed the task with unknownExactDate for the auction, please accept it." />
+      <item value="Мы выполнили задачу с unknownExactDate для аукциона, пожалуйста примите её." />
+      <item value="We have created a task with unknownExactDate for the auction, please accept it." />
+      <item value="Мы сделали задачу с unknownExactDate для аукциона, пожалуйста примите её." />
       <item value="Error synchronization" />
       <item value="Different response for placeBid" />
       <item value="Different answers for placeBid" />
@@ -43,27 +52,18 @@
       <item value="Hide empty auctions" />
       <item value="Hidden empty auction" />
       <item value="Thursday" />
-      <item value="And if tomorrow I make a task with a checkbox, can I not hide it today?" />
-      <item value="А если завтра я сделаю задачу с чекбоксом, можно сегодня не скрывать его?" />
-      <item value="I'll think about what I can do." />
-      <item value="Я подумаю что можно сделать." />
-      <item value="Deleting will not help, as this auction will reappear after synchronization What is the reason for hiding it? Due to the fact that the exact start date of this auction is not known?" />
-      <item value="Удаление не поможет, так как после синхронизации этот аукцион снова появится. Скажите по какой причине его надо скрыть? Из за того что точная дата начала этого аукциона не известна?" />
-      <item value="השימוש בשירות" />
-      <item value="אני מסכים לתנאי" />
-      <item value="השימוש בשירות אני" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4293" />
+        <entry key="ENGLISH" value="4298" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4293" />
+        <entry key="RUSSIAN" value="4298" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
