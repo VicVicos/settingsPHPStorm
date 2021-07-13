@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Testing it" />
+      <item value="Testing is" />
+      <item value="Tested is" />
+      <item value="I removed the junk auction and added this to the plugin to automatically remove such auctions." />
+      <item value="Я удалил мусорный аукцион и добавил это в плагин для автоматического удаления таких аукционов." />
       <item value="We have not released a patch with this feature yet, I think it will be available tomorrow and I will update the plugin on the Ansuini website. Automatic updates are not available for them, it must be done manually." />
       <item value="Мы ещё не выпустили патч с этой фичей, думаю он будет доступен завтра и я обновлю плагин на сайте Ansuini. Автоматическое обновление у них не доступно, это надо делать в ручную." />
       <item value="Auction Client" />
@@ -47,23 +52,18 @@
       <item value="For auction lots 10, we have the structure shown in screenshot 1." />
       <item value="Для лотов аукциона 10 мы имеем структуру отображённую на скрине 1." />
       <item value="On the test site http: auctions-dev.ln3.tempurl.info for different auctions, we have different answers with which the problem arises." />
-      <item value="На тестовой площадке http:auctions-dev.ln3.tempurl.info для разных аукционов мы имеем разные ответы с чем и возникает проблема." />
-      <item value="I am have problem for API call &quot;itemsplaceBid.api&quot;." />
-      <item value="I am facing problem for API call &quot;itemsplaceBid.api&quot;." />
-      <item value="I am facing problem for API call" />
-      <item value="Я столкнулся с проблемой для API call" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4317" />
+        <entry key="ENGLISH" value="4321" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4317" />
+        <entry key="RUSSIAN" value="4321" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
