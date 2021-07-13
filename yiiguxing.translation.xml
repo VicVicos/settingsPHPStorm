@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Catalog grid" />
+      <item value="Grid catalog" />
+      <item value="I did what you asked for earlier. Hide &quot;Prezzo base&quot;. Please check." />
+      <item value="Я сделал то о чём вы просили ранее. Скрыть &quot;Prezzo base&quot;. Please check." />
       <item value="Game rank" />
       <item value="Our rank" />
       <item value="Множественное имя" />
@@ -48,22 +52,18 @@
       <item value="PART CLONED PATH" />
       <item value="Look within passed path within the theme - this is priority." />
       <item value="Most likely it will be early next week." />
-      <item value="Скорее всего это будет в начале следующей неделе." />
-      <item value="We have added the correct display of the auction start date if the auction does not have an exact start date. This feature will appear on the site in the next update." />
-      <item value="Мы добавили корректное отображение даты начала аукциона если аукцион не имеет точной даты начала. Эта фича появится на сайте в следующем обновлении." />
-      <item value="Мы добавили корректное отображение даты начала аукциона если аукцион не имеет точной даты начала. Эта фича появится на сайте в ближайшее время." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4305" />
+        <entry key="ENGLISH" value="4308" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4305" />
+        <entry key="RUSSIAN" value="4308" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
