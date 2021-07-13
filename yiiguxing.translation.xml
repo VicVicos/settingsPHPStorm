@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Множественное имя" />
+      <item value="singular Name" />
       <item value="As I noticed, these timestamps are only for auctions that have already been completed." />
       <item value="Как я заметил эти метки времени есть только у уже завершённых аукционов." />
       <item value="To implement this point, we need to get the timestamp when the auction ends." />
@@ -50,20 +52,18 @@
       <item value="Мы добавили корректное отображение даты начала аукциона если аукцион не имеет точной даты начала. Эта фича появится на сайте в ближайшее время." />
       <item value="We have added the correct display of the auction start date. If the auction does not have an exact start date, it will appear on the site shortly." />
       <item value="Мы добавили корректное отображение даты начала аукциона если аукцион не имеет точной даты начала, оно появится на сайте в ближайшее время." />
-      <item value="We have added display of lot descriptions." />
-      <item value="Мы добавили отображение описания лотов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4301" />
+        <entry key="ENGLISH" value="4302" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4301" />
+        <entry key="RUSSIAN" value="4303" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
