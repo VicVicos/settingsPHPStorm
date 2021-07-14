@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! Yesterday we had a problem with the fact that the client renamed the auction and we got a false auction on the client's website. We're back to the point where we need the auction id. Now we are working with a name that is not a unique and required field, which creates a lot of problems." />
+      <item value="Вчера у нас возникла проблема с тем что клиент переименовал аукцион и у нас появился ложный аукцион на сайте клиента. Мы снова возвращаемся к моменту с тем что нам нужен id аукциона. Сейчас мы работаем с именем которое не является уникальным и обязательным полем, что порождает много проблем." />
+      <item value="We will need an additional 4 hours to implement these points. Approve please." />
+      <item value="Нам потребуется дополнительно 4 часа на реализацию этих моментов. Пожалуйста одобрите." />
+      <item value="We can update the plugin, but we will need to check the auctions for possible problems." />
+      <item value="Мы можем обновить плагин, но надо будет проверить работу аукционов на наличие возможных проблем." />
       <item value="Relations for language" />
       <item value="Relations in language" />
       <item value="Testing it" />
@@ -46,24 +52,18 @@
       <item value="Different response for placeBid." />
       <item value="Hello! I am have problem for API call &quot;itemsplaceBid.api&quot;. On the test site http: http:auctions-dev.ln3.tempurl.info for different auctions, we have different answers with which the problem arises. For auction 10, we have the structure shown in screenshot 1. For auction 9, we get the answer shown in screenshot 2." />
       <item value="For auction 9, we get the answer shown in screenshot 2." />
-      <item value="For auction lots 9, we get the answer shown in screenshot 2." />
-      <item value="Для лотов аукциона 9 мы получаем ответ отображённый на скрине 2." />
-      <item value="For auction 10, we have the structure shown in screenshot 1." />
-      <item value="For lots auction 10, we have the structure shown in screenshot 1." />
-      <item value="For lots auctions 10, we have the structure shown in screenshot 1." />
-      <item value="For auction lots 10, we have the structure shown in screenshot 1." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4323" />
+        <entry key="ENGLISH" value="4327" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4323" />
+        <entry key="RUSSIAN" value="4327" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
