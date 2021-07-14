@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We would like to clarify the functionality of the &quot;Casinos&quot; fields in the &quot;Commercial&quot; block. What functionality will be associated with these fields?" />
+      <item value="Хотели бы уточнить функционал полей &quot;Casinos&quot; блок &quot;Commercial&quot;. Какой функционал будет связан с этими полями?" />
+      <item value="Relations" />
+      <item value="What is the connection shown in the picture? Do we understand correctly, for example, &quot;Country&quot; is selected for &quot;License&quot;. And when choosing &quot;License&quot; for &quot;Brand&quot;, the &quot;Country&quot; value will match the selected &quot;Brand&quot; and work when filtering." />
+      <item value="Что из себя представляют связь представленная на картинке? Верно ли мы понимаем, к примеру, Для &quot;License&quot; выбирается &quot;Country&quot;. И при выборе &quot;License&quot; для &quot;Brand&quot; значение &quot;Country&quot; будет соответствовать выбранному &quot;Brand&quot; и работать при фильтрации." />
+      <item value="Then it's not worth it, we will check this functionality earlier and in case of problems we will fix it." />
+      <item value="Тогдa не стоит, мы проверим этот функционал ранее и в случае возникновения проблем исправим это." />
       <item value="Is there a new auction coming soon?" />
       <item value="Есть новый аукцион в ближайшее время?" />
       <item value="On test site I managed to repeat a similar problem when I renamed &quot;Auction number&quot; in auction" />
@@ -45,25 +52,18 @@
       <item value="Как я заметил эти метки времени есть только у уже завершённых аукционов." />
       <item value="To implement this point, we need to get the timestamp when the auction ends." />
       <item value="Для реализации этого момента нам нужно получить метку времени когда аукцион заканчивается." />
-      <item value="researches" />
-      <item value="Need to display a link to a live auction if less than an hour is left before the start?" />
-      <item value="Do you need to display a link to a live auction if less than an hour is left before the start?" />
-      <item value="Надо выводить ссылку на живой аукцион если до начала остаётся меньше часа?" />
-      <item value="As for the other two requests:" />
-      <item value="Что касается двух других запросов:" />
-      <item value="We have completed the task with unknownExactDate for the auction, please accept it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4334" />
+        <entry key="ENGLISH" value="4338" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4334" />
+        <entry key="RUSSIAN" value="4338" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
