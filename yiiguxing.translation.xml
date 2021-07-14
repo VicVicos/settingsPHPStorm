@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Is there a new auction coming soon?" />
+      <item value="Есть новый аукцион в ближайшее время?" />
+      <item value="On test site I managed to repeat a similar problem when I renamed &quot;Auction number&quot; in auction" />
+      <item value="On test I managed to repeat a similar problem when I renamed &quot;Auction number&quot; in auction" />
+      <item value="На тестовом мне удалось повторить аналогичную проблему когда я переименовал &quot;Auction number&quot; in auction" />
       <item value="Am I updating plugin?" />
       <item value="Am I updating?" />
       <item value="Я обновляю?" />
@@ -47,23 +52,18 @@
       <item value="As for the other two requests:" />
       <item value="Что касается двух других запросов:" />
       <item value="We have completed the task with unknownExactDate for the auction, please accept it." />
-      <item value="Мы выполнили задачу с unknownExactDate для аукциона, пожалуйста примите её." />
-      <item value="We have created a task with unknownExactDate for the auction, please accept it." />
-      <item value="Мы сделали задачу с unknownExactDate для аукциона, пожалуйста примите её." />
-      <item value="Error synchronization" />
-      <item value="Different response for placeBid" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4331" />
+        <entry key="ENGLISH" value="4334" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4331" />
+        <entry key="RUSSIAN" value="4334" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
