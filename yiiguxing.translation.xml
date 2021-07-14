@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Is it enough if we make these fields text in the admin panel for the &quot;Casino&quot;?" />
+      <item value="Достаточно ли если мы сделаем эти поля текстовыми в админ панели для &quot;Casino&quot;?" />
+      <item value="Достаточно ли если мы сделаем эти поля текстовыми в админ панели для &quot;Casino&quot;." />
+      <item value="Приложенного скриншота достаточно?" />
       <item value="We would like to clarify the functionality of the &quot;Casinos&quot; fields in the &quot;Commercial&quot; block. What functionality will be associated with these fields?" />
       <item value="Хотели бы уточнить функционал полей &quot;Casinos&quot; блок &quot;Commercial&quot;. Какой функционал будет связан с этими полями?" />
       <item value="Relations" />
@@ -48,22 +52,18 @@
       <item value="Our rank" />
       <item value="Множественное имя" />
       <item value="singular Name" />
-      <item value="As I noticed, these timestamps are only for auctions that have already been completed." />
-      <item value="Как я заметил эти метки времени есть только у уже завершённых аукционов." />
-      <item value="To implement this point, we need to get the timestamp when the auction ends." />
-      <item value="Для реализации этого момента нам нужно получить метку времени когда аукцион заканчивается." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4338" />
+        <entry key="ENGLISH" value="4341" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4338" />
+        <entry key="RUSSIAN" value="4341" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
