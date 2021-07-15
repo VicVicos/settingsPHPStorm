@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Country" />
+      <item value="Countries" />
+      <item value="My English for talk very low level" />
+      <item value="What will &quot;Game Providers&quot; be like? Can this be described as a category?" />
+      <item value="Что из себя будет представлять &quot;Game Providers&quot;? Можно ли охарактеризовать это как категория?" />
       <item value="I will provide you the data for all tables. License table - It means that for each license we’ll know if players from specific country are allowed to play or not (yesno) It means that for each license we’ll no if players from this country are allowed to play or not." />
       <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is: IP identification IP reflecting the country source When tables are connected well , the filter will be automatically operated based on the country source We’ll also show him the website in his language with the correct currency (based on main languages per country and main currency)" />
       <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is:" />
@@ -47,23 +52,18 @@
       <item value="Testing is" />
       <item value="Tested is" />
       <item value="I removed the junk auction and added this to the plugin to automatically remove such auctions." />
-      <item value="Я удалил мусорный аукцион и добавил это в плагин для автоматического удаления таких аукционов." />
-      <item value="We have not released a patch with this feature yet, I think it will be available tomorrow and I will update the plugin on the Ansuini website. Automatic updates are not available for them, it must be done manually." />
-      <item value="Мы ещё не выпустили патч с этой фичей, думаю он будет доступен завтра и я обновлю плагин на сайте Ansuini. Автоматическое обновление у них не доступно, это надо делать в ручную." />
-      <item value="Auction Client" />
-      <item value="There are no errors in the site. Your have two different auctions that are split over 3 days. Auction 3 and Auction 32021." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4364" />
+        <entry key="ENGLISH" value="4368" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4364" />
+        <entry key="RUSSIAN" value="4368" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
