@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will provide you the data for all tables. License table - It means that for each license we’ll know if players from specific country are allowed to play or not (yesno) It means that for each license we’ll no if players from this country are allowed to play or not." />
       <item value="Brands table - It means that for each brand, we’ll know all available payment methods, supported languages, supported currencies, our rank" />
       <item value="Country table - It means that for each country, we’ll know the main language and the currency" />
       <item value="It means that for each license we’ll no if players from this country are allowed to play or not." />
@@ -51,19 +52,18 @@
       <item value="Your have two different auctions that are split over 3 days. Auction 3 and Auction 32021." />
       <item value="There are no errors in the site. We have two different auctions that are split over 3 days. Auction 3 and Auction 32021." />
       <item value="Ошибки в работе сайта нет. Мы имеем два разных аукциона которые разбиты на 3 дня. Аукцион 3 и Аукцион 32021." />
-      <item value="Catalog grid" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4351" />
+        <entry key="ENGLISH" value="4352" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4351" />
+        <entry key="RUSSIAN" value="4352" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
