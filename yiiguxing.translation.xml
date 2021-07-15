@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For a specific &quot;Game&quot; should a list of countries be displayed relative to &quot;Game Providers&quot;?" />
+      <item value="Для конкретной &quot;Game&quot; должен быть отображён список стран относительно &quot;Game Providers&quot;?" />
+      <item value="For &quot;Games&quot;, the field &quot;Countries&quot; is indicated." />
+      <item value="Для &quot;Games&quot; обозначено поле &quot;Countries&quot;." />
       <item value="Country" />
       <item value="Countries" />
       <item value="My English for talk very low level" />
@@ -48,22 +52,18 @@
       <item value="Мы можем обновить плагин, но надо будет проверить работу аукционов на наличие возможных проблем." />
       <item value="Relations for language" />
       <item value="Relations in language" />
-      <item value="Testing it" />
-      <item value="Testing is" />
-      <item value="Tested is" />
-      <item value="I removed the junk auction and added this to the plugin to automatically remove such auctions." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4368" />
+        <entry key="ENGLISH" value="4370" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4368" />
+        <entry key="RUSSIAN" value="4370" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
