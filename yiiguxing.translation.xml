@@ -2,8 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is: IP identification IP reflecting the country source When tables are connected well , the filter will be automatically operated based on the country source We’ll also show him the website in his language with the correct currency (based on main languages per country and main currency)" />
       <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is:" />
+      <item value="I am sure we will resolve all issues within 10 days." />
+      <item value="Уверен мы решим все вопросы в течении 10 дней." />
+      <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is: IP identification IP reflecting the country source When tables are connected well , the filter will be automatically operated based on the country source We’ll also show him the website in his language with the correct currency (based on main languages per country and main currency)" />
       <item value="Brands table - It means that for each brand, we’ll know all available payment methods, supported languages, supported currencies, our rank" />
       <item value="Country table - It means that for each country, we’ll know the main language and the currency" />
       <item value="I will provide you the data for all tables. License table - It means that for each license we’ll know if players from specific country are allowed to play or not (yesno) It means that for each license we’ll no if players from this country are allowed to play or not." />
@@ -50,20 +52,18 @@
       <item value="Мы ещё не выпустили патч с этой фичей, думаю он будет доступен завтра и я обновлю плагин на сайте Ansuini. Автоматическое обновление у них не доступно, это надо делать в ручную." />
       <item value="Auction Client" />
       <item value="There are no errors in the site. Your have two different auctions that are split over 3 days. Auction 3 and Auction 32021." />
-      <item value="There are no errors in the site." />
-      <item value="Your have two different auctions that are split over 3 days. Auction 3 and Auction 32021." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4358" />
+        <entry key="ENGLISH" value="4360" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4358" />
+        <entry key="RUSSIAN" value="4360" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
