@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CRB FIELD IMG rules" />
       <item value="For a specific &quot;Game&quot; should a list of countries be displayed relative to &quot;Game Providers&quot;?" />
       <item value="Для конкретной &quot;Game&quot; должен быть отображён список стран относительно &quot;Game Providers&quot;?" />
       <item value="For &quot;Games&quot;, the field &quot;Countries&quot; is indicated." />
@@ -51,7 +52,6 @@
       <item value="We can update the plugin, but we will need to check the auctions for possible problems." />
       <item value="Мы можем обновить плагин, но надо будет проверить работу аукционов на наличие возможных проблем." />
       <item value="Relations for language" />
-      <item value="Relations in language" />
     </histories>
     <option name="languageScores">
       <map>
