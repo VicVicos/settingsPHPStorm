@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Thank you! We will try this." />
+      <item value="Спасибо! Мы попробуем это." />
       <item value="Sorry, I forgot that you have a holiday today." />
       <item value="Sorry, I forgot that you have a day off today." />
       <item value="Простите, я забыл что у вас сегодня выходной день." />
@@ -50,20 +52,18 @@
       <item value="Then it's not worth it, we will check this functionality earlier and in case of problems we will fix it." />
       <item value="Тогдa не стоит, мы проверим этот функционал ранее и в случае возникновения проблем исправим это." />
       <item value="Is there a new auction coming soon?" />
-      <item value="Есть новый аукцион в ближайшее время?" />
-      <item value="On test site I managed to repeat a similar problem when I renamed &quot;Auction number&quot; in auction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4380" />
+        <entry key="ENGLISH" value="4381" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4380" />
+        <entry key="RUSSIAN" value="4381" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
