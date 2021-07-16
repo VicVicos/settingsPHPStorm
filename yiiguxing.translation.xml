@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry, I forgot that you have a holiday today." />
+      <item value="Sorry, I forgot that you have a day off today." />
+      <item value="Простите, я забыл что у вас сегодня выходной день." />
+      <item value="Sorry, I forgotten for you holyday." />
+      <item value="The countdown started one hour before the start, I didn’t have time to do everything I needed to do on the task, I changed the start date, but the countdown doesn’t stop." />
+      <item value="Отсчёт за час до начала начался, я не успел сделать всего что надо по задаче, изменил дату начала, но отсчёт не останавливается." />
+      <item value="Can't I cancel the start of the auction?" />
+      <item value="Отменить начало аукциона нельзя?" />
+      <item value="How is it impossible to reverse the beginning of the auction?" />
+      <item value="Обратить начало аукциона ни как нельзя?" />
       <item value="crb games same provider" />
       <item value="FIELD favorite casinos to play" />
       <item value="FIELD play demo" />
@@ -42,28 +52,18 @@
       <item value="Is there a new auction coming soon?" />
       <item value="Есть новый аукцион в ближайшее время?" />
       <item value="On test site I managed to repeat a similar problem when I renamed &quot;Auction number&quot; in auction" />
-      <item value="On test I managed to repeat a similar problem when I renamed &quot;Auction number&quot; in auction" />
-      <item value="На тестовом мне удалось повторить аналогичную проблему когда я переименовал &quot;Auction number&quot; in auction" />
-      <item value="Am I updating plugin?" />
-      <item value="Am I updating?" />
-      <item value="Я обновляю?" />
-      <item value="Did i updated plugin?" />
-      <item value="Did i update plugin?" />
-      <item value="Hello! Yesterday we had a problem with the fact that the client renamed the auction and we got a false auction on the client's website. We're back to the point where we need the auction id. Now we are working with a name that is not a unique and required field, which creates a lot of problems." />
-      <item value="Вчера у нас возникла проблема с тем что клиент переименовал аукцион и у нас появился ложный аукцион на сайте клиента. Мы снова возвращаемся к моменту с тем что нам нужен id аукциона. Сейчас мы работаем с именем которое не является уникальным и обязательным полем, что порождает много проблем." />
-      <item value="We will need an additional 4 hours to implement these points. Approve please." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4374" />
+        <entry key="ENGLISH" value="4380" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4374" />
+        <entry key="RUSSIAN" value="4380" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
