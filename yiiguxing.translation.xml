@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Custom functions code goes here." />
       <item value="Hello! You had an outdated version of the plugin, auto-updates on their site do not work. Updated manually." />
       <item value="У вас была устаревшая версия плагина, автообновления на их сайте не работают. Обновил в ручную." />
       <item value="How do I unpublish a catalog? I have never seen such a button." />
@@ -51,19 +52,18 @@
       <item value="We would like to clarify the functionality of the &quot;Casinos&quot; fields in the &quot;Commercial&quot; block. What functionality will be associated with these fields?" />
       <item value="Хотели бы уточнить функционал полей &quot;Casinos&quot; блок &quot;Commercial&quot;. Какой функционал будет связан с этими полями?" />
       <item value="Relations" />
-      <item value="What is the connection shown in the picture? Do we understand correctly, for example, &quot;Country&quot; is selected for &quot;License&quot;. And when choosing &quot;License&quot; for &quot;Brand&quot;, the &quot;Country&quot; value will match the selected &quot;Brand&quot; and work when filtering." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4383" />
+        <entry key="ENGLISH" value="4384" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4383" />
+        <entry key="RUSSIAN" value="4384" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
