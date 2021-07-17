@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In paths you can add" />
+      <item value="ThemePlugin URL. Leave it like it is; since our gulpfile.js lives in the root folder." />
       <item value="Custom functions code goes here." />
       <item value="Hello! You had an outdated version of the plugin, auto-updates on their site do not work. Updated manually." />
       <item value="У вас была устаревшая версия плагина, автообновления на их сайте не работают. Обновил в ручную." />
@@ -50,20 +52,18 @@
       <item value="Достаточно ли если мы сделаем эти поля текстовыми в админ панели для &quot;Casino&quot;." />
       <item value="Приложенного скриншота достаточно?" />
       <item value="We would like to clarify the functionality of the &quot;Casinos&quot; fields in the &quot;Commercial&quot; block. What functionality will be associated with these fields?" />
-      <item value="Хотели бы уточнить функционал полей &quot;Casinos&quot; блок &quot;Commercial&quot;. Какой функционал будет связан с этими полями?" />
-      <item value="Relations" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4384" />
+        <entry key="ENGLISH" value="4386" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4384" />
+        <entry key="RUSSIAN" value="4386" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
