@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A Scene is essentially a Slider with a single Slide and no navigation elements. Best used for content modules that require no additional depth." />
       <item value="In paths you can add" />
       <item value="ThemePlugin URL. Leave it like it is; since our gulpfile.js lives in the root folder." />
       <item value="Custom functions code goes here." />
@@ -51,19 +52,18 @@
       <item value="Достаточно ли если мы сделаем эти поля текстовыми в админ панели для &quot;Casino&quot;?" />
       <item value="Достаточно ли если мы сделаем эти поля текстовыми в админ панели для &quot;Casino&quot;." />
       <item value="Приложенного скриншота достаточно?" />
-      <item value="We would like to clarify the functionality of the &quot;Casinos&quot; fields in the &quot;Commercial&quot; block. What functionality will be associated with these fields?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4386" />
+        <entry key="ENGLISH" value="4387" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4386" />
+        <entry key="RUSSIAN" value="4387" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
