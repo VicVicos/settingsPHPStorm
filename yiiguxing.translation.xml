@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You have to update via ftp only if there are problems on the server and the automatic update does not work." />
+      <item value="По ftp обновлять приходится только если на сервере проблемы есть проблемы и автоматическое обновление не работает." />
+      <item value="Плагины обновляются из админ панели." />
+      <item value="After the release of a new version of the plugin, you will need to manually update the plugin in the admin panel of the site." />
+      <item value="После выпуска новой версии плагина, надо будет в ручную обновить плагин в админ панели сайта." />
+      <item value="The site is currently running the latest stable version of the plugin. In the latest versions of WordPress, plugin auto-updates are available, on this site I don't see that this could be enabled. It turns out that you need to manually launch plugin updates in the admin panel." />
+      <item value="Сейчас на сайте установлена последняя стабильная версия плагина. В последних версиях WordPress доступны автообновления плагинов, на этом сайте я не вижу что бы это можно было включить. Получается надо в ручную будет запускать обновления плагина в админ панели." />
       <item value="Hide a specific auction - there is no such option in the settings." />
       <item value="Hello! We have added the ability to hide empty auctions on the site. This option will be available in the next plugin update." />
       <item value="Hello! We have added the ability to hide empty auctions on the site. Hide a specific auction - there is no such option in the settings. This option will be available in the next plugin update." />
@@ -45,25 +52,18 @@
       <item value="CRB FIELD IMG rules" />
       <item value="For a specific &quot;Game&quot; should a list of countries be displayed relative to &quot;Game Providers&quot;?" />
       <item value="Для конкретной &quot;Game&quot; должен быть отображён список стран относительно &quot;Game Providers&quot;?" />
-      <item value="For &quot;Games&quot;, the field &quot;Countries&quot; is indicated." />
-      <item value="Для &quot;Games&quot; обозначено поле &quot;Countries&quot;." />
-      <item value="Country" />
-      <item value="Countries" />
-      <item value="My English for talk very low level" />
-      <item value="What will &quot;Game Providers&quot; be like? Can this be described as a category?" />
-      <item value="Что из себя будет представлять &quot;Game Providers&quot;? Можно ли охарактеризовать это как категория?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4398" />
+        <entry key="ENGLISH" value="4402" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4398" />
+        <entry key="RUSSIAN" value="4402" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
