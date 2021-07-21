@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hide a specific auction - there is no such option in the settings." />
+      <item value="Hello! We have added the ability to hide empty auctions on the site. This option will be available in the next plugin update." />
+      <item value="Hello! We have added the ability to hide empty auctions on the site. Hide a specific auction - there is no such option in the settings. This option will be available in the next plugin update." />
+      <item value="Скрыть какой то определённый аукцион - такой опции нет в настройках." />
+      <item value="Hide a specific auction - no option." />
+      <item value="Скрыть какой то определённый аукцион - нет опции." />
+      <item value="Hide a specific auction - this is not possible." />
+      <item value="Скрыть какой то определённый аукцион - такой возможности нет." />
+      <item value="We have added the ability to hide empty auctions on the site. Hide a specific auction, this is not possible. This option will be available in the next plugin update." />
+      <item value="Мы добавили возможность скрывать пустые аукционы на сайте. Скрыть какой то определённый аукцион, такой возможности нет. Эта опция будет доступна в следующем обновлении плагина." />
       <item value="Could you help us translate other strings in Portuguese?" />
       <item value="Updated localization. Changes will be on the site in the next plugin update. Could you help us translate other strings in Portuguese?" />
       <item value="Обновили локализацию. Изменения будут на сайте в следующем обновлении плагина. Не могли бы вы нам помочь сделать переводы других строк на Португальском?" />
@@ -42,28 +52,18 @@
       <item value="My English for talk very low level" />
       <item value="What will &quot;Game Providers&quot; be like? Can this be described as a category?" />
       <item value="Что из себя будет представлять &quot;Game Providers&quot;? Можно ли охарактеризовать это как категория?" />
-      <item value="I will provide you the data for all tables. License table - It means that for each license we’ll know if players from specific country are allowed to play or not (yesno) It means that for each license we’ll no if players from this country are allowed to play or not." />
-      <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is: IP identification IP reflecting the country source When tables are connected well , the filter will be automatically operated based on the country source We’ll also show him the website in his language with the correct currency (based on main languages per country and main currency)" />
-      <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is:" />
-      <item value="I am sure we will resolve all issues within 10 days." />
-      <item value="Уверен мы решим все вопросы в течении 10 дней." />
-      <item value="Brands table - It means that for each brand, we’ll know all available payment methods, supported languages, supported currencies, our rank" />
-      <item value="Country table - It means that for each country, we’ll know the main language and the currency" />
-      <item value="It means that for each license we’ll no if players from this country are allowed to play or not." />
-      <item value="I will provide you the data for all tables. License table - It means that for each license we’ll know if players from specific country are allowed to play or not (yesno)" />
-      <item value="When a player IP is identified, we’ll show him for example the relevant brands from his country (based on the IP). The flow is: IP identification IP reflecting the country source When tables are connected well , the filter will be automatically operated based on the country source We’ll also show him the website in his language with the correct currency (based on main languages per country and main currency) Your example is also correct, the connection helps all the filters." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4391" />
+        <entry key="ENGLISH" value="4398" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4391" />
+        <entry key="RUSSIAN" value="4398" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
