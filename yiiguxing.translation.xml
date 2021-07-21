@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Errors on the site can occur if bidspirit does not allow sending requests from a new domain, we wrote to them to add your domain to the whitelist. They replied that they did. I asked them to check again in case of an error." />
+      <item value="Ошибки на сайте могут возникать если bidspirit не разрешает отправлять запросы с нового домена, мы написали им что бы они добавили ваш домен в белый список. Они ответили что сделали. Я попросил их проверить ещё раз на случай возникновения ошибки." />
+      <item value="Hello! We try register new user on site. And there were no problems." />
+      <item value="И проблем не возникло." />
+      <item value="Hello! We try register new user on site. And everything worked out." />
+      <item value="И всё получилось." />
+      <item value="Hello! We try register new user on site." />
       <item value="You have to update via ftp only if there are problems on the server and the automatic update does not work." />
       <item value="По ftp обновлять приходится только если на сервере проблемы есть проблемы и автоматическое обновление не работает." />
       <item value="Плагины обновляются из админ панели." />
@@ -45,25 +52,18 @@
       <item value="Отменить начало аукциона нельзя?" />
       <item value="How is it impossible to reverse the beginning of the auction?" />
       <item value="Обратить начало аукциона ни как нельзя?" />
-      <item value="crb games same provider" />
-      <item value="FIELD favorite casinos to play" />
-      <item value="FIELD play demo" />
-      <item value="FIELD VOLATILITY" />
-      <item value="CRB FIELD IMG rules" />
-      <item value="For a specific &quot;Game&quot; should a list of countries be displayed relative to &quot;Game Providers&quot;?" />
-      <item value="Для конкретной &quot;Game&quot; должен быть отображён список стран относительно &quot;Game Providers&quot;?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4402" />
+        <entry key="ENGLISH" value="4406" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4402" />
+        <entry key="RUSSIAN" value="4406" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
