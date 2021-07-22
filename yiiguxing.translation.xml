@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Relations for license" />
       <item value="Errors on the site can occur if bidspirit does not allow sending requests from a new domain, we wrote to them to add your domain to the whitelist. They replied that they did. I asked them to check again in case of an error." />
       <item value="Ошибки на сайте могут возникать если bidspirit не разрешает отправлять запросы с нового домена, мы написали им что бы они добавили ваш домен в белый список. Они ответили что сделали. Я попросил их проверить ещё раз на случай возникновения ошибки." />
       <item value="Hello! We try register new user on site. And there were no problems." />
@@ -51,19 +52,18 @@
       <item value="Can't I cancel the start of the auction?" />
       <item value="Отменить начало аукциона нельзя?" />
       <item value="How is it impossible to reverse the beginning of the auction?" />
-      <item value="Обратить начало аукциона ни как нельзя?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4406" />
+        <entry key="ENGLISH" value="4407" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4406" />
+        <entry key="RUSSIAN" value="4407" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
