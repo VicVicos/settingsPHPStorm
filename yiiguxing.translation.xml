@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The user fills in this data later in the profile. The user will receive a notification that this needs to be done." />
+      <item value="Эти данные пользователь заполняет позднее в профиле. О том что это надо сделать пользователь получит уведомление." />
       <item value="I will repeat myself. The problem only occurs in the Firefox browser. But if you open a private window in Firefox, no problem." />
       <item value="Повторюсь. Проблема возникает только в браузере Firefox. Но если открыть приватное окно в Firefox, проблем нет." />
       <item value="The problem is already repeated for several clients, but with different API calls." />
@@ -50,20 +52,18 @@
       <item value="Скрыть какой то определённый аукцион - нет опции." />
       <item value="Hide a specific auction - this is not possible." />
       <item value="Скрыть какой то определённый аукцион - такой возможности нет." />
-      <item value="We have added the ability to hide empty auctions on the site. Hide a specific auction, this is not possible. This option will be available in the next plugin update." />
-      <item value="Мы добавили возможность скрывать пустые аукционы на сайте. Скрыть какой то определённый аукцион, такой возможности нет. Эта опция будет доступна в следующем обновлении плагина." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4424" />
+        <entry key="ENGLISH" value="4425" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4424" />
+        <entry key="RUSSIAN" value="4425" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
