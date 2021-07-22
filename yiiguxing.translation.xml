@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Apparently the problem is in the Firefox browser. I get errors on some requests. There are no errors in Chrome or Firefox Private Window." />
+      <item value="Видимо проблема в браузере Firefox. Я полчаю ошибки при некоторых запросах. В Chrome или в приватном окне Firefox ошибок нет." />
+      <item value="I got error on page user profile." />
+      <item value="Сейчас проверил, ошибок больше не возникает. Спасибо! tronzelasleiloes.ln3.tempurl.info - можно удалить." />
       <item value="I checked process registration new user. Now without trouble" />
       <item value="I checked process registration new user" />
       <item value="I checking process registration new user" />
@@ -48,22 +52,18 @@
       <item value="Updated localization. Changes will be on the site in the next plugin update. Could you help us translate other strings in Portuguese?" />
       <item value="Обновили локализацию. Изменения будут на сайте в следующем обновлении плагина. Не могли бы вы нам помочь сделать переводы других строк на Португальском?" />
       <item value="If you see old icon - it cache" />
-      <item value="What time zone are you in?" />
-      <item value="В каком часовом поясе вы находитесь?" />
-      <item value="A Scene is essentially a Slider with a single Slide and no navigation elements. Best used for content modules that require no additional depth." />
-      <item value="In paths you can add" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4420" />
+        <entry key="ENGLISH" value="4422" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4420" />
+        <entry key="RUSSIAN" value="4422" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
