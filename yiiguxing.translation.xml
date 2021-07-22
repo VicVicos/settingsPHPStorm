@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will repeat myself. The problem only occurs in the Firefox browser. But if you open a private window in Firefox, no problem." />
+      <item value="Повторюсь. Проблема возникает только в браузере Firefox. Но если открыть приватное окно в Firefox, проблем нет." />
+      <item value="The problem is already repeated for several clients, but with different API calls." />
+      <item value="Проблема уже повторяется у нескольких клиентов, но с разными API вызовами." />
       <item value="Apparently the problem is in the Firefox browser. I get errors on some requests. There are no errors in Chrome or Firefox Private Window." />
       <item value="Видимо проблема в браузере Firefox. Я полчаю ошибки при некоторых запросах. В Chrome или в приватном окне Firefox ошибок нет." />
       <item value="I got error on page user profile." />
@@ -48,22 +52,18 @@
       <item value="Скрыть какой то определённый аукцион - такой возможности нет." />
       <item value="We have added the ability to hide empty auctions on the site. Hide a specific auction, this is not possible. This option will be available in the next plugin update." />
       <item value="Мы добавили возможность скрывать пустые аукционы на сайте. Скрыть какой то определённый аукцион, такой возможности нет. Эта опция будет доступна в следующем обновлении плагина." />
-      <item value="Could you help us translate other strings in Portuguese?" />
-      <item value="Updated localization. Changes will be on the site in the next plugin update. Could you help us translate other strings in Portuguese?" />
-      <item value="Обновили локализацию. Изменения будут на сайте в следующем обновлении плагина. Не могли бы вы нам помочь сделать переводы других строк на Португальском?" />
-      <item value="If you see old icon - it cache" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4422" />
+        <entry key="ENGLISH" value="4424" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4422" />
+        <entry key="RUSSIAN" value="4424" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
