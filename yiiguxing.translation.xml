@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No, here only ssh access will help." />
+      <item value="тут только ssh доступ поможет." />
       <item value="I will see to it that the changes appear on the site. We need to wait now. I do not have direct access to the server and cannot speed up this process." />
       <item value="Я прослежу за тем что бы изменения появились на сайте. Сейчас нам нужно подождать. У меня нет прямого доступа к серверу и я не могу ускорить этот процесс." />
       <item value="Давайте подождём 1 час." />
@@ -50,20 +52,18 @@
       <item value="Hello! We try register new user on site. And there were no problems." />
       <item value="И проблем не возникло." />
       <item value="Hello! We try register new user on site. And everything worked out." />
-      <item value="И всё получилось." />
-      <item value="Hello! We try register new user on site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4436" />
+        <entry key="ENGLISH" value="4437" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4436" />
+        <entry key="RUSSIAN" value="4437" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
