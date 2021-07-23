@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Setup arrays for Actual Values, and Placeholders" />
       <item value="We synchronize auctions every hour, we do not receive them via the API every time a user visits the site." />
       <item value="Аукционы мы синхронизируем каждый час, мы не получаем их по API каждый раз при посещении пользователем сайта." />
       <item value="The user fills in this data later in the profile. The user will receive a notification that this needs to be done." />
@@ -51,19 +52,18 @@
       <item value="Hello! We have added the ability to hide empty auctions on the site. Hide a specific auction - there is no such option in the settings. This option will be available in the next plugin update." />
       <item value="Скрыть какой то определённый аукцион - такой опции нет в настройках." />
       <item value="Hide a specific auction - no option." />
-      <item value="Скрыть какой то определённый аукцион - нет опции." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4426" />
+        <entry key="ENGLISH" value="4427" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4426" />
+        <entry key="RUSSIAN" value="4427" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
