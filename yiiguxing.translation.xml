@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will see to it that the changes appear on the site. We need to wait now. I do not have direct access to the server and cannot speed up this process." />
+      <item value="Я прослежу за тем что бы изменения появились на сайте. Сейчас нам нужно подождать. У меня нет прямого доступа к серверу и я не могу ускорить этот процесс." />
+      <item value="Давайте подождём 1 час." />
+      <item value="I made arrangements, let's wait 1 hour." />
+      <item value="Я принял меры, давайте подождём 1 час." />
+      <item value="When were the changes made?" />
+      <item value="Когда были внесены изменения?" />
+      <item value="I'll check." />
+      <item value="I'll check it." />
+      <item value="What changes are you talking about?" />
+      <item value="О каких изменения вы говорите?" />
       <item value="doesn't exist for query" />
       <item value="Setup arrays for Actual Values, and Placeholders" />
       <item value="We synchronize auctions every hour, we do not receive them via the API every time a user visits the site." />
@@ -41,29 +52,18 @@
       <item value="Hello! We try register new user on site. And everything worked out." />
       <item value="И всё получилось." />
       <item value="Hello! We try register new user on site." />
-      <item value="You have to update via ftp only if there are problems on the server and the automatic update does not work." />
-      <item value="По ftp обновлять приходится только если на сервере проблемы есть проблемы и автоматическое обновление не работает." />
-      <item value="Плагины обновляются из админ панели." />
-      <item value="After the release of a new version of the plugin, you will need to manually update the plugin in the admin panel of the site." />
-      <item value="После выпуска новой версии плагина, надо будет в ручную обновить плагин в админ панели сайта." />
-      <item value="The site is currently running the latest stable version of the plugin. In the latest versions of WordPress, plugin auto-updates are available, on this site I don't see that this could be enabled. It turns out that you need to manually launch plugin updates in the admin panel." />
-      <item value="Сейчас на сайте установлена последняя стабильная версия плагина. В последних версиях WordPress доступны автообновления плагинов, на этом сайте я не вижу что бы это можно было включить. Получается надо в ручную будет запускать обновления плагина в админ панели." />
-      <item value="Hide a specific auction - there is no such option in the settings." />
-      <item value="Hello! We have added the ability to hide empty auctions on the site. This option will be available in the next plugin update." />
-      <item value="Hello! We have added the ability to hide empty auctions on the site. Hide a specific auction - there is no such option in the settings. This option will be available in the next plugin update." />
-      <item value="Скрыть какой то определённый аукцион - такой опции нет в настройках." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4428" />
+        <entry key="ENGLISH" value="4436" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4428" />
+        <entry key="RUSSIAN" value="4436" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
