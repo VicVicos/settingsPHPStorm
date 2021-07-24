@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Don't add your own styles here" />
       <item value="cookie técnica y estrictamente necesaria que contiene el valor de si se ha aceptado la instalación de cookies. Caduca en 1 año desde la última actualización." />
       <item value="Sábados" />
       <item value="Я думаю клиент допустил ошибку." />
@@ -51,12 +52,11 @@
       <item value="I check process registration new user" />
       <item value="We synchronize the auctions in advance, then we take all the data from the database and display it on the website. With this option added, we need to refine the plugin. We have implemented that if the auction did not receive a response from the API, but we have it, we delete it along with all the lots." />
       <item value="С добавлением этой опции, нам надо доработать плагин." />
-      <item value="We have implemented that if the auction did not receive a response from the API, but we have it, we delete it along with all the lots." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4445" />
+        <entry key="ENGLISH" value="4446" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
