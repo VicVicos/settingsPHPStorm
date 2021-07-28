@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We will take care of this." />
+      <item value="Мы займёмся этим." />
+      <item value="For request:" />
+      <item value="Для запроса:" />
+      <item value="And yesterday there were no problems with this." />
+      <item value="Причём вчера проблем с этим не было." />
+      <item value="We started getting an error" />
+      <item value="Мы стали получать ошибку" />
       <item value="Don't add your own styles here" />
       <item value="cookie técnica y estrictamente necesaria que contiene el valor de si se ha aceptado la instalación de cookies. Caduca en 1 año desde la última actualización." />
       <item value="Sábados" />
@@ -44,26 +52,18 @@
       <item value="Проблема уже повторяется у нескольких клиентов, но с разными API вызовами." />
       <item value="Apparently the problem is in the Firefox browser. I get errors on some requests. There are no errors in Chrome or Firefox Private Window." />
       <item value="Видимо проблема в браузере Firefox. Я полчаю ошибки при некоторых запросах. В Chrome или в приватном окне Firefox ошибок нет." />
-      <item value="I got error on page user profile." />
-      <item value="Сейчас проверил, ошибок больше не возникает. Спасибо! tronzelasleiloes.ln3.tempurl.info - можно удалить." />
-      <item value="I checked process registration new user. Now without trouble" />
-      <item value="I checked process registration new user" />
-      <item value="I checking process registration new user" />
-      <item value="I check process registration new user" />
-      <item value="We synchronize the auctions in advance, then we take all the data from the database and display it on the website. With this option added, we need to refine the plugin. We have implemented that if the auction did not receive a response from the API, but we have it, we delete it along with all the lots." />
-      <item value="С добавлением этой опции, нам надо доработать плагин." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4446" />
+        <entry key="ENGLISH" value="4450" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4446" />
+        <entry key="RUSSIAN" value="4450" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
