@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="They have an auction on the 30th and I would like to finish this feature." />
+      <item value="У них аукцион 30 числа и я хотел бы доделать эту фичу." />
+      <item value="They have an auction on the 30th and tomorrow I would like them to finish this feature." />
+      <item value="У них аукцион 30 числа и завтра я хотел бы им доделать эту фичу." />
+      <item value="We will not be able to implement the carInfo display." />
+      <item value="Мы не сможем реализовать отображение carInfo." />
+      <item value="This issue only affects the tronzelas.bidspirit.com client." />
+      <item value="Эта проблема касается только клиента tronzelas.bidspirit.com." />
+      <item value="There is only one problem with this for the tronzelas.bidspirit.com client. We will not be able to implement the carInfo display." />
+      <item value="С этим связана лишь одна проблема для клиента tronzelas.bidspirit.com. Мы не сможем реализовать отображение carInfo." />
       <item value="We'll take care of that in two weeks when I get back from vacation." />
       <item value="Мы позаботимся об этом через две недели, когда я вернусь с отпуска." />
       <item value="We will take care of this" />
@@ -42,28 +52,18 @@
       <item value="I'll check." />
       <item value="I'll check it." />
       <item value="What changes are you talking about?" />
-      <item value="О каких изменения вы говорите?" />
-      <item value="doesn't exist for query" />
-      <item value="Setup arrays for Actual Values, and Placeholders" />
-      <item value="We synchronize auctions every hour, we do not receive them via the API every time a user visits the site." />
-      <item value="Аукционы мы синхронизируем каждый час, мы не получаем их по API каждый раз при посещении пользователем сайта." />
-      <item value="The user fills in this data later in the profile. The user will receive a notification that this needs to be done." />
-      <item value="Эти данные пользователь заполняет позднее в профиле. О том что это надо сделать пользователь получит уведомление." />
-      <item value="I will repeat myself. The problem only occurs in the Firefox browser. But if you open a private window in Firefox, no problem." />
-      <item value="Повторюсь. Проблема возникает только в браузере Firefox. Но если открыть приватное окно в Firefox, проблем нет." />
-      <item value="The problem is already repeated for several clients, but with different API calls." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4452" />
+        <entry key="ENGLISH" value="4457" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4452" />
+        <entry key="RUSSIAN" value="4457" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
