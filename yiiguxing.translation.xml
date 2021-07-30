@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I changed timezone +1 in plugin settings. It was 0 (GMT) I think that's the problem." />
+      <item value="I change timezone +1 in plugin settings. It was 0 (GMT) I think that's the problem." />
+      <item value="I change часовой пояс +1 в настройках плагина. Было 0 (GMT) думаю в этом и проблема." />
       <item value="Hello! Thank you for the video. We will deal with the problem." />
       <item value="Спасибо за видео. Мы займёмся решением проблемы." />
       <item value="We have implemented the display of information about cars on your website." />
@@ -49,21 +52,18 @@
       <item value="I will see to it that the changes appear on the site. We need to wait now. I do not have direct access to the server and cannot speed up this process." />
       <item value="Я прослежу за тем что бы изменения появились на сайте. Сейчас нам нужно подождать. У меня нет прямого доступа к серверу и я не могу ускорить этот процесс." />
       <item value="Давайте подождём 1 час." />
-      <item value="I made arrangements, let's wait 1 hour." />
-      <item value="Я принял меры, давайте подождём 1 час." />
-      <item value="When were the changes made?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4459" />
+        <entry key="ENGLISH" value="4461" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4459" />
+        <entry key="RUSSIAN" value="4461" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
