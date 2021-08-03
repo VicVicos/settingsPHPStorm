@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="About the displayed auction start time. The time is now displayed correctly, but the time zone should be GMT 0. Is this the problem?" />
+      <item value="Об отображаемом времени начала аукциона. Время сейчас отображается верно, но часовой пояс должен быть GMT 0. В этом проблема?" />
+      <item value="I see that all auctions are in sync." />
+      <item value="Я вижу что все аукционы синхронизированы." />
       <item value="Is everything okay with time now?" />
       <item value="Со временем всё в порядке сейчас?" />
       <item value="The second directory will be loaded after the first." />
@@ -48,22 +52,18 @@
       <item value="Клиент tronzelas спрашивает нас об этой фиче. Можете объяснить как нам это реализовать со своей стороны?" />
       <item value="For the English version of the site, what should be written? And on Bidspirit it looks like this." />
       <item value="И на Bidspirit это выглядит так." />
-      <item value="For the English version of the site, what should be written?" />
-      <item value="Для английской версии сайта что должно быть написано?" />
-      <item value="For english version site this label what viwed?" />
-      <item value="No, here only ssh access will help." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4463" />
+        <entry key="ENGLISH" value="4466" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4463" />
+        <entry key="RUSSIAN" value="4466" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
