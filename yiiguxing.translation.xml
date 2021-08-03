@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry for the long answer, I was on vacation all this time." />
+      <item value="Простите за долгий ответ, я всё это время находился в отпуске." />
+      <item value="By default, 10 lots are synchronized every minute." />
+      <item value="По умолчанию каждую минуту синхронизируется 10 лотов." />
+      <item value="There are no restrictions on import upcoming auctions. There are restrictions on the import of new lots that will be synchronized every minute." />
+      <item value="There are no restrictions on imported auctions. There are restrictions on the import of new lots that will be synchronized every minute." />
+      <item value="Ограничений по импортируемым аукционам нет. Есть ограничения на импорт новых лотов которые будут синхронизироваться каждую минуту." />
       <item value="About the displayed auction start time. The time is now displayed correctly, but the time zone should be GMT 0. Is this the problem?" />
       <item value="Об отображаемом времени начала аукциона. Время сейчас отображается верно, но часовой пояс должен быть GMT 0. В этом проблема?" />
       <item value="I see that all auctions are in sync." />
@@ -45,25 +52,18 @@
       <item value="I'm sorry to trouble you." />
       <item value="Простите за беспокойство." />
       <item value="Можете уточнить на счёт параметра &quot;noVatByDefault&quot; при запросе &quot;settingsgetHouseInfo&quot;? А то мне кажется я зыбыл учесть этот параметр. Если noVatByDefault = true, мы скрываем поле с отображением расчёта цены с комиссией?" />
-      <item value="Let's postpone this question for later, now there is no way to check it, since I am going on vacation. We'll come back to this question when we come back, as this problem occurs in my primary working browser." />
-      <item value="Давайте отложим этот вопрос на потом, сейчас нет возможности это проверить, так как я ухожу в отпуск. По возвращении мы вернёмся к этому вопросу, так как эта проблема возникает в моём основном рабочем браузере." />
-      <item value="Для синхронизации аукционов мы используем &quot;itemsgetAuctionItems.api&quot;" />
-      <item value="The tronzelas client asks us about this feature. Can you explain how we can implement this from our side?" />
-      <item value="Клиент tronzelas спрашивает нас об этой фиче. Можете объяснить как нам это реализовать со своей стороны?" />
-      <item value="For the English version of the site, what should be written? And on Bidspirit it looks like this." />
-      <item value="И на Bidspirit это выглядит так." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4466" />
+        <entry key="ENGLISH" value="4471" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4466" />
+        <entry key="RUSSIAN" value="4471" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
