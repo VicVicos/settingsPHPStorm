@@ -2,6 +2,31 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The themes field for Games is of type list. Does this mean that the field determines the appearance of the page and we will have several templates for Games?" />
+      <item value="Does this mean that the field determines the appearance of the page and we will have several templates for Games." />
+      <item value="The themes field for Games is of type sheet. Does this mean that the field determines the appearance of the page and we will have several templates for Games." />
+      <item value="Поле themes для Games имеет тип лист. Означает ли это что поле определяет внешний вид страницы и мы будем иметь несколько шаблонов для Games ." />
+      <item value="Field themes for Games, available value" />
+      <item value="There is a short video instruction on how to work with the site and static pages are made using the Elementor plugin, I think you can easily figure out how to do this." />
+      <item value="Есть краткая видео инструкция о том как работать с сайтом и статичные страницы сделаны с помощью плагина Elementor, думаю вы легко разберётесь с тем как это делать." />
+      <item value="Yes, the site is almost ready, all that remains is to find good pictures. You have left access to the domain. Can we start domain transferring?" />
+      <item value="Yes, the site is almost ready, all that remains is to find good pictures. You have left access to the domain. Can we start transferring?" />
+      <item value="сайт практически готов, осталось только подобрать хорошие картинки. Доступ к домену вы оставили. Можем начать перенос?" />
+      <item value="but we need good pictures from which we could make good banners. Can we use pictures from your lots for these purposes?" />
+      <item value="но нам нужны хорошие картинки из которых мы смогли бы сделать хорошие баннеры. Мы можем использовать картинки с ваших лотов для этих целей?" />
+      <item value="Ваши вопросы" />
+      <item value="The goal of the Countries for Games field. See Screen 7, based on this, this field was created." />
+      <item value="Цель поля Countries for Games. Смотрите Screen 7, на основании этого и было создано это поле." />
+      <item value="The Megaways field was not specified in the file by which I created the site structure. More details on Screen 6." />
+      <item value="Поле Megaways не было указано в файле по которому я создавал структуру сайта. Подробнее на Screen 6." />
+      <item value="Therefore, we did not show them in the file." />
+      <item value="Поэтому мы не показали их в файле." />
+      <item value="SEO fields will be created using the Yoast SEO plugin." />
+      <item value="Поля для SEO будут созданы с помощью плагина Yoast SEO." />
+      <item value="Замечания" />
+      <item value="I have prepared answers to the questions that you wrote earlier." />
+      <item value="Я подготовил ответы на вопросы что вы писали ранее." />
+      <item value="Подробнее смотрите на Screen 4 - Screen 5." />
       <item value="Are these two fixed fields? There will be no dynamic fields Rank 3, Rank 4, Rank 5 RankX ..." />
       <item value="Это фиксированные два поля? Не будет динамических полей Rank 3, Rank 4, Rank 5 RankX..." />
       <item value="These are the names of the tables in the database that WordPress uses. You can easily find the WordPress database structure. If we reflect the database architecture you proposed in WP tables, we can use the WordPress API and we don't need to invent anything new to work." />
@@ -27,43 +52,18 @@
       <item value="If yes, then we will remake this field in taxonomy similar to the &quot;Payment method&quot;." />
       <item value="If yes, then we will remake this field of taxonomy similar to the &quot;Payment method&quot;." />
       <item value="If yes, then we will remake this field for taxonomy similar to the &quot;Payment method&quot;." />
-      <item value="Если да, то мы переделаем это поле под таксономию аналогично Payment method." />
-      <item value="Вы об этом поле говорите?" />
-      <item value="We have added the specified fields." />
-      <item value="Мы добавили указанные поля." />
-      <item value="Let's bring the naming of entities to common names." />
-      <item value="Давайте приведём именование сущностей к общим именам." />
-      <item value="This field was added based on the picture with relations. See &quot;Screen 1&quot;" />
-      <item value="This field was added based on the picture with links. See &quot;Appendix 1&quot;" />
-      <item value="Это поле было добавлено на основании картинки со связями. Смотрите &quot;приложение 1&quot;" />
-      <item value="Мы добавили не достающие поля. Поля для SEO оптимизации будут реализованы с помощью плагина Yoast SEO." />
-      <item value="Yoast" />
-      <item value="These fields are available for &quot;Games&quot;" />
-      <item value="1) Эти поля есть в наличии для &quot;Games&quot;" />
-      <item value="These fields are for &quot;Games&quot;" />
-      <item value="Эти поля есть для &quot;Games&quot;" />
-      <item value="This fields on have" />
-      <item value="But we need pictures from which we can make good banners." />
-      <item value="Но нам нужны картинки из которых мы сможем сделать хорошие баннеры." />
-      <item value="Do I understand correctly that the phone number indicated in the form does not contain the +1 code. And the following numbers should be indicated on the site:" />
-      <item value="Верно ли я понимаю что номер телефона указанный в форме не содержит код +1. И на сайте стоит указывать следующие номера:" />
-      <item value="Позднее пришлю другие картинки." />
-      <item value="Please replace it white color on transparent." />
-      <item value="Please replace it this white color on transparent." />
-      <item value="Please do it this white color on transparent." />
-      <item value="Please do it white on transparent." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4519" />
+        <entry key="ENGLISH" value="4536" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4519" />
+        <entry key="RUSSIAN" value="4536" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
