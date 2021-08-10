@@ -2,6 +2,19 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Let's bring the naming of entities to common names." />
+      <item value="Давайте приведём именование сущностей к общим именам." />
+      <item value="This field was added based on the picture with relations. See &quot;Screen 1&quot;" />
+      <item value="This field was added based on the picture with links. See &quot;Appendix 1&quot;" />
+      <item value="Это поле было добавлено на основании картинки со связями. Смотрите &quot;приложение 1&quot;" />
+      <item value="We've added missing fields. SEO optimization fields will be implemented using the Yoast SEO plugin." />
+      <item value="Мы добавили не достающие поля. Поля для SEO оптимизации будут реализованы с помощью плагина Yoast SEO." />
+      <item value="Yoast" />
+      <item value="These fields are available for &quot;Games&quot;" />
+      <item value="1) Эти поля есть в наличии для &quot;Games&quot;" />
+      <item value="These fields are for &quot;Games&quot;" />
+      <item value="Эти поля есть для &quot;Games&quot;" />
+      <item value="This fields on have" />
       <item value="But we need pictures from which we can make good banners." />
       <item value="Но нам нужны картинки из которых мы сможем сделать хорошие баннеры." />
       <item value="Do I understand correctly that the phone number indicated in the form does not contain the +1 code. And the following numbers should be indicated on the site:" />
@@ -39,31 +52,18 @@
       <item value="About the displayed auction start time. The time is now displayed correctly, but the time zone should be GMT 0. Is this the problem?" />
       <item value="Об отображаемом времени начала аукциона. Время сейчас отображается верно, но часовой пояс должен быть GMT 0. В этом проблема?" />
       <item value="I see that all auctions are in sync." />
-      <item value="Я вижу что все аукционы синхронизированы." />
-      <item value="Is everything okay with time now?" />
-      <item value="Со временем всё в порядке сейчас?" />
-      <item value="The second directory will be loaded after the first." />
-      <item value="Второй каталог будет загружен после первого." />
-      <item value="I changed timezone +1 in plugin settings. It was 0 (GMT) I think that's the problem." />
-      <item value="I change timezone +1 in plugin settings. It was 0 (GMT) I think that's the problem." />
-      <item value="I change часовой пояс +1 в настройках плагина. Было 0 (GMT) думаю в этом и проблема." />
-      <item value="Hello! Thank you for the video. We will deal with the problem." />
-      <item value="Спасибо за видео. Мы займёмся решением проблемы." />
-      <item value="We have implemented the display of information about cars on your website." />
-      <item value="Мы реализовали отображение информации о автомобилях на вашем сайте." />
-      <item value="They have an auction on the 30th and I would like to finish this feature." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4493" />
+        <entry key="ENGLISH" value="4501" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4493" />
+        <entry key="RUSSIAN" value="4501" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
