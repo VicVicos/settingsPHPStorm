@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I have not received your mail" />
+      <item value="Я не получил вашей почты" />
+      <item value="I don't got your email." />
+      <item value="We need pictures for creating banners on the main page, as well as for banners for internal pages. Pictures for auctions and their lots are used from Bidspirit." />
+      <item value="Нам нужны картинки для создания баннеров на главной странице, а так же для баннеров для внутренних страниц. Картинки для аукционов и их лотов используются из Bidspirit." />
       <item value="The themes field for Games is of type list. Does this mean that the field determines the appearance of the page and we will have several templates for Games?" />
       <item value="Does this mean that the field determines the appearance of the page and we will have several templates for Games." />
       <item value="The themes field for Games is of type sheet. Does this mean that the field determines the appearance of the page and we will have several templates for Games." />
@@ -47,23 +52,18 @@
       <item value="They are created for example and are available for selection for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
       <item value="They are partially created for example and are available for selection for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
       <item value="Они созданы частично для примера и доступны на выбор для соответствующих сущностей. После того как мы создадим всё необходимое, я очищу БД для того что бы убрать из неё мусорные записи которые были созданы по ошибке." />
-      <item value="And there will be no problem to add new fields for the taxonomy." />
-      <item value="И там уже не составит проблем добавить новые поля для таксономии." />
-      <item value="If yes, then we will remake this field in taxonomy similar to the &quot;Payment method&quot;." />
-      <item value="If yes, then we will remake this field of taxonomy similar to the &quot;Payment method&quot;." />
-      <item value="If yes, then we will remake this field for taxonomy similar to the &quot;Payment method&quot;." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4536" />
+        <entry key="ENGLISH" value="4539" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4536" />
+        <entry key="RUSSIAN" value="4539" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
