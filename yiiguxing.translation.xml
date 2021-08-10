@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Verticals" />
+      <item value="Vertical" />
       <item value="We've added missing fields. SEO optimization fields will be implemented using the Yoast SEO plugin." />
       <item value="These lists are created in part as an example and are selectable for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
       <item value="Эти списки созданы частично как пример и доступны на выбор для соответствующих сущностей. После того как мы создадим всё необходимое, я очищу БД для того что бы убрать из неё мусорные записи которые были созданы по ошибке." />
@@ -50,20 +52,18 @@
       <item value="To complete the work on the site, we need pictures. What you sending when filling out the form does not quite fit." />
       <item value="To complete the work on the site, we need pictures. What you send when filling out the form does not quite fit." />
       <item value="To complete the work on the site, we need pictures. What you provided when filling out the form does not quite fit." />
-      <item value="Для завершения работы над сайтом нам нужны картинки. То что вы предоставили когда заполняли форму не совсем подходит." />
-      <item value="We updated this translated." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4511" />
+        <entry key="ENGLISH" value="4513" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4511" />
+        <entry key="RUSSIAN" value="4513" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
