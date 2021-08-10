@@ -2,6 +2,20 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="These lists are created in part as an example and are selectable for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
+      <item value="Эти списки созданы частично как пример и доступны на выбор для соответствующих сущностей. После того как мы создадим всё необходимое, я очищу БД для того что бы убрать из неё мусорные записи которые были созданы по ошибке." />
+      <item value="They are created for example and are available for selection for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
+      <item value="They are partially created for example and are available for selection for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
+      <item value="Они созданы частично для примера и доступны на выбор для соответствующих сущностей. После того как мы создадим всё необходимое, я очищу БД для того что бы убрать из неё мусорные записи которые были созданы по ошибке." />
+      <item value="And there will be no problem to add new fields for the taxonomy." />
+      <item value="И там уже не составит проблем добавить новые поля для таксономии." />
+      <item value="If yes, then we will remake this field in taxonomy similar to the &quot;Payment method&quot;." />
+      <item value="If yes, then we will remake this field of taxonomy similar to the &quot;Payment method&quot;." />
+      <item value="If yes, then we will remake this field for taxonomy similar to the &quot;Payment method&quot;." />
+      <item value="Если да, то мы переделаем это поле под таксономию аналогично Payment method." />
+      <item value="Вы об этом поле говорите?" />
+      <item value="We have added the specified fields." />
+      <item value="Мы добавили указанные поля." />
       <item value="Let's bring the naming of entities to common names." />
       <item value="Давайте приведём именование сущностей к общим именам." />
       <item value="This field was added based on the picture with relations. See &quot;Screen 1&quot;" />
@@ -38,32 +52,18 @@
       <item value="To complete the work on the site, we need pictures. What you provided when filling out the form does not quite fit." />
       <item value="Для завершения работы над сайтом нам нужны картинки. То что вы предоставили когда заполняли форму не совсем подходит." />
       <item value="We updated this translated." />
-      <item value="Initially, I thought it was limited by the number of steps, but as you can see from these two examples, this is not the case." />
-      <item value="Изначально я подумал что ограничивается количеством шагов, но как видно из этих двух примеров это не так." />
-      <item value="I cannot understand by what condition the length of the list of steps is different. The question is how to determine the last maximum step for the bet?" />
-      <item value="Не могу понять по какому условию длина списка шагов разная. Вопрос в том как определить последний максимальный шаг для ставки?" />
-      <item value="Sorry for the long answer, I was on vacation all this time." />
-      <item value="Простите за долгий ответ, я всё это время находился в отпуске." />
-      <item value="By default, 10 lots are synchronized every minute." />
-      <item value="По умолчанию каждую минуту синхронизируется 10 лотов." />
-      <item value="There are no restrictions on import upcoming auctions. There are restrictions on the import of new lots that will be synchronized every minute." />
-      <item value="There are no restrictions on imported auctions. There are restrictions on the import of new lots that will be synchronized every minute." />
-      <item value="Ограничений по импортируемым аукционам нет. Есть ограничения на импорт новых лотов которые будут синхронизироваться каждую минуту." />
-      <item value="About the displayed auction start time. The time is now displayed correctly, but the time zone should be GMT 0. Is this the problem?" />
-      <item value="Об отображаемом времени начала аукциона. Время сейчас отображается верно, но часовой пояс должен быть GMT 0. В этом проблема?" />
-      <item value="I see that all auctions are in sync." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4501" />
+        <entry key="ENGLISH" value="4510" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4501" />
+        <entry key="RUSSIAN" value="4510" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
