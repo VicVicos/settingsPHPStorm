@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Are these two fixed fields? There will be no dynamic fields Rank 3, Rank 4, Rank 5 RankX ..." />
+      <item value="Это фиксированные два поля? Не будет динамических полей Rank 3, Rank 4, Rank 5 RankX..." />
+      <item value="These are the names of the tables in the database that WordPress uses. You can easily find the WordPress database structure. If we reflect the database architecture you proposed in WP tables, we can use the WordPress API and we don't need to invent anything new to work." />
+      <item value="Это имена таблиц в БД которые использует WordPress. Структуру БД WordPress без проблем сможете найти. Если мы отразим архитектуру БД которую вы предложили в таблицах WP, мы сможем использовать API WordPress и нам не потребуется изобретать ни чего нового для работы." />
+      <item value="These are the names of the fields of the tables in the database that WordPress uses. You can easily find the WordPress database structure. If we reflect the database architecture you proposed in WP tables, we can use the WordPress API and we don't need to invent anything new to work." />
+      <item value="Это имена полей таблиц в БД которые использует WordPress. Структуру БД WordPress без проблем сможете найти. Если мы отразим архитектуру БД которую вы предложили в таблицах WP, мы сможем использовать API WordPress и нам не потребуется изобретать ни чего нового для работы." />
+      <item value="Answers of remarks" />
+      <item value="Ответы" />
+      <item value="Created them as taxonomies. Created in the database and created these entities in the iGaming chart." />
+      <item value="Создал их как таксономии. Создал в БД и создал эти сущности в файле iGaming chart." />
+      <item value="Created them as taxonomies. Created in the database and reflected these entities in the iGaming chart." />
+      <item value="Создал их как таксономии. Создал в БД и отразил эти сущности в файле iGaming chart." />
       <item value="Verticals" />
       <item value="Vertical" />
       <item value="We've added missing fields. SEO optimization fields will be implemented using the Yoast SEO plugin." />
@@ -40,30 +52,18 @@
       <item value="Please replace it this white color on transparent." />
       <item value="Please do it this white color on transparent." />
       <item value="Please do it white on transparent." />
-      <item value="And please tranlated this strings on Espanish." />
-      <item value="And please tranlate this strings on Espanish." />
-      <item value="To complete the work on site, we need pictures. What you uploadid when filling the form does not quite fit." />
-      <item value="To complete" />
-      <item value="To complete the work on the site, we need pictures. What you uploadid when filling the form does not quite fit." />
-      <item value="Can you send us other pictures?" />
-      <item value="Вы можете прислать нам другие картинки?" />
-      <item value="To complete the work on the site, we need pictures. What you uploading when filling the form does not quite fit." />
-      <item value="To complete the work on the site, we need pictures. What you sending when filling the form does not quite fit." />
-      <item value="To complete the work on the site, we need pictures. What you sending when filling out the form does not quite fit." />
-      <item value="To complete the work on the site, we need pictures. What you send when filling out the form does not quite fit." />
-      <item value="To complete the work on the site, we need pictures. What you provided when filling out the form does not quite fit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4513" />
+        <entry key="ENGLISH" value="4519" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4513" />
+        <entry key="RUSSIAN" value="4519" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
