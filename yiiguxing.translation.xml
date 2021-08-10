@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We've added missing fields. SEO optimization fields will be implemented using the Yoast SEO plugin." />
       <item value="These lists are created in part as an example and are selectable for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
       <item value="Эти списки созданы частично как пример и доступны на выбор для соответствующих сущностей. После того как мы создадим всё необходимое, я очищу БД для того что бы убрать из неё мусорные записи которые были созданы по ошибке." />
       <item value="They are created for example and are available for selection for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
@@ -21,7 +22,6 @@
       <item value="This field was added based on the picture with relations. See &quot;Screen 1&quot;" />
       <item value="This field was added based on the picture with links. See &quot;Appendix 1&quot;" />
       <item value="Это поле было добавлено на основании картинки со связями. Смотрите &quot;приложение 1&quot;" />
-      <item value="We've added missing fields. SEO optimization fields will be implemented using the Yoast SEO plugin." />
       <item value="Мы добавили не достающие поля. Поля для SEO оптимизации будут реализованы с помощью плагина Yoast SEO." />
       <item value="Yoast" />
       <item value="These fields are available for &quot;Games&quot;" />
@@ -56,14 +56,14 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4510" />
+        <entry key="ENGLISH" value="4511" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4510" />
+        <entry key="RUSSIAN" value="4511" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
