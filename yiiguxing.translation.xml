@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="print Interval Event" />
+      <item value="days" />
       <item value="Thank you! But I found another solution without changing the translation." />
       <item value="Спасибо! Но я нашёл другое решение без изменения в переводе." />
       <item value="Можно это заменить на одно слово?" />
@@ -50,20 +52,18 @@
       <item value="Для импорта не подходит та структура файла что вы подготовили ранее. Импорт воспринимает только первый лист, поэтому мы и разбили на разные файлы." />
       <item value="Мы создали файлы для импорта в Google docs для удобства работы. После внесения изменений файл можно скачать в xlsx и обновить конфигурацию импорта." />
       <item value="client site" />
-      <item value="Please make banners for the main and internal pages out of these pictures." />
-      <item value="Сделай пожалуйста из этих картинок баннеры для главной и внутренних страниц." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4577" />
+        <entry key="ENGLISH" value="4579" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4577" />
+        <entry key="RUSSIAN" value="4579" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
