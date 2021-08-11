@@ -2,6 +2,38 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="To log in to godaddy, we need confirmation by email or phone." />
+      <item value="Для авторизации в godaddy нам требуется подтверждение по email или телефону." />
+      <item value="Hello! The file structure that you prepared earlier is not suitable for import. The import only accepts the first sheet, so we split it into different files." />
+      <item value="The file structure that you prepared earlier is not suitable for import. The import only accepts the first sheet, so we split it into different files." />
+      <item value="To bind several taxonomies to a record, separate the values with the &quot;,&quot; symbol. See example:" />
+      <item value="Для привязки несколько таксономии к записи, разделяем значения символом &quot;,&quot;. Смотрите пример:" />
+      <item value="To bind a taxonomy to records of several values, separate them with the &quot;,&quot; symbol. See example: Apps Languages Currencies" />
+      <item value="To bind a taxonomy to records of several values, separate them with the &quot;,&quot; symbol. See example: Apps Languages ​​Currencies" />
+      <item value="Для привязки таксономии к записям нескольких значений разделяем их символом &quot;,&quot;. Смотрите пример: Apps Languages Currencies" />
+      <item value="Pictures should be in the form of links to the file. See example: Logo Homepage Promotion" />
+      <item value="Картинки должны быть в виде ссылок на файл. Смотрите пример: Logo Homepage Promotion" />
+      <item value="If some field is missing, you can add a new column, the data for import is tied to their column names." />
+      <item value="В случае если какого то поля не хватает вы можете добавить новую колонку, данные для импорта привязан к их именам колонок." />
+      <item value="If some field is missing, you can add a new column, the order of the columns is tied to their names." />
+      <item value="В случае если какого то поля не хватает вы можете добавить новую колонку, порядок колонок привязан к их именам." />
+      <item value="Field headers must be names without special characters. (, &amp;)" />
+      <item value="Заголовки полей должны быть именами без специальных символов. (,&amp;)" />
+      <item value="Notes on the data to be filled in:" />
+      <item value="Примечания по заполняемым данным:" />
+      <item value="We will suggest that you fill in these two files with real data so that we can correctly configure the import." />
+      <item value="Предложим вам заполнить реальными данными эти два файла что бы мы могли корректно настроить импорт." />
+      <item value="We have created import files into Google docs for convenience. After making the changes, the file can be downloaded to xlsx and" />
+      <item value="We have created files for importing into Google docs for convenience. After making the changes, the file can be downloaded to xlsx and the import configuration updated." />
+      <item value="Для импорта не подходит та структура файла что вы подготовили ранее. Импорт воспринимает только первый лист, поэтому мы и разбили на разные файлы." />
+      <item value="Мы создали файлы для импорта в Google docs для удобства работы. После внесения изменений файл можно скачать в xlsx и обновить конфигурацию импорта." />
+      <item value="client site" />
+      <item value="Please make banners for the main and internal pages out of these pictures." />
+      <item value="Сделай пожалуйста из этих картинок баннеры для главной и внутренних страниц." />
+      <item value="Can you explain in more detail what you wanted to say in this picture?" />
+      <item value="Можете объяснить подробнее что вы хотели сказать на этой картинке?" />
+      <item value="We will give these pictures to our designer for work." />
+      <item value="Мы передадим эти картинки нашему дизайнеру для работы." />
       <item value="I have not received your mail" />
       <item value="Я не получил вашей почты" />
       <item value="I don't got your email." />
@@ -20,51 +52,19 @@
       <item value="but we need good pictures from which we could make good banners. Can we use pictures from your lots for these purposes?" />
       <item value="но нам нужны хорошие картинки из которых мы смогли бы сделать хорошие баннеры. Мы можем использовать картинки с ваших лотов для этих целей?" />
       <item value="Ваши вопросы" />
-      <item value="The goal of the Countries for Games field. See Screen 7, based on this, this field was created." />
-      <item value="Цель поля Countries for Games. Смотрите Screen 7, на основании этого и было создано это поле." />
-      <item value="The Megaways field was not specified in the file by which I created the site structure. More details on Screen 6." />
-      <item value="Поле Megaways не было указано в файле по которому я создавал структуру сайта. Подробнее на Screen 6." />
-      <item value="Therefore, we did not show them in the file." />
-      <item value="Поэтому мы не показали их в файле." />
-      <item value="SEO fields will be created using the Yoast SEO plugin." />
-      <item value="Поля для SEO будут созданы с помощью плагина Yoast SEO." />
-      <item value="Замечания" />
-      <item value="I have prepared answers to the questions that you wrote earlier." />
-      <item value="Я подготовил ответы на вопросы что вы писали ранее." />
-      <item value="Подробнее смотрите на Screen 4 - Screen 5." />
-      <item value="Are these two fixed fields? There will be no dynamic fields Rank 3, Rank 4, Rank 5 RankX ..." />
-      <item value="Это фиксированные два поля? Не будет динамических полей Rank 3, Rank 4, Rank 5 RankX..." />
-      <item value="These are the names of the tables in the database that WordPress uses. You can easily find the WordPress database structure. If we reflect the database architecture you proposed in WP tables, we can use the WordPress API and we don't need to invent anything new to work." />
-      <item value="Это имена таблиц в БД которые использует WordPress. Структуру БД WordPress без проблем сможете найти. Если мы отразим архитектуру БД которую вы предложили в таблицах WP, мы сможем использовать API WordPress и нам не потребуется изобретать ни чего нового для работы." />
-      <item value="These are the names of the fields of the tables in the database that WordPress uses. You can easily find the WordPress database structure. If we reflect the database architecture you proposed in WP tables, we can use the WordPress API and we don't need to invent anything new to work." />
-      <item value="Это имена полей таблиц в БД которые использует WordPress. Структуру БД WordPress без проблем сможете найти. Если мы отразим архитектуру БД которую вы предложили в таблицах WP, мы сможем использовать API WordPress и нам не потребуется изобретать ни чего нового для работы." />
-      <item value="Answers of remarks" />
-      <item value="Ответы" />
-      <item value="Created them as taxonomies. Created in the database and created these entities in the iGaming chart." />
-      <item value="Создал их как таксономии. Создал в БД и создал эти сущности в файле iGaming chart." />
-      <item value="Created them as taxonomies. Created in the database and reflected these entities in the iGaming chart." />
-      <item value="Создал их как таксономии. Создал в БД и отразил эти сущности в файле iGaming chart." />
-      <item value="Verticals" />
-      <item value="Vertical" />
-      <item value="We've added missing fields. SEO optimization fields will be implemented using the Yoast SEO plugin." />
-      <item value="These lists are created in part as an example and are selectable for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
-      <item value="Эти списки созданы частично как пример и доступны на выбор для соответствующих сущностей. После того как мы создадим всё необходимое, я очищу БД для того что бы убрать из неё мусорные записи которые были созданы по ошибке." />
-      <item value="They are created for example and are available for selection for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
-      <item value="They are partially created for example and are available for selection for the respective entities. After we create everything we need, I will clear the database in order to remove garbage records from it that were created by mistake." />
-      <item value="Они созданы частично для примера и доступны на выбор для соответствующих сущностей. После того как мы создадим всё необходимое, я очищу БД для того что бы убрать из неё мусорные записи которые были созданы по ошибке." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4539" />
+        <entry key="ENGLISH" value="4560" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4539" />
-        <entry key="FRENCH" value="3" />
+        <entry key="RUSSIAN" value="4560" />
+        <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
