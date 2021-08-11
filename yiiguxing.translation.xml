@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Using welcoming and inclusive language Being respectful of differing viewpoints and experiences Gracefully accepting constructive criticism Focusing on what is best for the community Showing empathy towards other community members" />
+      <item value="Examples of behavior that contributes to creating a positive environment include:" />
+      <item value="In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation." />
+      <item value="Contributor Covenant Code of Conduct" />
+      <item value="Disable weird WP spacing rules." />
       <item value="To log in to godaddy, we need confirmation by email or phone." />
       <item value="Для авторизации в godaddy нам требуется подтверждение по email или телефону." />
       <item value="Hello! The file structure that you prepared earlier is not suitable for import. The import only accepts the first sheet, so we split it into different files." />
@@ -47,23 +52,18 @@
       <item value="There is a short video instruction on how to work with the site and static pages are made using the Elementor plugin, I think you can easily figure out how to do this." />
       <item value="Есть краткая видео инструкция о том как работать с сайтом и статичные страницы сделаны с помощью плагина Elementor, думаю вы легко разберётесь с тем как это делать." />
       <item value="Yes, the site is almost ready, all that remains is to find good pictures. You have left access to the domain. Can we start domain transferring?" />
-      <item value="Yes, the site is almost ready, all that remains is to find good pictures. You have left access to the domain. Can we start transferring?" />
-      <item value="сайт практически готов, осталось только подобрать хорошие картинки. Доступ к домену вы оставили. Можем начать перенос?" />
-      <item value="but we need good pictures from which we could make good banners. Can we use pictures from your lots for these purposes?" />
-      <item value="но нам нужны хорошие картинки из которых мы смогли бы сделать хорошие баннеры. Мы можем использовать картинки с ваших лотов для этих целей?" />
-      <item value="Ваши вопросы" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4560" />
+        <entry key="ENGLISH" value="4566" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4560" />
+        <entry key="RUSSIAN" value="4566" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
