@@ -2,6 +2,32 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Don't just resize the image, change the emphasis and proportions in the image" />
+      <item value="Don't just resize the image, but change the emphasis and proportions in the image" />
+      <item value="Не просто сделать ресайз изображения, а изменить акцент и пропорции в изображении" />
+      <item value="When creating a banner for the slider, we need two additional pictures." />
+      <item value="When creating a banner for the slider, you need two additional pictures." />
+      <item value="При создании баннера для слайдера нужны дополнительные две картинки." />
+      <item value="And please make more banners for the image slider with a maximum width of 1024px for tablets and 767px for smartphones." />
+      <item value="И сделай пожалуйста ещё баннеры для слайдера картинки с максимальной шириной 1024px для планшетов and 767px для смартфонов." />
+      <item value="Сделай ещё один баннер для слайдера." />
+      <item value="Thank you! Now I will pass this on to our designer." />
+      <item value="Thank you! Now I will pass this for to our designer." />
+      <item value="will pass" />
+      <item value="Спасибо! Сейчас передам это нашему дизайнеру." />
+      <item value="Thank you! Now I will pass them on to our designer." />
+      <item value="Спасибо! Сейчас передам их нашему дизайнеру." />
+      <item value="If not, we can make a collage of photos of lots, just show us which pictures to use." />
+      <item value="Если нет, мы можем сделать коллаж из фотографий лотов, просто покажите нам какие картинки использовать." />
+      <item value="If not, we can make a collage of pictures of lots, just show the pictures to use." />
+      <item value="If not, we can make a collage of pictures of lots, just show the pictures lots to use." />
+      <item value="If not, we can make a collage of pictures of lots, just show the pictures of which lots to use." />
+      <item value="If not, you can make a collage of pictures of lots, just show the pictures of which lots to use." />
+      <item value="If not, you can make a collage of pictures of lots, just show the pictures lots to use." />
+      <item value="Can you provide us with some pictures so that we would add them to the site as banners? If not, you can make a collage of pictures of lots, just show the pictures of which lots to use." />
+      <item value="Можете ли вы предоставить нам какие то картинки, что бы мы добавили их на сайт в качестве баннеров?" />
+      <item value="Can you provide us with some pictures so that we can add them to the site? If not, you can make a collage of pictures of lots, just show the pictures of which lots to use." />
+      <item value="Можете ли вы предоставить нам какие то картинки, что бы мы добавили их на сайт? Если нет, можно сделать коллаж из картинок лотов, только покажите изображения каких лотов использовать." />
       <item value="check is wp" />
       <item value="Dimensions control" />
       <item value="Popover Toggle control" />
@@ -26,44 +52,18 @@
       <item value="Подрежь снизу, что бы лупа осталась целой." />
       <item value="can you check this one?" />
       <item value="He should be broader." />
-      <item value="It should be broader." />
-      <item value="Оно должно быть более широким." />
-      <item value="Шире" />
-      <item value="you need it bigger?" />
-      <item value="Если я его растяну, то оно потеряет свой центр и будет не красиво." />
-      <item value="We have some troubles with this image." />
-      <item value="What logo would you like to use on the site?" />
-      <item value="Какой логотип вы бы хотели использовать на сайте?" />
-      <item value="Using welcoming and inclusive language Being respectful of differing viewpoints and experiences Gracefully accepting constructive criticism Focusing on what is best for the community Showing empathy towards other community members" />
-      <item value="Examples of behavior that contributes to creating a positive environment include:" />
-      <item value="In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation." />
-      <item value="Contributor Covenant Code of Conduct" />
-      <item value="Disable weird WP spacing rules." />
-      <item value="To log in to godaddy, we need confirmation by email or phone." />
-      <item value="Для авторизации в godaddy нам требуется подтверждение по email или телефону." />
-      <item value="Hello! The file structure that you prepared earlier is not suitable for import. The import only accepts the first sheet, so we split it into different files." />
-      <item value="The file structure that you prepared earlier is not suitable for import. The import only accepts the first sheet, so we split it into different files." />
-      <item value="To bind several taxonomies to a record, separate the values with the &quot;,&quot; symbol. See example:" />
-      <item value="Для привязки несколько таксономии к записи, разделяем значения символом &quot;,&quot;. Смотрите пример:" />
-      <item value="To bind a taxonomy to records of several values, separate them with the &quot;,&quot; symbol. See example: Apps Languages Currencies" />
-      <item value="To bind a taxonomy to records of several values, separate them with the &quot;,&quot; symbol. See example: Apps Languages ​​Currencies" />
-      <item value="Для привязки таксономии к записям нескольких значений разделяем их символом &quot;,&quot;. Смотрите пример: Apps Languages Currencies" />
-      <item value="Pictures should be in the form of links to the file. See example: Logo Homepage Promotion" />
-      <item value="Картинки должны быть в виде ссылок на файл. Смотрите пример: Logo Homepage Promotion" />
-      <item value="If some field is missing, you can add a new column, the data for import is tied to their column names." />
-      <item value="В случае если какого то поля не хватает вы можете добавить новую колонку, данные для импорта привязан к их именам колонок." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4589" />
+        <entry key="ENGLISH" value="4609" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4589" />
+        <entry key="RUSSIAN" value="4609" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
