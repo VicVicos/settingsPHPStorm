@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="check is wp" />
       <item value="Dimensions control" />
       <item value="Popover Toggle control" />
       <item value="Use the repeater to define one one set of the items we want to repeat look like" />
@@ -51,19 +52,18 @@
       <item value="Картинки должны быть в виде ссылок на файл. Смотрите пример: Logo Homepage Promotion" />
       <item value="If some field is missing, you can add a new column, the data for import is tied to their column names." />
       <item value="В случае если какого то поля не хватает вы можете добавить новую колонку, данные для импорта привязан к их именам колонок." />
-      <item value="If some field is missing, you can add a new column, the order of the columns is tied to their names." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4588" />
+        <entry key="ENGLISH" value="4589" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4588" />
+        <entry key="RUSSIAN" value="4589" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
