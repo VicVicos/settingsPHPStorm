@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Let us know when you will be and you can transfer this code." />
+      <item value="Let us know when you will be in touch and you can transfer this code." />
+      <item value="Дайте нам знать когда вы будите на связи и сможете передать этот код." />
+      <item value="To transfer the domain, we need to log in to godaddy, for this you must give us the verification code." />
+      <item value="Для переноса домена нам нужно авторизоваться на godaddy, для этого вы должны передать нам код верификации." />
+      <item value="To transfer the domain, we need to log in to godaddy, for this you must give us the verification code. Tell us how you will be in touch and you will be able to transfer this code." />
+      <item value="Для переноса домена нам нужно авторизоваться на godaddy, для этого вы должны передать нам код верификации. Сообщите как будите на связи и сможете передать этот код." />
       <item value="Not Texas" />
       <item value="print Interval Event" />
       <item value="days" />
@@ -45,25 +52,18 @@
       <item value="Field headers must be names without special characters. (, &amp;)" />
       <item value="Заголовки полей должны быть именами без специальных символов. (,&amp;)" />
       <item value="Notes on the data to be filled in:" />
-      <item value="Примечания по заполняемым данным:" />
-      <item value="We will suggest that you fill in these two files with real data so that we can correctly configure the import." />
-      <item value="Предложим вам заполнить реальными данными эти два файла что бы мы могли корректно настроить импорт." />
-      <item value="We have created import files into Google docs for convenience. After making the changes, the file can be downloaded to xlsx and" />
-      <item value="We have created files for importing into Google docs for convenience. After making the changes, the file can be downloaded to xlsx and the import configuration updated." />
-      <item value="Для импорта не подходит та структура файла что вы подготовили ранее. Импорт воспринимает только первый лист, поэтому мы и разбили на разные файлы." />
-      <item value="Мы создали файлы для импорта в Google docs для удобства работы. После внесения изменений файл можно скачать в xlsx и обновить конфигурацию импорта." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4580" />
+        <entry key="ENGLISH" value="4584" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4580" />
+        <entry key="RUSSIAN" value="4584" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
