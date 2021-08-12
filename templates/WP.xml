@@ -9,7 +9,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="wp_check" value="if (!defined('ABSPATH')) {&#10;&#9;exit;&#10;}&#10;$END$" toReformat="false" toShortenFQNames="true">
+  <template name="wp_check" value="if (!defined('ABSPATH')) {&#10;&#9;exit;&#10;}&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
