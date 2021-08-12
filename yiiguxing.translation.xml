@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dimensions control" />
+      <item value="Popover Toggle control" />
       <item value="Use the repeater to define one one set of the items we want to repeat look like" />
       <item value="Let Elementor know about our widget" />
       <item value="Let us know when you will be and you can transfer this code." />
@@ -50,20 +52,18 @@
       <item value="If some field is missing, you can add a new column, the data for import is tied to their column names." />
       <item value="В случае если какого то поля не хватает вы можете добавить новую колонку, данные для импорта привязан к их именам колонок." />
       <item value="If some field is missing, you can add a new column, the order of the columns is tied to their names." />
-      <item value="В случае если какого то поля не хватает вы можете добавить новую колонку, порядок колонок привязан к их именам." />
-      <item value="Field headers must be names without special characters. (, &amp;)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4586" />
+        <entry key="ENGLISH" value="4588" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4586" />
+        <entry key="RUSSIAN" value="4588" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
