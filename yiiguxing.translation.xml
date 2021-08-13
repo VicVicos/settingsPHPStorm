@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry, I don't quite understand what I should do with these items." />
+      <item value="Простите, я не совсем понимаю что я должен сделать с этими пунктами." />
       <item value="Please update translate some strings" />
       <item value="The work with the site is almost complete, we just have to make banners for the internal pages. We will finish them on the 16th." />
       <item value="Работа с сайтом почти завершена, нам осталось сделать баннеры для внутренних страниц. Их мы доделаем 16 числа." />
@@ -50,20 +52,18 @@
       <item value="Let us know when you will be and you can transfer this code." />
       <item value="Let us know when you will be in touch and you can transfer this code." />
       <item value="Дайте нам знать когда вы будите на связи и сможете передать этот код." />
-      <item value="To transfer the domain, we need to log in to godaddy, for this you must give us the verification code." />
-      <item value="Для переноса домена нам нужно авторизоваться на godaddy, для этого вы должны передать нам код верификации." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4621" />
+        <entry key="ENGLISH" value="4622" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4621" />
+        <entry key="RUSSIAN" value="4622" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
