@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please update translate some strings" />
+      <item value="The work with the site is almost complete, we just have to make banners for the internal pages. We will finish them on the 16th." />
+      <item value="Работа с сайтом почти завершена, нам осталось сделать баннеры для внутренних страниц. Их мы доделаем 16 числа." />
+      <item value="Do you have any remarks on the site? Can we start transferring your domain?" />
+      <item value="Do you have any notes on the site? Can we start transferring your domain?" />
+      <item value="Do you have any comments on the site? Can we start transferring your domain?" />
+      <item value="Имееются ли у вас замечания по сайту? Можем ли мы начать перенос домена?" />
       <item value="instances Lot" />
       <item value="instance Lots" />
       <item value="instances Lots" />
@@ -45,25 +52,18 @@
       <item value="Дайте нам знать когда вы будите на связи и сможете передать этот код." />
       <item value="To transfer the domain, we need to log in to godaddy, for this you must give us the verification code." />
       <item value="Для переноса домена нам нужно авторизоваться на godaddy, для этого вы должны передать нам код верификации." />
-      <item value="To transfer the domain, we need to log in to godaddy, for this you must give us the verification code. Tell us how you will be in touch and you will be able to transfer this code." />
-      <item value="Для переноса домена нам нужно авторизоваться на godaddy, для этого вы должны передать нам код верификации. Сообщите как будите на связи и сможете передать этот код." />
-      <item value="Not Texas" />
-      <item value="print Interval Event" />
-      <item value="days" />
-      <item value="Thank you! But I found another solution without changing the translation." />
-      <item value="Спасибо! Но я нашёл другое решение без изменения в переводе." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4616" />
+        <entry key="ENGLISH" value="4621" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4616" />
+        <entry key="RUSSIAN" value="4621" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
