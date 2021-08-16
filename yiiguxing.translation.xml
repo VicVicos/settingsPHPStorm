@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If it is possible to access the hosting admin panel, I would find the problem. Without access, I cannot find the problem." />
+      <item value="Без доступа я не могу найти проблему." />
+      <item value="If it is possible to access the hosting admin panel, I would find the problem. I can't find her now." />
+      <item value="Если есть возможность получить доступ к админ панели хостинга я бы нашёл проблему. Сейчас я её не могу найти." />
+      <item value="I did not find any problems, the synchronization is working. Trouble on client server." />
+      <item value="I did not find any problems, the synchronization is working. Trouble on server clients." />
+      <item value="I did not find any problems, the synchronization is working. Client server side issues." />
+      <item value="Проблем не обнаружил, синхронизация работает. Проблемы на стороне сервера клиента." />
+      <item value="I checked on our test server." />
+      <item value="Я проверил на нашем тестовом сервере." />
       <item value="Use the repeater to define one one set of the items we want to repeat look like" />
       <item value="We need a banner for the internal pages for this site." />
       <item value="Нам нужен баннер для внутренних страниц для этого сайта." />
@@ -42,28 +52,18 @@
       <item value="Если нет, мы можем сделать коллаж из фотографий лотов, просто покажите нам какие картинки использовать." />
       <item value="If not, we can make a collage of pictures of lots, just show the pictures to use." />
       <item value="If not, we can make a collage of pictures of lots, just show the pictures lots to use." />
-      <item value="If not, we can make a collage of pictures of lots, just show the pictures of which lots to use." />
-      <item value="If not, you can make a collage of pictures of lots, just show the pictures of which lots to use." />
-      <item value="If not, you can make a collage of pictures of lots, just show the pictures lots to use." />
-      <item value="Can you provide us with some pictures so that we would add them to the site as banners? If not, you can make a collage of pictures of lots, just show the pictures of which lots to use." />
-      <item value="Можете ли вы предоставить нам какие то картинки, что бы мы добавили их на сайт в качестве баннеров?" />
-      <item value="Can you provide us with some pictures so that we can add them to the site? If not, you can make a collage of pictures of lots, just show the pictures of which lots to use." />
-      <item value="Можете ли вы предоставить нам какие то картинки, что бы мы добавили их на сайт? Если нет, можно сделать коллаж из картинок лотов, только покажите изображения каких лотов использовать." />
-      <item value="check is wp" />
-      <item value="Dimensions control" />
-      <item value="Popover Toggle control" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4625" />
+        <entry key="ENGLISH" value="4631" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4625" />
+        <entry key="RUSSIAN" value="4631" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
