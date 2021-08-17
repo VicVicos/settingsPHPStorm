@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Yes, but what the problem is now, I don't know. On the test site, everything works without errors." />
+      <item value="На тестовом всё работает без ошибок." />
+      <item value="Да, но в чём сейчас проблема я не знаю." />
+      <item value="Sorry. I don't understand you talk about." />
+      <item value="Sorry. I don't understand." />
+      <item value="You don't need to fill in anything. Please tell me, have you bought this domain name or are you planning to register it?" />
+      <item value="Скажите пожалуйста, вы купили это доменное имя или планируете его регистрировать?" />
+      <item value="You don't need to fill in anything. Please tell me, did you buy this domain name or just want to register it?" />
+      <item value="Заполнять ни чего не надо. Скажите пожалуйста, вы купили это доменное имя или только хотите его регестрировать?" />
       <item value="And it seems to me that you made a mistake in the domain name in the registration form, please check it." />
       <item value="И мне кажется что вы допустили ошибку в имени домена в форме регистрации, пожалуйста проверьте это." />
       <item value="Нам нужны вот эти данные." />
@@ -43,27 +52,18 @@
       <item value="И нам нужен белый логотип для размещения на зеленом фоне." />
       <item value="And we have white logo for placed on green background" />
       <item value="Don't just resize the image, change the emphasis and proportions in the image" />
-      <item value="Don't just resize the image, but change the emphasis and proportions in the image" />
-      <item value="Не просто сделать ресайз изображения, а изменить акцент и пропорции в изображении" />
-      <item value="When creating a banner for the slider, we need two additional pictures." />
-      <item value="When creating a banner for the slider, you need two additional pictures." />
-      <item value="При создании баннера для слайдера нужны дополнительные две картинки." />
-      <item value="And please make more banners for the image slider with a maximum width of 1024px for tablets and 767px for smartphones." />
-      <item value="И сделай пожалуйста ещё баннеры для слайдера картинки с максимальной шириной 1024px для планшетов and 767px для смартфонов." />
-      <item value="Сделай ещё один баннер для слайдера." />
-      <item value="Thank you! Now I will pass this on to our designer." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4640" />
+        <entry key="ENGLISH" value="4646" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4640" />
+        <entry key="RUSSIAN" value="4646" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
