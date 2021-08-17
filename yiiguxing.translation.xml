@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Written as a Backbone JavaScript template and used to generate the live preview." />
       <item value="spoiler-shore" />
       <item value="If it is possible to access the hosting admin panel, I would find the problem. Without access, I cannot find the problem." />
       <item value="Без доступа я не могу найти проблему." />
@@ -51,19 +52,18 @@
       <item value="Спасибо! Сейчас передам их нашему дизайнеру." />
       <item value="If not, we can make a collage of photos of lots, just show us which pictures to use." />
       <item value="Если нет, мы можем сделать коллаж из фотографий лотов, просто покажите нам какие картинки использовать." />
-      <item value="If not, we can make a collage of pictures of lots, just show the pictures to use." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4632" />
+        <entry key="ENGLISH" value="4633" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4632" />
+        <entry key="RUSSIAN" value="4633" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
