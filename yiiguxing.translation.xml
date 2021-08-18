@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Using WP_Post object outside of WP loop." />
+      <item value="Использование объекта WP_Post вне цикла WP." />
       <item value="Taxonomies for custom post types are not configured correctly." />
       <item value="Не верно настроены таксономии для произвольного типа постов." />
       <item value="script should not be enqueued together with the new widgets editor" />
@@ -50,20 +52,18 @@
       <item value="Имееются ли у вас замечания по сайту? Можем ли мы начать перенос домена?" />
       <item value="instances Lot" />
       <item value="instance Lots" />
-      <item value="instances Lots" />
-      <item value="lot Instances" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4649" />
+        <entry key="ENGLISH" value="4650" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4649" />
+        <entry key="RUSSIAN" value="4650" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
