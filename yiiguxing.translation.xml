@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Also in the message with the notification that the site was ready there were links on how to work with the site, please read these materials." />
+      <item value="Так же в сообщении с уведомлением о том что сайт готов были ссылки на то как работать с сайтом, пожалуйста ознакомьтесь с этими материалами." />
+      <item value="4) Next, select the desired section for editing." />
+      <item value="4) Далее выбрать для редактирования нужную секцию." />
+      <item value="3) Click the &quot;Edit with Elementor&quot; button." />
+      <item value="3) Нажать кнопку &quot;Edit with Elementor&quot;." />
+      <item value="2) Go to the desired page and select the &quot;Edit page&quot; button in the top admin panel." />
+      <item value="2) Перейти на нужную страницу и в верхней панели администратора выбрать кнопку &quot;Edit page&quot;." />
+      <item value="1) Авторизоваться на сайте." />
+      <item value="To edit content on the site, you need to do the following:" />
+      <item value="Для редактирования контента на сайте вам надо сделать следующее:" />
       <item value="HALF YEAR" />
       <item value="FILTER SELF YEAR" />
       <item value="Using WP_Post object outside of WP loop." />
@@ -41,29 +52,18 @@
       <item value="Use the repeater to define one one set of the items we want to repeat look like" />
       <item value="We need a banner for the internal pages for this site." />
       <item value="Нам нужен баннер для внутренних страниц для этого сайта." />
-      <item value="We need a banner for the internal pages to this site." />
-      <item value="Нам нужен баннер для внутренних страниц к этому сайту." />
-      <item value="Sorry, I don't quite understand what I should do with these items." />
-      <item value="Простите, я не совсем понимаю что я должен сделать с этими пунктами." />
-      <item value="Please update translate some strings" />
-      <item value="The work with the site is almost complete, we just have to make banners for the internal pages. We will finish them on the 16th." />
-      <item value="Работа с сайтом почти завершена, нам осталось сделать баннеры для внутренних страниц. Их мы доделаем 16 числа." />
-      <item value="Do you have any remarks on the site? Can we start transferring your domain?" />
-      <item value="Do you have any notes on the site? Can we start transferring your domain?" />
-      <item value="Do you have any comments on the site? Can we start transferring your domain?" />
-      <item value="Имееются ли у вас замечания по сайту? Можем ли мы начать перенос домена?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4652" />
+        <entry key="ENGLISH" value="4658" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4652" />
+        <entry key="RUSSIAN" value="4658" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
