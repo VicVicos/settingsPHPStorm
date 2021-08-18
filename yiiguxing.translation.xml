@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Taxonomies for custom post types are not configured correctly." />
+      <item value="Не верно настроены таксономии для произвольного типа постов." />
+      <item value="script should not be enqueued together with the new widgets editor" />
       <item value="sub description" />
       <item value="Yes, but what the problem is now, I don't know. On the test site, everything works without errors." />
       <item value="На тестовом всё работает без ошибок." />
@@ -49,21 +52,18 @@
       <item value="instance Lots" />
       <item value="instances Lots" />
       <item value="lot Instances" />
-      <item value="And we need white logo for placed on green background" />
-      <item value="И нам нужен белый логотип для размещения на зеленом фоне." />
-      <item value="And we have white logo for placed on green background" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4647" />
+        <entry key="ENGLISH" value="4649" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4647" />
+        <entry key="RUSSIAN" value="4649" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
