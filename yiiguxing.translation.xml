@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We wait more images." />
+      <item value="We will write out the untranslated words in Portuguese in a separate table. Can you help us with translation?" />
+      <item value="Мы выпишем не переведённые слова на португальский в отдельную таблицы. Вы поможете нам с переводом?" />
+      <item value="You can fill in the found phrases for translation in this table and we will update the localization." />
+      <item value="Найденные фразы для перевода можете заполнить в эту таблицы и мы обновим локализацию." />
       <item value="Yes, is is right." />
       <item value="Yes, is is correct." />
       <item value="Нет, ftp доступ нам не поможет." />
@@ -47,23 +52,18 @@
       <item value="Нам нужны вот эти данные." />
       <item value="Please send we access to admin panel to domain registration." />
       <item value="Please send we access to admin panel for domain registration." />
-      <item value="Please send we access to admin panel from domain registration." />
-      <item value="ED 1 C 24" />
-      <item value="Written as a Backbone JavaScript template and used to generate the live preview." />
-      <item value="spoiler-shore" />
-      <item value="If it is possible to access the hosting admin panel, I would find the problem. Without access, I cannot find the problem." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4665" />
+        <entry key="ENGLISH" value="4668" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4665" />
+        <entry key="RUSSIAN" value="4668" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
