@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot redeclare control with same name" />
       <item value="What does that blocks display?" />
       <item value="Что отображает данный блок?" />
       <item value="We wanted to clarify some points." />
@@ -51,19 +52,18 @@
       <item value="Без доступа я не могу найти проблему." />
       <item value="If it is possible to access the hosting admin panel, I would find the problem. I can't find her now." />
       <item value="Если есть возможность получить доступ к админ панели хостинга я бы нашёл проблему. Сейчас я её не могу найти." />
-      <item value="I did not find any problems, the synchronization is working. Trouble on client server." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4662" />
+        <entry key="ENGLISH" value="4663" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4662" />
+        <entry key="RUSSIAN" value="4663" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
