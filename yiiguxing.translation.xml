@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fill" />
+      <item value="btn fill" />
       <item value="We wait more images." />
       <item value="We will write out the untranslated words in Portuguese in a separate table. Can you help us with translation?" />
       <item value="Мы выпишем не переведённые слова на португальский в отдельную таблицы. Вы поможете нам с переводом?" />
@@ -50,20 +52,18 @@
       <item value="And it seems to me that you made a mistake in the domain name in the registration form, please check it." />
       <item value="И мне кажется что вы допустили ошибку в имени домена в форме регистрации, пожалуйста проверьте это." />
       <item value="Нам нужны вот эти данные." />
-      <item value="Please send we access to admin panel to domain registration." />
-      <item value="Please send we access to admin panel for domain registration." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4668" />
+        <entry key="ENGLISH" value="4669" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4668" />
+        <entry key="RUSSIAN" value="4669" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -80,7 +80,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="4" />
-        <entry key="SWEDISH" value="5" />
+        <entry key="SWEDISH" value="6" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
