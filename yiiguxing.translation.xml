@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Auction number 34 are currently being synchronized by logs. How long ago were the lots of the 33 auctions published?" />
+      <item value="34 auctions are currently being synchronized by logs. How long ago were the lots of the 33 auctions published?" />
+      <item value="По логам сейчас синхронизируется 34 аукцион. Как давно лоты 33 аукциона были опубликованы?" />
+      <item value="Now I'll see what the problem is." />
+      <item value="Сейчас посмотрю в чём проблема." />
       <item value="What should be displayed on this element?" />
       <item value="What is should be displayed on this element?" />
       <item value="Hello! What elements should be displayed on this element?" />
@@ -47,23 +52,18 @@
       <item value="Yes, but what the problem is now, I don't know. On the test site, everything works without errors." />
       <item value="На тестовом всё работает без ошибок." />
       <item value="Да, но в чём сейчас проблема я не знаю." />
-      <item value="Sorry. I don't understand you talk about." />
-      <item value="Sorry. I don't understand." />
-      <item value="You don't need to fill in anything. Please tell me, have you bought this domain name or are you planning to register it?" />
-      <item value="Скажите пожалуйста, вы купили это доменное имя или планируете его регистрировать?" />
-      <item value="You don't need to fill in anything. Please tell me, did you buy this domain name or just want to register it?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4672" />
+        <entry key="ENGLISH" value="4675" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4672" />
+        <entry key="RUSSIAN" value="4675" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
