@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="brand-view-extended" />
+      <item value="Расширенный" />
+      <item value="Extend" />
       <item value="Illegal value for field password - too short" />
       <item value="A user with email already exists" />
       <item value="Corrected the queue. Auction number 33 is currently in progress sync." />
@@ -49,21 +52,18 @@
       <item value="Для редактирования контента на сайте вам надо сделать следующее:" />
       <item value="HALF YEAR" />
       <item value="FILTER SELF YEAR" />
-      <item value="Using WP_Post object outside of WP loop." />
-      <item value="Использование объекта WP_Post вне цикла WP." />
-      <item value="Taxonomies for custom post types are not configured correctly." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4680" />
+        <entry key="ENGLISH" value="4682" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4680" />
+        <entry key="RUSSIAN" value="4682" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
