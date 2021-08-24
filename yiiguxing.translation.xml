@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="brand-feature" />
+      <item value="Claim offer" />
       <item value="Show per view" />
       <item value="brand-view-extended" />
       <item value="Расширенный" />
@@ -50,20 +52,18 @@
       <item value="2) Перейти на нужную страницу и в верхней панели администратора выбрать кнопку &quot;Edit page&quot;." />
       <item value="1) Авторизоваться на сайте." />
       <item value="To edit content on the site, you need to do the following:" />
-      <item value="Для редактирования контента на сайте вам надо сделать следующее:" />
-      <item value="HALF YEAR" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4683" />
+        <entry key="ENGLISH" value="4685" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4683" />
+        <entry key="RUSSIAN" value="4685" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
