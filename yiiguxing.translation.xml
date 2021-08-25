@@ -2,6 +2,23 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="banners cover" />
+      <item value="Cover banners" />
+      <item value="COVER" />
+      <item value="FIELD MAIN COVER BANNERS" />
+      <item value="At every auction I want to put a top image COVER that I want to update. At the moment the image is drawn from the banner - where there is an option for several images. In the COVER image requests: 1. Separate it from the banner image 2. Make that I can put for each sale a few different COVERS" />
+      <item value="We wait pictures" />
+      <item value="Не уверен. Сейчас проверю." />
+      <item value="Я поменял картинки." />
+      <item value="We see that for many auctions the auction number field is empty." />
+      <item value="We see that for many auctions the auction number field is not filled." />
+      <item value="Мы видим что для многих аукционов не заполнено поле auction number." />
+      <item value="Please complete this field for the following auctions:" />
+      <item value="Пожалуйста заполните это поле для следуюущих аукционов:" />
+      <item value="HEY, i'll send a new one for sell itws not good and also the UPCOMING ill make it more light" />
+      <item value="Thank you! See result:" />
+      <item value="Thank you! See on result:" />
+      <item value="See on result" />
       <item value="Will provide finished artwork later" />
       <item value="You did not include it on the form. I found this one:" />
       <item value="Вы не указали его в форме. Я нашёл вот этот:" />
@@ -35,35 +52,18 @@
       <item value="fill" />
       <item value="btn fill" />
       <item value="We wait more images." />
-      <item value="We will write out the untranslated words in Portuguese in a separate table. Can you help us with translation?" />
-      <item value="Мы выпишем не переведённые слова на португальский в отдельную таблицы. Вы поможете нам с переводом?" />
-      <item value="You can fill in the found phrases for translation in this table and we will update the localization." />
-      <item value="Найденные фразы для перевода можете заполнить в эту таблицы и мы обновим локализацию." />
-      <item value="Yes, is is right." />
-      <item value="Yes, is is correct." />
-      <item value="Нет, ftp доступ нам не поможет." />
-      <item value="Cannot redeclare control with same name" />
-      <item value="What does that blocks display?" />
-      <item value="Что отображает данный блок?" />
-      <item value="We wanted to clarify some points." />
-      <item value="Hello! Хотели уточнить некоторые моменты." />
-      <item value="Image export is not correct. In the layout, we see a border at the element, after exporting a picture without a border." />
-      <item value="В макете мы видим рамку у элемента, после экспорта картинка без рамки." />
-      <item value="Image export is not correct. In layout it has color e8e8e8, after export ffffff" />
-      <item value="Не верный экспорт картинки. В макете она имеет цвет e8e8e8, после экспорта ffffff" />
-      <item value="Also in the message with the notification that the site was ready there were links on how to work with the site, please read these materials." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4691" />
+        <entry key="ENGLISH" value="4706" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4691" />
+        <entry key="RUSSIAN" value="4706" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
