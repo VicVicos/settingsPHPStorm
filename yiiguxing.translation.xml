@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Also check the site again and let me know if I did something wrong." />
+      <item value="Также проверьте сайт ещё раз и дайте мне знать если я сделал что то не так." />
+      <item value="What page should it be?" />
+      <item value="Что это должна быть за страница?" />
+      <item value="I still have some questions: 1) About page: You need removed this banner?" />
+      <item value="У меня остались некоторые вопросы:" />
+      <item value="You need removed this banner?" />
+      <item value="Я создал эти страницы:" />
       <item value="No. The main page of the site is changed manually." />
       <item value="No. Главная страница сайта изменяется в ручную." />
       <item value="The plugin supports the work of the categories that you specify for the auction in the Bidpisrit admin panel. The selection of categories on the site is carried out as a filter on the auction page." />
@@ -44,26 +52,18 @@
       <item value="In working now." />
       <item value="In working" />
       <item value="too short" />
-      <item value="After the user completes his registration, an email is sent to the auction house admin. The user still cannot place bids until the auction house admin approves the user." />
-      <item value="After the user confirms his email he is redirected to a page where he can add more details - phone, address, etc. only after the user completes his details, a request is sent to the auction house admin to approve the user. The details will be saved in bidspirit system through the usersupdateDetails api" />
-      <item value="Change his email (e.g. in case the user had a type in his email) - through the usersupdateEmail api. A new confirmation mail will be sent to the user." />
-      <item value="Bidspirit system send a confirmation email to the user. Until the user confirms his email he cannot proceed with the registration, and the auction house admin will not get notified on the new registration. At this point the user can do 2 things: Resend the confirmation mail - through the usersresendConfirmationMail api" />
-      <item value="New user Registration: Registration is done in several steps: User fills basic details (name, email and password) . this is achieved with the usersregister api If the user tries to register with an existing user in the auction house environment an error response code USER_EXIST" />
-      <item value="register On Bidspirit Action" />
-      <item value="Smack my bitch up" />
-      <item value="IT IS URL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4756" />
+        <entry key="ENGLISH" value="4760" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4756" />
+        <entry key="RUSSIAN" value="4760" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
