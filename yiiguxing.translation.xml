@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ok, I'll try with this profile. I am not getting CORS errors for the domain https: tiroshe.ln15.tempurl.info, is this ok?" />
+      <item value="Хорошо, я попробую с этим профилем. Я не получаю CORS ошибок для домена https:tiroshe.ln15.tempurl.info, это нормально?" />
+      <item value="I am currently working on reworking the registration form on their website and I will need to submit the registration form to Bidspirit as well. I would not want to register many fake users with them. Can you help me somehow with this?" />
+      <item value="Я сейчас работаю над переделкой формы регистрации на их сайте и мне надо будет отправлять форму регистрации и на Bidspirit. Я бы не хотел регистрировать им множество фейковых юзеров. Можете мне как то с этим помочь?" />
       <item value="error from API" />
       <item value="allow Invitations" />
       <item value="Also check the site again and let me know if I did something wrong." />
@@ -48,22 +52,18 @@
       <item value="самые популярные лоты на главной странице вы указываете сами в админ панели при редактировании лота. Если отмечены лоты из активного аукциона, будут показываться только они, если таких нет, то будут показаны отмеченные лоты прошедших аукционов." />
       <item value="the most popular lots on the main page you specify yourself in the admin panel when editing the lot. If lots from an active auction are marked, only they will be shown, if there are no such lots, then lots from past auctions will be shown." />
       <item value="самые популярные лоты на главной странице вы указываете сами в админ панели при редактировании лота. Если отмечены лоты из активного аукциона, будут показываться только они, если таких нет, то будут показаны лоты прошедших аукционов." />
-      <item value="most popular lots on the homepage" />
-      <item value="When filling out the form, you did not provide links to social networks." />
-      <item value="При заполнении формы вы не указали ссылки на социальные сети." />
-      <item value="In working now." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4762" />
+        <entry key="ENGLISH" value="4764" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4762" />
+        <entry key="RUSSIAN" value="4764" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
