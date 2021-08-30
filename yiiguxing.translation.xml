@@ -2,6 +2,22 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fixed it" />
+      <item value="Or clerify this question." />
+      <item value="No. Auction covers are taken from those indicated in the Bidpsirit portal." />
+      <item value="Нет. Обложки аукционов беруться те что указаны в портале Bidpsirit." />
+      <item value="You can set up sales for unsold lots in the admin panel of the Bidspirit portal." />
+      <item value="Вы можете настроить продажи для непроданных лотов в админ панели портала Bidspirit." />
+      <item value="Please clearify this moment" />
+      <item value="the most popular lots on the main page you specify yourself in the admin panel when editing the lot. If lots from an active auction are marked, only they will be shown, if there are no such ones, then marked lots from past auctions will be shown." />
+      <item value="самые популярные лоты на главной странице вы указываете сами в админ панели при редактировании лота. Если отмечены лоты из активного аукциона, будут показываться только они, если таких нет, то будут показаны отмеченные лоты прошедших аукционов." />
+      <item value="the most popular lots on the main page you specify yourself in the admin panel when editing the lot. If lots from an active auction are marked, only they will be shown, if there are no such lots, then lots from past auctions will be shown." />
+      <item value="самые популярные лоты на главной странице вы указываете сами в админ панели при редактировании лота. Если отмечены лоты из активного аукциона, будут показываться только они, если таких нет, то будут показаны лоты прошедших аукционов." />
+      <item value="most popular lots on the homepage" />
+      <item value="When filling out the form, you did not provide links to social networks." />
+      <item value="При заполнении формы вы не указали ссылки на социальные сети." />
+      <item value="In working now." />
+      <item value="In working" />
       <item value="too short" />
       <item value="After the user completes his registration, an email is sent to the auction house admin. The user still cannot place bids until the auction house admin approves the user." />
       <item value="After the user confirms his email he is redirected to a page where he can add more details - phone, address, etc. only after the user completes his details, a request is sent to the auction house admin to approve the user. The details will be saved in bidspirit system through the usersupdateDetails api" />
@@ -36,34 +52,18 @@
       <item value="Я поменял картинки." />
       <item value="We see that for many auctions the auction number field is empty." />
       <item value="We see that for many auctions the auction number field is not filled." />
-      <item value="Мы видим что для многих аукционов не заполнено поле auction number." />
-      <item value="Please complete this field for the following auctions:" />
-      <item value="Пожалуйста заполните это поле для следуюущих аукционов:" />
-      <item value="HEY, i'll send a new one for sell itws not good and also the UPCOMING ill make it more light" />
-      <item value="Thank you! See result:" />
-      <item value="Thank you! See on result:" />
-      <item value="See on result" />
-      <item value="Will provide finished artwork later" />
-      <item value="You did not include it on the form. I found this one:" />
-      <item value="Вы не указали его в форме. Я нашёл вот этот:" />
-      <item value="Please clearify your link to profile on bidspirit portal" />
-      <item value="We need inner page banner and banners for &quot;Upcoming auctionsPast auctions&quot;." />
-      <item value="Please make banners for this client." />
-      <item value="Client site" />
-      <item value="Clients site" />
-      <item value="That site client" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4730" />
+        <entry key="ENGLISH" value="4741" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4730" />
+        <entry key="RUSSIAN" value="4741" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
