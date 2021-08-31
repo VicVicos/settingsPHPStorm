@@ -2,6 +2,25 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The problem was with the cache on the site. It clears automatically when a new auction is added, but does not fire when new lots are added. In this case, you need to manually clear it on the site. It is enough to log in to the site under the administrator's role and click this button." />
+      <item value="The problem was with the cache on the site. It clears automatically when a new auction is added, but does not fire when new lots are added. In this case, you need to manually clear it on the site. It is enough to log in to the site under the administrator's name and click this button." />
+      <item value="Проблема была с кешем на сайте. Он очищается автоматически при добавлении нового аукциона, но не срабатывает при добавлении новых лотов. В этом случае надо в ручную очистить его на сайте. Достаточно авторизоваться на сайте под именем администратора и нажать вот эту кнопку." />
+      <item value="Я проверю это" />
+      <item value="Не могли бы вы уточнить номер лота в Bidspirit?" />
+      <item value="Please check, you can change the time settings and reception hours later on your own in the plug-in settings or let me know I will help you." />
+      <item value="Проверьте пожалуйста, настройки времени и часы приёма сможете изменить позднее самостоятельно в настройках плагина или сообщите мне я помогу вам." />
+      <item value="Please check, you can change the time settings and reception hours later on your own in the plug-in settings or let me know I will change the settings." />
+      <item value="Please check, you can change the time settings and reception hours later on your own in the plug-in settings or let me know if I will change the settings." />
+      <item value="Проверьте пожалуйста, настройки времени и часы приёма сможете изменить позднее самостоятельно в настройках плагина или сообщите мне я изменю настройки." />
+      <item value="Other pictures for the option of choice for the designer." />
+      <item value="Прочие картинки для возможности на выбор дизайнеру." />
+      <item value="Other pictures on selected for designer" />
+      <item value="2) 2 image for inner page banners" />
+      <item value="Разрешение может быть и больше как пример 2560px;" />
+      <item value="Количество" />
+      <item value="рекомендация" />
+      <item value="resolution: min width 1900px and 16x9 proportion" />
+      <item value="resolution" />
       <item value="We would like to remind you that we need pictures to complete the work on the site. Can you provide it to us? Or we can ask the designer to create a collage of the available images from the auctions." />
       <item value="Хотели бы напомнить что для завершения работы над сайтом нам нужны картинки. Вы сможете предоставить нам это? Или мы можем попросить дизайнера составить коллаж из имеющихся картинок с аукционов." />
       <item value="Ok, I'll try with this profile. I am not getting CORS errors for the domain https: tiroshe.ln15.tempurl.info, is this ok?" />
@@ -33,37 +52,18 @@
       <item value="We have sent you instructions on how to work with the site." />
       <item value="Мы присылали вам инструкции по работе с сайтом." />
       <item value="You can place the link on the main page of the site yourself." />
-      <item value="Разместить ссылку на главной странице сайта вы можете самостоятельно." />
-      <item value="We remowed auction with number 4." />
-      <item value="Пожалуйста одобрите наш выбор." />
-      <item value="Also we changed background" />
-      <item value="And we placed social links by default into footer" />
-      <item value="Please specify the phone number for the link in whatsapp." />
-      <item value="Пожалуйста уточните номер телефона для ссылки в whatsapp." />
-      <item value="The link that is indicated on your site open whathapp application with an error." />
-      <item value="Please clearify number phone for whathapp link. The link that is indicated on your site opens whathapp with an error." />
-      <item value="Та ссылка что указана у вас на сайте открывает whathapp c ошибкой." />
-      <item value="fixed it" />
-      <item value="Or clerify this question." />
-      <item value="No. Auction covers are taken from those indicated in the Bidpsirit portal." />
-      <item value="Нет. Обложки аукционов беруться те что указаны в портале Bidpsirit." />
-      <item value="You can set up sales for unsold lots in the admin panel of the Bidspirit portal." />
-      <item value="Вы можете настроить продажи для непроданных лотов в админ панели портала Bidspirit." />
-      <item value="Please clearify this moment" />
-      <item value="the most popular lots on the main page you specify yourself in the admin panel when editing the lot. If lots from an active auction are marked, only they will be shown, if there are no such ones, then marked lots from past auctions will be shown." />
-      <item value="самые популярные лоты на главной странице вы указываете сами в админ панели при редактировании лота. Если отмечены лоты из активного аукциона, будут показываться только они, если таких нет, то будут показаны отмеченные лоты прошедших аукционов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4765" />
+        <entry key="ENGLISH" value="4779" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4765" />
+        <entry key="RUSSIAN" value="4779" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
