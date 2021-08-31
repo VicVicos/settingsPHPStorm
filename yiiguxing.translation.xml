@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Root directory for LP sales" />
       <item value="The problem was with the cache on the site. It clears automatically when a new auction is added, but does not fire when new lots are added. In this case, you need to manually clear it on the site. It is enough to log in to the site under the administrator's role and click this button." />
       <item value="The problem was with the cache on the site. It clears automatically when a new auction is added, but does not fire when new lots are added. In this case, you need to manually clear it on the site. It is enough to log in to the site under the administrator's name and click this button." />
       <item value="Проблема была с кешем на сайте. Он очищается автоматически при добавлении нового аукциона, но не срабатывает при добавлении новых лотов. В этом случае надо в ручную очистить его на сайте. Достаточно авторизоваться на сайте под именем администратора и нажать вот эту кнопку." />
@@ -51,19 +52,18 @@
       <item value="Изменения в аукционе должны обновляться в течении ближайшего часа." />
       <item value="We have sent you instructions on how to work with the site." />
       <item value="Мы присылали вам инструкции по работе с сайтом." />
-      <item value="You can place the link on the main page of the site yourself." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4779" />
+        <entry key="ENGLISH" value="4780" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4779" />
+        <entry key="RUSSIAN" value="4780" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
