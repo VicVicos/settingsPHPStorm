@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We would like to remind you that we need pictures to complete the work on the site. Can you provide it to us? Or we can ask the designer to create a collage of the available images from the auctions." />
+      <item value="Хотели бы напомнить что для завершения работы над сайтом нам нужны картинки. Вы сможете предоставить нам это? Или мы можем попросить дизайнера составить коллаж из имеющихся картинок с аукционов." />
       <item value="Ok, I'll try with this profile. I am not getting CORS errors for the domain https: tiroshe.ln15.tempurl.info, is this ok?" />
       <item value="Хорошо, я попробую с этим профилем. Я не получаю CORS ошибок для домена https:tiroshe.ln15.tempurl.info, это нормально?" />
       <item value="I am currently working on reworking the registration form on their website and I will need to submit the registration form to Bidspirit as well. I would not want to register many fake users with them. Can you help me somehow with this?" />
@@ -50,20 +52,18 @@
       <item value="Please clearify this moment" />
       <item value="the most popular lots on the main page you specify yourself in the admin panel when editing the lot. If lots from an active auction are marked, only they will be shown, if there are no such ones, then marked lots from past auctions will be shown." />
       <item value="самые популярные лоты на главной странице вы указываете сами в админ панели при редактировании лота. Если отмечены лоты из активного аукциона, будут показываться только они, если таких нет, то будут показаны отмеченные лоты прошедших аукционов." />
-      <item value="the most popular lots on the main page you specify yourself in the admin panel when editing the lot. If lots from an active auction are marked, only they will be shown, if there are no such lots, then lots from past auctions will be shown." />
-      <item value="самые популярные лоты на главной странице вы указываете сами в админ панели при редактировании лота. Если отмечены лоты из активного аукциона, будут показываться только они, если таких нет, то будут показаны лоты прошедших аукционов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4764" />
+        <entry key="ENGLISH" value="4765" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4764" />
+        <entry key="RUSSIAN" value="4765" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
