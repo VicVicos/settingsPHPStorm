@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Available Licenses in Country" />
       <item value="Hello! The registration form fields are defined in Bidspirit, we will not be able to add a telephone field for this form for technical reasons." />
       <item value="Поля в форме регистрации определены в Bidspirit, мы не сможем добавить поле теолефона для этой формы по техническим причинам." />
       <item value="bonus expiration" />
@@ -51,19 +52,18 @@
       <item value="Плагин поддерживает работу категорий которые вы указываете для аукциона в админ панели Bidpisrit. Выбор категорий осуществляется в виде фильтра на странице аукциона." />
       <item value="I will check the status of the sync queue, in case there are problems I will fix it." />
       <item value="Я проверю состояние очереди синхронизации, в случае если есть проблемы исправлю." />
-      <item value="Changes in the auction should be updated within the next hour. What kind of waiting time are we talking about?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4783" />
+        <entry key="ENGLISH" value="4784" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4783" />
+        <entry key="RUSSIAN" value="4784" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
