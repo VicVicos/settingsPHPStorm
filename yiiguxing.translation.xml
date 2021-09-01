@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get List By Terms" />
       <item value="טקסונומיה שגוי" />
       <item value="Root directory for LP sales" />
       <item value="The problem was with the cache on the site. It clears automatically when a new auction is added, but does not fire when new lots are added. In this case, you need to manually clear it on the site. It is enough to log in to the site under the administrator's role and click this button." />
@@ -51,19 +52,18 @@
       <item value="Изменения в аукционе должны обновляться в течении ближайшего часа. О каком времени ожидания идёт речь?" />
       <item value="Changes in the auction should be updated within the next hour." />
       <item value="Изменения в аукционе должны обновляться в течении ближайшего часа." />
-      <item value="We have sent you instructions on how to work with the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4780" />
+        <entry key="ENGLISH" value="4781" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4780" />
+        <entry key="RUSSIAN" value="4781" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
