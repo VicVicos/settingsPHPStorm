@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Display row on full width" />
       <item value="Да, я смогу так сделать." />
       <item value="Product SKU is required" />
       <item value="devider devider devider devider devider devider devider" />
@@ -51,12 +52,11 @@
       <item value="Я сейчас работаю над переделкой формы регистрации на их сайте и мне надо будет отправлять форму регистрации и на Bidspirit. Я бы не хотел регистрировать им множество фейковых юзеров. Можете мне как то с этим помочь?" />
       <item value="error from API" />
       <item value="allow Invitations" />
-      <item value="Also check the site again and let me know if I did something wrong." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4793" />
+        <entry key="ENGLISH" value="4794" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
