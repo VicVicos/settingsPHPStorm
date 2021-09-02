@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can I send registration requests from the server side? Now I get an error in response:" />
+      <item value="Могу ли я отправлять запросы на регистрацию со стороны сервера? Сейчас мне в ответ приходит ошибка:" />
+      <item value="If these lots are deleted, they will be deleted from the site within an hour after synchronization, it may be necessary to clear the cache on the site. Let's check it out, let me know when these lots are removed from Bidspirit." />
+      <item value="Если эти лоты удаляться, в течении часа после синхронизации они удаляться и с сайта, возможно потребуется очистить кеш на сайте. Давайте проверим это, сообщите мне когда эти лоты удаляться из Bidspirit." />
       <item value="Извините, но я не вижу разницы." />
       <item value="How long ago did you delete these lots?" />
       <item value="Как давно вы удалил эти лоты?" />
@@ -48,22 +52,18 @@
       <item value="You need removed this banner?" />
       <item value="Я создал эти страницы:" />
       <item value="No. The main page of the site is changed manually." />
-      <item value="No. Главная страница сайта изменяется в ручную." />
-      <item value="The plugin supports the work of the categories that you specify for the auction in the Bidpisrit admin panel. The selection of categories on the site is carried out as a filter on the auction page." />
-      <item value="Выбор категорий на сайте осуществляется в виде фильтра на странице аукциона." />
-      <item value="The plugin supports the work of the categories that you specify for the auction in the Bidpisrit admin panel. The selection of categories is carried out as a filter on the auction page." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4785" />
+        <entry key="ENGLISH" value="4788" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4786" />
+        <entry key="RUSSIAN" value="4788" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
