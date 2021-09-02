@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Client tiroche wants users to additionally send a photo with identity confirmation when registering." />
+      <item value="Клиент tiroche хочет что бы пользователи при регистрации дополнительно отправляли фото с подтверждением личности." />
+      <item value="The tiroche client wants users to additionally send a scanned photo with identity confirmation when registering." />
+      <item value="Клиент tiroche хочет что бы пользователи при регистрации дополнительно отправляли скан фото с подтверждением личности." />
       <item value="Enter woocommerce id product" />
       <item value="Can I send registration requests from the server side? Now I get an error in response:" />
       <item value="Могу ли я отправлять запросы на регистрацию со стороны сервера? Сейчас мне в ответ приходит ошибка:" />
@@ -48,22 +52,18 @@
       <item value="Также проверьте сайт ещё раз и дайте мне знать если я сделал что то не так." />
       <item value="What page should it be?" />
       <item value="Что это должна быть за страница?" />
-      <item value="I still have some questions: 1) About page: You need removed this banner?" />
-      <item value="У меня остались некоторые вопросы:" />
-      <item value="You need removed this banner?" />
-      <item value="Я создал эти страницы:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4789" />
+        <entry key="ENGLISH" value="4791" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4789" />
+        <entry key="RUSSIAN" value="4791" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
