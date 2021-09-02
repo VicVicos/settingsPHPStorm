@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Извините, но я не вижу разницы." />
+      <item value="How long ago did you delete these lots?" />
+      <item value="Как давно вы удалил эти лоты?" />
       <item value="Available Licenses in Country" />
       <item value="Hello! The registration form fields are defined in Bidspirit, we will not be able to add a telephone field for this form for technical reasons." />
       <item value="Поля в форме регистрации определены в Bidspirit, мы не сможем добавить поле теолефона для этой формы по техническим причинам." />
@@ -49,21 +52,18 @@
       <item value="The plugin supports the work of the categories that you specify for the auction in the Bidpisrit admin panel. The selection of categories on the site is carried out as a filter on the auction page." />
       <item value="Выбор категорий на сайте осуществляется в виде фильтра на странице аукциона." />
       <item value="The plugin supports the work of the categories that you specify for the auction in the Bidpisrit admin panel. The selection of categories is carried out as a filter on the auction page." />
-      <item value="Плагин поддерживает работу категорий которые вы указываете для аукциона в админ панели Bidpisrit. Выбор категорий осуществляется в виде фильтра на странице аукциона." />
-      <item value="I will check the status of the sync queue, in case there are problems I will fix it." />
-      <item value="Я проверю состояние очереди синхронизации, в случае если есть проблемы исправлю." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4784" />
+        <entry key="ENGLISH" value="4785" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4784" />
+        <entry key="RUSSIAN" value="4786" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
