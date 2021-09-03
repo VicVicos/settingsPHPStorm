@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="How do I get a response from the API with a 500 status? I want to test it, earlier there was such a response from the API with the error code INVALID_SESSION_ID, but I can't repeat it." />
+      <item value="Как мне получить ответ от API со статусом 500? Хочу протестировать, ранее как то возникал такой ответ от API с кодом ошибки INVALID_SESSION_ID, но повторить его не могу." />
+      <item value="I wrote a message to the designer about this, I will send you the answer. Most likely it will be Sunday or Monday." />
+      <item value="Я написал дизайнеру сообщение об этом, пришлю вам как ответит. Скорей всего это будет воскресенье или понедельник." />
+      <item value="I wrote a message to the designer to do this, I will send you the answer. Most likely it will be Sunday or Monday." />
+      <item value="Я написал дизайнеру сообщение что бы сделал это, пришлю вам как ответит. Скорей всего это будет воскресенье или понедельник." />
+      <item value="I wrote a message to the designer to make a psd file, I will send you the answer. Most likely it will be Sunday or Monday." />
+      <item value="Я написал дизайнеру сообщение что бы сделал psd файл, пришлю вам как ответит. Скорей всего это будет воскресенье или понедельник." />
       <item value="We understand your problem. We can suggest that you use a blank for a slide with a demonstration of pictures. If this option suits you, we will send you a psd file, where you will need to substitute the picture in photoshop." />
       <item value="Мы понимаем вашу проблему. Можем предложить вам использовать заготовку для слайдов с демонстрацией картин. Если вам подойдёт такой вариант мы пришлём вам psd файл, где надо будет подставить картину в photoshop." />
       <item value="Sorry. I confirmed mail using an outdated link, opened an old letter instead of a new one, wrong twice." />
@@ -44,26 +52,18 @@
       <item value="Available Licenses in Country" />
       <item value="Hello! The registration form fields are defined in Bidspirit, we will not be able to add a telephone field for this form for technical reasons." />
       <item value="Поля в форме регистрации определены в Bidspirit, мы не сможем добавить поле теолефона для этой формы по техническим причинам." />
-      <item value="bonus expiration" />
-      <item value="get List By Terms" />
-      <item value="טקסונומיה שגוי" />
-      <item value="Root directory for LP sales" />
-      <item value="The problem was with the cache on the site. It clears automatically when a new auction is added, but does not fire when new lots are added. In this case, you need to manually clear it on the site. It is enough to log in to the site under the administrator's role and click this button." />
-      <item value="The problem was with the cache on the site. It clears automatically when a new auction is added, but does not fire when new lots are added. In this case, you need to manually clear it on the site. It is enough to log in to the site under the administrator's name and click this button." />
-      <item value="Проблема была с кешем на сайте. Он очищается автоматически при добавлении нового аукциона, но не срабатывает при добавлении новых лотов. В этом случае надо в ручную очистить его на сайте. Достаточно авторизоваться на сайте под именем администратора и нажать вот эту кнопку." />
-      <item value="Я проверю это" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4808" />
+        <entry key="ENGLISH" value="4812" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4808" />
+        <entry key="RUSSIAN" value="4812" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
