@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="test email why i used" />
+      <item value="Then I register the user again with the same email address and confirm the registration. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
+      <item value="После снова регистрирую пользователя с этим же email адресом и подтверждаю регистрацию. Сам пользователь в backoffice более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
+      <item value="After registering the user again, I confirm the email. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
+      <item value="После снова регистрирую пользователя подтверждаю email. Сам пользователь в backoffice более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
+      <item value="I found a strange moment in the Bidspirit admin area. I register a user with a temporary email address, then confirm the email by clicking on the link in the letter and delete this user in the backoffice bidspirit. After registering the user again, I confirm the email, but it no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
+      <item value="Я нашёл странный момент в админке Bidspirit. Регистрирую пользователя с временным email адресом, после подтверждаю email осуществляя переход по ссылке в письме и удаляю этого пользователя в backoffice bidspirit. После снова регистрирую пользователя подтверждаю email, а в backoffice он более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
+      <item value="I found a strange moment in the Bidspirit admin area. I register a user with a temporary email address, then confirm it and delete it. After registering the user again, I confirm the email, but it no longer appears in the backoffice bidspirit. A repeated attempt to register gives a message stating that such an email has already been registered." />
+      <item value="Я нашёл странный момент в админке Bidspirit. Регистрирую пользователя с временным email адресом, после подтверждаю его и удаляю. После снова регистрирую пользователя подтверждаю email, а в backoffice bidspirit он более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
       <item value="personal-data-allow" />
       <item value="Display row on full width" />
       <item value="Да, я смогу так сделать." />
@@ -43,27 +52,18 @@
       <item value="Разрешение может быть и больше как пример 2560px;" />
       <item value="Количество" />
       <item value="рекомендация" />
-      <item value="resolution: min width 1900px and 16x9 proportion" />
-      <item value="resolution" />
-      <item value="We would like to remind you that we need pictures to complete the work on the site. Can you provide it to us? Or we can ask the designer to create a collage of the available images from the auctions." />
-      <item value="Хотели бы напомнить что для завершения работы над сайтом нам нужны картинки. Вы сможете предоставить нам это? Или мы можем попросить дизайнера составить коллаж из имеющихся картинок с аукционов." />
-      <item value="Ok, I'll try with this profile. I am not getting CORS errors for the domain https: tiroshe.ln15.tempurl.info, is this ok?" />
-      <item value="Хорошо, я попробую с этим профилем. Я не получаю CORS ошибок для домена https:tiroshe.ln15.tempurl.info, это нормально?" />
-      <item value="I am currently working on reworking the registration form on their website and I will need to submit the registration form to Bidspirit as well. I would not want to register many fake users with them. Can you help me somehow with this?" />
-      <item value="Я сейчас работаю над переделкой формы регистрации на их сайте и мне надо будет отправлять форму регистрации и на Bidspirit. Я бы не хотел регистрировать им множество фейковых юзеров. Можете мне как то с этим помочь?" />
-      <item value="error from API" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4795" />
+        <entry key="ENGLISH" value="4800" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4795" />
+        <entry key="RUSSIAN" value="4800" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
