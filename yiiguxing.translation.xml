@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry. I confirmed mail using an outdated link, opened an old letter instead of a new one, wrong twice." />
+      <item value="дважды ошибся" />
+      <item value="Всё хорошо." />
+      <item value="Sorry. I confirmed mail using an outdated link, opened an old letter instead of a new one." />
+      <item value="I beg your pardon. I confirmed mail using an outdated link, opened an old letter instead of a new one." />
+      <item value="Прошу прощения. Я подтверждал почту по устаревшей ссылку, открывал старое письмо вместо нового." />
+      <item value="Working on the pictures in progress?" />
+      <item value="Работа над картинками в процессе?" />
+      <item value="but when the user confirms the mail a second time, he does not leave the special place and is not visible to the administrator." />
+      <item value="но когда пользователь второй раз подтверждает почту он не выходит из специального места и не виден администратору." />
+      <item value="Вы сможете дать ответы?" />
       <item value="test email why i used" />
       <item value="Then I register the user again with the same email address and confirm the registration. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
       <item value="После снова регистрирую пользователя с этим же email адресом и подтверждаю регистрацию. Сам пользователь в backoffice более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
@@ -41,29 +52,18 @@
       <item value="Я проверю это" />
       <item value="Не могли бы вы уточнить номер лота в Bidspirit?" />
       <item value="Please check, you can change the time settings and reception hours later on your own in the plug-in settings or let me know I will help you." />
-      <item value="Проверьте пожалуйста, настройки времени и часы приёма сможете изменить позднее самостоятельно в настройках плагина или сообщите мне я помогу вам." />
-      <item value="Please check, you can change the time settings and reception hours later on your own in the plug-in settings or let me know I will change the settings." />
-      <item value="Please check, you can change the time settings and reception hours later on your own in the plug-in settings or let me know if I will change the settings." />
-      <item value="Проверьте пожалуйста, настройки времени и часы приёма сможете изменить позднее самостоятельно в настройках плагина или сообщите мне я изменю настройки." />
-      <item value="Other pictures for the option of choice for the designer." />
-      <item value="Прочие картинки для возможности на выбор дизайнеру." />
-      <item value="Other pictures on selected for designer" />
-      <item value="2) 2 image for inner page banners" />
-      <item value="Разрешение может быть и больше как пример 2560px;" />
-      <item value="Количество" />
-      <item value="рекомендация" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4800" />
+        <entry key="ENGLISH" value="4807" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4800" />
+        <entry key="RUSSIAN" value="4807" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
