@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This block displays selected lots. In order for them to be displayed, it is necessary to mark the necessary lots in the admin panel when editing the lot. You can watch the video instruction, video number 2." />
+      <item value="В этом блоке отображаются избранные лоты. Что бы они отображались надо отметить нужные лоты в админ панели при редактировании лота. Можете посмотреть видео инструкцию, видео номер 2." />
       <item value="Sorry, i understand where you find this page." />
       <item value="Sorry, i understand why you find this page." />
       <item value="Let's clarify what is the mistake now?" />
@@ -50,20 +52,18 @@
       <item value="Клиент tiroche хочет что бы пользователи при регистрации дополнительно отправляли скан фото с подтверждением личности." />
       <item value="Enter woocommerce id product" />
       <item value="Can I send registration requests from the server side? Now I get an error in response:" />
-      <item value="Могу ли я отправлять запросы на регистрацию со стороны сервера? Сейчас мне в ответ приходит ошибка:" />
-      <item value="If these lots are deleted, they will be deleted from the site within an hour after synchronization, it may be necessary to clear the cache on the site. Let's check it out, let me know when these lots are removed from Bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4817" />
+        <entry key="ENGLISH" value="4818" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4817" />
+        <entry key="RUSSIAN" value="4818" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
