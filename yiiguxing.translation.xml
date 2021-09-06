@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Copies or synchronizes the metas." />
+      <item value="Get public meta keys ( including from translated post in case we just deleted a custom field )" />
+      <item value="Copy or synchronize post metas and allow plugins to do the same" />
       <item value="This block displays selected lots. In order for them to be displayed, it is necessary to mark the necessary lots in the admin panel when editing the lot. You can watch the video instruction, video number 2." />
       <item value="В этом блоке отображаются избранные лоты. Что бы они отображались надо отметить нужные лоты в админ панели при редактировании лота. Можете посмотреть видео инструкцию, видео номер 2." />
       <item value="Sorry, i understand where you find this page." />
@@ -49,21 +52,18 @@
       <item value="Client tiroche wants users to additionally send a photo with identity confirmation when registering." />
       <item value="Клиент tiroche хочет что бы пользователи при регистрации дополнительно отправляли фото с подтверждением личности." />
       <item value="The tiroche client wants users to additionally send a scanned photo with identity confirmation when registering." />
-      <item value="Клиент tiroche хочет что бы пользователи при регистрации дополнительно отправляли скан фото с подтверждением личности." />
-      <item value="Enter woocommerce id product" />
-      <item value="Can I send registration requests from the server side? Now I get an error in response:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4818" />
+        <entry key="ENGLISH" value="4821" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4818" />
+        <entry key="RUSSIAN" value="4821" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
