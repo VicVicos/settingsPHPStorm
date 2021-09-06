@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We need to clarify which fields should be synchronized when saving &quot;Game&quot; or &quot;Brand&quot; for different languages, and which will have translations." />
+      <item value="Нам надо уточнить какие поля должны синхронизироваться при сохранении &quot;Game&quot; or &quot;Brand&quot; для разных языков, а какие будут иметь переводы." />
+      <item value="Сделаем это на следующем созвоне" />
+      <item value="does it on next call meeting" />
+      <item value="do it on next call meeting" />
+      <item value="do it on next call" />
+      <item value="doing it on next call" />
       <item value="Copies or synchronizes the metas." />
       <item value="Get public meta keys ( including from translated post in case we just deleted a custom field )" />
       <item value="Copy or synchronize post metas and allow plugins to do the same" />
@@ -45,25 +52,18 @@
       <item value="I found a strange moment in the Bidspirit admin area. I register a user with a temporary email address, then confirm it and delete it. After registering the user again, I confirm the email, but it no longer appears in the backoffice bidspirit. A repeated attempt to register gives a message stating that such an email has already been registered." />
       <item value="Я нашёл странный момент в админке Bidspirit. Регистрирую пользователя с временным email адресом, после подтверждаю его и удаляю. После снова регистрирую пользователя подтверждаю email, а в backoffice bidspirit он более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
       <item value="personal-data-allow" />
-      <item value="Display row on full width" />
-      <item value="Да, я смогу так сделать." />
-      <item value="Product SKU is required" />
-      <item value="devider devider devider devider devider devider devider" />
-      <item value="Client tiroche wants users to additionally send a photo with identity confirmation when registering." />
-      <item value="Клиент tiroche хочет что бы пользователи при регистрации дополнительно отправляли фото с подтверждением личности." />
-      <item value="The tiroche client wants users to additionally send a scanned photo with identity confirmation when registering." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4821" />
+        <entry key="ENGLISH" value="4828" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4821" />
+        <entry key="RUSSIAN" value="4828" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
