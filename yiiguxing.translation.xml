@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry, i understand where you find this page." />
+      <item value="Sorry, i understand why you find this page." />
+      <item value="Let's clarify what is the mistake now?" />
+      <item value="Давайте уточним в чем сейчас ошибка?" />
+      <item value="If I understand correctly, you are showing 22 auction that have not yet been published on Bidspirit and there should not be lots there. And how lot with number 17 got into the 22nd auction is not clear to me yet." />
+      <item value="If I understand correctly, you are showing 22 auctions that have not yet been published on Bidspirit and there should not be lots there. And how lot with number 17 got into the 22nd auction is not clear to me yet." />
+      <item value="Если я верно понимаю вы показываете 22 аукцион, который на Bidspirit ещё не опубликован и там не должно быть лотов. И как лот с номером 17 попал в 22 аукцион мне пока не ясно." />
       <item value="How do I get a response from the API with a 500 status? I want to test it, earlier there was such a response from the API with the error code INVALID_SESSION_ID, but I can't repeat it." />
       <item value="Как мне получить ответ от API со статусом 500? Хочу протестировать, ранее как то возникал такой ответ от API с кодом ошибки INVALID_SESSION_ID, но повторить его не могу." />
       <item value="I wrote a message to the designer about this, I will send you the answer. Most likely it will be Sunday or Monday." />
@@ -45,25 +52,18 @@
       <item value="Can I send registration requests from the server side? Now I get an error in response:" />
       <item value="Могу ли я отправлять запросы на регистрацию со стороны сервера? Сейчас мне в ответ приходит ошибка:" />
       <item value="If these lots are deleted, they will be deleted from the site within an hour after synchronization, it may be necessary to clear the cache on the site. Let's check it out, let me know when these lots are removed from Bidspirit." />
-      <item value="Если эти лоты удаляться, в течении часа после синхронизации они удаляться и с сайта, возможно потребуется очистить кеш на сайте. Давайте проверим это, сообщите мне когда эти лоты удаляться из Bidspirit." />
-      <item value="Извините, но я не вижу разницы." />
-      <item value="How long ago did you delete these lots?" />
-      <item value="Как давно вы удалил эти лоты?" />
-      <item value="Available Licenses in Country" />
-      <item value="Hello! The registration form fields are defined in Bidspirit, we will not be able to add a telephone field for this form for technical reasons." />
-      <item value="Поля в форме регистрации определены в Bidspirit, мы не сможем добавить поле теолефона для этой формы по техническим причинам." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4812" />
+        <entry key="ENGLISH" value="4817" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4812" />
+        <entry key="RUSSIAN" value="4817" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
