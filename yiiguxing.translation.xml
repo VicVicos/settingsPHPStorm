@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Internal page banners change in the page settings, not in the Elementor plugin." />
+      <item value="Баннеры внутренних страниц меняются в настройках страницы, не в плагине Elementor." />
+      <item value="I will clarify this point." />
+      <item value="Я уточню этот момент." />
       <item value="We need to clarify which fields should be synchronized when saving &quot;Game&quot; or &quot;Brand&quot; for different languages, and which will have translations." />
       <item value="Нам надо уточнить какие поля должны синхронизироваться при сохранении &quot;Game&quot; or &quot;Brand&quot; для разных языков, а какие будут иметь переводы." />
       <item value="Сделаем это на следующем созвоне" />
@@ -48,22 +52,18 @@
       <item value="After registering the user again, I confirm the email. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
       <item value="После снова регистрирую пользователя подтверждаю email. Сам пользователь в backoffice более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
       <item value="I found a strange moment in the Bidspirit admin area. I register a user with a temporary email address, then confirm the email by clicking on the link in the letter and delete this user in the backoffice bidspirit. After registering the user again, I confirm the email, but it no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
-      <item value="Я нашёл странный момент в админке Bidspirit. Регистрирую пользователя с временным email адресом, после подтверждаю email осуществляя переход по ссылке в письме и удаляю этого пользователя в backoffice bidspirit. После снова регистрирую пользователя подтверждаю email, а в backoffice он более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
-      <item value="I found a strange moment in the Bidspirit admin area. I register a user with a temporary email address, then confirm it and delete it. After registering the user again, I confirm the email, but it no longer appears in the backoffice bidspirit. A repeated attempt to register gives a message stating that such an email has already been registered." />
-      <item value="Я нашёл странный момент в админке Bidspirit. Регистрирую пользователя с временным email адресом, после подтверждаю его и удаляю. После снова регистрирую пользователя подтверждаю email, а в backoffice bidspirit он более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
-      <item value="personal-data-allow" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4828" />
+        <entry key="ENGLISH" value="4830" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4828" />
+        <entry key="RUSSIAN" value="4830" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
