@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="anchor-list" />
       <item value="delete expired transients" />
       <item value="Internal page banners change in the page settings, not in the Elementor plugin." />
       <item value="Баннеры внутренних страниц меняются в настройках страницы, не в плагине Elementor." />
@@ -51,19 +52,18 @@
       <item value="Then I register the user again with the same email address and confirm the registration. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
       <item value="После снова регистрирую пользователя с этим же email адресом и подтверждаю регистрацию. Сам пользователь в backoffice более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
       <item value="After registering the user again, I confirm the email. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
-      <item value="После снова регистрирую пользователя подтверждаю email. Сам пользователь в backoffice более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4831" />
+        <entry key="ENGLISH" value="4832" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4831" />
+        <entry key="RUSSIAN" value="4832" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
