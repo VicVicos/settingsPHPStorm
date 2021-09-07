@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Should I continue or you have any comments?" />
+      <item value="Should I continue or have any comments?" />
+      <item value="Продолжать ли мне или есть замечания?" />
       <item value="Now we don't know for sure, we usually release a new version once a month." />
       <item value="Сейчас точно не знаем, обычно новую версию мы выпускаем раз в месяц." />
       <item value="Now we do not know for sure, usually new versions are released once a month." />
@@ -49,21 +52,18 @@
       <item value="Давайте уточним в чем сейчас ошибка?" />
       <item value="If I understand correctly, you are showing 22 auction that have not yet been published on Bidspirit and there should not be lots there. And how lot with number 17 got into the 22nd auction is not clear to me yet." />
       <item value="If I understand correctly, you are showing 22 auctions that have not yet been published on Bidspirit and there should not be lots there. And how lot with number 17 got into the 22nd auction is not clear to me yet." />
-      <item value="Если я верно понимаю вы показываете 22 аукцион, который на Bidspirit ещё не опубликован и там не должно быть лотов. И как лот с номером 17 попал в 22 аукцион мне пока не ясно." />
-      <item value="How do I get a response from the API with a 500 status? I want to test it, earlier there was such a response from the API with the error code INVALID_SESSION_ID, but I can't repeat it." />
-      <item value="Как мне получить ответ от API со статусом 500? Хочу протестировать, ранее как то возникал такой ответ от API с кодом ошибки INVALID_SESSION_ID, но повторить его не могу." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4847" />
+        <entry key="ENGLISH" value="4849" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4847" />
+        <entry key="RUSSIAN" value="4849" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
