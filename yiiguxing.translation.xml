@@ -2,6 +2,29 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Now we don't know for sure, we usually release a new version once a month." />
+      <item value="Сейчас точно не знаем, обычно новую версию мы выпускаем раз в месяц." />
+      <item value="Now we do not know for sure, usually new versions are released once a month." />
+      <item value="Сейчас точно не знаем, обычно новые версии выходят раз в месяц." />
+      <item value="Send us the text of these pages in a word file." />
+      <item value="Пришлите нам текст этих страниц в word файле." />
+      <item value="Clarify the position for links to social networks on the site with which we work." />
+      <item value="Уточните" />
+      <item value="Clearify" />
+      <item value="Check the position for links to social networks on the site with which we work." />
+      <item value="Уточните положение для ссылок на соц сети на сайте с которым мы работаем." />
+      <item value="Уточните пожалуйста" />
+      <item value="We don't have this in the current version of the plugin, but we can do it and release it in one of the next versions of the plugin." />
+      <item value="В текущей версии плагина у нас этого нет, но мы можем сделать это и выпустить в одной из следующих версий плагина." />
+      <item value="I'm not sure, but I think so." />
+      <item value="Не уверен, но думаю что да." />
+      <item value="Today we will not be able to send you the file, as the designer has a day off." />
+      <item value="Сегодня мы не сможем отправить вам файл, так как у дизайнера сегодня выходной." />
+      <item value="auctions category" />
+      <item value="category auctions" />
+      <item value="Footer build as 4 columns" />
+      <item value="Hello! Sorry. I reminded the designer about the psd file." />
+      <item value="Sorry. Я напомнил дизайнеру про psd файл." />
       <item value="anchor-list" />
       <item value="delete expired transients" />
       <item value="Internal page banners change in the page settings, not in the Elementor plugin." />
@@ -29,41 +52,18 @@
       <item value="Если я верно понимаю вы показываете 22 аукцион, который на Bidspirit ещё не опубликован и там не должно быть лотов. И как лот с номером 17 попал в 22 аукцион мне пока не ясно." />
       <item value="How do I get a response from the API with a 500 status? I want to test it, earlier there was such a response from the API with the error code INVALID_SESSION_ID, but I can't repeat it." />
       <item value="Как мне получить ответ от API со статусом 500? Хочу протестировать, ранее как то возникал такой ответ от API с кодом ошибки INVALID_SESSION_ID, но повторить его не могу." />
-      <item value="I wrote a message to the designer about this, I will send you the answer. Most likely it will be Sunday or Monday." />
-      <item value="Я написал дизайнеру сообщение об этом, пришлю вам как ответит. Скорей всего это будет воскресенье или понедельник." />
-      <item value="I wrote a message to the designer to do this, I will send you the answer. Most likely it will be Sunday or Monday." />
-      <item value="Я написал дизайнеру сообщение что бы сделал это, пришлю вам как ответит. Скорей всего это будет воскресенье или понедельник." />
-      <item value="I wrote a message to the designer to make a psd file, I will send you the answer. Most likely it will be Sunday or Monday." />
-      <item value="Я написал дизайнеру сообщение что бы сделал psd файл, пришлю вам как ответит. Скорей всего это будет воскресенье или понедельник." />
-      <item value="We understand your problem. We can suggest that you use a blank for a slide with a demonstration of pictures. If this option suits you, we will send you a psd file, where you will need to substitute the picture in photoshop." />
-      <item value="Мы понимаем вашу проблему. Можем предложить вам использовать заготовку для слайдов с демонстрацией картин. Если вам подойдёт такой вариант мы пришлём вам psd файл, где надо будет подставить картину в photoshop." />
-      <item value="Sorry. I confirmed mail using an outdated link, opened an old letter instead of a new one, wrong twice." />
-      <item value="дважды ошибся" />
-      <item value="Всё хорошо." />
-      <item value="Sorry. I confirmed mail using an outdated link, opened an old letter instead of a new one." />
-      <item value="I beg your pardon. I confirmed mail using an outdated link, opened an old letter instead of a new one." />
-      <item value="Прошу прощения. Я подтверждал почту по устаревшей ссылку, открывал старое письмо вместо нового." />
-      <item value="Working on the pictures in progress?" />
-      <item value="Работа над картинками в процессе?" />
-      <item value="but when the user confirms the mail a second time, he does not leave the special place and is not visible to the administrator." />
-      <item value="но когда пользователь второй раз подтверждает почту он не выходит из специального места и не виден администратору." />
-      <item value="Вы сможете дать ответы?" />
-      <item value="test email why i used" />
-      <item value="Then I register the user again with the same email address and confirm the registration. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
-      <item value="После снова регистрирую пользователя с этим же email адресом и подтверждаю регистрацию. Сам пользователь в backoffice более не появляется. Повторная попытка регистрации выдаёт сообщение о том что такой email уже зарегистрирован." />
-      <item value="After registering the user again, I confirm the email. The user himself no longer appears in the backoffice. A repeated attempt to register gives a message stating that such an email has already been registered." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4832" />
+        <entry key="ENGLISH" value="4847" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4832" />
+        <entry key="RUSSIAN" value="4847" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
