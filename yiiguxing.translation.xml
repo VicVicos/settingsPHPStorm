@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Integration of CF7 with Bidspirit" />
+      <item value="Интеграция CF7 с Bidspirit" />
+      <item value="We will discuss with the team when we can start implementing this feature and let you know the estimated implementation timeline." />
+      <item value="Мы обсудим с командой когда сможем приступить к реализации этой фичи и сообщим вам предполагаемый срок реализации." />
+      <item value="We will discuss with the team when we can start implementing this feature." />
+      <item value="Мы обсудим с командой когда сможем приступить к реализации этой фичи." />
       <item value="Should I continue or you have any comments?" />
       <item value="Should I continue or have any comments?" />
       <item value="Продолжать ли мне или есть замечания?" />
@@ -46,24 +52,18 @@
       <item value="Copy or synchronize post metas and allow plugins to do the same" />
       <item value="This block displays selected lots. In order for them to be displayed, it is necessary to mark the necessary lots in the admin panel when editing the lot. You can watch the video instruction, video number 2." />
       <item value="В этом блоке отображаются избранные лоты. Что бы они отображались надо отметить нужные лоты в админ панели при редактировании лота. Можете посмотреть видео инструкцию, видео номер 2." />
-      <item value="Sorry, i understand where you find this page." />
-      <item value="Sorry, i understand why you find this page." />
-      <item value="Let's clarify what is the mistake now?" />
-      <item value="Давайте уточним в чем сейчас ошибка?" />
-      <item value="If I understand correctly, you are showing 22 auction that have not yet been published on Bidspirit and there should not be lots there. And how lot with number 17 got into the 22nd auction is not clear to me yet." />
-      <item value="If I understand correctly, you are showing 22 auctions that have not yet been published on Bidspirit and there should not be lots there. And how lot with number 17 got into the 22nd auction is not clear to me yet." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4849" />
+        <entry key="ENGLISH" value="4852" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4849" />
+        <entry key="RUSSIAN" value="4852" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
