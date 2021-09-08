@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Check the site for any notes?" />
+      <item value="Check the site for any other notes?" />
+      <item value="Check the site for any other comments?" />
+      <item value="Проверьте сайт, есть ли ещё какие замечания?" />
+      <item value="I could not determine the exact addresses of your offices, please correct." />
+      <item value="Я не смог определить точно адреса ваших офисов, исправьте пожалуйста." />
+      <item value="Я не смог определить точно адреса ваших офисов." />
+      <item value="Yes, you set up this section manually." />
+      <item value="Да вы настраиваете эту секцию в ручную." />
+      <item value="The choice of which lots will be displayed here is determined by the checkbox when editing the lot in the admin panel." />
+      <item value="Выбирать какие лоты будут здесь отображаться определяет checkbox при редактировании лота в админ панели." />
       <item value="Integration of CF7 with Bidspirit" />
       <item value="Интеграция CF7 с Bidspirit" />
       <item value="We will discuss with the team when we can start implementing this feature and let you know the estimated implementation timeline." />
@@ -41,29 +52,18 @@
       <item value="I will clarify this point." />
       <item value="Я уточню этот момент." />
       <item value="We need to clarify which fields should be synchronized when saving &quot;Game&quot; or &quot;Brand&quot; for different languages, and which will have translations." />
-      <item value="Нам надо уточнить какие поля должны синхронизироваться при сохранении &quot;Game&quot; or &quot;Brand&quot; для разных языков, а какие будут иметь переводы." />
-      <item value="Сделаем это на следующем созвоне" />
-      <item value="does it on next call meeting" />
-      <item value="do it on next call meeting" />
-      <item value="do it on next call" />
-      <item value="doing it on next call" />
-      <item value="Copies or synchronizes the metas." />
-      <item value="Get public meta keys ( including from translated post in case we just deleted a custom field )" />
-      <item value="Copy or synchronize post metas and allow plugins to do the same" />
-      <item value="This block displays selected lots. In order for them to be displayed, it is necessary to mark the necessary lots in the admin panel when editing the lot. You can watch the video instruction, video number 2." />
-      <item value="В этом блоке отображаются избранные лоты. Что бы они отображались надо отметить нужные лоты в админ панели при редактировании лота. Можете посмотреть видео инструкцию, видео номер 2." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4852" />
+        <entry key="ENGLISH" value="4860" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4852" />
+        <entry key="RUSSIAN" value="4860" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
