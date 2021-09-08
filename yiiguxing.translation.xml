@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="btn attention" />
+      <item value="btn__внимание" />
+      <item value="btn warning" />
+      <item value="btn danger" />
       <item value="Check the site for any notes?" />
       <item value="Check the site for any other notes?" />
       <item value="Check the site for any other comments?" />
@@ -48,22 +52,18 @@
       <item value="anchor-list" />
       <item value="delete expired transients" />
       <item value="Internal page banners change in the page settings, not in the Elementor plugin." />
-      <item value="Баннеры внутренних страниц меняются в настройках страницы, не в плагине Elementor." />
-      <item value="I will clarify this point." />
-      <item value="Я уточню этот момент." />
-      <item value="We need to clarify which fields should be synchronized when saving &quot;Game&quot; or &quot;Brand&quot; for different languages, and which will have translations." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4860" />
+        <entry key="ENGLISH" value="4861" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4860" />
+        <entry key="RUSSIAN" value="4862" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -80,7 +80,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="4" />
-        <entry key="SWEDISH" value="6" />
+        <entry key="SWEDISH" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
