@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="-gray" />
       <item value="btn attention" />
       <item value="btn__внимание" />
       <item value="btn warning" />
@@ -51,12 +52,11 @@
       <item value="Sorry. Я напомнил дизайнеру про psd файл." />
       <item value="anchor-list" />
       <item value="delete expired transients" />
-      <item value="Internal page banners change in the page settings, not in the Elementor plugin." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4861" />
+        <entry key="ENGLISH" value="4862" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
