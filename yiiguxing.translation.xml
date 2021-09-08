@@ -2,6 +2,27 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I don't think it was necessary. You can post news." />
+      <item value="Думаю этого не потребовалось. Можете публиковать новости." />
+      <item value="Please save Blog post and provided me access for edit" />
+      <item value="You can add new posts on site?" />
+      <item value="You can added new posts on site?" />
+      <item value="I published that templates. You can adding new posts on site?" />
+      <item value="I will prepare a template, then you select and paste the template." />
+      <item value="Я подготовлю шаблон, после вы выберите и вставите шаблон." />
+      <item value="Now you will need to do the same for the single post template." />
+      <item value="Сейчас надо будет это же сделать и для шаблона одиночной записи." />
+      <item value="I have to take control of the homepage from" />
+      <item value="Я должен забрать у вас управление главной страницой" />
+      <item value="You will need to choose a blog page design from the Elementor library." />
+      <item value="Надо будет выбрать дизайн страниц блога из библиотеки Elementor." />
+      <item value="Do you want to add a blog to your site?" />
+      <item value="Вы хотите добавить блог на сайт?" />
+      <item value="Для этой страницы я не нашёл подходящих иконок из библиотеки. Можете выбрать что ни будь подходящее самостоятельно?" />
+      <item value="Я могу помочь." />
+      <item value="I'm in touch, I can help." />
+      <item value="Я на связи, могу помочь." />
+      <item value="Please see video with number 2" />
       <item value="-gray" />
       <item value="btn attention" />
       <item value="btn__внимание" />
@@ -31,39 +52,18 @@
       <item value="Сейчас точно не знаем, обычно новую версию мы выпускаем раз в месяц." />
       <item value="Now we do not know for sure, usually new versions are released once a month." />
       <item value="Сейчас точно не знаем, обычно новые версии выходят раз в месяц." />
-      <item value="Send us the text of these pages in a word file." />
-      <item value="Пришлите нам текст этих страниц в word файле." />
-      <item value="Clarify the position for links to social networks on the site with which we work." />
-      <item value="Уточните" />
-      <item value="Clearify" />
-      <item value="Check the position for links to social networks on the site with which we work." />
-      <item value="Уточните положение для ссылок на соц сети на сайте с которым мы работаем." />
-      <item value="Уточните пожалуйста" />
-      <item value="We don't have this in the current version of the plugin, but we can do it and release it in one of the next versions of the plugin." />
-      <item value="В текущей версии плагина у нас этого нет, но мы можем сделать это и выпустить в одной из следующих версий плагина." />
-      <item value="I'm not sure, but I think so." />
-      <item value="Не уверен, но думаю что да." />
-      <item value="Today we will not be able to send you the file, as the designer has a day off." />
-      <item value="Сегодня мы не сможем отправить вам файл, так как у дизайнера сегодня выходной." />
-      <item value="auctions category" />
-      <item value="category auctions" />
-      <item value="Footer build as 4 columns" />
-      <item value="Hello! Sorry. I reminded the designer about the psd file." />
-      <item value="Sorry. Я напомнил дизайнеру про psd файл." />
-      <item value="anchor-list" />
-      <item value="delete expired transients" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4862" />
+        <entry key="ENGLISH" value="4876" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4862" />
+        <entry key="RUSSIAN" value="4876" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
