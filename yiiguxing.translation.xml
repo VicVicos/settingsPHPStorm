@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Now this section works in such a way that if there is an active auction, then selected lots from the active auction will be displayed, if there are no future or there are no selected lots in these auctions, then selected lots from past auctions will be displayed." />
+      <item value="Сейчас этот раздел работает таким образом что если есть активные аукцион, то будут отображаться избранные лоты из активного аукциона, если нет будущих или нет избранных лотов в этих аукционах, то будут отображаться избранные лоты из прошлых аукционов." />
+      <item value="Yes, but not today." />
+      <item value="You can, but not today." />
+      <item value="Можно, но уже не сегодня." />
+      <item value="Close the browser tab where you are editing the main page, I will make the changes and after that the block will be in its place. I assume that you have re-saved the changes where I fixed it." />
+      <item value="Закройте вкладку браузера где вы редактируете главную страницу, я внесу изменения и после блок будет на своём месте. Предполагаю что вы пересохранили изменения где я это исправлял." />
+      <item value="This will look exactly like this for high resolution screens." />
+      <item value="Для экранов с большим разрешением это будет выглядеть именно так." />
       <item value="I don't think it was necessary. You can post news." />
       <item value="Думаю этого не потребовалось. Можете публиковать новости." />
       <item value="Please save Blog post and provided me access for edit" />
@@ -43,27 +52,18 @@
       <item value="Интеграция CF7 с Bidspirit" />
       <item value="We will discuss with the team when we can start implementing this feature and let you know the estimated implementation timeline." />
       <item value="Мы обсудим с командой когда сможем приступить к реализации этой фичи и сообщим вам предполагаемый срок реализации." />
-      <item value="We will discuss with the team when we can start implementing this feature." />
-      <item value="Мы обсудим с командой когда сможем приступить к реализации этой фичи." />
-      <item value="Should I continue or you have any comments?" />
-      <item value="Should I continue or have any comments?" />
-      <item value="Продолжать ли мне или есть замечания?" />
-      <item value="Now we don't know for sure, we usually release a new version once a month." />
-      <item value="Сейчас точно не знаем, обычно новую версию мы выпускаем раз в месяц." />
-      <item value="Now we do not know for sure, usually new versions are released once a month." />
-      <item value="Сейчас точно не знаем, обычно новые версии выходят раз в месяц." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4876" />
+        <entry key="ENGLISH" value="4882" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4876" />
+        <entry key="RUSSIAN" value="4882" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
