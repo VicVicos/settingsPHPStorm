@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We integrated this feature. Please check." />
+      <item value="Also i did two test registration" />
+      <item value="Also i does two test registration" />
+      <item value="Also i will do two test registration" />
+      <item value="We integrate this feature. Please check. Also i do two test registration" />
       <item value="Please repeat email address to contact you" />
       <item value="С вами" />
       <item value="Please repeat email address to contact our" />
@@ -47,23 +52,18 @@
       <item value="Я должен забрать у вас управление главной страницой" />
       <item value="You will need to choose a blog page design from the Elementor library." />
       <item value="Надо будет выбрать дизайн страниц блога из библиотеки Elementor." />
-      <item value="Do you want to add a blog to your site?" />
-      <item value="Вы хотите добавить блог на сайт?" />
-      <item value="Для этой страницы я не нашёл подходящих иконок из библиотеки. Можете выбрать что ни будь подходящее самостоятельно?" />
-      <item value="Я могу помочь." />
-      <item value="I'm in touch, I can help." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4898" />
+        <entry key="ENGLISH" value="4903" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4898" />
+        <entry key="RUSSIAN" value="4903" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
