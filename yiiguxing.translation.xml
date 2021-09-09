@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please repeat email address to contact you" />
+      <item value="С вами" />
+      <item value="Please repeat email address to contact our" />
+      <item value="Please repeat email address to contact us" />
+      <item value="We'il do it" />
+      <item value="In addition, please add the Bonuses table for the Brands (each brand has few bonuses)" />
+      <item value="In general, please send mails and don't write questions on Skype - I'll reply fast on mails" />
+      <item value="1. Sorry, I didn't understand what this answer is about." />
+      <item value="я не понял чего касается этот ответ." />
+      <item value="Sorry, i undestand about this answer" />
+      <item value="What should be displayed on this element?" />
+      <item value="We wanted to clarify some points. What does that blocks display?" />
       <item value="Are there any other edits to the site?" />
       <item value="Есть ещё какие либо правки по сайту?" />
       <item value="Let's clarify: do you need a second block displaying selected lots from archived auctions? Or does the current functionality of this module do what you want?" />
@@ -40,30 +52,18 @@
       <item value="Для этой страницы я не нашёл подходящих иконок из библиотеки. Можете выбрать что ни будь подходящее самостоятельно?" />
       <item value="Я могу помочь." />
       <item value="I'm in touch, I can help." />
-      <item value="Я на связи, могу помочь." />
-      <item value="Please see video with number 2" />
-      <item value="-gray" />
-      <item value="btn attention" />
-      <item value="btn__внимание" />
-      <item value="btn warning" />
-      <item value="btn danger" />
-      <item value="Check the site for any notes?" />
-      <item value="Check the site for any other notes?" />
-      <item value="Check the site for any other comments?" />
-      <item value="Проверьте сайт, есть ли ещё какие замечания?" />
-      <item value="I could not determine the exact addresses of your offices, please correct." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4889" />
+        <entry key="ENGLISH" value="4898" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4889" />
+        <entry key="RUSSIAN" value="4898" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -76,6 +76,7 @@
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
+        <entry key="MALTESE" value="1" />
         <entry key="MACEDONIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
