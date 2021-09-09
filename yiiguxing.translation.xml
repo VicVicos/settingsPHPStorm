@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Destination page will appear on new windowtab Link will be defined as 'no follow'" />
+      <item value="CMS user can choose page from the page list or define URL manually CMS user can choose if the page will appear on same window or on new window (new tab) CMS user can choose if the link will be defined as 'do follow' or 'no follow' CMS user can define the link anchor text" />
+      <item value="CMS user can choose page from the page list or define URL manually Destination page will appear on same window Link will be defined as 'do follow' CMS user can define anchor text" />
       <item value="MODE UPCOMING" />
       <item value="Now this section works in such a way that if there is an active auction, then selected lots from the active auction will be displayed, if there are no future or there are no selected lots in these auctions, then selected lots from past auctions will be displayed." />
       <item value="Сейчас этот раздел работает таким образом что если есть активные аукцион, то будут отображаться избранные лоты из активного аукциона, если нет будущих или нет избранных лотов в этих аукционах, то будут отображаться избранные лоты из прошлых аукционов." />
@@ -49,21 +52,18 @@
       <item value="Да вы настраиваете эту секцию в ручную." />
       <item value="The choice of which lots will be displayed here is determined by the checkbox when editing the lot in the admin panel." />
       <item value="Выбирать какие лоты будут здесь отображаться определяет checkbox при редактировании лота в админ панели." />
-      <item value="Integration of CF7 with Bidspirit" />
-      <item value="Интеграция CF7 с Bidspirit" />
-      <item value="We will discuss with the team when we can start implementing this feature and let you know the estimated implementation timeline." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4883" />
+        <entry key="ENGLISH" value="4886" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4883" />
+        <entry key="RUSSIAN" value="4886" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
