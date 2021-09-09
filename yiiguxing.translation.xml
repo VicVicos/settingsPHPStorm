@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Are there any other edits to the site?" />
+      <item value="Есть ещё какие либо правки по сайту?" />
+      <item value="Let's clarify: do you need a second block displaying selected lots from archived auctions? Or does the current functionality of this module do what you want?" />
+      <item value="давайте уточним: вам нужен второй блок с отображением избранных лотов из архивных аукционов? Или текущий функционал этого модуля делает то что вам надо?" />
+      <item value="Let's clarify: do you need a second block displaying selected lots? Or does the current functionality of this module do what you want?" />
+      <item value="давайте уточним: вам нужен второй блок с отображением избранных лотов? Или текущий функционал этого модуля делает то что вам надо?" />
       <item value="Destination page will appear on new windowtab Link will be defined as 'no follow'" />
       <item value="CMS user can choose page from the page list or define URL manually CMS user can choose if the page will appear on same window or on new window (new tab) CMS user can choose if the link will be defined as 'do follow' or 'no follow' CMS user can define the link anchor text" />
       <item value="CMS user can choose page from the page list or define URL manually Destination page will appear on same window Link will be defined as 'do follow' CMS user can define anchor text" />
@@ -46,24 +52,18 @@
       <item value="Check the site for any other comments?" />
       <item value="Проверьте сайт, есть ли ещё какие замечания?" />
       <item value="I could not determine the exact addresses of your offices, please correct." />
-      <item value="Я не смог определить точно адреса ваших офисов, исправьте пожалуйста." />
-      <item value="Я не смог определить точно адреса ваших офисов." />
-      <item value="Yes, you set up this section manually." />
-      <item value="Да вы настраиваете эту секцию в ручную." />
-      <item value="The choice of which lots will be displayed here is determined by the checkbox when editing the lot in the admin panel." />
-      <item value="Выбирать какие лоты будут здесь отображаться определяет checkbox при редактировании лота в админ панели." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4886" />
+        <entry key="ENGLISH" value="4889" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4886" />
+        <entry key="RUSSIAN" value="4889" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
