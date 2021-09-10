@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="pluck Slug" />
       <item value="I'm done with the content of the pages, you can check. I just have to do &quot;Highlight last auction&quot;." />
       <item value="С контентом страниц я закончил, можете проверять. Мне осталось сделать &quot;Highlight last auction&quot;." />
       <item value="Yes. This is how it works. You can edit the text of notifications yourself in the &quot;Appointments&quot; plugin settings" />
@@ -51,19 +52,18 @@
       <item value="CMS user can choose page from the page list or define URL manually CMS user can choose if the page will appear on same window or on new window (new tab) CMS user can choose if the link will be defined as 'do follow' or 'no follow' CMS user can define the link anchor text" />
       <item value="CMS user can choose page from the page list or define URL manually Destination page will appear on same window Link will be defined as 'do follow' CMS user can define anchor text" />
       <item value="MODE UPCOMING" />
-      <item value="Now this section works in such a way that if there is an active auction, then selected lots from the active auction will be displayed, if there are no future or there are no selected lots in these auctions, then selected lots from past auctions will be displayed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4917" />
+        <entry key="ENGLISH" value="4918" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4917" />
+        <entry key="RUSSIAN" value="4918" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
