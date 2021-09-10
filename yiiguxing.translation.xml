@@ -2,6 +2,28 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I'm done with the content of the pages, you can check. I just have to do &quot;Highlight last auction&quot;." />
+      <item value="С контентом страниц я закончил, можете проверять. Мне осталось сделать &quot;Highlight last auction&quot;." />
+      <item value="Yes. This is how it works. You can edit the text of notifications yourself in the &quot;Appointments&quot; plugin settings" />
+      <item value="Да. Это так и работает. Текст уведомлений вы сможете отредактировать самостоятельно в настройках плагина &quot;Appointments&quot;" />
+      <item value="Текст уведомлений вы сможете отредактировать самостоятельно в настройках плагина &quot;Appointments&quot;" />
+      <item value="Most likely on this day we have an auction and we will not be able to accept you." />
+      <item value="Скорее всего в этот день у нас проходит аукцион и мы не сможем вас принять." />
+      <item value="keep appointment" />
+      <item value="The changes will appear within an hour. After syncing with Bidspirit is complete." />
+      <item value="После того как синхронизация с Bidspirit будет выполнена." />
+      <item value="Как пройдёт синхронизация с сервером Bidspirit" />
+      <item value="The changes will appear within an hour. How to sync with the Bidspirit server" />
+      <item value="Изменению появятся в течении часа. Как выполнится синхронизация с сервером Bidspirit" />
+      <item value="Изменению появятся в течении часа." />
+      <item value="This can be configured in the Bidspirit admin area" />
+      <item value="Это можно настроить в админке Bidspirit" />
+      <item value="Ok. I'll take the text from this page." />
+      <item value="Я возьму текст с этой страницы." />
+      <item value="I have not tested this functionality before. Need to check." />
+      <item value="Я не тестировал ранее этот функционал. Надо проверить." />
+      <item value="I will not be able to take this condition into account." />
+      <item value="Я не смогу учесть это условие." />
       <item value="We integrated this feature. Please check." />
       <item value="Also i did two test registration" />
       <item value="Also i does two test registration" />
@@ -30,40 +52,18 @@
       <item value="CMS user can choose page from the page list or define URL manually Destination page will appear on same window Link will be defined as 'do follow' CMS user can define anchor text" />
       <item value="MODE UPCOMING" />
       <item value="Now this section works in such a way that if there is an active auction, then selected lots from the active auction will be displayed, if there are no future or there are no selected lots in these auctions, then selected lots from past auctions will be displayed." />
-      <item value="Сейчас этот раздел работает таким образом что если есть активные аукцион, то будут отображаться избранные лоты из активного аукциона, если нет будущих или нет избранных лотов в этих аукционах, то будут отображаться избранные лоты из прошлых аукционов." />
-      <item value="Yes, but not today." />
-      <item value="You can, but not today." />
-      <item value="Можно, но уже не сегодня." />
-      <item value="Close the browser tab where you are editing the main page, I will make the changes and after that the block will be in its place. I assume that you have re-saved the changes where I fixed it." />
-      <item value="Закройте вкладку браузера где вы редактируете главную страницу, я внесу изменения и после блок будет на своём месте. Предполагаю что вы пересохранили изменения где я это исправлял." />
-      <item value="This will look exactly like this for high resolution screens." />
-      <item value="Для экранов с большим разрешением это будет выглядеть именно так." />
-      <item value="I don't think it was necessary. You can post news." />
-      <item value="Думаю этого не потребовалось. Можете публиковать новости." />
-      <item value="Please save Blog post and provided me access for edit" />
-      <item value="You can add new posts on site?" />
-      <item value="You can added new posts on site?" />
-      <item value="I published that templates. You can adding new posts on site?" />
-      <item value="I will prepare a template, then you select and paste the template." />
-      <item value="Я подготовлю шаблон, после вы выберите и вставите шаблон." />
-      <item value="Now you will need to do the same for the single post template." />
-      <item value="Сейчас надо будет это же сделать и для шаблона одиночной записи." />
-      <item value="I have to take control of the homepage from" />
-      <item value="Я должен забрать у вас управление главной страницой" />
-      <item value="You will need to choose a blog page design from the Elementor library." />
-      <item value="Надо будет выбрать дизайн страниц блога из библиотеки Elementor." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4903" />
+        <entry key="ENGLISH" value="4917" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4903" />
+        <entry key="RUSSIAN" value="4917" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
