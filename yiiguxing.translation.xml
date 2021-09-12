@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Вы можете отредактировать это самостоятельно, пожалуйста ознакомьтесь с видео инструкцией по работе с сайтом." />
+      <item value="After the new auction appears, the required lots will need to be marked." />
+      <item value="После того как новый аукцион появится, нужные лоты надо будет отметить." />
       <item value="I want learn a new technologies" />
       <item value="I want learn a new technology" />
       <item value="Я хочу" />
@@ -49,21 +52,18 @@
       <item value="Sorry, i undestand about this answer" />
       <item value="What should be displayed on this element?" />
       <item value="We wanted to clarify some points. What does that blocks display?" />
-      <item value="Are there any other edits to the site?" />
-      <item value="Есть ещё какие либо правки по сайту?" />
-      <item value="Let's clarify: do you need a second block displaying selected lots from archived auctions? Or does the current functionality of this module do what you want?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4923" />
+        <entry key="ENGLISH" value="4924" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4923" />
+        <entry key="RUSSIAN" value="4925" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
