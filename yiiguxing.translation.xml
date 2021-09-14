@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Or should the date be placed in the title?" />
+      <item value="Или дату надо поместить в заголовок?" />
+      <item value="Should it be like this?" />
+      <item value="Должно быть вот так?" />
       <item value="CASINOS" />
       <item value="I changed displaying title for auctions, please check if I understand correctly." />
       <item value="Я изменил отображаемое название для аукционов, проверьте правильно ли я понимаю." />
@@ -48,22 +52,18 @@
       <item value="I have not tested this functionality before. Need to check." />
       <item value="Я не тестировал ранее этот функционал. Надо проверить." />
       <item value="I will not be able to take this condition into account." />
-      <item value="Я не смогу учесть это условие." />
-      <item value="We integrated this feature. Please check." />
-      <item value="Also i did two test registration" />
-      <item value="Also i does two test registration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4936" />
+        <entry key="ENGLISH" value="4938" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4936" />
+        <entry key="RUSSIAN" value="4938" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
