@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I changed displaying title for auctions, please check if I understand correctly." />
+      <item value="Я изменил отображаемое название для аукционов, проверьте правильно ли я понимаю." />
+      <item value="I changed displaying title for auctions, please check correctly I'm understand." />
+      <item value="I changed displaying title for auctions, please check correctly i understand." />
       <item value="outer-swiper-options" />
       <item value="At Bidspirit we cannot change anything." />
       <item value="I see differences in the &quot;Cadmore Auctions&quot; prefix and the lack of a &quot;part X&quot; batch number." />
@@ -48,22 +52,18 @@
       <item value="Also i did two test registration" />
       <item value="Also i does two test registration" />
       <item value="Also i will do two test registration" />
-      <item value="We integrate this feature. Please check. Also i do two test registration" />
-      <item value="Please repeat email address to contact you" />
-      <item value="С вами" />
-      <item value="Please repeat email address to contact our" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4931" />
+        <entry key="ENGLISH" value="4935" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4931" />
+        <entry key="RUSSIAN" value="4935" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
