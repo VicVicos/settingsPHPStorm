@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Эта информация тянется из Bidspirit. Мне надо её исключить из названия?" />
       <item value="Or should the date be placed in the title?" />
       <item value="Или дату надо поместить в заголовок?" />
       <item value="Should it be like this?" />
@@ -51,7 +52,6 @@
       <item value="Я возьму текст с этой страницы." />
       <item value="I have not tested this functionality before. Need to check." />
       <item value="Я не тестировал ранее этот функционал. Надо проверить." />
-      <item value="I will not be able to take this condition into account." />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4938" />
+        <entry key="RUSSIAN" value="4939" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
