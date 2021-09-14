@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please clarify if I missed any of the edits on the site?" />
+      <item value="Пожалуйста уточните не упустил ли я что либо из правок по сайту?" />
       <item value="Judging by the logs, this is the problem. A new auction cannot appear for this reason." />
       <item value="Судя по логам в этом проблема. Новый аукцион не может появится по этой причине." />
       <item value="Check the &quot;Number&quot; fields for auctions and make sure this field is unique across all auctions." />
@@ -50,20 +52,18 @@
       <item value="После того как синхронизация с Bidspirit будет выполнена." />
       <item value="Как пройдёт синхронизация с сервером Bidspirit" />
       <item value="The changes will appear within an hour. How to sync with the Bidspirit server" />
-      <item value="Изменению появятся в течении часа. Как выполнится синхронизация с сервером Bidspirit" />
-      <item value="Изменению появятся в течении часа." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4942" />
+        <entry key="ENGLISH" value="4943" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4942" />
+        <entry key="RUSSIAN" value="4943" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
