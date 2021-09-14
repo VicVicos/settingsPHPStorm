@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Judging by the logs, this is the problem. A new auction cannot appear for this reason." />
+      <item value="Судя по логам в этом проблема. Новый аукцион не может появится по этой причине." />
+      <item value="Check the &quot;Number&quot; fields for auctions and make sure this field is unique across all auctions." />
+      <item value="Проверьте поля &quot;Number&quot; для аукционов и убедитесь в том что это поле уникально для всех аукционов." />
+      <item value="How long ago did you publish a new auction?" />
+      <item value="Как давно вы опубликовали новый аукцион?" />
       <item value="Эта информация тянется из Bidspirit. Мне надо её исключить из названия?" />
       <item value="Or should the date be placed in the title?" />
       <item value="Или дату надо поместить в заголовок?" />
@@ -46,24 +52,18 @@
       <item value="The changes will appear within an hour. How to sync with the Bidspirit server" />
       <item value="Изменению появятся в течении часа. Как выполнится синхронизация с сервером Bidspirit" />
       <item value="Изменению появятся в течении часа." />
-      <item value="This can be configured in the Bidspirit admin area" />
-      <item value="Это можно настроить в админке Bidspirit" />
-      <item value="Ok. I'll take the text from this page." />
-      <item value="Я возьму текст с этой страницы." />
-      <item value="I have not tested this functionality before. Need to check." />
-      <item value="Я не тестировал ранее этот функционал. Надо проверить." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4938" />
+        <entry key="ENGLISH" value="4942" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4939" />
+        <entry key="RUSSIAN" value="4942" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
