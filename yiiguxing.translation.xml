@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="They wanted to remind about pictures." />
+      <item value="У Bidspirit есть возможность продавать лоты до начала аукциона или его завершения. Поговорите об этом с вашим менеджером Bidspirit." />
+      <item value="Для исправления были внесены следующие изменения." />
       <item value="Это как раз связано со сменой имени аукциона." />
       <item value="You changed the auction number, now this auction is synchronized on the site, soon it will be completely loaded." />
       <item value="Вы изменили номер аукциона, сейчас этот аукцион заново синхронизируется на сайте, скоро он полностью будет загружен." />
@@ -49,9 +52,6 @@
       <item value="Да. Это так и работает. Текст уведомлений вы сможете отредактировать самостоятельно в настройках плагина &quot;Appointments&quot;" />
       <item value="Текст уведомлений вы сможете отредактировать самостоятельно в настройках плагина &quot;Appointments&quot;" />
       <item value="Most likely on this day we have an auction and we will not be able to accept you." />
-      <item value="Скорее всего в этот день у нас проходит аукцион и мы не сможем вас принять." />
-      <item value="keep appointment" />
-      <item value="The changes will appear within an hour. After syncing with Bidspirit is complete." />
     </histories>
     <option name="languageScores">
       <map>
