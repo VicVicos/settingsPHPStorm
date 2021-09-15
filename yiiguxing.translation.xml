@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Вы изменили номер аукциона, сейчас этот аукцион заново синхронизируется на сайте, скоро он полностью будет загружен." />
       <item value="Please clarify if I missed any of the edits on the site?" />
       <item value="Пожалуйста уточните не упустил ли я что либо из правок по сайту?" />
       <item value="Judging by the logs, this is the problem. A new auction cannot appear for this reason." />
@@ -51,7 +52,6 @@
       <item value="The changes will appear within an hour. After syncing with Bidspirit is complete." />
       <item value="После того как синхронизация с Bidspirit будет выполнена." />
       <item value="Как пройдёт синхронизация с сервером Bidspirit" />
-      <item value="The changes will appear within an hour. How to sync with the Bidspirit server" />
     </histories>
     <option name="languageScores">
       <map>
