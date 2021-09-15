@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="foo" />
       <item value="Остальные фичи по сути это контентные страницы - можем сделать их." />
       <item value="About this." />
       <item value="They wanted to remind about pictures." />
@@ -51,7 +52,6 @@
       <item value="I'm done with the content of the pages, you can check. I just have to do &quot;Highlight last auction&quot;." />
       <item value="С контентом страниц я закончил, можете проверять. Мне осталось сделать &quot;Highlight last auction&quot;." />
       <item value="Yes. This is how it works. You can edit the text of notifications yourself in the &quot;Appointments&quot; plugin settings" />
-      <item value="Да. Это так и работает. Текст уведомлений вы сможете отредактировать самостоятельно в настройках плагина &quot;Appointments&quot;" />
     </histories>
     <option name="languageScores">
       <map>
