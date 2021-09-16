@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="wrp Lot Tools" />
       <item value="Можно настроить функционал формы &quot;Subscribe&quot; таким образом что бы указанные email сохранялись для рассылки. Регестрировать этих пользователей нет необходимости." />
       <item value="Этот функционал доступен в плагине. Вам остаётся только настроить это в backoffice Bidpsirit." />
       <item value="foo" />
@@ -51,7 +52,6 @@
       <item value="I finished work on the site. Check, please." />
       <item value="Я закончил работу над сайтом. Проверьте пожалуйста." />
       <item value="pluck Slug" />
-      <item value="I'm done with the content of the pages, you can check. I just have to do &quot;Highlight last auction&quot;." />
     </histories>
     <option name="languageScores">
       <map>
