@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If exist mobile version" />
       <item value="Здравствуйте! Если вы хотите запустить сайт к началу аукциона, мы должны заняться переносом домена уже сейчас. Фичи что мы не успели сделать сейчас будут позднее." />
       <item value="Общее" />
       <item value="wrp Lot Tools" />
@@ -51,7 +52,6 @@
       <item value="Я хочу" />
       <item value="I have learn a new technology" />
       <item value="I need learn a new technology" />
-      <item value="I finished work on the site. Check, please." />
     </histories>
     <option name="languageScores">
       <map>
