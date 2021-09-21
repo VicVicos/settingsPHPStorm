@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Question about this lot" />
       <item value="Tiroche client complains that users after registration fall into the group With the &quot;missing information in the profile,&quot; they would like to see them in the Women's Confirmation group. What is missing in the form of registration What would users come to the desired group?" />
       <item value="Клиент Tiroche жалуется на то что пользователи после регистрации попадают в группу с &quot;недостающей информацией в профиле&quot;, они хотели бы видеть их в группе &quot;ожидающие подтверждения&quot;" />
       <item value="Founded In" />
@@ -51,7 +52,6 @@
       <item value="Что вы предлагаете? Такие же имена аукционов мы видим и на Bidspirit." />
       <item value="Вы можете отредактировать это самостоятельно, пожалуйста ознакомьтесь с видео инструкцией по работе с сайтом." />
       <item value="After the new auction appears, the required lots will need to be marked." />
-      <item value="После того как новый аукцион появится, нужные лоты надо будет отметить." />
     </histories>
     <option name="languageScores">
       <map>
