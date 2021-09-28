@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="повешать событие" />
       <item value="Планируем закончить сегодня." />
       <item value="specialises" />
       <item value="We are create a new website." />
@@ -51,7 +52,6 @@
       <item value="No. I see differences in the &quot;Cadmore Auctions&quot; prefix and the lack of a &quot;part X&quot; batch number. At Bidspirit we cannot change anything." />
       <item value="Нет. Я вижу отличия в префиксе &quot;Cadmore Auctions&quot; и отсутсвием номером партии &quot;part X&quot;. На Bidspirit мы ни чего не можем менять." />
       <item value="What do you want to do about it?" />
-      <item value="Что вы хотите сделать с этим?" />
     </histories>
     <option name="languageScores">
       <map>
