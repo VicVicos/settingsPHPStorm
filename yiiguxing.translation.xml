@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="info outer" />
       <item value="Please send your email views on info@heliosactions.com or use the link form on this page, including:" />
       <item value="We use next cdn list:" />
       <item value="Bookmarks settings" />
@@ -51,7 +52,6 @@
       <item value="I changed displaying title for auctions, please check if I understand correctly." />
       <item value="Я изменил отображаемое название для аукционов, проверьте правильно ли я понимаю." />
       <item value="I changed displaying title for auctions, please check correctly I'm understand." />
-      <item value="I changed displaying title for auctions, please check correctly i understand." />
     </histories>
     <option name="languageScores">
       <map>
