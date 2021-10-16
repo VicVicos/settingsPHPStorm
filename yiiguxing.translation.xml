@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1095" />
+    <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Auction Slugs" />
+      <item value="prepare Key" />
       <item value="delete Oldest Records" />
       <item value="info outer" />
       <item value="Please send your email views on info@heliosactions.com or use the link form on this page, including:" />
@@ -50,20 +55,18 @@
       <item value="Should it be like this?" />
       <item value="Должно быть вот так?" />
       <item value="CASINOS" />
-      <item value="I changed displaying title for auctions, please check if I understand correctly." />
-      <item value="Я изменил отображаемое название для аукционов, проверьте правильно ли я понимаю." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4943" />
+        <entry key="ENGLISH" value="4946" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4943" />
+        <entry key="RUSSIAN" value="4946" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
