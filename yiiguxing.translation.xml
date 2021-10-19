@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="disable Un Updated Lots" />
+      <item value="disable unupdated items" />
+      <item value="disabled unupdated items" />
       <item value="сбор данных" />
       <item value="complect Data" />
       <item value="set Auction Slugs" />
@@ -52,21 +55,18 @@
       <item value="How long ago did you publish a new auction?" />
       <item value="Как давно вы опубликовали новый аукцион?" />
       <item value="Эта информация тянется из Bidspirit. Мне надо её исключить из названия?" />
-      <item value="Or should the date be placed in the title?" />
-      <item value="Или дату надо поместить в заголовок?" />
-      <item value="Should it be like this?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4947" />
+        <entry key="ENGLISH" value="4950" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4948" />
+        <entry key="RUSSIAN" value="4950" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
