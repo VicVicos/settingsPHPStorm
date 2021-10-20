@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="address" />
+      <item value="addres" />
       <item value="Can you tell me the approximate number of people for this auction?" />
       <item value="Вы сможете сказать примерное количество человек для этого аукциона?" />
       <item value="A tronzelas client wants to implement a closed auction for a certain circle of people belonging to one company. Do you have the ability to implement this? It will be difficult on our part to implement this in the current implementation of the site." />
@@ -53,20 +55,18 @@
       <item value="foo" />
       <item value="Остальные фичи по сути это контентные страницы - можем сделать их." />
       <item value="About this." />
-      <item value="They wanted to remind about pictures." />
-      <item value="У Bidspirit есть возможность продавать лоты до начала аукциона или его завершения. Поговорите об этом с вашим менеджером Bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4960" />
+        <entry key="ENGLISH" value="4962" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4960" />
+        <entry key="RUSSIAN" value="4962" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,7 +93,7 @@
         <entry key="HEBREW" value="160" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
-        <entry key="INDONESIAN" value="3" />
+        <entry key="INDONESIAN" value="4" />
       </map>
     </option>
   </component>
