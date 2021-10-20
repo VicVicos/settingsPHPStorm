@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can you tell me the approximate number of people for this auction?" />
+      <item value="Вы сможете сказать примерное количество человек для этого аукциона?" />
+      <item value="A tronzelas client wants to implement a closed auction for a certain circle of people belonging to one company. Do you have the ability to implement this? It will be difficult on our part to implement this in the current implementation of the site." />
+      <item value="Клиент tronzelas хочет реализовать закрытый аукцион для определённого круга людей принадлежащих одной компании. У вас есть возможность реализовать такое? Реализовать подобное с нашей стороны будет сложно в текущей реализации сайта." />
       <item value="Do I understand correctly that you want to add a logo to the footer? We removed him from there, for the reason that he is in a header." />
       <item value="Do I understand correctly that you want to add a logo to the footer? We removed him from there, for the reason that he is in a hat." />
       <item value="Правильно я понимаю что вы хотите добавить логотип в подвал? Мы его от туда убрали, по причине, что он есть в шапке." />
@@ -51,22 +55,18 @@
       <item value="About this." />
       <item value="They wanted to remind about pictures." />
       <item value="У Bidspirit есть возможность продавать лоты до начала аукциона или его завершения. Поговорите об этом с вашим менеджером Bidspirit." />
-      <item value="Для исправления были внесены следующие изменения." />
-      <item value="Это как раз связано со сменой имени аукциона." />
-      <item value="You changed the auction number, now this auction is synchronized on the site, soon it will be completely loaded." />
-      <item value="Вы изменили номер аукциона, сейчас этот аукцион заново синхронизируется на сайте, скоро он полностью будет загружен." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4958" />
+        <entry key="ENGLISH" value="4960" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4958" />
+        <entry key="RUSSIAN" value="4960" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
