@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I am a developer from UCO. We have a question about the auctions, as Arbel is on vacation, we want to ask you. The question concerns the creation of private auctions. On the test site that we are provided with https: web2-qa.bidspirit.com, we cannot find how to create a private auction. Can you help us with this question?" />
+      <item value="Я разработчик из UCO. У нас возник вопрос по работе аукционов, так как Arbel в отпуске мы хотим спросить у вас. Вопрос касается создания приватных аукционов На тестовой площадке, что нам предоставлена https:web2-qa.bidspirit.com мы не можем найти как создать приватный аукцион. Можете помочь нам с этим вопросом?" />
       <item value="adjacent" />
       <item value="entity List" />
       <item value="сущность" />
@@ -53,13 +55,11 @@
       <item value="If exist mobile version" />
       <item value="Здравствуйте! Если вы хотите запустить сайт к началу аукциона, мы должны заняться переносом домена уже сейчас. Фичи что мы не успели сделать сейчас будут позднее." />
       <item value="Общее" />
-      <item value="wrp Lot Tools" />
-      <item value="Можно настроить функционал формы &quot;Subscribe&quot; таким образом что бы указанные email сохранялись для рассылки. Регестрировать этих пользователей нет необходимости." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4965" />
+        <entry key="ENGLISH" value="4966" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4965" />
+        <entry key="RUSSIAN" value="4966" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
