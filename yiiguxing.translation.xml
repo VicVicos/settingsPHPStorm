@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="raw Data Filter" />
+      <item value="Which are owned by the same company." />
+      <item value="Которые принадлежат одной компании." />
+      <item value="Display the auction for certain users only." />
+      <item value="Отображать аукцион только для определённых пользователей." />
+      <item value="Отображать аукцион только для определённых пользователей, принадлежащих одной компании." />
+      <item value="Display the auction only for certain users belonging to the same company." />
+      <item value="Отображать аукцион только для определённых пользователей принадлежащих одной компании." />
       <item value="Hello, Arbel. We were informed that you have returned from vacation." />
       <item value="Нам сообщили что вы вернулись из отпуска." />
       <item value="We have a question about creating private auctions. On the test site that we are provided with https: web2-qa.bidspirit.com, we cannot find how to create a private auction. Can you help us with this question?" />
@@ -47,19 +55,11 @@
       <item value="info outer" />
       <item value="Please send your email views on info@heliosactions.com or use the link form on this page, including:" />
       <item value="We use next cdn list:" />
-      <item value="Bookmarks settings" />
-      <item value="I make more denser" />
-      <item value="lang Choice" />
-      <item value="Sidebar - where?" />
-      <item value="повешать событие" />
-      <item value="Планируем закончить сегодня." />
-      <item value="specialises" />
-      <item value="We are create a new website." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4973" />
+        <entry key="ENGLISH" value="4978" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4973" />
+        <entry key="RUSSIAN" value="4978" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
