@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="filtered Data" />
+      <item value="filters Data" />
+      <item value="Can we complete work on the site?" />
+      <item value="Can we shut down the site?" />
+      <item value="Мы можем завершить работу с сайтом?" />
+      <item value="When will you be able to provide us with content for the site?" />
+      <item value="Когда вы сможете предоставить нам контент для сайта?" />
       <item value="Out rank" />
       <item value="Использовать только если синхронизация настроена на стороне сервера" />
       <item value="Auto commit mysql disabled" />
@@ -48,18 +55,11 @@
       <item value="We've updated the colors on the site. We also ask you to specify the address for the contact page." />
       <item value="Мы обновили цвета на сайте. Так же просим уточнить адрес для страницы контакты." />
       <item value="find Data Lots" />
-      <item value="disable Un Updated Lots" />
-      <item value="disable unupdated items" />
-      <item value="disabled unupdated items" />
-      <item value="сбор данных" />
-      <item value="complect Data" />
-      <item value="set Auction Slugs" />
-      <item value="prepare Key" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4981" />
+        <entry key="ENGLISH" value="4986" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4981" />
+        <entry key="RUSSIAN" value="4986" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
