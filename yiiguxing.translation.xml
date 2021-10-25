@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="To sync new auctions. Problems may arise when used with older auctions. Speeds up the synchronization process." />
+      <item value="Для синхронизации новых аукционов. При использовании со старыми аукционами могут возникнуть проблемы. Ускоряет процесс синхронизации." />
+      <item value="For newer auctions, problems may arise when used with old ones. Speeds up the synchronization process." />
+      <item value="Для новых аукционов, при использовании со старыми могут возникнуть проблемы. Ускоряет процесс синхронизации." />
+      <item value="Use post_parent for sync" />
       <item value="Filters values for the meta key dropdown in the Custom Fields meta box. Returning a non-null value will effectively short-circuit and avoid a potentially expensive query against postmeta." />
       <item value="filtered Data" />
       <item value="filters Data" />
@@ -50,16 +55,11 @@
       <item value="Do I understand correctly that you want to add a logo to the footer? We removed him from there, for the reason that he is in a header." />
       <item value="Do I understand correctly that you want to add a logo to the footer? We removed him from there, for the reason that he is in a hat." />
       <item value="Правильно я понимаю что вы хотите добавить логотип в подвал? Мы его от туда убрали, по причине, что он есть в шапке." />
-      <item value="Вы можете редактировать любой текст на главной странице." />
-      <item value="Этот адрес корректный?" />
-      <item value="We've updated the colors on the site. We also ask you to clarify the address for the contact page." />
-      <item value="We've updated the colors on the site. We also ask you to specify the address for the contact page." />
-      <item value="Мы обновили цвета на сайте. Так же просим уточнить адрес для страницы контакты." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4987" />
+        <entry key="ENGLISH" value="4990" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4987" />
+        <entry key="RUSSIAN" value="4990" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
