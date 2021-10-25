@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fine! I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day and will answer tomorrow." />
+      <item value="Отлично! Я ещё какое то время буду на связи, можете писать в случае возникновения проблем. Если не отвечу, то я закончил рабочий день и отвечу уже завтра." />
+      <item value="Good! I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day." />
+      <item value="Отлично! Я ещё какое то время буду на связи, можете писать в случае возникновения проблем. Если не отвечу, то я закончил рабочий день." />
+      <item value="As sample use demo product" />
+      <item value="Изображение загружаете вот сюда." />
+      <item value="I have made that products from the special category are not available in the main catalog." />
+      <item value="Я сделал чтобы товары из категории special были не доступны в основном каталоге." />
       <item value="To sync new auctions. Problems may arise when used with older auctions. Speeds up the synchronization process." />
       <item value="Для синхронизации новых аукционов. При использовании со старыми аукционами могут возникнуть проблемы. Ускоряет процесс синхронизации." />
       <item value="For newer auctions, problems may arise when used with old ones. Speeds up the synchronization process." />
@@ -47,19 +55,11 @@
       <item value="сущность" />
       <item value="entyti" />
       <item value="address" />
-      <item value="addres" />
-      <item value="Can you tell me the approximate number of people for this auction?" />
-      <item value="Вы сможете сказать примерное количество человек для этого аукциона?" />
-      <item value="A tronzelas client wants to implement a closed auction for a certain circle of people belonging to one company. Do you have the ability to implement this? It will be difficult on our part to implement this in the current implementation of the site." />
-      <item value="Клиент tronzelas хочет реализовать закрытый аукцион для определённого круга людей принадлежащих одной компании. У вас есть возможность реализовать такое? Реализовать подобное с нашей стороны будет сложно в текущей реализации сайта." />
-      <item value="Do I understand correctly that you want to add a logo to the footer? We removed him from there, for the reason that he is in a header." />
-      <item value="Do I understand correctly that you want to add a logo to the footer? We removed him from there, for the reason that he is in a hat." />
-      <item value="Правильно я понимаю что вы хотите добавить логотип в подвал? Мы его от туда убрали, по причине, что он есть в шапке." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4990" />
+        <entry key="ENGLISH" value="4994" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4990" />
+        <entry key="RUSSIAN" value="4994" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
