@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Optimize up the synchronization process" />
       <item value="In general, the file structure is suitable for import. There are a couple of points: Now we have not specified Countries for Brands, country IDs were listed there, but we will not use them - specify specific names." />
       <item value="В общем структура файла подходящая для импорта. Есть пара моментов: Сейчас мы не указали Countries for Brands, там были перечислены ID стран, но их мы использовать не будем - указывайте конкретные имена." />
       <item value="I have allocated two separate files to work with. Import does not work with multi-page excel files." />
@@ -54,12 +55,11 @@
       <item value="Изображение загружаете вот сюда." />
       <item value="I have made that products from the special category are not available in the main catalog." />
       <item value="Я сделал чтобы товары из категории special были не доступны в основном каталоге." />
-      <item value="To sync new auctions. Problems may arise when used with older auctions. Speeds up the synchronization process." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5019" />
+        <entry key="ENGLISH" value="5020" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5019" />
+        <entry key="RUSSIAN" value="5020" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
