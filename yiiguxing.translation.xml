@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Or use another SEO plugin that we can provide you that SmartCrawl Pro which is included in the WPMU DEV plugin package" />
+      <item value="Or use another SEO plugin that we can provide you with SmartCrawl Pro which is included in the WPMU DEV plugin package" />
+      <item value="Или использовать другой плагин для SEO который мы сможем вам предоставить SmartCrawl Pro который входит в пакет плагинов WPMU DEV" />
+      <item value="To import them, you need the PRO version of the Yoast SEO plugin." />
+      <item value="Для их импорта требуется PRO версия плагина Yoast SEO." />
+      <item value="To form such a structure, we must first form the routing in the kernel." />
+      <item value="Для формирования такой структуры мы должны предварительно сформировать в ядре маршрутизацию." />
+      <item value="The structure you specified earlier is not suitable, for import we only use the slug for the Game or Brand." />
+      <item value="Указанная ранее вами структура не подходит, для импорта мы используем только slug для Game or Brand." />
       <item value="Presented Fields in the Table (Bonuses) Represent the Final and Fixed Set of Fields? In this case, we will create a fixed set of fields for them in the admin panel to import values from the table." />
       <item value="Представленные поля в таблице (Bonuses) Представляют финальный и фиксированный набор полей? В таком случае мы создадим для них фиксированный набор полей в админ панели для импорта значений из таблицы." />
       <item value="какой номер аукциона?" />
@@ -46,20 +55,11 @@
       <item value="For newer auctions, problems may arise when used with old ones. Speeds up the synchronization process." />
       <item value="Для новых аукционов, при использовании со старыми могут возникнуть проблемы. Ускоряет процесс синхронизации." />
       <item value="Use post_parent for sync" />
-      <item value="Filters values for the meta key dropdown in the Custom Fields meta box. Returning a non-null value will effectively short-circuit and avoid a potentially expensive query against postmeta." />
-      <item value="filtered Data" />
-      <item value="filters Data" />
-      <item value="Can we complete work on the site?" />
-      <item value="Can we shut down the site?" />
-      <item value="Мы можем завершить работу с сайтом?" />
-      <item value="When will you be able to provide us with content for the site?" />
-      <item value="Когда вы сможете предоставить нам контент для сайта?" />
-      <item value="Out rank" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5012" />
+        <entry key="ENGLISH" value="5017" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5012" />
+        <entry key="RUSSIAN" value="5017" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
