@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Should I give an estimate of the time to complete them?" />
+      <item value="Я должен дать оценку времени на их выполнение?" />
+      <item value="The first two points are pretty simple and I'll do them today, the rest of the tasks will take time." />
+      <item value="Первые два пункта довольно простые и я сделаю их сегодня, на остальные задачи потребуется время." />
+      <item value="Now let's deal with the watch in the auction description." />
+      <item value="Теперь давайте разберёмся с часами в описании аукциона" />
       <item value="The question is about the fact that the picture is cropped? The picture should be displayed without cropping it?" />
       <item value="Вопрос касается того что картинка обрезается? Картинку надо выводить не обрезая её?" />
       <item value="If you transfer the information about the watch to the description of the day of the auction, the information will be displayed. Or, let's agree on this point and I will finalize this and additionally display general information about the auction in addition with a description of the auction day." />
@@ -49,17 +55,11 @@
       <item value="I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day and will answer tomorrow." />
       <item value="By creating a copy of it in a second language." />
       <item value="Создав его копию на втором языке." />
-      <item value="I also want to note that for the products with multilingualism to work correctly, you will need to associate the product with a second language" />
-      <item value="You can create many such pages, for this you need to set some options for the page and the products displayed on it." />
-      <item value="Вы можете создавать множество таких страниц, для этого нужно выставить некоторые опции для страницы и отображаемых на ней товаров." />
-      <item value="We made this page as a showcase for special products." />
-      <item value="Мы сделали эту страницу как витрину для специальных продуктов." />
-      <item value="Я создам новый пример. Как называется картина которую вы хотите создать?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5028" />
+        <entry key="ENGLISH" value="5031" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5028" />
+        <entry key="RUSSIAN" value="5031" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
