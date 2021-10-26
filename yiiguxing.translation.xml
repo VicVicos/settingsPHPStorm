@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Presented Fields in the Table (Bonuses) Represent the Final and Fixed Set of Fields? In this case, we will create a fixed set of fields for them in the admin panel to import values from the table." />
+      <item value="Представленные поля в таблице (Bonuses) Представляют финальный и фиксированный набор полей? В таком случае мы создадим для них фиксированный набор полей в админ панели для импорта значений из таблицы." />
       <item value="какой номер аукциона?" />
       <item value="Yes. I don't see an option to transfer your domain to another registrar. If we transfer the domain to our server, you will not have to pay wix for this, if they do not have a separate fee only for the domain name." />
       <item value="I don't see an option to transfer my domain to another registrar. If we transfer the domain to our server, you will not have to pay wix for this, if they do not have a separate fee only for the domain name." />
@@ -53,13 +55,11 @@
       <item value="When will you be able to provide us with content for the site?" />
       <item value="Когда вы сможете предоставить нам контент для сайта?" />
       <item value="Out rank" />
-      <item value="Использовать только если синхронизация настроена на стороне сервера" />
-      <item value="Auto commit mysql disabled" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5010" />
+        <entry key="ENGLISH" value="5012" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5011" />
+        <entry key="RUSSIAN" value="5012" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
