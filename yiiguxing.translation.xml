@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Now I can definitely start transferring the domain." />
+      <item value="Теперь я точно могу начать перенос домена." />
       <item value="Постараюсь сделать на этой неделе" />
       <item value="Forgot to finish the task by switching to other tasks." />
       <item value="Забыл доделать задачу переключившись на другие задачи." />
@@ -53,13 +55,11 @@
       <item value="Или использовать другой плагин для SEO который мы сможем вам предоставить SmartCrawl Pro который входит в пакет плагинов WPMU DEV" />
       <item value="To import them, you need the PRO version of the Yoast SEO plugin." />
       <item value="Для их импорта требуется PRO версия плагина Yoast SEO." />
-      <item value="To form such a structure, we must first form the routing in the kernel." />
-      <item value="Для формирования такой структуры мы должны предварительно сформировать в ядре маршрутизацию." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5043" />
+        <entry key="ENGLISH" value="5045" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5044" />
+        <entry key="RUSSIAN" value="5045" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
