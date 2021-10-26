@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I hope I have clearly explained why we do not see information on the clock now." />
+      <item value="Надеюсь я понятно объяснил почему мы сейчас не видим информация по часам." />
+      <item value="I worked on this question and found out that the information for a specific day of the auction is displayed here. General information on the auction will be displayed if the information for a specific day of the auction is empty. Let's decide how we should be in this case" />
+      <item value="Я работал над этим вопросом и выяснил что здесь отображается информация конкретного дня аукциона. Общая информация по аукциону будет отображаться в случае если информация для конкретного дня аукциона будет пустой. Давайте определимся как нам быть в это случаею" />
+      <item value="Happy to help." />
+      <item value="Рад был помочь." />
+      <item value="You can provide access to GoDaddy?" />
       <item value="Optimize up the synchronization process" />
       <item value="In general, the file structure is suitable for import. There are a couple of points: Now we have not specified Countries for Brands, country IDs were listed there, but we will not use them - specify specific names." />
       <item value="В общем структура файла подходящая для импорта. Есть пара моментов: Сейчас мы не указали Countries for Brands, там были перечислены ID стран, но их мы использовать не будем - указывайте конкретные имена." />
@@ -48,18 +55,11 @@
       <item value="Что именно не получилось?" />
       <item value="Так же хочу отметить что для корректной работы продуктов с мультиязычностью вы должны будете связать товар со вторым языком" />
       <item value="Fine! I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day and will answer tomorrow." />
-      <item value="Отлично! Я ещё какое то время буду на связи, можете писать в случае возникновения проблем. Если не отвечу, то я закончил рабочий день и отвечу уже завтра." />
-      <item value="Good! I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day." />
-      <item value="Отлично! Я ещё какое то время буду на связи, можете писать в случае возникновения проблем. Если не отвечу, то я закончил рабочий день." />
-      <item value="As sample use demo product" />
-      <item value="Изображение загружаете вот сюда." />
-      <item value="I have made that products from the special category are not available in the main catalog." />
-      <item value="Я сделал чтобы товары из категории special были не доступны в основном каталоге." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5020" />
+        <entry key="ENGLISH" value="5024" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5020" />
+        <entry key="RUSSIAN" value="5024" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
