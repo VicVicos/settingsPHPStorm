@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The question is about the fact that the picture is cropped? The picture should be displayed without cropping it?" />
+      <item value="Вопрос касается того что картинка обрезается? Картинку надо выводить не обрезая её?" />
+      <item value="If you transfer the information about the watch to the description of the day of the auction, the information will be displayed. Or, let's agree on this point and I will finalize this and additionally display general information about the auction in addition with a description of the auction day." />
+      <item value="Если вы перенесёте информация о часах в описание дня аукциона информация будет выведена. Или же давайте согласуем этот момент и я доработаю это и дополнительно выведу общую информацию об аукционе дополнительно с описанием дня аукциона." />
+      <item value="I will try to explain it by analogy with the auctions available to me. Take a look at these two pictures. Because of the splitting of 182 auctions into two days, we had this problem." />
+      <item value="Попробую объяснить по аналогии с доступным мне аукционами. Посмотрите на эти две картинки. Из за разбиения на два дня 182 аукцина у нас возникла эта проблема." />
       <item value="I hope I have clearly explained why we do not see information on the clock now." />
       <item value="Надеюсь я понятно объяснил почему мы сейчас не видим информация по часам." />
       <item value="I worked on this question and found out that the information for a specific day of the auction is displayed here. General information on the auction will be displayed if the information for a specific day of the auction is empty. Let's decide how we should be in this case" />
@@ -49,17 +55,11 @@
       <item value="We made this page as a showcase for special products." />
       <item value="Мы сделали эту страницу как витрину для специальных продуктов." />
       <item value="Я создам новый пример. Как называется картина которую вы хотите создать?" />
-      <item value="After creating a product, you must specify its slug to display on the page." />
-      <item value="После создания товара вы должны указать его slug для отображения на странице." />
-      <item value="What exactly did not work out?" />
-      <item value="Что именно не получилось?" />
-      <item value="Так же хочу отметить что для корректной работы продуктов с мультиязычностью вы должны будете связать товар со вторым языком" />
-      <item value="Fine! I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day and will answer tomorrow." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5024" />
+        <entry key="ENGLISH" value="5028" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5024" />
+        <entry key="RUSSIAN" value="5028" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
