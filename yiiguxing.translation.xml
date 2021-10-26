@@ -5,6 +5,25 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Постараюсь сделать на этой неделе" />
+      <item value="Forgot to finish the task by switching to other tasks." />
+      <item value="Забыл доделать задачу переключившись на другие задачи." />
+      <item value="If it is urgently needed, then this moment must be resolved with Vitaly." />
+      <item value="Если надо срочно, то этот момент надо решать с Виталием." />
+      <item value="On this week" />
+      <item value="The estimate for the remaining tasks is 3 hours." />
+      <item value="Можете уточнить пункт с &quot;Abroad prefix&quot;?" />
+      <item value="Continue filling out the information as you did now. I checked the information in the accompanying fields and realized that for auction 181 you duplicated the information in the description of the day, so we did not see any problems for 181 auctions." />
+      <item value="Продолжайте заполнять информацию как и делали сейчас. Я проверил информацию в сопутствующих полях и понял что для аукциона 181 вы продублировали информацию в описание дня, поэтому для 181 аукциона мы не увидели проблем." />
+      <item value="Можете уточнить пункт с &quot;Abroad prefix&quot;" />
+      <item value="The estimate for the remaining tasks is 4 hours." />
+      <item value="Оценка для оставшихся задач 4 часа." />
+      <item value="Estimate for lost task 3-4 hours" />
+      <item value="Unfortunately, we will not be able to complete it within the time frame you set." />
+      <item value="implementation" />
+      <item value="We have put this task in the plan for implementation and this feature will appear in one of the next plugin updates. Unfortunately, we will not be able to complete it within the time frame you set." />
+      <item value="We have put this task in the plan for implementation and this feature will appear in one of the next updates. Unfortunately, we will not be able to complete it within the time frame you set." />
+      <item value="Мы поставили эту задачу в план на выполнение и эта фича появится в одном из следующих обновлений. К сожалению мы не сможем её выполнить в установленные вами срок." />
       <item value="Should I give an estimate of the time to complete them?" />
       <item value="Я должен дать оценку времени на их выполнение?" />
       <item value="The first two points are pretty simple and I'll do them today, the rest of the tasks will take time." />
@@ -36,30 +55,11 @@
       <item value="Для их импорта требуется PRO версия плагина Yoast SEO." />
       <item value="To form such a structure, we must first form the routing in the kernel." />
       <item value="Для формирования такой структуры мы должны предварительно сформировать в ядре маршрутизацию." />
-      <item value="The structure you specified earlier is not suitable, for import we only use the slug for the Game or Brand." />
-      <item value="Указанная ранее вами структура не подходит, для импорта мы используем только slug для Game or Brand." />
-      <item value="Presented Fields in the Table (Bonuses) Represent the Final and Fixed Set of Fields? In this case, we will create a fixed set of fields for them in the admin panel to import values from the table." />
-      <item value="Представленные поля в таблице (Bonuses) Представляют финальный и фиксированный набор полей? В таком случае мы создадим для них фиксированный набор полей в админ панели для импорта значений из таблицы." />
-      <item value="какой номер аукциона?" />
-      <item value="Yes. I don't see an option to transfer your domain to another registrar. If we transfer the domain to our server, you will not have to pay wix for this, if they do not have a separate fee only for the domain name." />
-      <item value="I don't see an option to transfer my domain to another registrar. If we transfer the domain to our server, you will not have to pay wix for this, if they do not have a separate fee only for the domain name." />
-      <item value="Я не вижу возможности перенести домен к другому регистратору. Если мы перенесём домен на свой сервер у вас не будет надобности платить wix за это, в случае если у них нет отдельной платы только за доменное имя." />
-      <item value="We need time to create a separate page with a registration form. We will discuss this and let you know tomorrow." />
-      <item value="Мы обсудим это и сообщим вам завтра." />
-      <item value="We need time to create a separate page with a registration form." />
-      <item value="There is a variant of a page with a form in a modal window. We need time to create a separate page with a registration form." />
-      <item value="Есть такой вариант страницы с формой в модальном окне. Для создания отдельной страницы с формой регистрации нам нужно время." />
-      <item value="Я понял вас." />
-      <item value="Have you bought a domain on Wix?" />
-      <item value="Вы купили домен на Wix?" />
-      <item value="I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day and will answer tomorrow." />
-      <item value="By creating a copy of it in a second language." />
-      <item value="Создав его копию на втором языке." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5031" />
+        <entry key="ENGLISH" value="5043" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5031" />
+        <entry key="RUSSIAN" value="5044" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
