@@ -5,6 +5,32 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="какой номер аукциона?" />
+      <item value="Yes. I don't see an option to transfer your domain to another registrar. If we transfer the domain to our server, you will not have to pay wix for this, if they do not have a separate fee only for the domain name." />
+      <item value="I don't see an option to transfer my domain to another registrar. If we transfer the domain to our server, you will not have to pay wix for this, if they do not have a separate fee only for the domain name." />
+      <item value="Я не вижу возможности перенести домен к другому регистратору. Если мы перенесём домен на свой сервер у вас не будет надобности платить wix за это, в случае если у них нет отдельной платы только за доменное имя." />
+      <item value="We need time to create a separate page with a registration form. We will discuss this and let you know tomorrow." />
+      <item value="Мы обсудим это и сообщим вам завтра." />
+      <item value="We need time to create a separate page with a registration form." />
+      <item value="There is a variant of a page with a form in a modal window. We need time to create a separate page with a registration form." />
+      <item value="Есть такой вариант страницы с формой в модальном окне. Для создания отдельной страницы с формой регистрации нам нужно время." />
+      <item value="Я понял вас." />
+      <item value="Have you bought a domain on Wix?" />
+      <item value="Вы купили домен на Wix?" />
+      <item value="I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day and will answer tomorrow." />
+      <item value="By creating a copy of it in a second language." />
+      <item value="Создав его копию на втором языке." />
+      <item value="I also want to note that for the products with multilingualism to work correctly, you will need to associate the product with a second language" />
+      <item value="You can create many such pages, for this you need to set some options for the page and the products displayed on it." />
+      <item value="Вы можете создавать множество таких страниц, для этого нужно выставить некоторые опции для страницы и отображаемых на ней товаров." />
+      <item value="We made this page as a showcase for special products." />
+      <item value="Мы сделали эту страницу как витрину для специальных продуктов." />
+      <item value="Я создам новый пример. Как называется картина которую вы хотите создать?" />
+      <item value="After creating a product, you must specify its slug to display on the page." />
+      <item value="После создания товара вы должны указать его slug для отображения на странице." />
+      <item value="What exactly did not work out?" />
+      <item value="Что именно не получилось?" />
+      <item value="Так же хочу отметить что для корректной работы продуктов с мультиязычностью вы должны будете связать товар со вторым языком" />
       <item value="Fine! I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day and will answer tomorrow." />
       <item value="Отлично! Я ещё какое то время буду на связи, можете писать в случае возникновения проблем. Если не отвечу, то я закончил рабочий день и отвечу уже завтра." />
       <item value="Good! I will be in touch for a while, you can write in case of problems. If I don’t answer, then I’ve finished my working day." />
@@ -29,37 +55,11 @@
       <item value="Out rank" />
       <item value="Использовать только если синхронизация настроена на стороне сервера" />
       <item value="Auto commit mysql disabled" />
-      <item value="Auto commit disabled" />
-      <item value="raw Data Filter" />
-      <item value="Which are owned by the same company." />
-      <item value="Которые принадлежат одной компании." />
-      <item value="Display the auction for certain users only." />
-      <item value="Отображать аукцион только для определённых пользователей." />
-      <item value="Отображать аукцион только для определённых пользователей, принадлежащих одной компании." />
-      <item value="Display the auction only for certain users belonging to the same company." />
-      <item value="Отображать аукцион только для определённых пользователей принадлежащих одной компании." />
-      <item value="Hello, Arbel. We were informed that you have returned from vacation." />
-      <item value="Нам сообщили что вы вернулись из отпуска." />
-      <item value="We have a question about creating private auctions. On the test site that we are provided with https: web2-qa.bidspirit.com, we cannot find how to create a private auction. Can you help us with this question?" />
-      <item value="We have a question about creating private auctions." />
-      <item value="У нас возник вопрос о создании приватных аукционов." />
-      <item value="The question concerns the creation of private auctions. On the test site that we are provided with https: web2-qa.bidspirit.com, we cannot find how to create a private auction. Can you help us with this question?" />
-      <item value="We have a question about the auctions, as Arbel is on vacation, we want to ask you. The question concerns the creation of private auctions. On the test site that we are provided with https: web2-qa.bidspirit.com, we cannot find how to create a private auction. Can you help us with this question?" />
-      <item value="You can edit static content on the site yourself. For a better understanding of how to work with the site, please watch the video instructions:" />
-      <item value="You are welcome! We also wanted to inform you that we do not edit the content after the site goes into production. We provide only technical support related to the operation of the site and what concerns the auction plugin. If you have problems with the site or there are problems with the auctions, then let us know about this in the WhatsApp group or by email at support@bidspirit-themes.com. You can edit static content on the site yourself. For a better understanding of how to work with the site, please watch the video instructions:" />
-      <item value="You are welcome! Так же хотели вам сообщить о том что редактированием контента мы не занимаемся после того как сайт переходит на производство. Мы оказываем только техническую поддержку связанную с работой сайта и то что касается плагина аукционов. Если возникают проблемы в работе сайта или есть проблемы с работой аукционов, то сообщайте нам об этом в группу в WhatsApp или на почту по адресу support@bidspirit-themes.com. Редактировать статичный контент на сайте вы можете самостоятельно. Для лучшего понимания как работать с сайтом, пожалуйста ознакомьтесь с видео инструкциями:" />
-      <item value="I am a developer from UCO. We have a question about the auctions, as Arbel is on vacation, we want to ask you. The question concerns the creation of private auctions. On the test site that we are provided with https: web2-qa.bidspirit.com, we cannot find how to create a private auction. Can you help us with this question?" />
-      <item value="Я разработчик из UCO. У нас возник вопрос по работе аукционов, так как Arbel в отпуске мы хотим спросить у вас. Вопрос касается создания приватных аукционов На тестовой площадке, что нам предоставлена https:web2-qa.bidspirit.com мы не можем найти как создать приватный аукцион. Можете помочь нам с этим вопросом?" />
-      <item value="adjacent" />
-      <item value="entity List" />
-      <item value="сущность" />
-      <item value="entyti" />
-      <item value="address" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4994" />
+        <entry key="ENGLISH" value="5010" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4994" />
+        <entry key="RUSSIAN" value="5011" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
