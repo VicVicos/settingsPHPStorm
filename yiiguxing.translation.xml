@@ -5,6 +5,35 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We need to agree on the structure of the SEF links so that I can start implementing them in the kernel." />
+      <item value="Нам нужно согласовать структуру SEF ссылок что бы я мог начать реализацию их в ядре." />
+      <item value="URL - please provide an example for what you need from us." />
+      <item value="I will check the capabilities of the &quot;SmartCrawl Pro&quot; plugin with the ability to integrate it with synchronization and if it works we will opt for this plugin." />
+      <item value="Я проверю возможности плагина &quot;SmartCrawl Pro&quot; с возможностью интегрировать его с синхронизацией и если он будет работать мы остановим свой выбор на этом плагине." />
+      <item value="I added structure mapping to file &quot;iGaming - Database structure&quot;" />
+      <item value="Я добавил отображение структуры в файл" />
+      <item value="On this issue, I asked you earlier:" />
+      <item value="По этому вопросу я спрашивал у вас ранее:" />
+      <item value="A: Yes. As example:" />
+      <item value="Did you upload the data to the system? Can we see it on the CMS as pages?" />
+      <item value="When importing the first Games and Brands, this approach proved to work." />
+      <item value="При импорте первых Games and Brands этот подход доказал что он работает." />
+      <item value="b) The integrity of the name, they should not change when specifying it for relationships with other entities." />
+      <item value="a) The uniqueness of the name within the same table." />
+      <item value="a) Уникальность имени в пределах одной таблицы. b) Целостность имени, они не должно меняться при указывание его для связей с другими сущностями." />
+      <item value="This solution makes it much easier for you and us to work with the import file, but it puts small restrictions on the entity names." />
+      <item value="Такое решение значительно упрощает вам и нам работу с файлом импорта, но это вешает небольшие ограничения на имена сущностей." />
+      <item value="We decided to move away from using primary keys and use the entity name for these purposes, Vitaly should have informed you about this at the last meeting." />
+      <item value="Мы решили отойти от использования первичных ключей и использовать для этих целей имя сущности, об этом Виталий должен был сообщить вам на последней встрече." />
+      <item value="multipages tables" />
+      <item value="To import, we need to select each table in a separate file, because the import cannot work with many page tables. To start working with import, I have selected these two files." />
+      <item value="To import, we need to select each file in a separate file, because the import cannot work with many page tables. To start working with import, I have selected these two files." />
+      <item value="Для импорта нам надо выделить каждый файл в отдельный файл, по причине что импорт не умеет работать с много страничными таблицами. Для начала работы с импортом я выделил вот эти два файла." />
+      <item value="As a basis for all tables, I take the file that you provided the last time." />
+      <item value="За основу для всех таблиц я беру файл который вы предоставили в последний раз." />
+      <item value="Shipping is the responsibility of the buyer. The Buyer can arrange for shipping with any shipping company of the Buyer's choice. Helios Auctions recommends the following shippers:" />
+      <item value="SHIPPING" />
+      <item value="LIMITATION OF LIABILITY. EXCEPT AS EXPRESSLY PROVIDED HEREIN, ALL PROPERTY IS SOLD AS-IS AND WHERE IS. NEITHER HELIOS NOR THE CONSIGNOR MAKES ANY REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, AS TO THE TITLE, MERCHANTABILITY, FITNESS OR CONDITION OF THE PROPERTY OR AS TO THE CORRECTNESS OF DESCRIPTION, CORRECTNESS OF THE CATALOG OR SUPPLEMENTAL MATERIAL, OR OTHER DESCRIPTION OF THE PHYSICAL, SIZE, QUALITY, RARITY, IMPORTANCE, MEDIUM, PHYSICAL CONDITION, GENUINENESS, AUTHENTICITY, ATTRIBUTION, PROVENANCE OR PERIOD OF THE PROPERTY, OR AS TO ANY TRADEMARKS, COPYRIGHTS OR OTHER INTELLECTUAL PROPERTY RIGHTS IN LOTS SOLD. THE PURCHASER EXPRESSLY ACKNOWLEDGES AND AGREES THAT IN NO EVENT SHALL HELIOS BE LIABLE FOR ANY DAMAGES INCLUDING WITHOUT LIMITATION ANY COMPENSATORY, INCIDENTAL, OR CONSEQUENTIAL DAMAGES." />
       <item value="Now I can definitely start transferring the domain." />
       <item value="Теперь я точно могу начать перенос домена." />
       <item value="Постараюсь сделать на этой неделе" />
@@ -26,40 +55,11 @@
       <item value="We have put this task in the plan for implementation and this feature will appear in one of the next plugin updates. Unfortunately, we will not be able to complete it within the time frame you set." />
       <item value="We have put this task in the plan for implementation and this feature will appear in one of the next updates. Unfortunately, we will not be able to complete it within the time frame you set." />
       <item value="Мы поставили эту задачу в план на выполнение и эта фича появится в одном из следующих обновлений. К сожалению мы не сможем её выполнить в установленные вами срок." />
-      <item value="Should I give an estimate of the time to complete them?" />
-      <item value="Я должен дать оценку времени на их выполнение?" />
-      <item value="The first two points are pretty simple and I'll do them today, the rest of the tasks will take time." />
-      <item value="Первые два пункта довольно простые и я сделаю их сегодня, на остальные задачи потребуется время." />
-      <item value="Now let's deal with the watch in the auction description." />
-      <item value="Теперь давайте разберёмся с часами в описании аукциона" />
-      <item value="The question is about the fact that the picture is cropped? The picture should be displayed without cropping it?" />
-      <item value="Вопрос касается того что картинка обрезается? Картинку надо выводить не обрезая её?" />
-      <item value="If you transfer the information about the watch to the description of the day of the auction, the information will be displayed. Or, let's agree on this point and I will finalize this and additionally display general information about the auction in addition with a description of the auction day." />
-      <item value="Если вы перенесёте информация о часах в описание дня аукциона информация будет выведена. Или же давайте согласуем этот момент и я доработаю это и дополнительно выведу общую информацию об аукционе дополнительно с описанием дня аукциона." />
-      <item value="I will try to explain it by analogy with the auctions available to me. Take a look at these two pictures. Because of the splitting of 182 auctions into two days, we had this problem." />
-      <item value="Попробую объяснить по аналогии с доступным мне аукционами. Посмотрите на эти две картинки. Из за разбиения на два дня 182 аукцина у нас возникла эта проблема." />
-      <item value="I hope I have clearly explained why we do not see information on the clock now." />
-      <item value="Надеюсь я понятно объяснил почему мы сейчас не видим информация по часам." />
-      <item value="I worked on this question and found out that the information for a specific day of the auction is displayed here. General information on the auction will be displayed if the information for a specific day of the auction is empty. Let's decide how we should be in this case" />
-      <item value="Я работал над этим вопросом и выяснил что здесь отображается информация конкретного дня аукциона. Общая информация по аукциону будет отображаться в случае если информация для конкретного дня аукциона будет пустой. Давайте определимся как нам быть в это случаею" />
-      <item value="Happy to help." />
-      <item value="Рад был помочь." />
-      <item value="You can provide access to GoDaddy?" />
-      <item value="Optimize up the synchronization process" />
-      <item value="In general, the file structure is suitable for import. There are a couple of points: Now we have not specified Countries for Brands, country IDs were listed there, but we will not use them - specify specific names." />
-      <item value="В общем структура файла подходящая для импорта. Есть пара моментов: Сейчас мы не указали Countries for Brands, там были перечислены ID стран, но их мы использовать не будем - указывайте конкретные имена." />
-      <item value="I have allocated two separate files to work with. Import does not work with multi-page excel files." />
-      <item value="Я выделил два отдельных файла для работы. Импорт не работает с многостраничными файлами excel." />
-      <item value="Or use another SEO plugin that we can provide you that SmartCrawl Pro which is included in the WPMU DEV plugin package" />
-      <item value="Or use another SEO plugin that we can provide you with SmartCrawl Pro which is included in the WPMU DEV plugin package" />
-      <item value="Или использовать другой плагин для SEO который мы сможем вам предоставить SmartCrawl Pro который входит в пакет плагинов WPMU DEV" />
-      <item value="To import them, you need the PRO version of the Yoast SEO plugin." />
-      <item value="Для их импорта требуется PRO версия плагина Yoast SEO." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5045" />
+        <entry key="ENGLISH" value="5064" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,8 +67,8 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5045" />
-        <entry key="FRENCH" value="6" />
+        <entry key="RUSSIAN" value="5064" />
+        <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
