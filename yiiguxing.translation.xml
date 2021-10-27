@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Site production admin url" />
       <item value="We need to agree on the structure of the SEF links so that I can start implementing them in the kernel." />
       <item value="Нам нужно согласовать структуру SEF ссылок что бы я мог начать реализацию их в ядре." />
       <item value="URL - please provide an example for what you need from us." />
@@ -54,12 +55,11 @@
       <item value="implementation" />
       <item value="We have put this task in the plan for implementation and this feature will appear in one of the next plugin updates. Unfortunately, we will not be able to complete it within the time frame you set." />
       <item value="We have put this task in the plan for implementation and this feature will appear in one of the next updates. Unfortunately, we will not be able to complete it within the time frame you set." />
-      <item value="Мы поставили эту задачу в план на выполнение и эта фича появится в одном из следующих обновлений. К сожалению мы не сможем её выполнить в установленные вами срок." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5064" />
+        <entry key="ENGLISH" value="5065" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5064" />
+        <entry key="RUSSIAN" value="5065" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
