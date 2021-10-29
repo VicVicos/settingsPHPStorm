@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Do you don't work on site? We have released a major update for the plugin and I need to work with the site. Data entered after this moment may disappear." />
+      <item value="Мы выпустили крупное обновление для плагина и мне надо поработать с сайтом. Данные внесённые после этого момента могут исчезнуть." />
+      <item value="Do you don't work on site?" />
       <item value="Do date" />
       <item value="Date do" />
       <item value="If the error occurs again, send a screen shot where we can see the error text." />
@@ -52,14 +55,11 @@
       <item value="On this week" />
       <item value="The estimate for the remaining tasks is 3 hours." />
       <item value="Можете уточнить пункт с &quot;Abroad prefix&quot;?" />
-      <item value="Continue filling out the information as you did now. I checked the information in the accompanying fields and realized that for auction 181 you duplicated the information in the description of the day, so we did not see any problems for 181 auctions." />
-      <item value="Продолжайте заполнять информацию как и делали сейчас. Я проверил информацию в сопутствующих полях и понял что для аукциона 181 вы продублировали информацию в описание дня, поэтому для 181 аукциона мы не увидели проблем." />
-      <item value="Можете уточнить пункт с &quot;Abroad prefix&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5071" />
+        <entry key="ENGLISH" value="5073" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="5071" />
+        <entry key="RUSSIAN" value="5073" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
