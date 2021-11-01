@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! Sorry for not having time to make the edits on Friday as promised, I was taking a sick day due to illness. Now almost everything is ready, it remains to translate the phrase into Hebrew: &quot;You are the Leading Bidder&quot;" />
+      <item value="Hello! Простите что не успел сделать правки в пятницу как обещал, я брал больничный день из-за болезни. Сейчас почти всё готово, осталось сделать перевод на Иврит фразы: &quot;You are the Leading Bidder&quot;" />
       <item value="You are the Leading Bidder" />
       <item value="You are the highest bidder" />
       <item value="You lider" />
@@ -53,13 +55,11 @@
       <item value="Теперь я точно могу начать перенос домена." />
       <item value="Постараюсь сделать на этой неделе" />
       <item value="Forgot to finish the task by switching to other tasks." />
-      <item value="Забыл доделать задачу переключившись на другие задачи." />
-      <item value="If it is urgently needed, then this moment must be resolved with Vitaly." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5075" />
+        <entry key="ENGLISH" value="5076" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5075" />
+        <entry key="RUSSIAN" value="5076" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
