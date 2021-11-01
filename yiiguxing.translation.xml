@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry for the long answer, I was on sick leave. Is the time display error still relevant?" />
+      <item value="Простите за долгий ответ, я был на больничном. Ошибка с отображением времени актуальна?" />
       <item value="Hello! Sorry for not having time to make the edits on Friday as promised, I was taking a sick day due to illness. Now almost everything is ready, it remains to translate the phrase into Hebrew: &quot;You are the Leading Bidder&quot;" />
       <item value="Hello! Простите что не успел сделать правки в пятницу как обещал, я брал больничный день из-за болезни. Сейчас почти всё готово, осталось сделать перевод на Иврит фразы: &quot;You are the Leading Bidder&quot;" />
       <item value="You are the Leading Bidder" />
@@ -53,13 +55,11 @@
       <item value="LIMITATION OF LIABILITY. EXCEPT AS EXPRESSLY PROVIDED HEREIN, ALL PROPERTY IS SOLD AS-IS AND WHERE IS. NEITHER HELIOS NOR THE CONSIGNOR MAKES ANY REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, AS TO THE TITLE, MERCHANTABILITY, FITNESS OR CONDITION OF THE PROPERTY OR AS TO THE CORRECTNESS OF DESCRIPTION, CORRECTNESS OF THE CATALOG OR SUPPLEMENTAL MATERIAL, OR OTHER DESCRIPTION OF THE PHYSICAL, SIZE, QUALITY, RARITY, IMPORTANCE, MEDIUM, PHYSICAL CONDITION, GENUINENESS, AUTHENTICITY, ATTRIBUTION, PROVENANCE OR PERIOD OF THE PROPERTY, OR AS TO ANY TRADEMARKS, COPYRIGHTS OR OTHER INTELLECTUAL PROPERTY RIGHTS IN LOTS SOLD. THE PURCHASER EXPRESSLY ACKNOWLEDGES AND AGREES THAT IN NO EVENT SHALL HELIOS BE LIABLE FOR ANY DAMAGES INCLUDING WITHOUT LIMITATION ANY COMPENSATORY, INCIDENTAL, OR CONSEQUENTIAL DAMAGES." />
       <item value="Now I can definitely start transferring the domain." />
       <item value="Теперь я точно могу начать перенос домена." />
-      <item value="Постараюсь сделать на этой неделе" />
-      <item value="Forgot to finish the task by switching to other tasks." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5076" />
+        <entry key="ENGLISH" value="5077" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5076" />
+        <entry key="RUSSIAN" value="5077" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
