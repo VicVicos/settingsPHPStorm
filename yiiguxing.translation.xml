@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Disable migrate sync" />
+      <item value="Migrate sync off" />
+      <item value="Sync Migrate off" />
+      <item value="sync migrate" />
       <item value="Sorry, we had problems with the designer. Now he has started work and this week we will try to close your tasks." />
       <item value="Простите, у нас были проблемы с дизайнером. Сейчас он приступил к работе и на этой неделе постараемся закрыть ваши задачи." />
       <item value="Sorry, we had design issues. Now he has started work and this week we will try to close your tasks." />
@@ -51,15 +55,11 @@
       <item value="multipages tables" />
       <item value="To import, we need to select each table in a separate file, because the import cannot work with many page tables. To start working with import, I have selected these two files." />
       <item value="To import, we need to select each file in a separate file, because the import cannot work with many page tables. To start working with import, I have selected these two files." />
-      <item value="Для импорта нам надо выделить каждый файл в отдельный файл, по причине что импорт не умеет работать с много страничными таблицами. Для начала работы с импортом я выделил вот эти два файла." />
-      <item value="As a basis for all tables, I take the file that you provided the last time." />
-      <item value="За основу для всех таблиц я беру файл который вы предоставили в последний раз." />
-      <item value="Shipping is the responsibility of the buyer. The Buyer can arrange for shipping with any shipping company of the Buyer's choice. Helios Auctions recommends the following shippers:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5079" />
+        <entry key="ENGLISH" value="5083" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5079" />
+        <entry key="RUSSIAN" value="5083" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
