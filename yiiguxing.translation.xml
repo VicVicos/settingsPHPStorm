@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Test domain: http:http:bidwickliff.ln12.tempurl.info they is their IP address." />
       <item value="simple" />
       <item value="Disable migrate sync" />
       <item value="Migrate sync off" />
@@ -54,12 +55,11 @@
       <item value="We decided to move away from using primary keys and use the entity name for these purposes, Vitaly should have informed you about this at the last meeting." />
       <item value="Мы решили отойти от использования первичных ключей и использовать для этих целей имя сущности, об этом Виталий должен был сообщить вам на последней встрече." />
       <item value="multipages tables" />
-      <item value="To import, we need to select each table in a separate file, because the import cannot work with many page tables. To start working with import, I have selected these two files." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5084" />
+        <entry key="ENGLISH" value="5085" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5084" />
+        <entry key="RUSSIAN" value="5085" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
