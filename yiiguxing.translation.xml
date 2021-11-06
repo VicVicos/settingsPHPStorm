@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry, I probably forgot to clear the cache on the site." />
+      <item value="наверное я забыл очистить кеш на сайте." />
       <item value="I checked again all future auctions and found no duplicates on the site." />
       <item value="Я проверил снова все будущие аукционы и не нашёл дублей на сайте." />
       <item value="This is a mistake, we will fix it now." />
@@ -53,13 +55,11 @@
       <item value="Did you upload the data to the system? Can we see it on the CMS as pages?" />
       <item value="When importing the first Games and Brands, this approach proved to work." />
       <item value="При импорте первых Games and Brands этот подход доказал что он работает." />
-      <item value="b) The integrity of the name, they should not change when specifying it for relationships with other entities." />
-      <item value="a) The uniqueness of the name within the same table." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5089" />
+        <entry key="ENGLISH" value="5090" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5089" />
+        <entry key="RUSSIAN" value="5090" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
