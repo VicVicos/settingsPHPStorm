@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Begin to" />
+      <item value="Begin" />
+      <item value="Filters the post parent -- used to check for and prevent hierarchy loops." />
       <item value="Sorry, I probably forgot to clear the cache on the site." />
       <item value="наверное я забыл очистить кеш на сайте." />
       <item value="I checked again all future auctions and found no duplicates on the site." />
@@ -52,14 +55,11 @@
       <item value="On this issue, I asked you earlier:" />
       <item value="По этому вопросу я спрашивал у вас ранее:" />
       <item value="A: Yes. As example:" />
-      <item value="Did you upload the data to the system? Can we see it on the CMS as pages?" />
-      <item value="When importing the first Games and Brands, this approach proved to work." />
-      <item value="При импорте первых Games and Brands этот подход доказал что он работает." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5090" />
+        <entry key="ENGLISH" value="5093" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5090" />
+        <entry key="RUSSIAN" value="5093" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
