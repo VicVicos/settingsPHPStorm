@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="flights" />
+      <item value="seats" />
       <item value="belongs To" />
       <item value="Begin to" />
       <item value="Begin" />
@@ -53,13 +55,11 @@
       <item value="Я проверю возможности плагина &quot;SmartCrawl Pro&quot; с возможностью интегрировать его с синхронизацией и если он будет работать мы остановим свой выбор на этом плагине." />
       <item value="I added structure mapping to file &quot;iGaming - Database structure&quot;" />
       <item value="Я добавил отображение структуры в файл" />
-      <item value="On this issue, I asked you earlier:" />
-      <item value="По этому вопросу я спрашивал у вас ранее:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5094" />
+        <entry key="ENGLISH" value="5096" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5094" />
+        <entry key="RUSSIAN" value="5096" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
