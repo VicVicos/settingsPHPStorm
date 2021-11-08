@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We receive an error during synchronization that you have two auctions with number 27. Please change the number of the second auction with number 27." />
+      <item value="Мы получаем ошибку при синхронизации о том что у вас есть два аукциона с номером 27. Пожалуйста измените номер второго аукциона с номером 27." />
+      <item value="We worked on a solution to this problem and released the plugin update today, it remains to make the settings in the plugin for this. I'll do it now." />
+      <item value="Мы работали над решением этой проблемы и выпустили обновление плагина сегодня, осталось сделать настройки в плагине для этого. Я сделаю это сейчас." />
       <item value="Now the designer is finishing work on the design, we will send you a look at it soon." />
       <item value="Сейчас дизайнер заканчивает работу над дизайном, скоро мы скинем вам его посмотреть." />
       <item value="Hope for understanding." />
@@ -51,15 +55,11 @@
       <item value="Do you don't work on site? We have released a major update for the plugin and I need to work with the site. Data entered after this moment may disappear." />
       <item value="Мы выпустили крупное обновление для плагина и мне надо поработать с сайтом. Данные внесённые после этого момента могут исчезнуть." />
       <item value="Do you don't work on site?" />
-      <item value="Do date" />
-      <item value="Date do" />
-      <item value="If the error occurs again, send a screen shot where we can see the error text." />
-      <item value="В случае повторного возникновения ошибки пришлите скрин экрана где мы сможем увидеть текст ошибки." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5103" />
+        <entry key="ENGLISH" value="5105" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5103" />
+        <entry key="RUSSIAN" value="5105" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
