@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="games fields" />
+      <item value="WordPress maintenance mode" />
       <item value="A 'random' string of text to help with security from time to time." />
       <item value="Whether a post type is intended for use publicly either via the admin interface or by front-end users. While the default settings of exclude_from_search, publicly_queryable, show_ui, and show_in_nav_menus are inherited from public, each does not rely on this relationship and controls a very specific intention." />
       <item value="Legacy argument format (taxonomy, args) takes precedence." />
@@ -53,13 +55,11 @@
       <item value="Простите, у нас были проблемы с дизайном. Сейчас он приступил к работе и на этой неделе постараемся закрыть ваши задачи." />
       <item value="Sorry for the long answer, I was on sick leave. Is the time display error still relevant?" />
       <item value="Простите за долгий ответ, я был на больничном. Ошибка с отображением времени актуальна?" />
-      <item value="Hello! Sorry for not having time to make the edits on Friday as promised, I was taking a sick day due to illness. Now almost everything is ready, it remains to translate the phrase into Hebrew: &quot;You are the Leading Bidder&quot;" />
-      <item value="Hello! Простите что не успел сделать правки в пятницу как обещал, я брал больничный день из-за болезни. Сейчас почти всё готово, осталось сделать перевод на Иврит фразы: &quot;You are the Leading Bidder&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5110" />
+        <entry key="ENGLISH" value="5112" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5110" />
+        <entry key="RUSSIAN" value="5112" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
