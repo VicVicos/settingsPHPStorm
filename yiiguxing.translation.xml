@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Whether a post type is intended for use publicly either via the admin interface or by front-end users. While the default settings of exclude_from_search, publicly_queryable, show_ui, and show_in_nav_menus are inherited from public, each does not rely on this relationship and controls a very specific intention." />
+      <item value="Legacy argument format (taxonomy, args) takes precedence." />
       <item value="Good. I'll hand it over to the designer. Can you provide a logo in svg format?" />
       <item value="Хорошо. Я передам дизайнеру. Вы можете предоставить лого в svg формате?" />
       <item value="I forgot to tell you. Designers used pictures that were available to them, if you have pictures that you would like to use, you can send them to us." />
@@ -53,13 +55,11 @@
       <item value="Hello! Sorry for not having time to make the edits on Friday as promised, I was taking a sick day due to illness. Now almost everything is ready, it remains to translate the phrase into Hebrew: &quot;You are the Leading Bidder&quot;" />
       <item value="Hello! Простите что не успел сделать правки в пятницу как обещал, я брал больничный день из-за болезни. Сейчас почти всё готово, осталось сделать перевод на Иврит фразы: &quot;You are the Leading Bidder&quot;" />
       <item value="You are the Leading Bidder" />
-      <item value="You are the highest bidder" />
-      <item value="You lider" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5107" />
+        <entry key="ENGLISH" value="5109" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5107" />
+        <entry key="RUSSIAN" value="5109" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
