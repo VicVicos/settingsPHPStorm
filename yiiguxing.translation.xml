@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Now about the name of the lots, can you show in which field on Bidspirit you fill in this information?" />
+      <item value="Теперь об имени лотов, вы можете показать в какое поле на Bidspirit вы заполняете эту информацию?" />
+      <item value="Sorry. About the problem with displaying lot information, the problem was with the cache on browser. I fixed it and now the site will serve the fresh version." />
+      <item value="Я исправил это и теперь сайт будет отдавать свежую версию." />
+      <item value="Sorry. About the problem with displaying lot information, the problem was with the cache on browser. I fixed it and it won't happen again." />
+      <item value="Sorry. About the problem with displaying lot information, the problem was with the cache. I fixed it and it won't happen again." />
+      <item value="Sorry. About the problem with displaying information and lot, the problem was with the cache. I fixed it and it won't happen again." />
+      <item value="Простите. О проблеме с отображением информации и лоте, проблема была с кешем. Я исправил это и более это не повторится." />
+      <item value="You have an example." />
+      <item value="Пример у вас есть." />
+      <item value="You can insert things like this on your site yourself using this plugin." />
+      <item value="Вы можете вставлять подобные вещи на сайте самостоятельно с помощью этого плагина." />
+      <item value="If you log in to the site as an administrator, you will be as an administrator on the site, all other users will be ordinary users." />
+      <item value="Если вы авторизуетесь на сайте как админ, вы будете как администратор на сайте, все другие пользователи будут простыми пользователями." />
+      <item value="Обычные пользователи сайта" />
+      <item value="Обычные посетители сайта" />
+      <item value="I will check this, the data is synchronized, but why not displayed for an unauthorized user." />
       <item value="games fields" />
       <item value="WordPress maintenance mode" />
       <item value="A 'random' string of text to help with security from time to time." />
@@ -38,28 +55,11 @@
       <item value="Sorry, I probably forgot to clear the cache on the site." />
       <item value="наверное я забыл очистить кеш на сайте." />
       <item value="I checked again all future auctions and found no duplicates on the site." />
-      <item value="Я проверил снова все будущие аукционы и не нашёл дублей на сайте." />
-      <item value="This is a mistake, we will fix it now." />
-      <item value="Это ошибка, мы сейчас исправим это." />
-      <item value="Before installing the plugin please give us the domain and IP address and we will contact the bidspirit support team to whitelist the site." />
-      <item value="The site is connected to your bidspirit profile." />
-      <item value="Test domain: http:http:bidwickliff.ln12.tempurl.info they is their IP address." />
-      <item value="simple" />
-      <item value="Disable migrate sync" />
-      <item value="Migrate sync off" />
-      <item value="Sync Migrate off" />
-      <item value="sync migrate" />
-      <item value="Sorry, we had problems with the designer. Now he has started work and this week we will try to close your tasks." />
-      <item value="Простите, у нас были проблемы с дизайнером. Сейчас он приступил к работе и на этой неделе постараемся закрыть ваши задачи." />
-      <item value="Sorry, we had design issues. Now he has started work and this week we will try to close your tasks." />
-      <item value="Простите, у нас были проблемы с дизайном. Сейчас он приступил к работе и на этой неделе постараемся закрыть ваши задачи." />
-      <item value="Sorry for the long answer, I was on sick leave. Is the time display error still relevant?" />
-      <item value="Простите за долгий ответ, я был на больничном. Ошибка с отображением времени актуальна?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5112" />
+        <entry key="ENGLISH" value="5124" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5112" />
+        <entry key="RUSSIAN" value="5124" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
