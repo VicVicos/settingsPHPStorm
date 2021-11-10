@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If you will change the information about the auction itself, in this case you need to log in as an administrator on the site and click this button." />
+      <item value="Lots will be synchronized automatically, in this case you do not need to do anything manually. If there is, you will change the information about the auction itself, in this case you need to log in as an administrator on the site and click this button." />
+      <item value="Синхронизация лотов будет происходить автоматически, в этом случае ни чего делать в ручную не надо. В случае есть вы будите изменять информацию о самом аукционе, в этом случае надо авторизоваться как администратор на сайте и нажать вот эту кнопку." />
+      <item value="This problem occurs when you update the information about the catalog, in this case we cannot automatically clear the cache on the site, this must be done manually in the site admin panel. When a new directory appears, the cache is cleared automatically and this issue does not occur." />
+      <item value="Эта проблема возникает вы обновляете информацию о каталоге, в этом случае мы не можем автоматически очистить кеш на сайте, это надо сделать в ручную в админке сайта. При появлении нового каталога очистка кеша происходит автоматически, и эта проблема не возникает." />
+      <item value="We are aware of this issue and will be resolved in one of the next plugin updates." />
+      <item value="Нам известно об этой проблеме и решение её будет в одном из следующих обновлений плагина." />
+      <item value="We are aware of this problem, the task is in planning and its solution will be in one of the next plugin updates." />
+      <item value="Нам известно об этой проблеме, задача в планировании и решение её будет в одном из следующих обновлений плагина." />
       <item value="Now about the name of the lots, can you show in which field on Bidspirit you fill in this information?" />
       <item value="Теперь об имени лотов, вы можете показать в какое поле на Bidspirit вы заполняете эту информацию?" />
       <item value="Sorry. About the problem with displaying lot information, the problem was with the cache on browser. I fixed it and now the site will serve the fresh version." />
@@ -46,20 +55,11 @@
       <item value="Это клиентские сайты которые приобрели только плагин, я не могу так просто взять и сделать изменения на их сайтах." />
       <item value="It is custom clients site, i don't work" />
       <item value="Array of parsed post data." />
-      <item value="flights" />
-      <item value="seats" />
-      <item value="belongs To" />
-      <item value="Begin to" />
-      <item value="Begin" />
-      <item value="Filters the post parent -- used to check for and prevent hierarchy loops." />
-      <item value="Sorry, I probably forgot to clear the cache on the site." />
-      <item value="наверное я забыл очистить кеш на сайте." />
-      <item value="I checked again all future auctions and found no duplicates on the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5124" />
+        <entry key="ENGLISH" value="5130" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5124" />
+        <entry key="RUSSIAN" value="5130" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
