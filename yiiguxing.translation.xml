@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exact value lookup only" />
       <item value="What kind of questions do you have? Maybe I can help you now." />
       <item value="Какого плана у вас вопросы? Может я смогу вам помочь сейчас." />
       <item value="Ranks" />
@@ -54,12 +55,11 @@
       <item value="Мы получаем ошибку при синхронизации о том что у вас есть два аукциона с номером 27. Пожалуйста измените номер второго аукциона с номером 27." />
       <item value="We worked on a solution to this problem and released the plugin update today, it remains to make the settings in the plugin for this. I'll do it now." />
       <item value="Мы работали над решением этой проблемы и выпустили обновление плагина сегодня, осталось сделать настройки в плагине для этого. Я сделаю это сейчас." />
-      <item value="Now the designer is finishing work on the design, we will send you a look at it soon." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5136" />
+        <entry key="ENGLISH" value="5137" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5136" />
+        <entry key="RUSSIAN" value="5137" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
