@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please send this link in whatapp group with client." />
+      <item value="I added the designer to the group. She will ask you a few clarifying questions." />
+      <item value="Я добавил дизайнера в группу. Она задаст вам несколько уточняющих вопросов." />
+      <item value="What picture do you want to put instead of the main banner?" />
+      <item value="Какую картинку вы хотите поставить вместо главного баннера?" />
       <item value="Подтвердите что с новым аукционом не возникло проблем при загрузке." />
       <item value="Hello! What questions do you have?" />
       <item value="Какие вопросы у вас имеются?" />
@@ -50,16 +55,11 @@
       <item value="Пример у вас есть." />
       <item value="You can insert things like this on your site yourself using this plugin." />
       <item value="Вы можете вставлять подобные вещи на сайте самостоятельно с помощью этого плагина." />
-      <item value="If you log in to the site as an administrator, you will be as an administrator on the site, all other users will be ordinary users." />
-      <item value="Если вы авторизуетесь на сайте как админ, вы будете как администратор на сайте, все другие пользователи будут простыми пользователями." />
-      <item value="Обычные пользователи сайта" />
-      <item value="Обычные посетители сайта" />
-      <item value="I will check this, the data is synchronized, but why not displayed for an unauthorized user." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5144" />
+        <entry key="ENGLISH" value="5148" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5145" />
+        <entry key="RUSSIAN" value="5148" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
