@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You reedy answer Appelauction client?" />
+      <item value="You ready answer Appelauction client?" />
       <item value="I don't know anything about this site." />
       <item value="Я ни чего не знаю об этом сайте." />
       <item value="thin" />
@@ -53,13 +55,11 @@
       <item value="Теперь об имени лотов, вы можете показать в какое поле на Bidspirit вы заполняете эту информацию?" />
       <item value="Sorry. About the problem with displaying lot information, the problem was with the cache on browser. I fixed it and now the site will serve the fresh version." />
       <item value="Я исправил это и теперь сайт будет отдавать свежую версию." />
-      <item value="Sorry. About the problem with displaying lot information, the problem was with the cache on browser. I fixed it and it won't happen again." />
-      <item value="Sorry. About the problem with displaying lot information, the problem was with the cache. I fixed it and it won't happen again." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5152" />
+        <entry key="ENGLISH" value="5154" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5152" />
+        <entry key="RUSSIAN" value="5154" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
