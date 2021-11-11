@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I don't know anything about this site." />
+      <item value="Я ни чего не знаю об этом сайте." />
       <item value="thin" />
       <item value="Yes. The client had no comments on these pages." />
       <item value="Да. К этим страницам у клиента не было замечаний." />
@@ -53,13 +55,11 @@
       <item value="Я исправил это и теперь сайт будет отдавать свежую версию." />
       <item value="Sorry. About the problem with displaying lot information, the problem was with the cache on browser. I fixed it and it won't happen again." />
       <item value="Sorry. About the problem with displaying lot information, the problem was with the cache. I fixed it and it won't happen again." />
-      <item value="Sorry. About the problem with displaying information and lot, the problem was with the cache. I fixed it and it won't happen again." />
-      <item value="Простите. О проблеме с отображением информации и лоте, проблема была с кешем. Я исправил это и более это не повторится." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5151" />
+        <entry key="ENGLISH" value="5152" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5151" />
+        <entry key="RUSSIAN" value="5152" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
