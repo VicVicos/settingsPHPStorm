@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Variance" />
       <item value="Now the synchronization process is in progress and all lots will appear on your site in the near future." />
       <item value="Сейчас процесс синхронизации в процессе и все лоты появятся на вашем сайте в ближайшее время." />
       <item value="Now the synchronization process is in progress and all lots will appear on your site." />
@@ -54,12 +55,11 @@
       <item value="WordPress maintenance mode" />
       <item value="A 'random' string of text to help with security from time to time." />
       <item value="Whether a post type is intended for use publicly either via the admin interface or by front-end users. While the default settings of exclude_from_search, publicly_queryable, show_ui, and show_in_nav_menus are inherited from public, each does not rely on this relationship and controls a very specific intention." />
-      <item value="Legacy argument format (taxonomy, args) takes precedence." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5141" />
+        <entry key="ENGLISH" value="5142" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5141" />
+        <entry key="RUSSIAN" value="5142" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
