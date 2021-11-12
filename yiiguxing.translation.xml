@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="At the first stage, just update and not change anything in the settings, after a while remind me and I will set up a new synchronization." />
+      <item value="At the first stage, just update or change anything in the settings, after a while remind me and I will set up a new synchronization." />
+      <item value="На первом этапе просто обновите ни чего не меняя в настройках, через какое то время напомните мне и я настрою на новую синхронизацию." />
+      <item value="Yes, as long as they haven't tweaked the plugin to fit their needs, which is unlikely." />
+      <item value="Да, если они не переделывали плагин под свои нужды, что мало вероятно." />
+      <item value="I think this options reload global settings" />
+      <item value="I would recommend updating the plugin to the latest version. There we made synchronization optimization, which greatly speeds up this process. But it requires a migration process that runs as a background process." />
+      <item value="Я бы порекомендовал обновить плагин до последней версии. Там мы сделали оптимизацию синхронизации что очень сильно ускоряет данный процесс. Но там требуется выполнить процесс миграции, который выполняется как фоновый процесс." />
+      <item value="The reason for which the number of lots does not change is not known to me. I'll try to understand." />
+      <item value="Причина из за которой количество лотов не меняется мне не известна. Попробую понять." />
+      <item value="The number of lots on the page depends on the general settings in Wordpress, which is what you showed." />
+      <item value="Количество лотов на странице зависит от общих настроек в Wordpress что вы и показывали." />
       <item value="We have created a task at your request and will add this feature of the next versions of the plugin." />
       <item value="Now we do not have a search by lot number, only by content. We have created a task at your request and will add this feature in one of the next versions of the plugin." />
       <item value="Now we do not have a search by lot number, only by content. We have created a task at your request and will add this functionality in one of the next versions of the plugin." />
@@ -43,23 +55,11 @@
       <item value="Ранее я заходил на ваш профиль в Bidspirit и каталог 151121 не был доступен для просмотра." />
       <item value="Previously, I went to your profile in Bidspirit and the catalog 151121 was not available for viewing?" />
       <item value="Ранее я заходил на ваш профиль в Bidspirit и каталог 151121 не был доступен для просмотра?" />
-      <item value="exact value lookup only" />
-      <item value="What kind of questions do you have? Maybe I can help you now." />
-      <item value="Какого плана у вас вопросы? Может я смогу вам помочь сейчас." />
-      <item value="Ranks" />
-      <item value="I think there will be an update this month. Let's put this problem as a priority." />
-      <item value="В этом месяце думаю будет обновление. Эту проблему поставим в приоритет." />
-      <item value="Keep capitalization" />
-      <item value="Is this the same field?" />
-      <item value="Это одно и то же поле?" />
-      <item value="I think that we do not synchronize this field in the standard plugin implementation." />
-      <item value="Я думаю что мы не синхронизируем это поле в стандартной реализации плагина." />
-      <item value="If you will change the information about the auction itself, in this case you need to log in as an administrator on the site and click this button." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5164" />
+        <entry key="ENGLISH" value="5171" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5164" />
+        <entry key="RUSSIAN" value="5171" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
