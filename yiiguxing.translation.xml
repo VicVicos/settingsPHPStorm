@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have questions regarding the these buttons. What to do share buttons, share without label, as well as Login and Join." />
+      <item value="We have questions regarding the these buttons." />
+      <item value="We have questions regarding the elements of these buttons." />
+      <item value="We have questions regarding the elements of these buttons. What to do share buttons, share without label, as well as Login and Join." />
+      <item value="У нас имеются вопросы относительно элементов вот этих кнопок. Что делать кнопки share, share без надписи, а так же Login and Join." />
       <item value="Validate and then redirect on failure with errors, immediately when imported by the application container resolver." />
       <item value="I changed my license key in an Office application, and a different key was generated for me to activate over the phone." />
       <item value="Я изменил ключ лицензии в приложении Office, и мне сгенерировали другой ключ для активации по телефону." />
@@ -50,16 +55,11 @@
       <item value="I added the designer to the group. She will ask you a few clarifying questions." />
       <item value="Я добавил дизайнера в группу. Она задаст вам несколько уточняющих вопросов." />
       <item value="What picture do you want to put instead of the main banner?" />
-      <item value="Какую картинку вы хотите поставить вместо главного баннера?" />
-      <item value="Подтвердите что с новым аукционом не возникло проблем при загрузке." />
-      <item value="Hello! What questions do you have?" />
-      <item value="Какие вопросы у вас имеются?" />
-      <item value="base for casinogames" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5177" />
+        <entry key="ENGLISH" value="5181" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5177" />
+        <entry key="RUSSIAN" value="5181" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
