@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Но если мы использовали postmeta для хранения денных, указанные нами данные в поле items() отображались." />
+      <item value="But if we used postmeta to store data, the data we specified in the items() field was displayed." />
+      <item value="But if we used postmeta to store data, the data we specified in the items () field was displayed." />
+      <item value="Но если мы использовали postmeta для хранения денных указанные нами данные в поле items() выводились." />
+      <item value="But it is not possible to display data in the UI after saving and refreshing the page." />
+      <item value="А вот отобразить данные в UI после сохранения и обновления страницы не удаётся" />
+      <item value="In the controller, we save the data for the adjacent tables casino_game_to_themes and casino_game_themes also for casino_game_features without problems: For example, we will consider only casino_game_themes." />
+      <item value="В контроллере данные для смежных таблиц casino_game_to_themes and casino_game_themes also for casino_game_features сохраняем без проблем: Для примера будем рассматривать только casino_game_themes." />
+      <item value="To display data in the UI, we do not use the postmeta table, having written metaless fields in the CasinoGame model, we take the data directly from casino_game." />
+      <item value="Для отображения данных в UI мы не используем таблицу postmeta, прописав в модели CasinoGame поля metaless, данные берём на прямую из casino_game." />
+      <item value="The database schema is shown in the picture." />
+      <item value="Схeма базы данных отображена на картинке." />
+      <item value="There was a problem implementing tags with relationships in a &quot;many to many&quot; table https:typerocket.comdocsv5relationshipssection-many-to-many through custom tables." />
+      <item value="через кастомные таблицы." />
+      <item value="For the UI, I use the items () form element. See the appendix for the table schema." />
+      <item value="Для UI использую элемент формы items(). Схема таблицы смотрите в приложении." />
+      <item value="There was a problem implementing tags with relationships in a &quot;many to many&quot; table" />
+      <item value="Возникла проблема с реализацией tags с отношений в таблице many-to-many" />
       <item value="scope" />
       <item value="Yes, you could have done it as soon as I found it. Since the client is not hosted by us, I cannot make changes on their site." />
       <item value="Да, вы могли это сделать сразу как я нашёл это. Так как клиент не у нас хостится, я не могу вносить изменения на их сайте." />
@@ -37,29 +55,11 @@
       <item value="We have created a task at your request and will add this feature of the next versions of the plugin." />
       <item value="Now we do not have a search by lot number, only by content. We have created a task at your request and will add this feature in one of the next versions of the plugin." />
       <item value="Now we do not have a search by lot number, only by content. We have created a task at your request and will add this functionality in one of the next versions of the plugin." />
-      <item value="Сейчас у нас не работает поиск по номеру лота, только по содержимому. Мы создали задачу по вашему запросу и добавим этот функционал в одной из следующих версий плагина." />
-      <item value="We have created a task and will add it in one of the next versions of the plugin." />
-      <item value="Мы создали задачу и добавим это в одной из следующих версий плагина." />
-      <item value="We have created a task and will add that feature in one of the next versions of the plugin." />
-      <item value="Now we do not have a search by lot number. We have created a task and will add it in one of the next versions of the plugin." />
-      <item value="Сейчас у нас не работает поиск по номеру лота. Мы создали задачу и добавим это в одной из следующих версий плагина." />
-      <item value="logo Middle Size" />
-      <item value="Set Cast" />
-      <item value="casino game to themes" />
-      <item value="You reedy answer Appelauction client?" />
-      <item value="You ready answer Appelauction client?" />
-      <item value="I don't know anything about this site." />
-      <item value="Я ни чего не знаю об этом сайте." />
-      <item value="thin" />
-      <item value="Yes. The client had no comments on these pages." />
-      <item value="Да. К этим страницам у клиента не было замечаний." />
-      <item value="the changes it's page 2 and 3 ok?" />
-      <item value="Please send this link in whatapp group with client." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5183" />
+        <entry key="ENGLISH" value="5193" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5183" />
+        <entry key="RUSSIAN" value="5194" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
