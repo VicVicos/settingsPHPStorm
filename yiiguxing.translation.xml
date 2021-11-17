@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry for the delay in answering, I have had a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
+      <item value="Простите за задержку с ответом, у меня был очень сложный день. Сейчас я вижу что все изменения появились. Или проблема всё ещё сохраняется?" />
+      <item value="Sorry for the delay in answering, it was a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
+      <item value="Простите за задержку с ответом, был очень сложный день. Сейчас я вижу что все изменения появились. Или проблема всё ещё сохраняется?" />
+      <item value="Sorry for the long answer, it was a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
+      <item value="Простите за долгий ответ, был очень сложный день. Сейчас я вижу что все изменения появились. Или проблема всё ещё сохраняется?" />
       <item value="Features" />
       <item value="Feature" />
       <item value="Also, I'm not sure if the items () field is suitable for implementing this functionality." />
@@ -49,17 +55,11 @@
       <item value="На первом этапе просто обновите ни чего не меняя в настройках, через какое то время напомните мне и я настрою на новую синхронизацию." />
       <item value="Yes, as long as they haven't tweaked the plugin to fit their needs, which is unlikely." />
       <item value="Да, если они не переделывали плагин под свои нужды, что мало вероятно." />
-      <item value="I think this options reload global settings" />
-      <item value="I would recommend updating the plugin to the latest version. There we made synchronization optimization, which greatly speeds up this process. But it requires a migration process that runs as a background process." />
-      <item value="Я бы порекомендовал обновить плагин до последней версии. Там мы сделали оптимизацию синхронизации что очень сильно ускоряет данный процесс. Но там требуется выполнить процесс миграции, который выполняется как фоновый процесс." />
-      <item value="The reason for which the number of lots does not change is not known to me. I'll try to understand." />
-      <item value="Причина из за которой количество лотов не меняется мне не известна. Попробую понять." />
-      <item value="The number of lots on the page depends on the general settings in Wordpress, which is what you showed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5197" />
+        <entry key="ENGLISH" value="5200" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5197" />
+        <entry key="RUSSIAN" value="5200" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
