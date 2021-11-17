@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="count filters" />
       <item value="Sorry for the delay in answering, I have had a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
       <item value="Простите за задержку с ответом, у меня был очень сложный день. Сейчас я вижу что все изменения появились. Или проблема всё ещё сохраняется?" />
       <item value="Sorry for the delay in answering, it was a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
@@ -54,12 +55,11 @@
       <item value="At the first stage, just update or change anything in the settings, after a while remind me and I will set up a new synchronization." />
       <item value="На первом этапе просто обновите ни чего не меняя в настройках, через какое то время напомните мне и я настрою на новую синхронизацию." />
       <item value="Yes, as long as they haven't tweaked the plugin to fit their needs, which is unlikely." />
-      <item value="Да, если они не переделывали плагин под свои нужды, что мало вероятно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5200" />
+        <entry key="ENGLISH" value="5201" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5200" />
+        <entry key="RUSSIAN" value="5201" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
