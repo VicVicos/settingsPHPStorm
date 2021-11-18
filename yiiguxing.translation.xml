@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="when" />
       <item value="собрать поля ввода" />
       <item value="build Inputs Fileds" />
       <item value="The problem was resolved after another bypass of synchronization. When making changes in the Bidspirit portal, the changes on the site should appear within the next 1 hour." />
@@ -54,12 +55,11 @@
       <item value="null first" />
       <item value="In response to receiving &quot;Get Confirmation ID&quot; from the getcid.info site, I receive a message that the key is blocked." />
       <item value="В ответ на получение &quot;Get Confirmation ID&quot; с сайта getcid.info я получаю сообщение о том что ключ заблокирован." />
-      <item value="В ответ на получение Get Confirmation ID с сайта getcid.info я получаю сообщение о том что ключ заблокирован." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5206" />
+        <entry key="ENGLISH" value="5207" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
