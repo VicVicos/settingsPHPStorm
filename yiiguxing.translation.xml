@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Why should you bet on the NBA with Sidelines?" />
       <item value="belongs To Taxonomy" />
       <item value="Similar games" />
       <item value="i will try to use repeater in this situation. For this task, it would be a great solution to have a similar UI element." />
@@ -54,12 +55,11 @@
       <item value="We have questions regarding the these buttons." />
       <item value="We have questions regarding the elements of these buttons." />
       <item value="We have questions regarding the elements of these buttons. What to do share buttons, share without label, as well as Login and Join." />
-      <item value="У нас имеются вопросы относительно элементов вот этих кнопок. Что делать кнопки share, share без надписи, а так же Login and Join." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5214" />
+        <entry key="ENGLISH" value="5215" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5214" />
+        <entry key="RUSSIAN" value="5215" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
