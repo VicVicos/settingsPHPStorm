@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Is ‘slot game’ between the 5 games at the respective ‘game theme’? - Filter by the respective game_theme1 - Order by BB Score - If ‘slot game’ appears to be between the top 5, then: Top 5 [game_theme1] Slot Games &gt;&gt; - If ‘slot game’ not appears to be between the top 5, then: NOTHING to display" />
+      <item value="Is ‘slot game’ between the 5 games at the respective ‘game provider’? - Filter by the respective Game Provider - Order by BB Score - If ‘slot game’ appears to be between the top 5, then: Top 5 [Game Provider] Slot Games &gt; - If ‘slot game’ not appears to be between the top 5, then: NOTHING to display" />
       <item value="Let's try to figure it out. By monitoring, we can say that there was no heavy load on the server." />
       <item value="Попробуем выяснить это. По мониторингу можем сказать что большой нагрузки на сервере не было." />
       <item value="Let's try to figure it out. There was no big load monitoring on the server." />
@@ -53,13 +55,11 @@
       <item value="There was a problem implementing tags with relationships in a &quot;many to many&quot; table" />
       <item value="Возникла проблема с реализацией tags с отношений в таблице many-to-many" />
       <item value="scope" />
-      <item value="Yes, you could have done it as soon as I found it. Since the client is not hosted by us, I cannot make changes on their site." />
-      <item value="Да, вы могли это сделать сразу как я нашёл это. Так как клиент не у нас хостится, я не могу вносить изменения на их сайте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5217" />
+        <entry key="ENGLISH" value="5219" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5217" />
+        <entry key="RUSSIAN" value="5219" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,7 +99,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637046472737" />
+    <option name="lastTrimTime" value="1637485169585" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
