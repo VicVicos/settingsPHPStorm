@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PLease add new test site on white list." />
       <item value="Шаблон специально разработанный для Genazym" />
       <item value="no-more" />
       <item value="do-load" />
@@ -54,12 +55,11 @@
       <item value="Но если мы использовали postmeta для хранения денных, указанные нами данные в поле items() отображались." />
       <item value="But if we used postmeta to store data, the data we specified in the items() field was displayed." />
       <item value="But if we used postmeta to store data, the data we specified in the items () field was displayed." />
-      <item value="Но если мы использовали postmeta для хранения денных указанные нами данные в поле items() выводились." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5232" />
+        <entry key="ENGLISH" value="5233" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
