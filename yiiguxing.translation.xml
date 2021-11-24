@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You will want to sanitize your new_fields data" />
+      <item value="Simple small banner" />
+      <item value="Small Banner" />
       <item value="Nothing founds" />
       <item value="not-found" />
       <item value="PLease add new test site on white list." />
@@ -52,14 +55,11 @@
       <item value="Простите за долгий ответ, был очень сложный день. Сейчас я вижу что все изменения появились. Или проблема всё ещё сохраняется?" />
       <item value="Features" />
       <item value="Feature" />
-      <item value="Also, I'm not sure if the items () field is suitable for implementing this functionality." />
-      <item value="Так же я не уверен что для реализации этого функционала поле items() подходит." />
-      <item value="Но если мы использовали postmeta для хранения денных, указанные нами данные в поле items() отображались." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5235" />
+        <entry key="ENGLISH" value="5238" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5235" />
+        <entry key="RUSSIAN" value="5238" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
