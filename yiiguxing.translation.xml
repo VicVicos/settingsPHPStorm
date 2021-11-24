@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Сайдбар под top offers на странице архива игр казино" />
+      <item value="To implement tags, I'll try to use" />
+      <item value="Для реализации тегов попробую использовать" />
+      <item value="In this case, we definitely need a repeater to implement the &quot;FAQ&quot;." />
+      <item value="В данном случае нам точно нужен repeater для реализации &quot;FAQ&quot;." />
+      <item value="Without using the attr method, the data is also not displayed." />
+      <item value="Без использования метода attr данные так же не отображаются." />
+      <item value="Without specifying the use of the attr method, the data is also not displayed." />
+      <item value="Без указания использования метода attr данные так же не отображаются." />
       <item value="I faced a similar issue while implementing a repeater form element. The data is saved in an arbitrary table, but after refreshing the page, they are not displayed in the admin panel, I will clarify that I do not use the postmeta table to save. If the data is duplicated in postmeta, everything works." />
       <item value="Я столкнулся с аналогичной проблемой при реализации элемента формы repeater. Данные сохраняются в произвольной таблице, но после обновления страницы они не отображаются в админ панели, уточню что я не использую для сохранения таблицу postmeta. Если данные дублируются в postmeta всё работает." />
       <item value="Я столкнулся с аналогичной проблемой при реализации элемента формы repeater. Данные сохраняются, но после обновления страницы они не отображаются в админ панели." />
@@ -46,20 +55,11 @@
       <item value="Extend Fillable" />
       <item value="when" />
       <item value="собрать поля ввода" />
-      <item value="build Inputs Fileds" />
-      <item value="The problem was resolved after another bypass of synchronization. When making changes in the Bidspirit portal, the changes on the site should appear within the next 1 hour." />
-      <item value="Проблема решилась после очередного обхода синхронизации. При внесение изменений в Bidspirit портале, изменения на сайте должны появится в течении ближайшего 1 часа." />
-      <item value="count filters" />
-      <item value="Sorry for the delay in answering, I have had a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
-      <item value="Простите за задержку с ответом, у меня был очень сложный день. Сейчас я вижу что все изменения появились. Или проблема всё ещё сохраняется?" />
-      <item value="Sorry for the delay in answering, it was a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
-      <item value="Простите за задержку с ответом, был очень сложный день. Сейчас я вижу что все изменения появились. Или проблема всё ещё сохраняется?" />
-      <item value="Sorry for the long answer, it was a very difficult day. Now I see that all the changes have appeared. Or is the problem still persisting?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5240" />
+        <entry key="ENGLISH" value="5244" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5240" />
+        <entry key="RUSSIAN" value="5245" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
