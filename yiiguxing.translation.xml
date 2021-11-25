@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Today we will try to make these design updates." />
+      <item value="Сегодня постараемся сделать эти обновления в дизайне." />
+      <item value="Let's change the colors in the design and try to choose the main picture for the main one." />
+      <item value="Цвета в дизайне поменяем и попробуем подобрать основную картинку для главной." />
       <item value="Bottom side on the Сasino Game" />
       <item value="Sidebar under the top offers on the casino games archive page" />
       <item value="Side info archive page" />
@@ -51,15 +55,11 @@
       <item value="PLease add new test site on white list." />
       <item value="Шаблон специально разработанный для Genazym" />
       <item value="no-more" />
-      <item value="do-load" />
-      <item value="This function is not currently available in the plugin. We will discuss the implementation of this feature and I think we will add it to the plugin." />
-      <item value="Этой функции в плагине нет на текущий момент. Мы обсудим внедрение этой функции и думаю добавим её в плагин." />
-      <item value="GAME APPEARS IN 4 TOP GAME LISTS" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5267" />
+        <entry key="ENGLISH" value="5269" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5266" />
+        <entry key="RUSSIAN" value="5269" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
