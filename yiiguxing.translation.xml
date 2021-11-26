@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="There is currently no separate page with a registration form in the plugin." />
+      <item value="Отдельной страницы с формой регистрации на текущий момент в плагине нет." />
+      <item value="There are only profile pages where there are only login or registration buttons." />
+      <item value="Существуют только страницы профиля, где есть только кнопки авторизации или регистрации." />
       <item value="CLaim Offer" />
       <item value="Have you changed your time zone? Is this related to the fact that the time of the beginning of the auction did not coincide?" />
       <item value="У вас сменился часовой пояс? С этим связано то что время начало аукциона стало не совпадать?" />
@@ -51,15 +55,11 @@
       <item value="I faced a similar issue while implementing a repeater form element. The data is saved in an arbitrary table, but after refreshing the page, they are not displayed in the admin panel, I will clarify that I do not use the postmeta table to save. If the data is duplicated in postmeta, everything works." />
       <item value="Я столкнулся с аналогичной проблемой при реализации элемента формы repeater. Данные сохраняются в произвольной таблице, но после обновления страницы они не отображаются в админ панели, уточню что я не использую для сохранения таблицу postmeta. Если данные дублируются в postmeta всё работает." />
       <item value="Я столкнулся с аналогичной проблемой при реализации элемента формы repeater. Данные сохраняются, но после обновления страницы они не отображаются в админ панели." />
-      <item value="You will want to sanitize your new_fields data" />
-      <item value="Simple small banner" />
-      <item value="Small Banner" />
-      <item value="Nothing founds" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5272" />
+        <entry key="ENGLISH" value="5274" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5272" />
+        <entry key="RUSSIAN" value="5274" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
