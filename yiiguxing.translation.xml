@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pode aceder ao livro de reclamações digital através do seguinte link:" />
       <item value="ascending" />
       <item value="asc" />
       <item value="PLACE BID" />
@@ -54,7 +55,6 @@
       <item value="I can not install the office downloaded from the link you specified." />
       <item value="Я не могу установить офис скаченный по указанной вами ссылке." />
       <item value="Top offers list" />
-      <item value="Descending" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5284" />
+        <entry key="RUSSIAN" value="5285" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -84,7 +84,7 @@
         <entry key="MACEDONIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="4" />
+        <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
