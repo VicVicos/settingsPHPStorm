@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="hang Up Event" />
       <item value="Pode aceder ao livro de reclamações digital através do seguinte link:" />
       <item value="ascending" />
       <item value="asc" />
@@ -54,12 +55,11 @@
       <item value="Please make sure the Office installation disk is inserted Do you have enough free space on you main hard drive?" />
       <item value="I can not install the office downloaded from the link you specified." />
       <item value="Я не могу установить офис скаченный по указанной вами ссылке." />
-      <item value="Top offers list" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5284" />
+        <entry key="ENGLISH" value="5285" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
