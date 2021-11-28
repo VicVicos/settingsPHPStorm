@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This client don't have some auctions on current time" />
+      <item value="This client don't have some auctions" />
+      <item value="Please make all banners for this client We have that images." />
       <item value="Please addition all to whitelist." />
       <item value="Please addition thye to whitelist." />
       <item value="hang Up Event" />
@@ -52,14 +55,11 @@
       <item value="Filters presets" />
       <item value="Thanks! This activation method is familiar to me. I'm going to try now." />
       <item value="Спасибо! Этот способ активации мне знаком. Сейчас попробую." />
-      <item value="Спасибо! Этот способ активации мне знаком." />
-      <item value="But outside payments" />
-      <item value="Please make sure the Office installation disk is inserted Do you have enough free space on you main hard drive?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5287" />
+        <entry key="ENGLISH" value="5290" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5287" />
+        <entry key="RUSSIAN" value="5290" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
