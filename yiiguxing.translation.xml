@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can you provide the images that you would like to see on your site?" />
+      <item value="Вы можете предоставить картинки которые вы хотели бы видеть на своем сайте?" />
+      <item value="And please write a more accurate location address than the one that you left in the google form." />
+      <item value="И напишите пожалуйста более точный адрес расположения чем тот что вы оставили в google форме." />
+      <item value="Is your phone number code +1?" />
+      <item value="Код номера вашего телефона является +1?" />
+      <item value="From this you can make all the banners that we need?" />
+      <item value="Из этого можно сделать все баннеры что нам нужны?" />
+      <item value="Please make white to transparent color." />
       <item value="In the next 1-2 days, the designer will prepare pictures for your site and the site will be ready." />
       <item value="В ближайшие 1-2 дня дизайнер подготовит картинки для вашего сайта и сайт будет готов." />
       <item value="Search a Lot" />
@@ -46,20 +55,11 @@
       <item value="Цвета в дизайне поменяем и попробуем подобрать основную картинку для главной." />
       <item value="Bottom side on the Сasino Game" />
       <item value="Sidebar under the top offers on the casino games archive page" />
-      <item value="Side info archive page" />
-      <item value="Боковая панель на странице игры казино" />
-      <item value="Sidebar in single page Casino Game" />
-      <item value="Sidebar into single page Casino Game" />
-      <item value="Side info" />
-      <item value="We changed timezone on +0 UTC from +1 in plugin settings" />
-      <item value="We changed timezone on +0 UTC in plugin settings" />
-      <item value="featured image" />
-      <item value="feature image" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5292" />
+        <entry key="ENGLISH" value="5298" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5292" />
+        <entry key="RUSSIAN" value="5298" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
