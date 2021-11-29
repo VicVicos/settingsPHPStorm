@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="How to change the search logic for carbon_fields from 'LIKE' to '='. For projects where the postmeta table grows to a large size, LIKE search slows down the queries very much." />
+      <item value="Как изменить логику поиска полей carbon_fields с 'LIKE' на '='. Для проектов где таблица postmeta разрастается до больших размеров поиск через LIKE очень сильно замедляет работу запросов." />
       <item value="We also set English in the settings, but we receive a text in Hebrew." />
       <item value="We do not receive lots for many auctions, more precisely, we only have lots of 1, 2, 3, 00 and &quot;מכירה 11 - חסוי&quot;" />
       <item value="We have a problem with genazym.bidspirit.com client." />
@@ -53,13 +55,11 @@
       <item value="Have you changed your time zone? Is this related to the fact that the time of the beginning of the auction did not coincide?" />
       <item value="У вас сменился часовой пояс? С этим связано то что время начало аукциона стало не совпадать?" />
       <item value="WP All Import will create new Payment method for each unique record in your file." />
-      <item value="Today we will try to make these design updates." />
-      <item value="Сегодня постараемся сделать эти обновления в дизайне." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5301" />
+        <entry key="ENGLISH" value="5302" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5300" />
+        <entry key="RUSSIAN" value="5302" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
