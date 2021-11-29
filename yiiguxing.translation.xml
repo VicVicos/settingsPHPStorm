@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We also set English in the settings, but we receive a text in Hebrew." />
+      <item value="We do not receive lots for many auctions, more precisely, we only have lots of 1, 2, 3, 00 and &quot;מכירה 11 - חסוי&quot;" />
+      <item value="We have a problem with genazym.bidspirit.com client." />
+      <item value="У нас возникла проблема с клиентом genazym.bidspirit.com. Мы не получаем лоты для многих аукционов, точнее у нас есть лоты только 1, 2, 3, 00 и מכירה 11 – חסוי Так же у в настройках мы выставили Английский, но к нам приходит текст на Иврите." />
       <item value="Can you provide the images that you would like to see on your site?" />
       <item value="Вы можете предоставить картинки которые вы хотели бы видеть на своем сайте?" />
       <item value="And please write a more accurate location address than the one that you left in the google form." />
@@ -51,15 +55,11 @@
       <item value="WP All Import will create new Payment method for each unique record in your file." />
       <item value="Today we will try to make these design updates." />
       <item value="Сегодня постараемся сделать эти обновления в дизайне." />
-      <item value="Let's change the colors in the design and try to choose the main picture for the main one." />
-      <item value="Цвета в дизайне поменяем и попробуем подобрать основную картинку для главной." />
-      <item value="Bottom side on the Сasino Game" />
-      <item value="Sidebar under the top offers on the casino games archive page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5298" />
+        <entry key="ENGLISH" value="5301" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5298" />
+        <entry key="RUSSIAN" value="5300" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
