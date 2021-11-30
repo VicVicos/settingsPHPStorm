@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="second Image" />
       <item value="Don\'t selected" />
       <item value="Don\'t choose" />
       <item value="Not selected" />
@@ -54,12 +55,11 @@
       <item value="Let's get back to finding a solution when it's convenient for you, but not too late." />
       <item value="Давайте вернёмся к поиску решения когда вам будет удобно, но не слишком поздно." />
       <item value="Let's get back to finding a solution as you stay connected." />
-      <item value="Давайте вернёмся к поиску решения как будите на связи." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5309" />
+        <entry key="ENGLISH" value="5310" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5309" />
+        <entry key="RUSSIAN" value="5310" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
