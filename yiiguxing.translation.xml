@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Don\'t selected" />
+      <item value="Don\'t choose" />
+      <item value="Not selected" />
+      <item value="Not select" />
       <item value="max bid range" />
       <item value="bid range manage" />
       <item value="I started syncing again and got lots for the missing auctions. Sorry to bother you, I don't understand what the problem might have been." />
@@ -51,15 +55,11 @@
       <item value="Давайте вернёмся к поиску решения когда вам будет удобно, но не слишком поздно." />
       <item value="Let's get back to finding a solution as you stay connected." />
       <item value="Давайте вернёмся к поиску решения как будите на связи." />
-      <item value="There is currently no separate page with a registration form in the plugin." />
-      <item value="Отдельной страницы с формой регистрации на текущий момент в плагине нет." />
-      <item value="There are only profile pages where there are only login or registration buttons." />
-      <item value="Существуют только страницы профиля, где есть только кнопки авторизации или регистрации." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5305" />
+        <entry key="ENGLISH" value="5309" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5305" />
+        <entry key="RUSSIAN" value="5309" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
