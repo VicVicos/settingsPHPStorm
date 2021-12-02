@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="В чём кроется проблема с регистрацией?" />
+      <item value="You need to change the time zone settings in the plugin settings." />
+      <item value="Нужно изменить настроки часового пояса в настройках плагина." />
       <item value="In joined clauses negative operators have to be nested into a NOT EXISTS clause and flipped, to avoid returning records with matching post IDs but different meta keys. Here we prepare the nested clause." />
       <item value="second Image" />
       <item value="Don\'t selected" />
@@ -52,14 +55,11 @@
       <item value="Earlier, for the widget of selected lots, we made the condition that lots should be displayed only from the nearest future auction. The lots you marked are not suitable for this condition." />
       <item value="Ранее для виджета избранных лотов мы делали условие что отображаться должны лоты только из ближайшего будущего аукциона. Отмеченные вами лоты являются не подходят под это условие." />
       <item value="Earlier, for the widget of selected auctions, we made the condition that lots should be displayed only from the nearest future auction. The lots you marked are not suitable for this condition." />
-      <item value="Ранее для виджета избранных аукционов мы делали условие что отображаться должны лоты только из ближайшего будущего аукциона. Отмеченные вами лоты являются не подходят под это условие." />
-      <item value="Let's get back to finding a solution when it's convenient for you, but not too late." />
-      <item value="Давайте вернёмся к поиску решения когда вам будет удобно, но не слишком поздно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5311" />
+        <entry key="ENGLISH" value="5312" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5311" />
+        <entry key="RUSSIAN" value="5313" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
