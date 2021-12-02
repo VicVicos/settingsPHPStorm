@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In joined clauses negative operators have to be nested into a NOT EXISTS clause and flipped, to avoid returning records with matching post IDs but different meta keys. Here we prepare the nested clause." />
       <item value="second Image" />
       <item value="Don\'t selected" />
       <item value="Don\'t choose" />
@@ -54,12 +55,11 @@
       <item value="Ранее для виджета избранных аукционов мы делали условие что отображаться должны лоты только из ближайшего будущего аукциона. Отмеченные вами лоты являются не подходят под это условие." />
       <item value="Let's get back to finding a solution when it's convenient for you, but not too late." />
       <item value="Давайте вернёмся к поиску решения когда вам будет удобно, но не слишком поздно." />
-      <item value="Let's get back to finding a solution as you stay connected." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5310" />
+        <entry key="ENGLISH" value="5311" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5310" />
+        <entry key="RUSSIAN" value="5311" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
