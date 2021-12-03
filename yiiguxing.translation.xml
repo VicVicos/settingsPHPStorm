@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="descending" />
       <item value="В чём кроется проблема с регистрацией?" />
       <item value="You need to change the time zone settings in the plugin settings." />
       <item value="Нужно изменить настроки часового пояса в настройках плагина." />
@@ -54,12 +55,11 @@
       <item value="Избранный" />
       <item value="Earlier, for the widget of selected lots, we made the condition that lots should be displayed only from the nearest future auction. The lots you marked are not suitable for this condition." />
       <item value="Ранее для виджета избранных лотов мы делали условие что отображаться должны лоты только из ближайшего будущего аукциона. Отмеченные вами лоты являются не подходят под это условие." />
-      <item value="Earlier, for the widget of selected auctions, we made the condition that lots should be displayed only from the nearest future auction. The lots you marked are not suitable for this condition." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5312" />
+        <entry key="ENGLISH" value="5313" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
