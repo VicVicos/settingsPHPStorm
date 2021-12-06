@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Get the client's approval of the design." />
+      <item value="Получить согласование дизайна клиентом." />
+      <item value="What do we need there?" />
+      <item value="Please continue to work with the Appelauction client" />
+      <item value="Пожалуйста продолжу работу с клиентом Appelauction" />
       <item value="pair" />
       <item value="descending" />
       <item value="В чём кроется проблема с регистрацией?" />
@@ -50,16 +55,11 @@
       <item value="PLACE BID" />
       <item value="Removed this features" />
       <item value="Убрал эту доработку" />
-      <item value="If you mark a top lot from auction 281121, lots appear." />
-      <item value="Если отметить лот из аукциона 281121, лоты появляются." />
-      <item value="Earlier, for the widget of selected top lots, we made the condition that lots should be displayed only from the nearest future auction. The lots you marked are not suitable for this condition." />
-      <item value="Избранный" />
-      <item value="Earlier, for the widget of selected lots, we made the condition that lots should be displayed only from the nearest future auction. The lots you marked are not suitable for this condition." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5314" />
+        <entry key="ENGLISH" value="5317" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5314" />
+        <entry key="RUSSIAN" value="5317" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
