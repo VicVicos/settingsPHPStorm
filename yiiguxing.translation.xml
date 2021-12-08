@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="desciption" />
+      <item value="We'll see what we can do about it and get back to you later." />
+      <item value="Мы посмотрим что можно будет сделать с этим и ответим вам позднее." />
       <item value="Brand archive page" />
       <item value="Эта информация есть у нас и мы можем её отобразить." />
       <item value="When the plugin was created, the Details field did not exist when the auction was split over several days." />
@@ -52,14 +55,11 @@
       <item value="The cadmoreauction client asks about the functionality of this field. And he wants to display this information on the site. Now in the plugin we do not receive the data for this field. Do we need to add this to the plugin?" />
       <item value="Клиент cadmoreauction спрашивает про функционал этого поля. И хочет отобразить эту информацию на сайте. Сейчас в плагине мы не получаем данные этого поля. Надо ли нам добавить это в плагин?" />
       <item value="The cadmoreauction client is asked about the functionality of this field. And he wants to display this information on the site. Now in the plugin we do not receive the data for this field. Do we need to add this to the plugin?" />
-      <item value="Клиент cadmoreauction спрашивают про функционал этого поля. И хочет отобразить эту информацию на сайте. Сейчас в плагине мы не получаем данные этого поля. Надо ли нам добавить это в плагин?" />
-      <item value="Write it to bidspirit support and ask if we need to update." />
-      <item value="The problem is solved by clearing the cache in the admin panel of the site. The solution to this problem at the plugin level will be in the next update. The plugin is updated automatically." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5365" />
+        <entry key="ENGLISH" value="5367" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5365" />
+        <entry key="RUSSIAN" value="5367" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
