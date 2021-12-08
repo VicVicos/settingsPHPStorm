@@ -5,6 +5,43 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Brand archive page" />
+      <item value="Эта информация есть у нас и мы можем её отобразить." />
+      <item value="When the plugin was created, the Details field did not exist when the auction was split over several days." />
+      <item value="На момент создания плагина поля Details при разбиение аукциона на несколько дней этого не было." />
+      <item value="Can you please use for all the same big letters like the other" />
+      <item value="As for &quot;Private page info&quot;. We are currently unable to obtain this information from Bidspirit. Once they add this capability, we can add it to the plugin." />
+      <item value="Что касается &quot;Private page info&quot;. На текущий момент мы не может получить эту информацию со стороны Bidspirit. После того как они добавят такую возможность, мы сможем добавить это в плагин." />
+      <item value="As for &quot;Private page info&quot;. We are currently unable to obtain this information from Bidspirit. After they have done that, we can add this to the plugin." />
+      <item value="Что касается &quot;Private page info&quot;. На текущий момент мы не может получить эту информацию со стороны Bidspirit. После того как они это сделают, мы сможем добавить это в плагин." />
+      <item value="About the description of the day of the auction. We'll fix it." />
+      <item value="Мы исправим это" />
+      <item value="About the description of the day of the auction. We fix it." />
+      <item value="About the description of the day of the auction. We fixed it." />
+      <item value="About the description of the day of the auction. Fix it." />
+      <item value="About the description of the day of the auction. Let's fix it." />
+      <item value="Об описании дня аукциона. Исправим." />
+      <item value="If I change the text of this menu item, it will not correspond to reality." />
+      <item value="Если я изменю текст этого пункта меню, то это не будет соответствовать действительности." />
+      <item value="In this case, if the user is authorized, then this link leads to the profile. And if the user is not authorized, then on the profile page he sees the authorization buttons." />
+      <item value="В данном случае если пользователь будет авторизован, то эта ссылка ведёт на профиль. И если пользователь не авторизован, то на странице профиля он видит кнопки авторизации." />
+      <item value="Private products don't show on public users" />
+      <item value="If you want to improve something, contact Vitaly about this." />
+      <item value="Если хотите что либо доработать, свяжитесь по этому поводу с Виталием." />
+      <item value="No, here we display the name of the product. Additional text only available in TR Product presentation module" />
+      <item value="Нет, тут мы отображаем имя товара. Дополнительный текст есть только в модуле &quot;TR Product presentation&quot;" />
+      <item value="You can create many private page, it is not necessary to edit the same page." />
+      <item value="It is not necessary to edit the same page." />
+      <item value="Не обязательно редактировать одну и ту же страницу." />
+      <item value="Not required edit one page." />
+      <item value="You can create many private page" />
+      <item value="If all good, we can start transfer your domain on new site." />
+      <item value="We've made the edits you submitted earlier." />
+      <item value="Мы внесли правки которые вы прислали ранее." />
+      <item value="2) I need to check, I forgot how we did it." />
+      <item value="Мне надо проверить, я забыл как мы это сделали." />
+      <item value="Вы должны выбрать категорию Special." />
+      <item value="We want set Special category" />
       <item value="They also wanted to clarify on the account of this block. Should this be shown on the new site?" />
       <item value="Ещё хотели уточнить на счёт, этого блока. Это нужно показывать на новом сайте?" />
       <item value="They also wanted to clarify on the account of this block. Does the new site need it?" />
@@ -18,48 +55,11 @@
       <item value="Клиент cadmoreauction спрашивают про функционал этого поля. И хочет отобразить эту информацию на сайте. Сейчас в плагине мы не получаем данные этого поля. Надо ли нам добавить это в плагин?" />
       <item value="Write it to bidspirit support and ask if we need to update." />
       <item value="The problem is solved by clearing the cache in the admin panel of the site. The solution to this problem at the plugin level will be in the next update. The plugin is updated automatically." />
-      <item value="Проблема решается очисткой кеша в админ панели сайта. Решение этой проблемы на уровне плагина будет в ближайшем обновлении. Плагин обновляется автоматически." />
-      <item value="Проблема решается очисткой кеша в админ панели сайта. Решение этой проблемы на уровне плагина будет в ближайшем обновлении." />
-      <item value="Response has been truncated" />
-      <item value="I deleted my card, wanted to suspend the subscription and after that I read the instructions on how to do it. Now I can not return the card, because when I add it, they tell me that I will start the trial period, but my current subscription is not over yet. How do I return my card to pay for my subscription." />
-      <item value="Я удалил свою карту, хотел приостановить подписку и после этого прочитал инструкцию как это делается. Теперь я не могу вернуть карту, так как при добавлении мне говорят что я начну триал период, но моя текущая подписка ещё не закончена. Как мне вернуть карту для оплаты подписки." />
-      <item value="I want to suspend my subscription for a while, for this I have removed the card. After some time I will return and I do not want to lose the designs that are uploaded. After the end of the subscription for the current month, I will not lose anything?" />
-      <item value="Я хочу приостановить подписку на время, для этого я удалил карту. Через какое то время я вернусь и не хочу потерять дизайны что загружены. После окончания подписки на текущий месяц я ни чего не потеряю?" />
-      <item value="Terminate account After you cancel your subscription, the subscription will expire at the end of your billing period and your designs will be lost. Deleting your account will immediately cancel your subscription and remove your data. This can’t be undone. See our help centre if you need any assistance." />
-      <item value="I check it now. I see it is new feature on Bidspirit. This information is currently not displayed in our plugin." />
-      <item value="Эта информация сейчас не отображается у нас в плагине." />
-      <item value="I see it is new feature on Bidspirit." />
-      <item value="I see it new feature on Bidspirit." />
-      <item value="I check it now. I see it new features on Bidspirit." />
-      <item value="Of the future auctions on Bidspirit, there is only one unpublished auction for December 13-14." />
-      <item value="Из будущих аукционов на Bidspirit есть только один неопубликованный аукцион на 13-14 декабря." />
-      <item value="Thanks! We are starting to implement this design." />
-      <item value="Спасибо! Мы приступаем к реализации этого дизайна." />
-      <item value="Yes, please provide us with a document with the new text &quot;terms &amp; conditions&quot;." />
-      <item value="Да, предоставьте нам документ с новым текстом &quot;terms &amp; conditions&quot;." />
-      <item value="Please translate these lines." />
-      <item value="Пожалуйста, сделайте переводы этих строк." />
-      <item value="We are finishing work with the site and in the near future we will show you the result for approval." />
-      <item value="Мы заканчиваем работу с сайтом и в ближайшее время покажем вам результат на согласование." />
-      <item value="Get the client's approval of the design." />
-      <item value="Получить согласование дизайна клиентом." />
-      <item value="What do we need there?" />
-      <item value="Please continue to work with the Appelauction client" />
-      <item value="Пожалуйста продолжу работу с клиентом Appelauction" />
-      <item value="pair" />
-      <item value="descending" />
-      <item value="В чём кроется проблема с регистрацией?" />
-      <item value="You need to change the time zone settings in the plugin settings." />
-      <item value="Нужно изменить настроки часового пояса в настройках плагина." />
-      <item value="In joined clauses negative operators have to be nested into a NOT EXISTS clause and flipped, to avoid returning records with matching post IDs but different meta keys. Here we prepare the nested clause." />
-      <item value="second Image" />
-      <item value="Don\'t selected" />
-      <item value="Don\'t choose" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5341" />
+        <entry key="ENGLISH" value="5365" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5341" />
+        <entry key="RUSSIAN" value="5365" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
