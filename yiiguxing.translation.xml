@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Response has been truncated" />
+      <item value="I deleted my card, wanted to suspend the subscription and after that I read the instructions on how to do it. Now I can not return the card, because when I add it, they tell me that I will start the trial period, but my current subscription is not over yet. How do I return my card to pay for my subscription." />
+      <item value="Я удалил свою карту, хотел приостановить подписку и после этого прочитал инструкцию как это делается. Теперь я не могу вернуть карту, так как при добавлении мне говорят что я начну триал период, но моя текущая подписка ещё не закончена. Как мне вернуть карту для оплаты подписки." />
+      <item value="I want to suspend my subscription for a while, for this I have removed the card. After some time I will return and I do not want to lose the designs that are uploaded. After the end of the subscription for the current month, I will not lose anything?" />
+      <item value="Я хочу приостановить подписку на время, для этого я удалил карту. Через какое то время я вернусь и не хочу потерять дизайны что загружены. После окончания подписки на текущий месяц я ни чего не потеряю?" />
+      <item value="Terminate account After you cancel your subscription, the subscription will expire at the end of your billing period and your designs will be lost. Deleting your account will immediately cancel your subscription and remove your data. This can’t be undone. See our help centre if you need any assistance." />
       <item value="I check it now. I see it is new feature on Bidspirit. This information is currently not displayed in our plugin." />
       <item value="Эта информация сейчас не отображается у нас в плагине." />
       <item value="I see it is new feature on Bidspirit." />
@@ -49,17 +55,11 @@
       <item value="Can you provide the images that you would like to see on your site?" />
       <item value="Вы можете предоставить картинки которые вы хотели бы видеть на своем сайте?" />
       <item value="And please write a more accurate location address than the one that you left in the google form." />
-      <item value="И напишите пожалуйста более точный адрес расположения чем тот что вы оставили в google форме." />
-      <item value="Is your phone number code +1?" />
-      <item value="Код номера вашего телефона является +1?" />
-      <item value="From this you can make all the banners that we need?" />
-      <item value="Из этого можно сделать все баннеры что нам нужны?" />
-      <item value="Please make white to transparent color." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5326" />
+        <entry key="ENGLISH" value="5330" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5326" />
+        <entry key="RUSSIAN" value="5330" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
