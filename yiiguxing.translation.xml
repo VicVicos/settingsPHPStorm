@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can not call chmod() for a non-standard stream in" />
       <item value="Pay attention to the sizes of the uploaded images, they take a very long time to load. But if you optimize them with minimal loss of quality, this problem will go away." />
       <item value="Обратите внимание на размеры загружаемых картинок, они очень долго загружаются. Но если их оптимизировать с минимальными потерями качества, эта проблема уйдёт." />
       <item value="They have a common problem" />
@@ -54,12 +55,11 @@
       <item value="If all good, we can start transfer your domain on new site." />
       <item value="We've made the edits you submitted earlier." />
       <item value="Мы внесли правки которые вы прислали ранее." />
-      <item value="2) I need to check, I forgot how we did it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5377" />
+        <entry key="ENGLISH" value="5378" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5377" />
+        <entry key="RUSSIAN" value="5378" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
