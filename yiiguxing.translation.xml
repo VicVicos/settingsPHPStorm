@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry, at this time I was no longer working and missed your message. We will fix this issue shortly." />
+      <item value="Простите, в это я время я уже не работал и упустил ваше сообщение. Мы исправим эту проблему в ближайшее время." />
       <item value="Something went wrong." />
       <item value="desciption" />
       <item value="We'll see what we can do about it and get back to you later." />
@@ -53,13 +55,11 @@
       <item value="We have transferred this block with information from your old site from the home page. But some of the links lead to 404 pages. Where should these links lead or can they be removed?" />
       <item value="Мы перенесли с вашего старого сайта с home page этот блок с информацией. Но некоторые ссылки ведут на 404 страницы. Куда должны вести эти ссылки или их можно удалить?" />
       <item value="The cadmoreauction client asks about the functionality of this field. And he wants to display this information on the site. Now in the plugin we do not receive the data from this field. Do we need to add this to the plugin?" />
-      <item value="The cadmoreauction client asks about the functionality of this field. And he wants to display this information on the site. Now in the plugin we do not receive the data for this field. Do we need to add this to the plugin?" />
-      <item value="Клиент cadmoreauction спрашивает про функционал этого поля. И хочет отобразить эту информацию на сайте. Сейчас в плагине мы не получаем данные этого поля. Надо ли нам добавить это в плагин?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5368" />
+        <entry key="ENGLISH" value="5369" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5368" />
+        <entry key="RUSSIAN" value="5369" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
