@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have released an update fixing the problem that you reported to us. Thanks!" />
+      <item value="Мы выпустили обновление с фиксом проблемы о который вы нам сообщили. Спасибо!" />
       <item value="And we can starting transfer your domain on new site." />
       <item value="I'll check it" />
       <item value="I will look for a problem in synchronization." />
@@ -53,13 +55,11 @@
       <item value="If you want to improve something, contact Vitaly about this." />
       <item value="Если хотите что либо доработать, свяжитесь по этому поводу с Виталием." />
       <item value="No, here we display the name of the product. Additional text only available in TR Product presentation module" />
-      <item value="Нет, тут мы отображаем имя товара. Дополнительный текст есть только в модуле &quot;TR Product presentation&quot;" />
-      <item value="You can create many private page, it is not necessary to edit the same page." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5383" />
+        <entry key="ENGLISH" value="5384" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5383" />
+        <entry key="RUSSIAN" value="5384" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
