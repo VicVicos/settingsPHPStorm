@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can you check the description of the auction in this field? The information on the site is now the same as on Bidspirit." />
+      <item value="Сейчас информация на сайте соответствует тому что есть на Bidspirit." />
+      <item value="Can you check the description of the auction in this field? Now the site matches what is on Bidspirit and what is displayed on the site." />
+      <item value="Вы можете проверить описание аукциона в этом поле? Сейчас на сайте соответствует то что есть на Bidspirit и то что отображается на сайте." />
+      <item value="We cannot access your domain registrar's personal account." />
+      <item value="Мы не можем получить доступ к личному кабинету вашего регистратора домена." />
+      <item value="We don't have access for your domain register." />
+      <item value="Yes, we had some minor problems connecting the ssl certificate on the site. Now the problem has been resolved and we are making the last settings related to the feedback forms." />
+      <item value="Да, у нас были небольшие проблемы с подключением ssl сертификата на сайте. Сейчас проблему разрешили и проводим последние настройки связанные с формами обратной связи." />
       <item value="Okay. I'll make it possible to display this information on the test server and update the plugin for you." />
       <item value="Хорошо. Я сделаю возможность отображения этой информации на тестовом сервере и обновлю вам плагин." />
       <item value="Вы удалили информацию с описанием дней аукциона?" />
@@ -46,20 +55,11 @@
       <item value="When the plugin was created, the Details field did not exist when the auction was split over several days." />
       <item value="На момент создания плагина поля Details при разбиение аукциона на несколько дней этого не было." />
       <item value="Can you please use for all the same big letters like the other" />
-      <item value="As for &quot;Private page info&quot;. We are currently unable to obtain this information from Bidspirit. Once they add this capability, we can add it to the plugin." />
-      <item value="Что касается &quot;Private page info&quot;. На текущий момент мы не может получить эту информацию со стороны Bidspirit. После того как они добавят такую возможность, мы сможем добавить это в плагин." />
-      <item value="As for &quot;Private page info&quot;. We are currently unable to obtain this information from Bidspirit. After they have done that, we can add this to the plugin." />
-      <item value="Что касается &quot;Private page info&quot;. На текущий момент мы не может получить эту информацию со стороны Bidspirit. После того как они это сделают, мы сможем добавить это в плагин." />
-      <item value="About the description of the day of the auction. We'll fix it." />
-      <item value="Мы исправим это" />
-      <item value="About the description of the day of the auction. We fix it." />
-      <item value="About the description of the day of the auction. We fixed it." />
-      <item value="About the description of the day of the auction. Fix it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5393" />
+        <entry key="ENGLISH" value="5398" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5393" />
+        <entry key="RUSSIAN" value="5398" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
