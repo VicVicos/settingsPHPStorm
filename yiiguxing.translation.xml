@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Okay. I'll make it possible to display this information on the test server and update the plugin for you." />
+      <item value="Хорошо. Я сделаю возможность отображения этой информации на тестовом сервере и обновлю вам плагин." />
+      <item value="Вы удалили информацию с описанием дней аукциона?" />
+      <item value="I can see that highlights and i don't clearing the cache." />
+      <item value="I can see that highlights and not clearing the cache." />
+      <item value="I can see this getting highlighted and not clearing the cache." />
+      <item value="Я вижу, что это выделяется, и не очищал кеш." />
+      <item value="I see it highlights, and i don't cleared cashe." />
+      <item value="I see it higligts, and i don't cleared cashe." />
+      <item value="I see it higligts, and i don't clear cashe." />
       <item value="We have released an update fixing the problem that you reported to us. Thanks!" />
       <item value="Мы выпустили обновление с фиксом проблемы о который вы нам сообщили. Спасибо!" />
       <item value="And we can starting transfer your domain on new site." />
@@ -45,21 +55,11 @@
       <item value="About the description of the day of the auction. We fix it." />
       <item value="About the description of the day of the auction. We fixed it." />
       <item value="About the description of the day of the auction. Fix it." />
-      <item value="About the description of the day of the auction. Let's fix it." />
-      <item value="Об описании дня аукциона. Исправим." />
-      <item value="If I change the text of this menu item, it will not correspond to reality." />
-      <item value="Если я изменю текст этого пункта меню, то это не будет соответствовать действительности." />
-      <item value="In this case, if the user is authorized, then this link leads to the profile. And if the user is not authorized, then on the profile page he sees the authorization buttons." />
-      <item value="В данном случае если пользователь будет авторизован, то эта ссылка ведёт на профиль. И если пользователь не авторизован, то на странице профиля он видит кнопки авторизации." />
-      <item value="Private products don't show on public users" />
-      <item value="If you want to improve something, contact Vitaly about this." />
-      <item value="Если хотите что либо доработать, свяжитесь по этому поводу с Виталием." />
-      <item value="No, here we display the name of the product. Additional text only available in TR Product presentation module" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5384" />
+        <entry key="ENGLISH" value="5393" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5384" />
+        <entry key="RUSSIAN" value="5393" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
