@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cooldown sale" />
       <item value="откат времени до начала" />
       <item value="Can you check the description of the auction in this field? The information on the site is now the same as on Bidspirit." />
       <item value="Сейчас информация на сайте соответствует тому что есть на Bidspirit." />
@@ -54,12 +55,11 @@
       <item value="Brand archive page" />
       <item value="Эта информация есть у нас и мы можем её отобразить." />
       <item value="When the plugin was created, the Details field did not exist when the auction was split over several days." />
-      <item value="На момент создания плагина поля Details при разбиение аукциона на несколько дней этого не было." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5398" />
+        <entry key="ENGLISH" value="5399" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
