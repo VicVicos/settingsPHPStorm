@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="It didn't take 24 hours. I'm sure it was faster. Did you check after you saw that only 163 lots were loaded on the site?" />
+      <item value="Это не заняло 24 часа. Уверен это было быстрее. Вы проверяли после того как увидели что на сайте загружены только 163 лота?" />
       <item value="Now I can see all the lots on the auction. You checked the site at a time when not all lots were loaded yet. After the publication of the auction, it takes time to load all the lots." />
       <item value="Сейчас я вижу все лоты на аукционе. Вы проверили сайт в момент когда ещё не все лоты были загружены. После публикации аукциона требуется время что бы загрузить все лоты." />
       <item value="cooldown sale" />
@@ -53,13 +55,11 @@
       <item value="Something went wrong." />
       <item value="desciption" />
       <item value="We'll see what we can do about it and get back to you later." />
-      <item value="Мы посмотрим что можно будет сделать с этим и ответим вам позднее." />
-      <item value="Brand archive page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5400" />
+        <entry key="ENGLISH" value="5401" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5400" />
+        <entry key="RUSSIAN" value="5401" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
