@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="откат" />
+      <item value="cool down sale" />
+      <item value="cooldown sale" />
       <item value="I will tackle this problem tomorrow. Today is i day off." />
       <item value="I will tackle this problem tomorrow. Today is my day off." />
       <item value="Я займусь решением этой проблемы завтра. Сегодня у меня выходной день." />
@@ -12,7 +15,6 @@
       <item value="Это не заняло 24 часа. Уверен это было быстрее. Вы проверяли после того как увидели что на сайте загружены только 163 лота?" />
       <item value="Now I can see all the lots on the auction. You checked the site at a time when not all lots were loaded yet. After the publication of the auction, it takes time to load all the lots." />
       <item value="Сейчас я вижу все лоты на аукционе. Вы проверили сайт в момент когда ещё не все лоты были загружены. После публикации аукциона требуется время что бы загрузить все лоты." />
-      <item value="cooldown sale" />
       <item value="откат времени до начала" />
       <item value="Can you check the description of the auction in this field? The information on the site is now the same as on Bidspirit." />
       <item value="Сейчас информация на сайте соответствует тому что есть на Bidspirit." />
@@ -53,13 +55,11 @@
       <item value="Please check if the 308 auction of customer tiroche is in the Online category or (אונליין)" />
       <item value="Пожалуйста, проверьте, имеет ли аукцион 308 у клиента tiroche категорию Online или" />
       <item value="Вы говорите об этом моменте?" />
-      <item value="Sorry, at this time I was no longer working and missed your message. We will fix this issue shortly." />
-      <item value="Простите, в это я время я уже не работал и упустил ваше сообщение. Мы исправим эту проблему в ближайшее время." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5404" />
+        <entry key="ENGLISH" value="5406" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5404" />
+        <entry key="RUSSIAN" value="5407" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
