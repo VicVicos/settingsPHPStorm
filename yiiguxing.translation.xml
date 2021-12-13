@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="upcoming-auction" />
       <item value="откат" />
       <item value="cool down sale" />
       <item value="cooldown sale" />
@@ -54,12 +55,11 @@
       <item value="Please check if the 308 auction of customer tiroche is in the Online category or" />
       <item value="Please check if the 308 auction of customer tiroche is in the Online category or (אונליין)" />
       <item value="Пожалуйста, проверьте, имеет ли аукцион 308 у клиента tiroche категорию Online или" />
-      <item value="Вы говорите об этом моменте?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5406" />
+        <entry key="ENGLISH" value="5407" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
