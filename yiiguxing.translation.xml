@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Определяется как Индийский телефон" />
+      <item value="Do you have groups on social networks?" />
+      <item value="Du you have groups on social networks?" />
       <item value="On the test site, I will check for an error so that this does not happen again." />
       <item value="На тестовом сайте я проверю наличие ошибки что бы такое не повторилось." />
       <item value="I have moved the 308 auction to the Online category. In the meantime, on the test site I am checking for what reason it did not get there immediately after synchronization." />
@@ -52,14 +55,11 @@
       <item value="Если 308 аукцион принадлежит нужным категориям, то буду смотреть по логике работы синхронизации, что могло пойти не так." />
       <item value="Please check if the 308 auction is in the Online category or (אונליין) for client Tiroche" />
       <item value="Can not call chmod() for a non-standard stream in" />
-      <item value="Pay attention to the sizes of the uploaded images, they take a very long time to load. But if you optimize them with minimal loss of quality, this problem will go away." />
-      <item value="Обратите внимание на размеры загружаемых картинок, они очень долго загружаются. Но если их оптимизировать с минимальными потерями качества, эта проблема уйдёт." />
-      <item value="They have a common problem" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5411" />
+        <entry key="ENGLISH" value="5413" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5411" />
+        <entry key="RUSSIAN" value="5414" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
