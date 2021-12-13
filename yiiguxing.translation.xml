@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I am currently working with the artist-exhibitions-page look and feel." />
+      <item value="В настоящее время я работаю с внешним видом страницы artist-exhibitions-page." />
+      <item value="And you can notice various visual bugs on this page." />
+      <item value="И вы можете заметить различные визуальные баги на этой странице." />
+      <item value="If want to post a link on instagram? Send a link to your Instagram." />
+      <item value="Отправьте ссылку на ваш профиль в Инстраграм" />
+      <item value="Send will link on Instagram" />
+      <item value="Sending link on Instagram" />
+      <item value="Send link on Instagram" />
+      <item value="If want to link to Instagram? Send us link to Instagram." />
+      <item value="Additional code? And want to post a link on instagram?" />
+      <item value="Дополнительный код? И хотите разместить ссылку на instagram?" />
       <item value="is desktop device" />
       <item value="is mobile device" />
       <item value="body class rules" />
@@ -43,23 +55,11 @@
       <item value="Вы удалили информацию с описанием дней аукциона?" />
       <item value="I can see that highlights and i don't clearing the cache." />
       <item value="I can see that highlights and not clearing the cache." />
-      <item value="I can see this getting highlighted and not clearing the cache." />
-      <item value="Я вижу, что это выделяется, и не очищал кеш." />
-      <item value="I see it highlights, and i don't cleared cashe." />
-      <item value="I see it higligts, and i don't cleared cashe." />
-      <item value="I see it higligts, and i don't clear cashe." />
-      <item value="We have released an update fixing the problem that you reported to us. Thanks!" />
-      <item value="Мы выпустили обновление с фиксом проблемы о который вы нам сообщили. Спасибо!" />
-      <item value="And we can starting transfer your domain on new site." />
-      <item value="I'll check it" />
-      <item value="I will look for a problem in synchronization." />
-      <item value="Буду искать проблему в синхронизации." />
-      <item value="If the 308 auction belongs to the necessary categories, then I will look at the logic of the synchronization, what could have gone wrong." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5416" />
+        <entry key="ENGLISH" value="5425" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5416" />
+        <entry key="RUSSIAN" value="5425" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
