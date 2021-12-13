@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="On the test site, I will check for an error so that this does not happen again." />
+      <item value="На тестовом сайте я проверю наличие ошибки что бы такое не повторилось." />
+      <item value="I have moved the 308 auction to the Online category. In the meantime, on the test site I am checking for what reason it did not get there immediately after synchronization." />
+      <item value="I have moved the 308 auction to the Online category. In the meantime, on the test I am checking for what reason it did not get there immediately after synchronization." />
+      <item value="Я переместил 308 аукцион в категорию Online. Тем временем на тестовом провожу проверку по какой причине он не попал туда сразу после синхронизации." />
       <item value="Websites prove their identity via certificates, which are valid for a set time period. The certificate for www.tiroche.co.il expired on 12132021." />
       <item value="upcoming-auction" />
       <item value="откат" />
@@ -50,16 +55,11 @@
       <item value="Pay attention to the sizes of the uploaded images, they take a very long time to load. But if you optimize them with minimal loss of quality, this problem will go away." />
       <item value="Обратите внимание на размеры загружаемых картинок, они очень долго загружаются. Но если их оптимизировать с минимальными потерями качества, эта проблема уйдёт." />
       <item value="They have a common problem" />
-      <item value="У них общая проблема" />
-      <item value="Please check if the 308 auction is in the Online category or (1) for client Tiroche" />
-      <item value="Please check if the 308 auction of client tiroche is in the Online category or" />
-      <item value="Please check if the 308 auction of customer tiroche is in the Online category or" />
-      <item value="Please check if the 308 auction of customer tiroche is in the Online category or (אונליין)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5408" />
+        <entry key="ENGLISH" value="5411" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5408" />
+        <entry key="RUSSIAN" value="5411" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
