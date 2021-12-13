@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is desktop device" />
+      <item value="is mobile device" />
+      <item value="body class rules" />
       <item value="Определяется как Индийский телефон" />
       <item value="Do you have groups on social networks?" />
       <item value="Du you have groups on social networks?" />
@@ -52,14 +55,11 @@
       <item value="I will look for a problem in synchronization." />
       <item value="Буду искать проблему в синхронизации." />
       <item value="If the 308 auction belongs to the necessary categories, then I will look at the logic of the synchronization, what could have gone wrong." />
-      <item value="Если 308 аукцион принадлежит нужным категориям, то буду смотреть по логике работы синхронизации, что могло пойти не так." />
-      <item value="Please check if the 308 auction is in the Online category or (אונליין) for client Tiroche" />
-      <item value="Can not call chmod() for a non-standard stream in" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5413" />
+        <entry key="ENGLISH" value="5416" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5414" />
+        <entry key="RUSSIAN" value="5416" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
