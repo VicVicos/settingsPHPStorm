@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Additionally, I attach an invoice from pay for the license." />
+      <item value="I am in a group with andrey@uco.co.il. He created a group and created an account for me as a member of that group. But in the end, I don't have access to his license. Additionally, I attach an invoice to pay for the license." />
+      <item value="Я состою в группе с andrey@uco.co.il. Он создал группу и создал мне аккаунт как член этой группы. Но в итоге я не имею доступа к его лицензии. Дополнительно прикладываю invoice об оплате лицензии." />
+      <item value="License problems in the group." />
+      <item value="Проблемы с лицензией в группе." />
       <item value="Работа в процессе" />
       <item value="I didn't find these fields on the Bidspirit site. What should I say to him?" />
       <item value="Я не нашёл этих полей на сайте Bidspirit. Что ему ответить?" />
@@ -50,16 +55,11 @@
       <item value="Send link on Instagram" />
       <item value="If want to link to Instagram? Send us link to Instagram." />
       <item value="Additional code? And want to post a link on instagram?" />
-      <item value="Дополнительный код? И хотите разместить ссылку на instagram?" />
-      <item value="is desktop device" />
-      <item value="is mobile device" />
-      <item value="body class rules" />
-      <item value="Определяется как Индийский телефон" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5447" />
+        <entry key="ENGLISH" value="5451" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5448" />
+        <entry key="RUSSIAN" value="5451" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
