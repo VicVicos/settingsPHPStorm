@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Products from a special category are available only via a direct link. They shouldn't appear on the Shop page." />
+      <item value="Товары из специальной категории доступны только по прямой ссылке. На странице Shop они не должны появляться." />
       <item value="I am currently working with the artist-exhibitions-page look and feel." />
       <item value="В настоящее время я работаю с внешним видом страницы artist-exhibitions-page." />
       <item value="And you can notice various visual bugs on this page." />
@@ -53,13 +55,11 @@
       <item value="Okay. I'll make it possible to display this information on the test server and update the plugin for you." />
       <item value="Хорошо. Я сделаю возможность отображения этой информации на тестовом сервере и обновлю вам плагин." />
       <item value="Вы удалили информацию с описанием дней аукциона?" />
-      <item value="I can see that highlights and i don't clearing the cache." />
-      <item value="I can see that highlights and not clearing the cache." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5425" />
+        <entry key="ENGLISH" value="5426" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5425" />
+        <entry key="RUSSIAN" value="5426" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
