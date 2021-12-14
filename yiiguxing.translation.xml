@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Работа в процессе" />
+      <item value="I didn't find these fields on the Bidspirit site. What should I say to him?" />
+      <item value="Я не нашёл этих полей на сайте Bidspirit. Что ему ответить?" />
+      <item value="Я не нашёл этих полей на сайте Bidspirit." />
+      <item value="birthday" />
+      <item value="day of birthday" />
+      <item value="Data de Nascimento" />
+      <item value="Client domusarte.bidspirit.com wants to add a field “NIF“, that is the Portuguese VAT number , and must be a required field. And add new not required field &quot;Data de Nascimento&quot;" />
+      <item value="Client domusarte.bidspirit.com wants to add a field “NIF“, that is the Portuguese VAt number , and must be a required field. And add new not required field &quot;Data de Nascimento&quot;" />
+      <item value="And add new not required field &quot;Data de Nascimento&quot;" />
+      <item value="Please replace this as an optional field with birthday “Data de Nascimento “" />
+      <item value="Client domusarte.bidspirit.com wants to add a field “NIF“, that is the Portuguese VAt number , and must be a required field" />
+      <item value="Client domusarte.bidspirit.com wants to add a field “NIF“, that is the Portuguese VAt number , and must be a obligation field" />
+      <item value="Client domusarte.bidspirit.com хочет добавить поле" />
+      <item value="that is the Portuguese VAt number , and must be a obligation field," />
       <item value="And we planning" />
       <item value="We are planning to create a new website." />
       <item value="Please translate the new lines in this file." />
@@ -40,26 +55,11 @@
       <item value="is mobile device" />
       <item value="body class rules" />
       <item value="Определяется как Индийский телефон" />
-      <item value="Do you have groups on social networks?" />
-      <item value="Du you have groups on social networks?" />
-      <item value="On the test site, I will check for an error so that this does not happen again." />
-      <item value="На тестовом сайте я проверю наличие ошибки что бы такое не повторилось." />
-      <item value="I have moved the 308 auction to the Online category. In the meantime, on the test site I am checking for what reason it did not get there immediately after synchronization." />
-      <item value="I have moved the 308 auction to the Online category. In the meantime, on the test I am checking for what reason it did not get there immediately after synchronization." />
-      <item value="Я переместил 308 аукцион в категорию Online. Тем временем на тестовом провожу проверку по какой причине он не попал туда сразу после синхронизации." />
-      <item value="Websites prove their identity via certificates, which are valid for a set time period. The certificate for www.tiroche.co.il expired on 12132021." />
-      <item value="upcoming-auction" />
-      <item value="откат" />
-      <item value="cool down sale" />
-      <item value="cooldown sale" />
-      <item value="I will tackle this problem tomorrow. Today is i day off." />
-      <item value="I will tackle this problem tomorrow. Today is my day off." />
-      <item value="Я займусь решением этой проблемы завтра. Сегодня у меня выходной день." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5436" />
+        <entry key="ENGLISH" value="5447" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5436" />
+        <entry key="RUSSIAN" value="5448" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -84,7 +84,7 @@
         <entry key="MACEDONIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="7" />
+        <entry key="PORTUGUESE" value="8" />
         <entry key="SWEDISH" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
