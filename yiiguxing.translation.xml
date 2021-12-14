@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cidade" />
+      <item value="MUNICÍPIO" />
+      <item value="The next picture. Is the formular to registration , we don’t use this words in the address in Portugal, please replace the second “Telefone “ into “NIF“ , that is the Portuguese VAt number , and must be a obligation field, Then the “Província “ we don’t use in Portugal . Please replace this as an optional field with birthday “Data de Nascimento “, then MUNICÍPIO into “Cidade” , Endereço into “ Morada “and last “ZIP Code “into “Código Postal“" />
+      <item value="Today we are planning to deal with all this." />
+      <item value="Сегодня в планах со всем этим разобраться." />
       <item value="Products from a special category are available only via a direct link. They shouldn't appear on the Shop page." />
       <item value="Товары из специальной категории доступны только по прямой ссылке. На странице Shop они не должны появляться." />
       <item value="I am currently working with the artist-exhibitions-page look and feel." />
@@ -50,16 +55,11 @@
       <item value="We cannot access your domain registrar's personal account." />
       <item value="Мы не можем получить доступ к личному кабинету вашего регистратора домена." />
       <item value="We don't have access for your domain register." />
-      <item value="Yes, we had some minor problems connecting the ssl certificate on the site. Now the problem has been resolved and we are making the last settings related to the feedback forms." />
-      <item value="Да, у нас были небольшие проблемы с подключением ssl сертификата на сайте. Сейчас проблему разрешили и проводим последние настройки связанные с формами обратной связи." />
-      <item value="Okay. I'll make it possible to display this information on the test server and update the plugin for you." />
-      <item value="Хорошо. Я сделаю возможность отображения этой информации на тестовом сервере и обновлю вам плагин." />
-      <item value="Вы удалили информацию с описанием дней аукциона?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5426" />
+        <entry key="ENGLISH" value="5428" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5426" />
+        <entry key="RUSSIAN" value="5429" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -84,7 +84,7 @@
         <entry key="MACEDONIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="5" />
+        <entry key="PORTUGUESE" value="7" />
         <entry key="SWEDISH" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
