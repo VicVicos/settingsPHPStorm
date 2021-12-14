@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="And we planning" />
+      <item value="We are planning to create a new website." />
+      <item value="Please translate the new lines in this file." />
+      <item value="Пожалуйста, переведите новые строки в этом файле." />
+      <item value="Please remember to send every morning what you done yesterday and what you planning to do today. Fixdigital group members in group to Genadi, others to me in private. I will do 1 to 1 calls between 9:00 - 11:00 based on what you wrote." />
+      <item value="We will need to discuss this point with the technical support of Bidpsirit. We will think about how this can be implemented." />
+      <item value="Этот момент нам надо будет обсудить с технической поддержкой Bidpsirit. Мы подумаем как это можно будет реализовать." />
+      <item value="This point will need to be discussed with Bidpsirit technical support. We will think about how this can be implemented." />
+      <item value="Этот момент надо будет обсудить с технической поддержкой Bidpsirit. Мы подумаем как это можно будет реализовать." />
       <item value="We will not be able to add fields that are not on Bidspirit or change the meaning of existing ones." />
       <item value="Добавить поля которых нет на Bidspirit или изменить смысл существующих мы не сможем." />
       <item value="We changed translate for next fields:" />
@@ -46,20 +55,11 @@
       <item value="I will tackle this problem tomorrow. Today is i day off." />
       <item value="I will tackle this problem tomorrow. Today is my day off." />
       <item value="Я займусь решением этой проблемы завтра. Сегодня у меня выходной день." />
-      <item value="It didn't take 24 hours. I'm sure it was faster. Did you check after you saw that only 163 lots were loaded on the site?" />
-      <item value="Это не заняло 24 часа. Уверен это было быстрее. Вы проверяли после того как увидели что на сайте загружены только 163 лота?" />
-      <item value="Now I can see all the lots on the auction. You checked the site at a time when not all lots were loaded yet. After the publication of the auction, it takes time to load all the lots." />
-      <item value="Сейчас я вижу все лоты на аукционе. Вы проверили сайт в момент когда ещё не все лоты были загружены. После публикации аукциона требуется время что бы загрузить все лоты." />
-      <item value="откат времени до начала" />
-      <item value="Can you check the description of the auction in this field? The information on the site is now the same as on Bidspirit." />
-      <item value="Сейчас информация на сайте соответствует тому что есть на Bidspirit." />
-      <item value="Can you check the description of the auction in this field? Now the site matches what is on Bidspirit and what is displayed on the site." />
-      <item value="Вы можете проверить описание аукциона в этом поле? Сейчас на сайте соответствует то что есть на Bidspirit и то что отображается на сайте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5430" />
+        <entry key="ENGLISH" value="5436" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5430" />
+        <entry key="RUSSIAN" value="5436" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
