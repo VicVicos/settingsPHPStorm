@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We will not be able to add fields that are not on Bidspirit or change the meaning of existing ones." />
+      <item value="Добавить поля которых нет на Bidspirit или изменить смысл существующих мы не сможем." />
+      <item value="We changed translate for next fields:" />
       <item value="Cidade" />
       <item value="MUNICÍPIO" />
       <item value="The next picture. Is the formular to registration , we don’t use this words in the address in Portugal, please replace the second “Telefone “ into “NIF“ , that is the Portuguese VAt number , and must be a obligation field, Then the “Província “ we don’t use in Portugal . Please replace this as an optional field with birthday “Data de Nascimento “, then MUNICÍPIO into “Cidade” , Endereço into “ Morada “and last “ZIP Code “into “Código Postal“" />
@@ -52,14 +55,11 @@
       <item value="Сейчас информация на сайте соответствует тому что есть на Bidspirit." />
       <item value="Can you check the description of the auction in this field? Now the site matches what is on Bidspirit and what is displayed on the site." />
       <item value="Вы можете проверить описание аукциона в этом поле? Сейчас на сайте соответствует то что есть на Bidspirit и то что отображается на сайте." />
-      <item value="We cannot access your domain registrar's personal account." />
-      <item value="Мы не можем получить доступ к личному кабинету вашего регистратора домена." />
-      <item value="We don't have access for your domain register." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5428" />
+        <entry key="ENGLISH" value="5430" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5429" />
+        <entry key="RUSSIAN" value="5430" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
