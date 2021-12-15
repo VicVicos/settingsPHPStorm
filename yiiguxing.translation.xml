@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="After switching to daylight saving time, the time zone settings will need to be changed again." />
+      <item value="После перехода на летнее время, настройки с часовым поясом надо будет изменить снова." />
+      <item value="Except for the &quot;Data de Nascimento&quot; field" />
+      <item value="Кроме поля &quot;Data de Nascimento&quot;" />
+      <item value="Have we taken into account all your edits to the site?" />
+      <item value="Мы учли все ваши правки по сайту?" />
+      <item value="Please, try adding next html code in place line breaker." />
+      <item value="Please try add next html code in place line breaker." />
       <item value="But I'm not sure if the solution will help for the Bakery editor." />
       <item value="Но не уверен что решение поможет для редавтора Bakery." />
       <item value="Hello! This is a text editor problem in wordpress admin area. It can be fixed." />
@@ -47,19 +55,11 @@
       <item value="Этот момент надо будет обсудить с технической поддержкой Bidpsirit. Мы подумаем как это можно будет реализовать." />
       <item value="We will not be able to add fields that are not on Bidspirit or change the meaning of existing ones." />
       <item value="Добавить поля которых нет на Bidspirit или изменить смысл существующих мы не сможем." />
-      <item value="We changed translate for next fields:" />
-      <item value="Cidade" />
-      <item value="MUNICÍPIO" />
-      <item value="The next picture. Is the formular to registration , we don’t use this words in the address in Portugal, please replace the second “Telefone “ into “NIF“ , that is the Portuguese VAt number , and must be a obligation field, Then the “Província “ we don’t use in Portugal . Please replace this as an optional field with birthday “Data de Nascimento “, then MUNICÍPIO into “Cidade” , Endereço into “ Morada “and last “ZIP Code “into “Código Postal“" />
-      <item value="Today we are planning to deal with all this." />
-      <item value="Сегодня в планах со всем этим разобраться." />
-      <item value="Products from a special category are available only via a direct link. They shouldn't appear on the Shop page." />
-      <item value="Товары из специальной категории доступны только по прямой ссылке. На странице Shop они не должны появляться." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5458" />
+        <entry key="ENGLISH" value="5463" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5458" />
+        <entry key="RUSSIAN" value="5463" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -84,7 +84,7 @@
         <entry key="MACEDONIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="9" />
         <entry key="SWEDISH" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
