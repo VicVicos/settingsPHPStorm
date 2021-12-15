@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="But I'm not sure if the solution will help for the Bakery editor." />
+      <item value="Но не уверен что решение поможет для редавтора Bakery." />
+      <item value="Hello! This is a text editor problem in wordpress admin area. It can be fixed." />
+      <item value="Это проблема редактора текста в админке wordpress. Это можно исправить." />
       <item value="We will be able to display field &quot;NIF&quot;, but we will not be able to add the “Data de Nascimento“ field now." />
       <item value="We will be able to display NIF, but we will not be able to add the “Data de Nascimento“ field now. Bidspirit does not have this option at the moment. After they do this we will add it to your site." />
       <item value="Вывести NIF мы сможем, но добавить поле “Data de Nascimento“ мы сейчас не сможем. В Bidspirit нет такой возможности на данный момент. После того как они сделают это мы добавим это на ващ сайт." />
@@ -51,15 +55,11 @@
       <item value="Сегодня в планах со всем этим разобраться." />
       <item value="Products from a special category are available only via a direct link. They shouldn't appear on the Shop page." />
       <item value="Товары из специальной категории доступны только по прямой ссылке. На странице Shop они не должны появляться." />
-      <item value="I am currently working with the artist-exhibitions-page look and feel." />
-      <item value="В настоящее время я работаю с внешним видом страницы artist-exhibitions-page." />
-      <item value="And you can notice various visual bugs on this page." />
-      <item value="И вы можете заметить различные визуальные баги на этой странице." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5456" />
+        <entry key="ENGLISH" value="5458" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5456" />
+        <entry key="RUSSIAN" value="5458" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
