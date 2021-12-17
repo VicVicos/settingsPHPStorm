@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Compare the settings with the 94 auction." />
+      <item value="Сравните настройки с 94 аукционом." />
       <item value="5.189.179.106 here is has IP address." />
       <item value="5.189.179.106 here is her IP address." />
       <item value="5.189.179.106 here is their IP address." />
@@ -53,13 +55,11 @@
       <item value="Please replace this as an optional field with birthday “Data de Nascimento “" />
       <item value="Client domusarte.bidspirit.com wants to add a field “NIF“, that is the Portuguese VAt number , and must be a required field" />
       <item value="Client domusarte.bidspirit.com wants to add a field “NIF“, that is the Portuguese VAt number , and must be a obligation field" />
-      <item value="Client domusarte.bidspirit.com хочет добавить поле" />
-      <item value="that is the Portuguese VAt number , and must be a obligation field," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5472" />
+        <entry key="ENGLISH" value="5473" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5472" />
+        <entry key="RUSSIAN" value="5473" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
