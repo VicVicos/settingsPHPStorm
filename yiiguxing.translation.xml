@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Optional. If specified, only update existing metadata entries with this value. Otherwise, update all entries." />
       <item value="In one of the latest updates, we optimized the synchronization process and this solves many problems." />
       <item value="In one of the latest updates, we optimized the synchronization process and this solves many problems that arose." />
       <item value="В одном из последних обновлений мы оптимизировали процесс синхронизации и это решает множество проблем которые возникали." />
@@ -54,12 +55,11 @@
       <item value="Проблемы с лицензией в группе." />
       <item value="Работа в процессе" />
       <item value="I didn't find these fields on the Bidspirit site. What should I say to him?" />
-      <item value="Я не нашёл этих полей на сайте Bidspirit. Что ему ответить?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5481" />
+        <entry key="ENGLISH" value="5482" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5481" />
+        <entry key="RUSSIAN" value="5482" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
