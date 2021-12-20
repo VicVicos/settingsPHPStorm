@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please add to white list develop site:" />
+      <item value="Please add to white list dev site:" />
       <item value="isequals" />
       <item value="is Equils" />
       <item value="Optional. If specified, only update existing metadata entries with this value. Otherwise, update all entries." />
@@ -53,13 +55,11 @@
       <item value="Additionally, I attach an invoice from pay for the license." />
       <item value="I am in a group with andrey@uco.co.il. He created a group and created an account for me as a member of that group. But in the end, I don't have access to his license. Additionally, I attach an invoice to pay for the license." />
       <item value="Я состою в группе с andrey@uco.co.il. Он создал группу и создал мне аккаунт как член этой группы. Но в итоге я не имею доступа к его лицензии. Дополнительно прикладываю invoice об оплате лицензии." />
-      <item value="License problems in the group." />
-      <item value="Проблемы с лицензией в группе." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5484" />
+        <entry key="ENGLISH" value="5486" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5484" />
+        <entry key="RUSSIAN" value="5486" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
