@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Do you want see pictures on your mobile device before the block with the description and buttons?" />
+      <item value="Do you want pictures on your mobile device before the block with the description and buttons?" />
+      <item value="Вы хотите что бы картинки на мобильном устройстве перед блоком с описанием и кнопками?" />
       <item value="Please add to white list develop site:" />
       <item value="Please add to white list dev site:" />
       <item value="isequals" />
@@ -52,14 +55,11 @@
       <item value="In this case, we have a problem with the access settings. My profile is allowed access to all sites with View &amp; Edit rules, but I cannot add a new site with my profile. Access to the main account was granted to me in order to understand this problem." />
       <item value="В таком случае у нас возникла проблема с настройками доступа. Моему профилю разрешён доступ ко всем сайтам с правилами View &amp; Edit, но я не могу со своим профилем добавить новый сайт. Доступ к основному аккаунту мне предоставлен с целью разобраться в этой проблеме." />
       <item value="We finished work on site. Please check." />
-      <item value="Additionally, I attach an invoice from pay for the license." />
-      <item value="I am in a group with andrey@uco.co.il. He created a group and created an account for me as a member of that group. But in the end, I don't have access to his license. Additionally, I attach an invoice to pay for the license." />
-      <item value="Я состою в группе с andrey@uco.co.il. Он создал группу и создал мне аккаунт как член этой группы. Но в итоге я не имею доступа к его лицензии. Дополнительно прикладываю invoice об оплате лицензии." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5486" />
+        <entry key="ENGLISH" value="5488" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5486" />
+        <entry key="RUSSIAN" value="5488" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
