@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sign Up to receive online updates" />
       <item value="go to home" />
       <item value="please note: when user enters this page, there is no Top nav. with the “X” user can close the screen and get back to the “lots” page with the logo user can get back to home page" />
       <item value="I see that the synchronization of auction 010422 is complete and duplicate lots are gone during the synchronization process." />
@@ -54,12 +55,11 @@
       <item value="Но не уверен что решение поможет для редавтора Bakery." />
       <item value="Hello! This is a text editor problem in wordpress admin area. It can be fixed." />
       <item value="Это проблема редактора текста в админке wordpress. Это можно исправить." />
-      <item value="We will be able to display field &quot;NIF&quot;, but we will not be able to add the “Data de Nascimento“ field now." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5493" />
+        <entry key="ENGLISH" value="5494" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5493" />
+        <entry key="RUSSIAN" value="5494" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
