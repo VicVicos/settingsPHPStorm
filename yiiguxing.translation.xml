@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I see that the synchronization of auction 010422 is complete and duplicate lots are gone during the synchronization process." />
+      <item value="Я вижу что синхронизация аукциона 010422 завершена и дубли лотов ушли в процессе синхронизации." />
       <item value="Do you want" />
       <item value="This check protects against theme overrides being used on older versions of WC." />
       <item value="Do you want see pictures on your mobile device before the block with the description and buttons?" />
@@ -53,13 +55,11 @@
       <item value="We will be able to display field &quot;NIF&quot;, but we will not be able to add the “Data de Nascimento“ field now." />
       <item value="We will be able to display NIF, but we will not be able to add the “Data de Nascimento“ field now. Bidspirit does not have this option at the moment. After they do this we will add it to your site." />
       <item value="Вывести NIF мы сможем, но добавить поле “Data de Nascimento“ мы сейчас не сможем. В Bidspirit нет такой возможности на данный момент. После того как они сделают это мы добавим это на ващ сайт." />
-      <item value="agree Bid" />
-      <item value="In this case, we have a problem with the access settings. My profile is allowed access to all sites with View &amp; Edit rules, but I cannot add a new site with my profile. Access to the main account was granted to me in order to understand this problem." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5490" />
+        <entry key="ENGLISH" value="5491" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5490" />
+        <entry key="RUSSIAN" value="5491" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
