@@ -5,6 +5,22 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please clarify because I don't quite understand." />
+      <item value="Пожалуйста, уточните потому что я не совсем понимаю." />
+      <item value="switch these" />
+      <item value="What auction are you talking about? All auction content you fill out on Bidspirit. In template, there is no way to display other information other than static pages that you create with Elementor." />
+      <item value="What auction are you talking about? All auction content you fill out on Bidspirit. In themplate, there is no way to display other information other than static pages that you create with Elementor." />
+      <item value="О каком аукционе вы говорите? Весь контент для аукционов вы заполняете на Bidspirit. В themplate нет возможности отобразить иную информацию кроме статичных страниц, которые вы создаёте с помощью Elementor." />
+      <item value="We have added the output of this plugin to this page: http: uniquesandantiques.ln12.tempurl.infoappointments We will not help with the configuration of this plugin." />
+      <item value="Мы добавили вывод этого плагина на эту страницу: http:uniquesandantiques.ln12.tempurl.infoappointments С конфигурацией этого плагина мы не поможем." />
+      <item value="Please write me in private if you want to take days off except country holidays" />
+      <item value="Forms on the site can be integrated with mailchimp. Send us API key Mailchimp" />
+      <item value="Формы на сайте могут быть интегрированы с mailchimp. Пришлите нам API key Mailchimp" />
+      <item value="option for these above the catalog lots" />
+      <item value="This is not in the plugin." />
+      <item value="В плагине этого нет." />
+      <item value="This is configurable by Bidspirit on request. Contact your manager and let them know that you want to display the Estimate price. In the plugin, you can enable the option to show the estimated value for all auctions." />
+      <item value="Это настраивается со стороны Bidspirit по запросу. Свяжитесь со своим менеджером и сообщите что хотите отображать Estimate price. В плагине можно включить опцию, что бы для всех аукционов показывались оценочная стоимость." />
       <item value="I investigated the Estimate Price display issue. There are no errors in the plugin. You should find the showEstimatedPriceInItemsList option and set it to true. This option is not available to clients and me in the Bidspirit admin panel, this is done individually at the request of the client." />
       <item value="Я изучил проблему c отображением Estimate Price. В плагине ошибок нет. Вы должны найти опцию showEstimatedPriceInItemsList и сделать её значение true. Клиентам и мне не доступна эта опция в админ панели Bidspirit, это делается в индивидуальном порядке по запросу клиента." />
       <item value="On our previous website, the PayPal link actually took you to the payment page of the Yeshiva with the amount you specified (see our old website). This link is just a link to PayPal." />
@@ -39,27 +55,11 @@
       <item value="go to home" />
       <item value="please note: when user enters this page, there is no Top nav. with the “X” user can close the screen and get back to the “lots” page with the logo user can get back to home page" />
       <item value="I see that the synchronization of auction 010422 is complete and duplicate lots are gone during the synchronization process." />
-      <item value="Я вижу что синхронизация аукциона 010422 завершена и дубли лотов ушли в процессе синхронизации." />
-      <item value="Do you want" />
-      <item value="This check protects against theme overrides being used on older versions of WC." />
-      <item value="Do you want see pictures on your mobile device before the block with the description and buttons?" />
-      <item value="Do you want pictures on your mobile device before the block with the description and buttons?" />
-      <item value="Вы хотите что бы картинки на мобильном устройстве перед блоком с описанием и кнопками?" />
-      <item value="Please add to white list develop site:" />
-      <item value="Please add to white list dev site:" />
-      <item value="isequals" />
-      <item value="is Equils" />
-      <item value="Optional. If specified, only update existing metadata entries with this value. Otherwise, update all entries." />
-      <item value="In one of the latest updates, we optimized the synchronization process and this solves many problems." />
-      <item value="In one of the latest updates, we optimized the synchronization process and this solves many problems that arose." />
-      <item value="В одном из последних обновлений мы оптимизировали процесс синхронизации и это решает множество проблем которые возникали." />
-      <item value="I want update plugin on ansuini." />
-      <item value="I need to see what exactly influences this." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5517" />
+        <entry key="ENGLISH" value="5528" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5517" />
+        <entry key="RUSSIAN" value="5528" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
