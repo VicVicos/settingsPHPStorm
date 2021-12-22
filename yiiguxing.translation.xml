@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will inform you a little later." />
+      <item value="Я сообщу вам чуть позднее." />
       <item value="Please clarify because I don't quite understand." />
       <item value="Пожалуйста, уточните потому что я не совсем понимаю." />
       <item value="switch these" />
@@ -53,13 +55,11 @@
       <item value="Syncroniztion with Bidspirit we do it" />
       <item value="Sign Up to receive online updates" />
       <item value="go to home" />
-      <item value="please note: when user enters this page, there is no Top nav. with the “X” user can close the screen and get back to the “lots” page with the logo user can get back to home page" />
-      <item value="I see that the synchronization of auction 010422 is complete and duplicate lots are gone during the synchronization process." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5528" />
+        <entry key="ENGLISH" value="5529" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5528" />
+        <entry key="RUSSIAN" value="5529" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
