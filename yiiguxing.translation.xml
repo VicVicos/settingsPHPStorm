@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="When made narrow, picture revers to default" />
+      <item value="Do you want to swap this?" />
+      <item value="Вы хотите поменять это местами?" />
+      <item value="Want you replace placed?" />
+      <item value="Switch these" />
+      <item value="They wrote to me about this uniquesantiques.bidspirit.com, but on Bidspirit they show the starting price. In the plugin, I added an option that overrides the value of this parameter, but I'm not sure if the plugin will work correctly if the value of the showEstimatedPriceInItemsList parameter is true during the API request. So I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
+      <item value="So I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
+      <item value="Some I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
+      <item value="I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
+      <item value="Поэтому я хотел сменить значение на тестовом web2-qa.bidspirit.com аккаунте для аукциона номер 10." />
+      <item value="They wrote to me about this uniquesantiques.bidspirit.com, but on Bidspirit they show the starting price. In the plugin, I added an option that overrides the value of this parameter, but I'm not sure if the plugin will work correctly if the value of the showEstimatedPriceInItemsList parameter is true during the API request." />
+      <item value="Об этом мне написали uniquesantiques.bidspirit.com, но на Bidspirit у них показывается стартовая цена. В плагине я добавил опцию, которая переопределяет значение этого параметра, но я не уверен в корректности работу плагина если значение параметра showEstimatedPriceInItemsList будет true при API запросе." />
+      <item value="I cannot find the showEstimatedPriceInItemsList option in the Bidspirit admin panel. It is associated with some problems with displaying the Estimate price for some clients." />
+      <item value="I cannot find the showEstimatedPriceInItemsList option in the Bidspirit admin area. It is associated with some problems with displaying the Estimate price for some clients." />
+      <item value="Я не могу в админке Bidspirit найти опцию showEstimatedPriceInItemsList. С ней связаны некоторые проблемы с отображением Estimate price у некоторых клиентов." />
       <item value="Instead" />
       <item value="Talk to your manager at Bidspirit about this. I don't know anything about it." />
       <item value="Поговорите об этом со своим менеджером в Bidspirit. Я ни чего не знаю об этом." />
@@ -40,26 +55,11 @@
       <item value="Сравните настройки с 94 аукционом." />
       <item value="5.189.179.106 here is has IP address." />
       <item value="5.189.179.106 here is her IP address." />
-      <item value="5.189.179.106 here is their IP address." />
-      <item value="here is they IP address." />
-      <item value="Yes. But I thought that this is not necessary and you can work with a test account." />
-      <item value="Но я подумал что это не обязательно и можно проводить работы с тестовым аккаунтом." />
-      <item value="Just approve. So that I can place bets as a user." />
-      <item value="Just allow. So that I can place bets as a user." />
-      <item value="Просто разрешить. Что бы я мог делать ставки как пользователь." />
-      <item value="Can we approve my profile for genazym.bidspirit.com?" />
-      <item value="We can approve my profile for genazym.bidspirit.com?" />
-      <item value="After switching to daylight saving time, the time zone settings will need to be changed again." />
-      <item value="После перехода на летнее время, настройки с часовым поясом надо будет изменить снова." />
-      <item value="Except for the &quot;Data de Nascimento&quot; field" />
-      <item value="Кроме поля &quot;Data de Nascimento&quot;" />
-      <item value="Have we taken into account all your edits to the site?" />
-      <item value="Мы учли все ваши правки по сайту?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5498" />
+        <entry key="ENGLISH" value="5510" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5498" />
+        <entry key="RUSSIAN" value="5510" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,7 +99,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639731047287" />
+    <option name="lastTrimTime" value="1640163059321" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
