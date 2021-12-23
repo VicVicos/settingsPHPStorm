@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ללא כותרת" />
       <item value="Перезалить данные и устранить дубли" />
       <item value="Also, if the language is Hebrew on the site, the basket should open on the left?" />
       <item value="Так же если на сайте выбран язык Иврит корзина должна открываться слева?" />
@@ -54,12 +55,11 @@
       <item value="Do you want to swap this?" />
       <item value="Вы хотите поменять это местами?" />
       <item value="Want you replace placed?" />
-      <item value="Switch these" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5539" />
+        <entry key="ENGLISH" value="5540" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="3" />
-        <entry key="HEBREW" value="162" />
+        <entry key="HEBREW" value="163" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
