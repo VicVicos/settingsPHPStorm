@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Beyond payment" />
+      <item value="מעבר לתשלום" />
       <item value="I checked mail for spam. And in all respects, letters should not end up in spam." />
       <item value="I checked my mail for spam. And in all respects, letters should not end up in spam." />
       <item value="Я проверил почту на спам. И по всем параметрам письма не должны попадать в спам." />
@@ -53,13 +55,11 @@
       <item value="Поэтому я хотел сменить значение на тестовом web2-qa.bidspirit.com аккаунте для аукциона номер 10." />
       <item value="They wrote to me about this uniquesantiques.bidspirit.com, but on Bidspirit they show the starting price. In the plugin, I added an option that overrides the value of this parameter, but I'm not sure if the plugin will work correctly if the value of the showEstimatedPriceInItemsList parameter is true during the API request." />
       <item value="Об этом мне написали uniquesantiques.bidspirit.com, но на Bidspirit у них показывается стартовая цена. В плагине я добавил опцию, которая переопределяет значение этого параметра, но я не уверен в корректности работу плагина если значение параметра showEstimatedPriceInItemsList будет true при API запросе." />
-      <item value="I cannot find the showEstimatedPriceInItemsList option in the Bidspirit admin panel. It is associated with some problems with displaying the Estimate price for some clients." />
-      <item value="I cannot find the showEstimatedPriceInItemsList option in the Bidspirit admin area. It is associated with some problems with displaying the Estimate price for some clients." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5535" />
+        <entry key="ENGLISH" value="5536" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5535" />
+        <entry key="RUSSIAN" value="5536" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="3" />
-        <entry key="HEBREW" value="161" />
+        <entry key="HEBREW" value="162" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
