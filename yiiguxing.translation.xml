@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! Please eliminate duplicate auctions. Duplicate numbers 123, 124, 126." />
+      <item value="Пожалуйста, устраните дубли аукционов. Номера дубликатов 123, 124, 126" />
+      <item value="Most of the tasks are ready, except for the problem on the page checkout eng version, and product counter." />
+      <item value="Большая часть задач готова, кроме проблемы на странице checkout eng version, and product counter." />
       <item value="ללא כותרת" />
       <item value="Перезалить данные и устранить дубли" />
       <item value="Also, if the language is Hebrew on the site, the basket should open on the left?" />
@@ -51,15 +55,11 @@
       <item value="Previous Baranovich Non-Online Auctions" />
       <item value="Above the grid of our previous non-online auctions, please put the heading:" />
       <item value="Title: Previous Auctions [not Past Auctions]" />
-      <item value="When made narrow, picture revers to default" />
-      <item value="Do you want to swap this?" />
-      <item value="Вы хотите поменять это местами?" />
-      <item value="Want you replace placed?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5540" />
+        <entry key="ENGLISH" value="5542" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5540" />
+        <entry key="RUSSIAN" value="5542" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
