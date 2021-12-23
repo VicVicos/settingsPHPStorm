@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I checked mail for spam. And in all respects, letters should not end up in spam." />
+      <item value="I checked my mail for spam. And in all respects, letters should not end up in spam." />
+      <item value="Я проверил почту на спам. И по всем параметрам письма не должны попадать в спам." />
+      <item value="Could you please indicate more precisely where the specified text should be placed? Do I understand correctly that this applies only to goods? This does not apply to Bidspirit lots." />
+      <item value="Не могли бы вы указать более точно куда надо разместить указанный текст? Верно ли я понимаю что это касается только товаров. Это не относится к лотам Bidspirit." />
+      <item value="Не могли бы вы указать более точно куда надо разместить указанный текст. Верно ли я понимаю что это касается только товаров. Это не относится к лотам Bidspirit." />
+      <item value="Please clearify about this point. I don't understand." />
+      <item value="I will go over some of the points. With mail and &quot;I agree to the terms&quot;" />
+      <item value="Я пройдусь по некоторым пунктам. С почтой и &quot;I agree to the terms&quot;" />
       <item value="I will inform you a little later." />
       <item value="Я сообщу вам чуть позднее." />
       <item value="Please clarify because I don't quite understand." />
@@ -46,20 +55,11 @@
       <item value="Об этом мне написали uniquesantiques.bidspirit.com, но на Bidspirit у них показывается стартовая цена. В плагине я добавил опцию, которая переопределяет значение этого параметра, но я не уверен в корректности работу плагина если значение параметра showEstimatedPriceInItemsList будет true при API запросе." />
       <item value="I cannot find the showEstimatedPriceInItemsList option in the Bidspirit admin panel. It is associated with some problems with displaying the Estimate price for some clients." />
       <item value="I cannot find the showEstimatedPriceInItemsList option in the Bidspirit admin area. It is associated with some problems with displaying the Estimate price for some clients." />
-      <item value="Я не могу в админке Bidspirit найти опцию showEstimatedPriceInItemsList. С ней связаны некоторые проблемы с отображением Estimate price у некоторых клиентов." />
-      <item value="Instead" />
-      <item value="Talk to your manager at Bidspirit about this. I don't know anything about it." />
-      <item value="Поговорите об этом со своим менеджером в Bidspirit. Я ни чего не знаю об этом." />
-      <item value="Syncroniztion with Bidspirit we do it each hour." />
-      <item value="каждый час" />
-      <item value="Syncroniztion with Bidspirit we do it" />
-      <item value="Sign Up to receive online updates" />
-      <item value="go to home" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5529" />
+        <entry key="ENGLISH" value="5535" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5529" />
+        <entry key="RUSSIAN" value="5535" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
