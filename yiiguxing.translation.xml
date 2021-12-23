@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Перезалить данные и устранить дубли" />
+      <item value="Also, if the language is Hebrew on the site, the basket should open on the left?" />
+      <item value="Так же если на сайте выбран язык Иврит корзина должна открываться слева?" />
+      <item value="If I click this button the shopping cart opens. Is this problem number 2?" />
+      <item value="Если я нажимаю эту кнопку открывается корзина. Это и есть задача под номером 2?" />
+      <item value="Please clarify on the account of points 2,3. I am having trouble understanding these tasks. Can you send screenshots for a more accurate description of the task?" />
+      <item value="Уточните, пожалуйста на счёт пунктов 2,3. У меня возникли проблемы с пониманием этих задач. Можете прислать скрины экрана для более точного описания задачи?" />
       <item value="Beyond payment" />
       <item value="מעבר לתשלום" />
       <item value="I checked mail for spam. And in all respects, letters should not end up in spam." />
@@ -48,18 +55,11 @@
       <item value="Вы хотите поменять это местами?" />
       <item value="Want you replace placed?" />
       <item value="Switch these" />
-      <item value="They wrote to me about this uniquesantiques.bidspirit.com, but on Bidspirit they show the starting price. In the plugin, I added an option that overrides the value of this parameter, but I'm not sure if the plugin will work correctly if the value of the showEstimatedPriceInItemsList parameter is true during the API request. So I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
-      <item value="So I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
-      <item value="Some I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
-      <item value="I wanted to change the value on the test web2-qa.bidspirit.com account for auction number 10." />
-      <item value="Поэтому я хотел сменить значение на тестовом web2-qa.bidspirit.com аккаунте для аукциона номер 10." />
-      <item value="They wrote to me about this uniquesantiques.bidspirit.com, but on Bidspirit they show the starting price. In the plugin, I added an option that overrides the value of this parameter, but I'm not sure if the plugin will work correctly if the value of the showEstimatedPriceInItemsList parameter is true during the API request." />
-      <item value="Об этом мне написали uniquesantiques.bidspirit.com, но на Bidspirit у них показывается стартовая цена. В плагине я добавил опцию, которая переопределяет значение этого параметра, но я не уверен в корректности работу плагина если значение параметра showEstimatedPriceInItemsList будет true при API запросе." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5536" />
+        <entry key="ENGLISH" value="5539" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5536" />
+        <entry key="RUSSIAN" value="5540" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
