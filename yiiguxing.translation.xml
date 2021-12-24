@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="gateways" />
       <item value="Your registration is restricted to the domains you enter here, plus any subdomains. In other words, a registration for example.com also registers subdomain.example.com. A valid domain requires a host and must not include any path, port, query or fragment. Changes to this field may take up to 30 minutes to take effect." />
       <item value="Please add to white list domain https:auction.oranta.moscow Client profile: https:oranta.bidspirit.com" />
       <item value="השימוש בשירות" />
@@ -54,12 +55,11 @@
       <item value="I investigated the Estimate Price display issue. There are no errors in the plugin. You should find the showEstimatedPriceInItemsList option and set it to true. This option is not available to clients and me in the Bidspirit admin panel, this is done individually at the request of the client." />
       <item value="Я изучил проблему c отображением Estimate Price. В плагине ошибок нет. Вы должны найти опцию showEstimatedPriceInItemsList и сделать её значение true. Клиентам и мне не доступна эта опция в админ панели Bidspirit, это делается в индивидуальном порядке по запросу клиента." />
       <item value="On our previous website, the PayPal link actually took you to the payment page of the Yeshiva with the amount you specified (see our old website). This link is just a link to PayPal." />
-      <item value="Where does the uploaded document get sent?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5544" />
+        <entry key="ENGLISH" value="5545" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5544" />
+        <entry key="RUSSIAN" value="5545" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
