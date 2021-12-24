@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For the &quot;checkout&quot; page, after an ajax request, the page displays content in Hebrew" />
+      <item value="Для страницы &quot;checkout&quot; после ajax запроса на странице отображается контент на Иврите" />
+      <item value="For eng page checkout after ajax query display Hebrew content" />
+      <item value="For eng page checkout after ajax query displaying Hebrew content" />
       <item value="gateways" />
       <item value="Your registration is restricted to the domains you enter here, plus any subdomains. In other words, a registration for example.com also registers subdomain.example.com. A valid domain requires a host and must not include any path, port, query or fragment. Changes to this field may take up to 30 minutes to take effect." />
       <item value="Please add to white list domain https:auction.oranta.moscow Client profile: https:oranta.bidspirit.com" />
@@ -51,15 +55,11 @@
       <item value="This is not in the plugin." />
       <item value="В плагине этого нет." />
       <item value="This is configurable by Bidspirit on request. Contact your manager and let them know that you want to display the Estimate price. In the plugin, you can enable the option to show the estimated value for all auctions." />
-      <item value="Это настраивается со стороны Bidspirit по запросу. Свяжитесь со своим менеджером и сообщите что хотите отображать Estimate price. В плагине можно включить опцию, что бы для всех аукционов показывались оценочная стоимость." />
-      <item value="I investigated the Estimate Price display issue. There are no errors in the plugin. You should find the showEstimatedPriceInItemsList option and set it to true. This option is not available to clients and me in the Bidspirit admin panel, this is done individually at the request of the client." />
-      <item value="Я изучил проблему c отображением Estimate Price. В плагине ошибок нет. Вы должны найти опцию showEstimatedPriceInItemsList и сделать её значение true. Клиентам и мне не доступна эта опция в админ панели Bidspirit, это делается в индивидуальном порядке по запросу клиента." />
-      <item value="On our previous website, the PayPal link actually took you to the payment page of the Yeshiva with the amount you specified (see our old website). This link is just a link to PayPal." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5545" />
+        <entry key="ENGLISH" value="5548" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5545" />
+        <entry key="RUSSIAN" value="5548" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
