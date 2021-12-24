@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Простите, я немного забыл про Ansuini." />
       <item value="I can start transfer domain on new site." />
       <item value="For the &quot;checkout&quot; page, after an ajax request, the page displays content in Hebrew" />
       <item value="Для страницы &quot;checkout&quot; после ajax запроса на странице отображается контент на Иврите" />
@@ -54,7 +55,6 @@
       <item value="Формы на сайте могут быть интегрированы с mailchimp. Пришлите нам API key Mailchimp" />
       <item value="option for these above the catalog lots" />
       <item value="This is not in the plugin." />
-      <item value="В плагине этого нет." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5549" />
+        <entry key="RUSSIAN" value="5550" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
