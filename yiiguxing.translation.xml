@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I can start transfer domain on new site." />
       <item value="For the &quot;checkout&quot; page, after an ajax request, the page displays content in Hebrew" />
       <item value="Для страницы &quot;checkout&quot; после ajax запроса на странице отображается контент на Иврите" />
       <item value="For eng page checkout after ajax query display Hebrew content" />
@@ -54,12 +55,11 @@
       <item value="option for these above the catalog lots" />
       <item value="This is not in the plugin." />
       <item value="В плагине этого нет." />
-      <item value="This is configurable by Bidspirit on request. Contact your manager and let them know that you want to display the Estimate price. In the plugin, you can enable the option to show the estimated value for all auctions." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5548" />
+        <entry key="ENGLISH" value="5549" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5548" />
+        <entry key="RUSSIAN" value="5549" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
