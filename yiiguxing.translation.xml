@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I agree to the" />
       <item value="I have updated the plugin on the Ansuiniaste website, but the 95 auction still does not show the estimated value of the lots." />
       <item value="Я обновил плагина на сайте Ansuiniaste, но 95 аукцион по прежнему не показывает оценочную стоимость лотов." />
       <item value="Простите, я немного забыл про Ansuini." />
@@ -54,12 +55,11 @@
       <item value="Мы добавили вывод этого плагина на эту страницу: http:uniquesandantiques.ln12.tempurl.infoappointments С конфигурацией этого плагина мы не поможем." />
       <item value="Please write me in private if you want to take days off except country holidays" />
       <item value="Forms on the site can be integrated with mailchimp. Send us API key Mailchimp" />
-      <item value="Формы на сайте могут быть интегрированы с mailchimp. Пришлите нам API key Mailchimp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5551" />
+        <entry key="ENGLISH" value="5552" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5551" />
+        <entry key="RUSSIAN" value="5552" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
