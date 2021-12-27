@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Yes, we talked about it. I am currently working on adding a second currency to the site, this is already done on the test site, but there is a small problem on the checkout page, the solution of which takes a little more time." />
+      <item value="Да, мы говорили об этом. Я сейчас работаю над добавлением второй валюты на сайт, это уже готово на тестовом сайте, но есть небольшая проблема на странице checkout, решение которой требует ещё немного времени." />
       <item value="We are looking forward to hearing your feedback or approval soon." />
       <item value="We can make the text for the banner button selectable." />
       <item value="Можно сделать текст для кнопки баннера выбираемым." />
@@ -53,13 +55,11 @@
       <item value="ללא כותרת" />
       <item value="Перезалить данные и устранить дубли" />
       <item value="Also, if the language is Hebrew on the site, the basket should open on the left?" />
-      <item value="Так же если на сайте выбран язык Иврит корзина должна открываться слева?" />
-      <item value="If I click this button the shopping cart opens. Is this problem number 2?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5572" />
+        <entry key="ENGLISH" value="5573" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5572" />
+        <entry key="RUSSIAN" value="5573" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
