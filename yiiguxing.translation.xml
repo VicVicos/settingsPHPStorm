@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Today I will finish the problem on the checckout page and add a second currency to the site." />
+      <item value="Сегодня я доделаю проблему на странице checckout и добавлю вторую валюту на сайт." />
+      <item value="Yes, But i don’t guarantee that I’ll have time to do it today." />
+      <item value="Yes, I don’t guarantee that I’ll have time to do it today." />
+      <item value="Да, о не гарантирую что успею сделать сегодня." />
       <item value="Yes, we talked about it. I am currently working on adding a second currency to the site, this is already done on the test site, but there is a small problem on the checkout page, the solution of which takes a little more time." />
       <item value="Да, мы говорили об этом. Я сейчас работаю над добавлением второй валюты на сайт, это уже готово на тестовом сайте, но есть небольшая проблема на странице checkout, решение которой требует ещё немного времени." />
       <item value="We are looking forward to hearing your feedback or approval soon." />
@@ -50,16 +55,11 @@
       <item value="אני מסכים לתנאי השימוש בשירות" />
       <item value="Hello! Please eliminate duplicate auctions. Duplicate numbers 123, 124, 126." />
       <item value="Пожалуйста, устраните дубли аукционов. Номера дубликатов 123, 124, 126" />
-      <item value="Most of the tasks are ready, except for the problem on the page checkout eng version, and product counter." />
-      <item value="Большая часть задач готова, кроме проблемы на странице checkout eng version, and product counter." />
-      <item value="ללא כותרת" />
-      <item value="Перезалить данные и устранить дубли" />
-      <item value="Also, if the language is Hebrew on the site, the basket should open on the left?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5573" />
+        <entry key="ENGLISH" value="5576" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5573" />
+        <entry key="RUSSIAN" value="5576" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
