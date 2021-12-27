@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We can make the text for the banner button selectable." />
+      <item value="Можно сделать текст для кнопки баннера выбираемым." />
+      <item value="We can make the text for the banner button optional." />
+      <item value="You can make the text for the banner button optional." />
+      <item value="Можно сделать текст для кнопки баннера опциональным." />
+      <item value="We can make the text for the banner button of your choice." />
+      <item value="You can make the text for the banner button of your choice." />
+      <item value="Можно сделать текст для кнопки баннера на выбор." />
       <item value="We have to choose what text will be on the button?" />
       <item value="Мы должны выбирать какой текст будет на копке?" />
       <item value="Do I need to selected the text on the slide button?" />
@@ -47,19 +55,11 @@
       <item value="Так же если на сайте выбран язык Иврит корзина должна открываться слева?" />
       <item value="If I click this button the shopping cart opens. Is this problem number 2?" />
       <item value="Если я нажимаю эту кнопку открывается корзина. Это и есть задача под номером 2?" />
-      <item value="Please clarify on the account of points 2,3. I am having trouble understanding these tasks. Can you send screenshots for a more accurate description of the task?" />
-      <item value="Уточните, пожалуйста на счёт пунктов 2,3. У меня возникли проблемы с пониманием этих задач. Можете прислать скрины экрана для более точного описания задачи?" />
-      <item value="Beyond payment" />
-      <item value="מעבר לתשלום" />
-      <item value="I checked mail for spam. And in all respects, letters should not end up in spam." />
-      <item value="I checked my mail for spam. And in all respects, letters should not end up in spam." />
-      <item value="Я проверил почту на спам. И по всем параметрам письма не должны попадать в спам." />
-      <item value="Could you please indicate more precisely where the specified text should be placed? Do I understand correctly that this applies only to goods? This does not apply to Bidspirit lots." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5566" />
+        <entry key="ENGLISH" value="5571" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5566" />
+        <entry key="RUSSIAN" value="5571" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
