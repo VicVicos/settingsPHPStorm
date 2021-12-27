@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have to choose what text will be on the button?" />
+      <item value="Мы должны выбирать какой текст будет на копке?" />
+      <item value="Do I need to selected the text on the slide button?" />
+      <item value="Do I need to select the text on the slide button?" />
+      <item value="Надо ли выбирать текст на кнопке слайда?" />
+      <item value="Should the text on option select button be slide?" />
+      <item value="Should the text on the slider button be slide?" />
+      <item value="Should the text on the slider button be slide? &quot;Coming Soon&quot; will not always fit the slide." />
+      <item value="Should the text on the slider button be selectable? &quot;Coming Soon&quot; will not always fit the slide." />
+      <item value="Текст на кнопке слайдера должен выбираться? Не всегда же &quot;Coming Soon&quot; будет подходить к слайду." />
+      <item value="Ok. I will do it now." />
+      <item value="Ok. I did it now." />
+      <item value="Ok. I do it now." />
       <item value="Don\'t sync auction description" />
       <item value="what to coop?" />
       <item value="In one of the latest plugin updates, we added this feature for lots. Check if its implementation suits your task?" />
@@ -42,24 +55,11 @@
       <item value="I checked my mail for spam. And in all respects, letters should not end up in spam." />
       <item value="Я проверил почту на спам. И по всем параметрам письма не должны попадать в спам." />
       <item value="Could you please indicate more precisely where the specified text should be placed? Do I understand correctly that this applies only to goods? This does not apply to Bidspirit lots." />
-      <item value="Не могли бы вы указать более точно куда надо разместить указанный текст? Верно ли я понимаю что это касается только товаров. Это не относится к лотам Bidspirit." />
-      <item value="Не могли бы вы указать более точно куда надо разместить указанный текст. Верно ли я понимаю что это касается только товаров. Это не относится к лотам Bidspirit." />
-      <item value="Please clearify about this point. I don't understand." />
-      <item value="I will go over some of the points. With mail and &quot;I agree to the terms&quot;" />
-      <item value="Я пройдусь по некоторым пунктам. С почтой и &quot;I agree to the terms&quot;" />
-      <item value="I will inform you a little later." />
-      <item value="Я сообщу вам чуть позднее." />
-      <item value="Please clarify because I don't quite understand." />
-      <item value="Пожалуйста, уточните потому что я не совсем понимаю." />
-      <item value="switch these" />
-      <item value="What auction are you talking about? All auction content you fill out on Bidspirit. In template, there is no way to display other information other than static pages that you create with Elementor." />
-      <item value="What auction are you talking about? All auction content you fill out on Bidspirit. In themplate, there is no way to display other information other than static pages that you create with Elementor." />
-      <item value="О каком аукционе вы говорите? Весь контент для аукционов вы заполняете на Bidspirit. В themplate нет возможности отобразить иную информацию кроме статичных страниц, которые вы создаёте с помощью Elementor." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5556" />
+        <entry key="ENGLISH" value="5566" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5556" />
+        <entry key="RUSSIAN" value="5566" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,7 +99,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640163059321" />
+    <option name="lastTrimTime" value="1640595065414" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
