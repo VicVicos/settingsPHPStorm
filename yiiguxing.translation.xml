@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="instance" />
       <item value="פרטים בקרוב" />
       <item value="כנסו לפרטים" />
       <item value="Today I will finish the problem on the checckout page and add a second currency to the site." />
@@ -54,12 +55,11 @@
       <item value="Please add to white list domain https:auction.oranta.moscow Client profile: https:oranta.bidspirit.com" />
       <item value="השימוש בשירות" />
       <item value="אני מסכים לתנאי" />
-      <item value="אני מסכים לתנאי השימוש בשירות" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5576" />
+        <entry key="ENGLISH" value="5577" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5576" />
+        <entry key="RUSSIAN" value="5577" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
