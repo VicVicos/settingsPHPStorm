@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Do still have a question regarding the last payment?" />
+      <item value="Now I see my card and can do it according to the instructions. Do you still have a question regarding the last payment?" />
+      <item value="Сейчас я вижу свою карту и могу сделать это по инструкции. Вопрос остаётся относительно последнего платежа?" />
+      <item value="I planned to suspend the payment of the subscription at the full cost, but due to not understanding the process of how to do this and errors in the program, I ran into problems, after which I forgot about it. And yesterday the full cost was debited from me. Can we cancel my subscription and cancel my last payment?" />
+      <item value="Я планировал приостановить оплату подписки по полной стоимости, но из за не понимания процесса как это сделать и ошибки в программе у меня возникли проблемы, после я забыл об этом. И вчера с меня списалась полная стоимость. Можем ли мы отменить подписку и отменить последнуюю оплату?" />
+      <item value="Hello, currently you have an active subscription with a card attached to it so your next payment will go through." />
       <item value="checek currency on shop" />
       <item value="instance" />
       <item value="פרטים בקרוב" />
@@ -49,17 +55,11 @@
       <item value="I can start transfer domain on new site." />
       <item value="For the &quot;checkout&quot; page, after an ajax request, the page displays content in Hebrew" />
       <item value="Для страницы &quot;checkout&quot; после ajax запроса на странице отображается контент на Иврите" />
-      <item value="For eng page checkout after ajax query display Hebrew content" />
-      <item value="For eng page checkout after ajax query displaying Hebrew content" />
-      <item value="gateways" />
-      <item value="Your registration is restricted to the domains you enter here, plus any subdomains. In other words, a registration for example.com also registers subdomain.example.com. A valid domain requires a host and must not include any path, port, query or fragment. Changes to this field may take up to 30 minutes to take effect." />
-      <item value="Please add to white list domain https:auction.oranta.moscow Client profile: https:oranta.bidspirit.com" />
-      <item value="השימוש בשירות" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5578" />
+        <entry key="ENGLISH" value="5582" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5578" />
+        <entry key="RUSSIAN" value="5582" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
