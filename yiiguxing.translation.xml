@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="On backorder" />
+      <item value="Do you manual change stock status?" />
+      <item value="Do you change stock status manual?" />
+      <item value="I start do it now." />
       <item value="I don’t want to delete my designs, but me don’t offer me any other option." />
       <item value="I don’t want to delete my designs, but don’t offer me any other option." />
       <item value="I don’t want to delete my designs, but they don’t offer me any other option." />
@@ -51,15 +55,11 @@
       <item value="Ok. I do it now." />
       <item value="Don\'t sync auction description" />
       <item value="what to coop?" />
-      <item value="In one of the latest plugin updates, we added this feature for lots. Check if its implementation suits your task?" />
-      <item value="В одном из последних обновлений плагина мы добавили для лотов такую возможность. Проверьте, подходит ли её реализация под вашу задачу?" />
-      <item value="I agree to the" />
-      <item value="I have updated the plugin on the Ansuiniaste website, but the 95 auction still does not show the estimated value of the lots." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5586" />
+        <entry key="ENGLISH" value="5590" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5586" />
+        <entry key="RUSSIAN" value="5590" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
