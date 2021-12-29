@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I don’t want to delete my designs, but me don’t offer me any other option." />
+      <item value="I don’t want to delete my designs, but don’t offer me any other option." />
+      <item value="I don’t want to delete my designs, but they don’t offer me any other option." />
+      <item value="Я не хочу удалять свои дизайны, но другого варианта мне не предлагают." />
+      <item value="I changed my mind" />
       <item value="Do still have a question regarding the last payment?" />
       <item value="Now I see my card and can do it according to the instructions. Do you still have a question regarding the last payment?" />
       <item value="Сейчас я вижу свою карту и могу сделать это по инструкции. Вопрос остаётся относительно последнего платежа?" />
@@ -50,16 +55,11 @@
       <item value="В одном из последних обновлений плагина мы добавили для лотов такую возможность. Проверьте, подходит ли её реализация под вашу задачу?" />
       <item value="I agree to the" />
       <item value="I have updated the plugin on the Ansuiniaste website, but the 95 auction still does not show the estimated value of the lots." />
-      <item value="Я обновил плагина на сайте Ansuiniaste, но 95 аукцион по прежнему не показывает оценочную стоимость лотов." />
-      <item value="Простите, я немного забыл про Ansuini." />
-      <item value="I can start transfer domain on new site." />
-      <item value="For the &quot;checkout&quot; page, after an ajax request, the page displays content in Hebrew" />
-      <item value="Для страницы &quot;checkout&quot; после ajax запроса на странице отображается контент на Иврите" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5582" />
+        <entry key="ENGLISH" value="5586" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5582" />
+        <entry key="RUSSIAN" value="5586" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
