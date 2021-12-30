@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The site will also need to be translated into Hebrew." />
+      <item value="Так же сайт надо будет перевести на Иврит." />
       <item value="We will do it." />
       <item value="We did it." />
       <item value="We do it." />
@@ -53,13 +55,11 @@
       <item value="We have to choose what text will be on the button?" />
       <item value="Мы должны выбирать какой текст будет на копке?" />
       <item value="Do I need to selected the text on the slide button?" />
-      <item value="Do I need to select the text on the slide button?" />
-      <item value="Надо ли выбирать текст на кнопке слайда?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5598" />
+        <entry key="ENGLISH" value="5599" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5598" />
+        <entry key="RUSSIAN" value="5599" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
