@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello, I've just refunded your payment and cancelled your subscription. It may take up to 10 days for the money to appear on your bank account depending on the bank you're using." />
       <item value="The site will also need to be translated into Hebrew." />
       <item value="Так же сайт надо будет перевести на Иврит." />
       <item value="We will do it." />
@@ -54,12 +55,11 @@
       <item value="Можно сделать текст для кнопки баннера на выбор." />
       <item value="We have to choose what text will be on the button?" />
       <item value="Мы должны выбирать какой текст будет на копке?" />
-      <item value="Do I need to selected the text on the slide button?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5599" />
+        <entry key="ENGLISH" value="5600" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5599" />
+        <entry key="RUSSIAN" value="5600" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
