@@ -5,6 +5,30 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I checked on several more sites and this problem does not appear everywhere." />
+      <item value="Я проверил ещё на нескольких сайтах и эта проблема проявляется не везде." />
+      <item value="I confirm this problem. Will be fixed." />
+      <item value="I confirm this problem. Will be fixed shortly." />
+      <item value="Я подтверждаю эту проблему. Будет исправлено в ближайшее время." />
+      <item value="No. But you can do it. Get the mailchimp key, install the required plugins and set up the integration. If you have any problems with this, we can help you." />
+      <item value="Если у вас возникнут проблемы с этим мы сможем помочь вам." />
+      <item value="No. But you can do it. Get the mailchimp key, install the required plugins and set up the integration." />
+      <item value="Нет. Но вы можете это сделать. Получите ключ mailchimp, установите требуемые плагины и настройте интеграцию." />
+      <item value="But in some cases it doesn't work." />
+      <item value="Но в некоторых случаях это не работает." />
+      <item value="After the pages are saved, the cache is automatically cleared." />
+      <item value="После сохранения страниц происходит автоматическая очистка кеша." />
+      <item value="Create new auction in Bidspirit and published it." />
+      <item value="The site uses page caching. In some cases, after making changes, you may need to clear the cache using this button." />
+      <item value="Важно!" />
+      <item value="На сайте используется кеширование страниц. В некоторых случаях после внесения изменений может потребоваться очистить кеш с помощью этой кнопки." />
+      <item value="Ok. I'll check it out now." />
+      <item value="Я проверю это сейчас." />
+      <item value="Please watch the instructions" />
+      <item value="Please read the instructions" />
+      <item value="Пожалуйста, ознакомьтесь с инструкцией" />
+      <item value="Now this is not in the plugin. We will discuss this and possibly it will appear in future updates to the plugin." />
+      <item value="Сейчас этого в плагине нет. Мы обсудим это и возможно это появится в будущих обновлениях плагина." />
       <item value="Hello, I've just refunded your payment and cancelled your subscription. It may take up to 10 days for the money to appear on your bank account depending on the bank you're using." />
       <item value="The site will also need to be translated into Hebrew." />
       <item value="Так же сайт надо будет перевести на Иврит." />
@@ -31,35 +55,11 @@
       <item value="Now I see my card and can do it according to the instructions. Do you still have a question regarding the last payment?" />
       <item value="Сейчас я вижу свою карту и могу сделать это по инструкции. Вопрос остаётся относительно последнего платежа?" />
       <item value="I planned to suspend the payment of the subscription at the full cost, but due to not understanding the process of how to do this and errors in the program, I ran into problems, after which I forgot about it. And yesterday the full cost was debited from me. Can we cancel my subscription and cancel my last payment?" />
-      <item value="Я планировал приостановить оплату подписки по полной стоимости, но из за не понимания процесса как это сделать и ошибки в программе у меня возникли проблемы, после я забыл об этом. И вчера с меня списалась полная стоимость. Можем ли мы отменить подписку и отменить последнуюю оплату?" />
-      <item value="Hello, currently you have an active subscription with a card attached to it so your next payment will go through." />
-      <item value="checek currency on shop" />
-      <item value="instance" />
-      <item value="פרטים בקרוב" />
-      <item value="כנסו לפרטים" />
-      <item value="Today I will finish the problem on the checckout page and add a second currency to the site." />
-      <item value="Сегодня я доделаю проблему на странице checckout и добавлю вторую валюту на сайт." />
-      <item value="Yes, But i don’t guarantee that I’ll have time to do it today." />
-      <item value="Yes, I don’t guarantee that I’ll have time to do it today." />
-      <item value="Да, о не гарантирую что успею сделать сегодня." />
-      <item value="Yes, we talked about it. I am currently working on adding a second currency to the site, this is already done on the test site, but there is a small problem on the checkout page, the solution of which takes a little more time." />
-      <item value="Да, мы говорили об этом. Я сейчас работаю над добавлением второй валюты на сайт, это уже готово на тестовом сайте, но есть небольшая проблема на странице checkout, решение которой требует ещё немного времени." />
-      <item value="We are looking forward to hearing your feedback or approval soon." />
-      <item value="We can make the text for the banner button selectable." />
-      <item value="Можно сделать текст для кнопки баннера выбираемым." />
-      <item value="We can make the text for the banner button optional." />
-      <item value="You can make the text for the banner button optional." />
-      <item value="Можно сделать текст для кнопки баннера опциональным." />
-      <item value="We can make the text for the banner button of your choice." />
-      <item value="You can make the text for the banner button of your choice." />
-      <item value="Можно сделать текст для кнопки баннера на выбор." />
-      <item value="We have to choose what text will be on the button?" />
-      <item value="Мы должны выбирать какой текст будет на копке?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5600" />
+        <entry key="ENGLISH" value="5614" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5600" />
+        <entry key="RUSSIAN" value="5614" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
