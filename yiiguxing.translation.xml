@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry to disturb you at such an early time." />
+      <item value="Простите что беспокою в столь ранне время." />
+      <item value="Received an error message related to the getFavorites API call. This problem is repeated on many sites. Products that were recently added to the favorites list are not returned when requesting getFavorites. Here's an example:" />
+      <item value="Поступило сообщение об ошибках связанных с вызовом API getFavorites. Эта проблема повторяется на многих сайтах. Товары которые, были недавно добавлены в список избранного не возвращаются при запросе getFavorites. Вот пример:" />
       <item value="I checked on several more sites and this problem does not appear everywhere." />
       <item value="Я проверил ещё на нескольких сайтах и эта проблема проявляется не везде." />
       <item value="I confirm this problem. Will be fixed." />
@@ -51,15 +55,11 @@
       <item value="I don’t want to delete my designs, but they don’t offer me any other option." />
       <item value="Я не хочу удалять свои дизайны, но другого варианта мне не предлагают." />
       <item value="I changed my mind" />
-      <item value="Do still have a question regarding the last payment?" />
-      <item value="Now I see my card and can do it according to the instructions. Do you still have a question regarding the last payment?" />
-      <item value="Сейчас я вижу свою карту и могу сделать это по инструкции. Вопрос остаётся относительно последнего платежа?" />
-      <item value="I planned to suspend the payment of the subscription at the full cost, but due to not understanding the process of how to do this and errors in the program, I ran into problems, after which I forgot about it. And yesterday the full cost was debited from me. Can we cancel my subscription and cancel my last payment?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5614" />
+        <entry key="ENGLISH" value="5617" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5614" />
+        <entry key="RUSSIAN" value="5617" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
