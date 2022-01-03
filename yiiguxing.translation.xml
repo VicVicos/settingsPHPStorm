@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please fill field number for that auctions:" />
+      <item value="заполните" />
+      <item value="Hello! Please fillable field number for that auctions:" />
       <item value="Sorry to disturb you at such an early time." />
       <item value="Простите что беспокою в столь ранне время." />
       <item value="Received an error message related to the getFavorites API call. This problem is repeated on many sites. Products that were recently added to the favorites list are not returned when requesting getFavorites. Here's an example:" />
@@ -52,14 +55,11 @@
       <item value="I start do it now." />
       <item value="I don’t want to delete my designs, but me don’t offer me any other option." />
       <item value="I don’t want to delete my designs, but don’t offer me any other option." />
-      <item value="I don’t want to delete my designs, but they don’t offer me any other option." />
-      <item value="Я не хочу удалять свои дизайны, но другого варианта мне не предлагают." />
-      <item value="I changed my mind" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5617" />
+        <entry key="ENGLISH" value="5619" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5617" />
+        <entry key="RUSSIAN" value="5619" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
