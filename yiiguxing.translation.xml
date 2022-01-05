@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We will add the ability to automatically clear the cache when a lot is removed from the auction." />
+      <item value="Мы добавим возможность автоматической очистки кеша в случае, когда лот удаляется из аукциона." />
+      <item value="There was a problem with synchronization auction items after connecting a second language. Found an error and fixed it." />
+      <item value="There was a problem with lot synchronization after connecting a second language. Found an error and fixed it." />
+      <item value="Была проблема с синхронизацией лотов после подключения второго языка. Ошибку нашёл и исправил." />
       <item value="Please fill field number for that auctions:" />
       <item value="заполните" />
       <item value="Hello! Please fillable field number for that auctions:" />
@@ -50,16 +55,11 @@
       <item value="Yes, it needs to be configured." />
       <item value="Да, это надо настроить." />
       <item value="On backorder" />
-      <item value="Do you manual change stock status?" />
-      <item value="Do you change stock status manual?" />
-      <item value="I start do it now." />
-      <item value="I don’t want to delete my designs, but me don’t offer me any other option." />
-      <item value="I don’t want to delete my designs, but don’t offer me any other option." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5619" />
+        <entry key="ENGLISH" value="5622" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5619" />
+        <entry key="RUSSIAN" value="5622" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
