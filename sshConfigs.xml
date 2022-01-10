@@ -4,8 +4,6 @@
       <sshConfig authType="PASSWORD" host="vicosb.beget.tech" id="5ddbae81-92c7-46d5-b03b-97ebe56e918d" port="22" customName="uco_vocis.dev" nameFormat="CUSTOM" username="vicosb_uco" useOpenSSHConfig="true">
         <option name="customName" value="uco_vocis.dev" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="vicosb.beget.tech" id="fab397c5-3131-4969-918c-2d8ec5ba0826" port="22" nameFormat="DESCRIPTIVE" username="vicosb_moodo2" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="vicosb.beget.tech" id="bf16afbb-ad23-4cf8-9b3e-3e05599de790" port="22" nameFormat="DESCRIPTIVE" username="vicosb_moodo" />
     </configs>
   </component>
 </application>
