@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The auction have a status READY." />
+      <item value="The auction is READY." />
+      <item value="Аукцион имеет состояние READY." />
+      <item value="Or what parameter reflects this state of lots?" />
+      <item value="What should a client change in their auction settings to solve this problem?" />
+      <item value="Что клиент должен изменить в настройках своего аукциона что бы решить эту проблему?" />
+      <item value="What should a client change in his auction settings to avoid this problem? Or what parameter reflects this state of lots?" />
+      <item value="Что клиент должен изменить в настройках своего аукциона что бы этой проблемы не возникало? Или какой параметр отражает это состояние лотов?" />
+      <item value="For a client tzoffeys1818.bidspirit.com on his auction when trying to place a bid, we receive a message:" />
+      <item value="Для клиента tzoffeys1818.bidspirit.com на его аукционе при попытке сделать ставку мы получаем сообщение:" />
       <item value="handle Submit Response" />
       <item value="This lot item is not available yet for pre sale bids" />
       <item value="Your account is pending approval. You will receive an email when you are approved to bid." />
@@ -45,21 +55,11 @@
       <item value="Ok. I'll check it out now." />
       <item value="Я проверю это сейчас." />
       <item value="Please watch the instructions" />
-      <item value="Please read the instructions" />
-      <item value="Пожалуйста, ознакомьтесь с инструкцией" />
-      <item value="Now this is not in the plugin. We will discuss this and possibly it will appear in future updates to the plugin." />
-      <item value="Сейчас этого в плагине нет. Мы обсудим это и возможно это появится в будущих обновлениях плагина." />
-      <item value="Hello, I've just refunded your payment and cancelled your subscription. It may take up to 10 days for the money to appear on your bank account depending on the bank you're using." />
-      <item value="The site will also need to be translated into Hebrew." />
-      <item value="Так же сайт надо будет перевести на Иврит." />
-      <item value="We will do it." />
-      <item value="We did it." />
-      <item value="We do it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5629" />
+        <entry key="ENGLISH" value="5635" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5629" />
+        <entry key="RUSSIAN" value="5635" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
