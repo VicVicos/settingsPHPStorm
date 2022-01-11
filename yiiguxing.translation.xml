@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This lot item is not available yet for pre sale bids" />
       <item value="Your account is pending approval. You will receive an email when you are approved to bid." />
       <item value="Is it correct to use the user's email as a key?" />
       <item value="Верно ли использование email пользователя в качестве ключа?" />
@@ -54,12 +55,11 @@
       <item value="We did it." />
       <item value="We do it." />
       <item value="It is necessary to enable the second language on the site and configure the plugin. Then wait until the synchronization updates all lots." />
-      <item value="Надо включить на сайте второй язык и настроить плагин. После дождаться пока синхронизация обновит все лоты." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5627" />
+        <entry key="ENGLISH" value="5628" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5627" />
+        <entry key="RUSSIAN" value="5628" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
