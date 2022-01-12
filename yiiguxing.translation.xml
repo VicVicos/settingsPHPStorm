@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Also i added new button for main image" />
       <item value="Yes. I see it." />
       <item value="Hello! Is there a problem with the price of the product now?" />
       <item value="Hello! Is there a problem with the price of the product?" />
@@ -54,12 +55,11 @@
       <item value="After the pages are saved, the cache is automatically cleared." />
       <item value="После сохранения страниц происходит автоматическая очистка кеша." />
       <item value="Create new auction in Bidspirit and published it." />
-      <item value="The site uses page caching. In some cases, after making changes, you may need to clear the cache using this button." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5639" />
+        <entry key="ENGLISH" value="5640" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5639" />
+        <entry key="RUSSIAN" value="5640" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
