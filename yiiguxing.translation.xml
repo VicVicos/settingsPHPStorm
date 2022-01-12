@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ok, will call after hour" />
+      <item value="If post ID is set, will try to clear cache for that page or post with all the related taxonomies (tags, category and author pages)." />
       <item value="Clear integrations cache." />
       <item value="Also i added new button for main image" />
       <item value="Yes. I see it." />
@@ -53,13 +55,11 @@
       <item value="Нет. Но вы можете это сделать. Получите ключ mailchimp, установите требуемые плагины и настройте интеграцию." />
       <item value="But in some cases it doesn't work." />
       <item value="Но в некоторых случаях это не работает." />
-      <item value="After the pages are saved, the cache is automatically cleared." />
-      <item value="После сохранения страниц происходит автоматическая очистка кеша." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5641" />
+        <entry key="ENGLISH" value="5643" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5641" />
+        <entry key="RUSSIAN" value="5643" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
