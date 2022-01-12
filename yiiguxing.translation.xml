@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Yes. I see it." />
+      <item value="Hello! Is there a problem with the price of the product now?" />
+      <item value="Hello! Is there a problem with the price of the product?" />
+      <item value="Is there a problem with the price of the product?" />
+      <item value="Проблема с ценой товара актуальна?" />
       <item value="The auction have a status READY." />
       <item value="The auction is READY." />
       <item value="Аукцион имеет состояние READY." />
@@ -50,16 +55,11 @@
       <item value="После сохранения страниц происходит автоматическая очистка кеша." />
       <item value="Create new auction in Bidspirit and published it." />
       <item value="The site uses page caching. In some cases, after making changes, you may need to clear the cache using this button." />
-      <item value="Важно!" />
-      <item value="На сайте используется кеширование страниц. В некоторых случаях после внесения изменений может потребоваться очистить кеш с помощью этой кнопки." />
-      <item value="Ok. I'll check it out now." />
-      <item value="Я проверю это сейчас." />
-      <item value="Please watch the instructions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5635" />
+        <entry key="ENGLISH" value="5639" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5635" />
+        <entry key="RUSSIAN" value="5639" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
