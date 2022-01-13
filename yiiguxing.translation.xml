@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Corresponding 'term_language' term." />
+      <item value="Term in 'language' taxonomy or language object properties stored as an array." />
       <item value="Do you need access to log into the site?" />
       <item value="Нужны доступ для авторизации на сайте?" />
       <item value="There is one note on this trouble. If I am authorized as an administrator on the site, there are no problems with authorization." />
@@ -53,13 +55,11 @@
       <item value="We are planning to make push notifications for the Bidspirit mobile auction app. We need to associate farebase_id with the authorized user of the application, for this we plan to use the user's email as a key." />
       <item value="Мы планируем сделать push уведомления для мобильного приложения аукционов Bidspirit. Нам надо связать farebase_id с авторизованным пользователем приложения, для этого мы планируем использовать email пользователя как ключ." />
       <item value="Will be active only if there is data" />
-      <item value="We will add the ability to automatically clear the cache when a lot is removed from the auction." />
-      <item value="Мы добавим возможность автоматической очистки кеша в случае, когда лот удаляется из аукциона." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5656" />
+        <entry key="ENGLISH" value="5658" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5656" />
+        <entry key="RUSSIAN" value="5658" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
