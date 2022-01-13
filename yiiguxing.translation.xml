@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I checked from the phone, where the browser version is 95 and logged in without problems." />
+      <item value="Я проверил с телефона, где версия браузера 95 и авторизовался без проблем." />
+      <item value="I checked and confirmed the problem. The problem is related to the new Firefox update version 96 and its new feature." />
+      <item value="I checked and confirmed the problem. The problem is related to the new Firefox update 96 version and its new feature." />
+      <item value="I checked and confirmed the problem. The problem is related to the new Firefox update 96 and its new feature." />
+      <item value="Stephen told us about an authorization problem on client sites from the Firefox browser. I checked and confirmed the problem. The problem is related to the new Firefox update and its new feature. Previously, we already had this in Chrome browsers." />
+      <item value="Stephen нам сообщил о проблема авторизации на сайтах клиентов с браузера Firefox. Я проверил и подтвердил проблему. Проблема связана с новым обновлением Firefox и его новой фичей. Ранее у нас такое уже было в браузерах Chrome." />
       <item value="I'll report the problem to Bidspirit support and I think they know how to fix it." />
       <item value="Я передам в support Bidspirit о проблеме, и думаю они знают как решить эту проблему." />
       <item value="This has already happened before, but only in the Chrome browser, and then it was decided by Bidspirit for its part." />
@@ -48,18 +55,11 @@
       <item value="Была проблема с синхронизацией лотов после подключения второго языка. Ошибку нашёл и исправил." />
       <item value="Please fill field number for that auctions:" />
       <item value="заполните" />
-      <item value="Hello! Please fillable field number for that auctions:" />
-      <item value="Sorry to disturb you at such an early time." />
-      <item value="Простите что беспокою в столь ранне время." />
-      <item value="Received an error message related to the getFavorites API call. This problem is repeated on many sites. Products that were recently added to the favorites list are not returned when requesting getFavorites. Here's an example:" />
-      <item value="Поступило сообщение об ошибках связанных с вызовом API getFavorites. Эта проблема повторяется на многих сайтах. Товары которые, были недавно добавлены в список избранного не возвращаются при запросе getFavorites. Вот пример:" />
-      <item value="I checked on several more sites and this problem does not appear everywhere." />
-      <item value="Я проверил ещё на нескольких сайтах и эта проблема проявляется не везде." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5648" />
+        <entry key="ENGLISH" value="5653" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5648" />
+        <entry key="RUSSIAN" value="5653" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
