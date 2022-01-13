@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This has already happened before, but only in the Chrome browser, and then it was decided by Bidspirit for its part." />
+      <item value="Такое уже было раньше, но только в браузере Chrome и тогда это решалось со стороны Bidspirit со своей стороны." />
+      <item value="This has already happened before, but only in the Chrome browser, and then it was decided by Bidspirit." />
+      <item value="Такое уже было раньше, но только в браузере Chrome и тогда это решалось со стороны Bidspirit." />
+      <item value="I will try to figure it out. I'll try to replicate this problem myself." />
+      <item value="Постараюсь разобраться с этим. Попробую повторить эту проблему у себя." />
       <item value="get Second Lang Code" />
       <item value="ok, will call after hour" />
       <item value="If post ID is set, will try to clear cache for that page or post with all the related taxonomies (tags, category and author pages)." />
@@ -49,17 +55,11 @@
       <item value="Я проверил ещё на нескольких сайтах и эта проблема проявляется не везде." />
       <item value="I confirm this problem. Will be fixed." />
       <item value="I confirm this problem. Will be fixed shortly." />
-      <item value="Я подтверждаю эту проблему. Будет исправлено в ближайшее время." />
-      <item value="No. But you can do it. Get the mailchimp key, install the required plugins and set up the integration. If you have any problems with this, we can help you." />
-      <item value="Если у вас возникнут проблемы с этим мы сможем помочь вам." />
-      <item value="No. But you can do it. Get the mailchimp key, install the required plugins and set up the integration." />
-      <item value="Нет. Но вы можете это сделать. Получите ключ mailchimp, установите требуемые плагины и настройте интеграцию." />
-      <item value="But in some cases it doesn't work." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5644" />
+        <entry key="ENGLISH" value="5647" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5644" />
+        <entry key="RUSSIAN" value="5647" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
