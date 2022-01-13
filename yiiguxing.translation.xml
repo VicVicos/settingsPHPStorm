@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Do you need access to log into the site?" />
+      <item value="Нужны доступ для авторизации на сайте?" />
+      <item value="There is one note on this trouble. If I am authorized as an administrator on the site, there are no problems with authorization." />
+      <item value="There is one note on this issue. If I am authorized as an administrator on the site, there are no problems with authorization." />
+      <item value="Есть одно примечание по этой проблеме. Если я авторизован как администратор на сайте, проблем с авторизацией не возникает." />
       <item value="I checked from the phone, where the browser version is 95 and logged in without problems." />
       <item value="Я проверил с телефона, где версия браузера 95 и авторизовался без проблем." />
       <item value="I checked and confirmed the problem. The problem is related to the new Firefox update version 96 and its new feature." />
@@ -50,16 +55,11 @@
       <item value="Will be active only if there is data" />
       <item value="We will add the ability to automatically clear the cache when a lot is removed from the auction." />
       <item value="Мы добавим возможность автоматической очистки кеша в случае, когда лот удаляется из аукциона." />
-      <item value="There was a problem with synchronization auction items after connecting a second language. Found an error and fixed it." />
-      <item value="There was a problem with lot synchronization after connecting a second language. Found an error and fixed it." />
-      <item value="Была проблема с синхронизацией лотов после подключения второго языка. Ошибку нашёл и исправил." />
-      <item value="Please fill field number for that auctions:" />
-      <item value="заполните" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5653" />
+        <entry key="ENGLISH" value="5656" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5653" />
+        <entry key="RUSSIAN" value="5656" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
