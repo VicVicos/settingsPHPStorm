@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think WP gallery supports it. For video it is more convenient to use TouTube. In any case, if you have any problems, we will help you solve them." />
+      <item value="Думаю WP галерея это поддерживает. Для видео удобнее использовать TouTube. В любом случае если у вас возникнут проблемы мы поможем их решить." />
+      <item value="Ok. To do this, you did not need FTP access to the site." />
+      <item value="Для этого вам не нужен был FTP доступ к сайту." />
+      <item value="You cannot upload photos for lots through the site. The auction plugin doesn't work that way. You need the Bidspirit interface. You can upload your photos and videos to the site for other static pages." />
+      <item value="Вы не можете загружать фото для лотов через сайт. Плагин аукционов так не работает. Вы должны интерфейс Bidspirit. Вы можете загружать свои фото и видео на сайт для других статичных страниц." />
+      <item value="There is no limit as such, this should be clarified with Andrey Druz." />
+      <item value="Лимита как такого нет, это надо уточнить у Andrey Druz." />
+      <item value="https we will connect a little later when the DNS of the north will know about the new address of your site." />
+      <item value="https мы подключим чуть позднее когда DNS севера будут знать о новом адресе вашего сайта." />
+      <item value="I prepared everything. After you make changes to the NS records, it remains to connect ssl on the site and that's it." />
+      <item value="And I prepared everything. After you make changes to the NS records, it remains to connect ssl on the site and that's it." />
+      <item value="И я всё подготовил. После того как вы внесёте изменения в NS записи останется подключить ssl на сайте и всё." />
+      <item value="И я всё подготовил. После останется подключить ssl на сайте и всё." />
+      <item value="Need you ftp access?" />
+      <item value="We can do it. I'll check that everything is there for the transition." />
+      <item value="Мы можем это сделать. Я проверю что всё есть для перехода." />
       <item value="We have returned to work on the plugin" />
       <item value="We have returned to work on the plugin and the implementation of switching auctions synchronization to auctionId instead of auction number. Estimated time for this task is 9 hours." />
       <item value="Мы вернулись к работе над плагином и реализацией переходу синхронизации аукционов на auctionId вместо auction number. Оценка по времени этой задачи 9 часов." />
@@ -38,28 +55,11 @@
       <item value="ok, will call after hour" />
       <item value="If post ID is set, will try to clear cache for that page or post with all the related taxonomies (tags, category and author pages)." />
       <item value="Clear integrations cache." />
-      <item value="Also i added new button for main image" />
-      <item value="Yes. I see it." />
-      <item value="Hello! Is there a problem with the price of the product now?" />
-      <item value="Hello! Is there a problem with the price of the product?" />
-      <item value="Is there a problem with the price of the product?" />
-      <item value="Проблема с ценой товара актуальна?" />
-      <item value="The auction have a status READY." />
-      <item value="The auction is READY." />
-      <item value="Аукцион имеет состояние READY." />
-      <item value="Or what parameter reflects this state of lots?" />
-      <item value="What should a client change in their auction settings to solve this problem?" />
-      <item value="Что клиент должен изменить в настройках своего аукциона что бы решить эту проблему?" />
-      <item value="What should a client change in his auction settings to avoid this problem? Or what parameter reflects this state of lots?" />
-      <item value="Что клиент должен изменить в настройках своего аукциона что бы этой проблемы не возникало? Или какой параметр отражает это состояние лотов?" />
-      <item value="For a client tzoffeys1818.bidspirit.com on his auction when trying to place a bid, we receive a message:" />
-      <item value="Для клиента tzoffeys1818.bidspirit.com на его аукционе при попытке сделать ставку мы получаем сообщение:" />
-      <item value="handle Submit Response" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5663" />
+        <entry key="ENGLISH" value="5673" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5663" />
+        <entry key="RUSSIAN" value="5673" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
