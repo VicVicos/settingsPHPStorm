@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="auction with id" />
       <item value="Work on the introduction of new features and fixing bugs is underway. You have automatic plugin updates enabled on your site, most likely you do not notice the update. A number of changes are planned for the next update related to the error when the Bidspirit auction number is not specified and other minor changes. The price display on the search page will also be implemented." />
       <item value="Работы по внедрению новых фич и исправлении ошибок идут. У вас на сайте включено автоматическое обновление плагина, скорее всего вы не замечаете обновления. На ближайшее обновление запланирован ряд изменений связанных с ошибкой когда на Bidspirit для аукциона не указан номер и другие мелкие изменения. Так же будет реализован вывод цен на странице поиска." />
       <item value="Я ограничил список продаж до последних двух аукционов." />
@@ -54,12 +55,11 @@
       <item value="This lot item is not available yet for pre sale bids" />
       <item value="Your account is pending approval. You will receive an email when you are approved to bid." />
       <item value="Is it correct to use the user's email as a key?" />
-      <item value="Верно ли использование email пользователя в качестве ключа?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5660" />
+        <entry key="ENGLISH" value="5661" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5660" />
+        <entry key="RUSSIAN" value="5661" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
