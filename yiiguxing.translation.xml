@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Мы сделаем это." />
+      <item value="I think this can be done." />
+      <item value="Думаю это можно будет сделать." />
       <item value="I think WP gallery supports it. For video it is more convenient to use TouTube. In any case, if you have any problems, we will help you solve them." />
       <item value="Думаю WP галерея это поддерживает. Для видео удобнее использовать TouTube. В любом случае если у вас возникнут проблемы мы поможем их решить." />
       <item value="Ok. To do this, you did not need FTP access to the site." />
@@ -52,14 +55,11 @@
       <item value="I will try to figure it out. I'll try to replicate this problem myself." />
       <item value="Постараюсь разобраться с этим. Попробую повторить эту проблему у себя." />
       <item value="get Second Lang Code" />
-      <item value="ok, will call after hour" />
-      <item value="If post ID is set, will try to clear cache for that page or post with all the related taxonomies (tags, category and author pages)." />
-      <item value="Clear integrations cache." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5673" />
+        <entry key="ENGLISH" value="5674" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5673" />
+        <entry key="RUSSIAN" value="5675" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,7 +99,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641804632393" />
+    <option name="lastTrimTime" value="1642338650542" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
