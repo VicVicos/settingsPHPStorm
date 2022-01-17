@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Position" />
+      <item value="Должность" />
       <item value="The plugin implements the functionality of sorting categories in the following form:" />
       <item value="В плагине реализован функционал сортировки категорий в вот таком виде:" />
       <item value="department" />
@@ -53,13 +55,11 @@
       <item value="Работы по внедрению новых фич и исправлении ошибок идут. У вас на сайте включено автоматическое обновление плагина, скорее всего вы не замечаете обновления. На ближайшее обновление запланирован ряд изменений связанных с ошибкой когда на Bidspirit для аукциона не указан номер и другие мелкие изменения. Так же будет реализован вывод цен на странице поиска." />
       <item value="Я ограничил список продаж до последних двух аукционов." />
       <item value="Corresponding 'term_language' term." />
-      <item value="Term in 'language' taxonomy or language object properties stored as an array." />
-      <item value="Do you need access to log into the site?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5689" />
+        <entry key="ENGLISH" value="5690" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5689" />
+        <entry key="RUSSIAN" value="5690" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
