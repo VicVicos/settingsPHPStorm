@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You shouldnt be here" />
       <item value="Список сотрудников и их отделов" />
       <item value="employee-list" />
       <item value="You did not enter a category name." />
@@ -54,12 +55,11 @@
       <item value="Есть одно примечание по этой проблеме. Если я авторизован как администратор на сайте, проблем с авторизацией не возникает." />
       <item value="I checked from the phone, where the browser version is 95 and logged in without problems." />
       <item value="Я проверил с телефона, где версия браузера 95 и авторизовался без проблем." />
-      <item value="I checked and confirmed the problem. The problem is related to the new Firefox update version 96 and its new feature." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5684" />
+        <entry key="ENGLISH" value="5685" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
