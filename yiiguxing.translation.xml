@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Next auction coming soon" />
+      <item value="Auction coming soon" />
+      <item value="The plans for the next update of the plugin will be next month." />
+      <item value="В планах на следующее обновление плагина которое будет в следующем месяце." />
+      <item value="In the plans on the next plugin update for next month." />
+      <item value="In the plans for the next plugin update for next month." />
+      <item value="In the plans for the next plugin update next month." />
+      <item value="В планах на следующее обновление плагина на следующий месяц." />
+      <item value="Made it the way it was before. Now only marked lots from the last completed auction are shown. If there are no marked lots in the last completed auction, this block will be empty. Please remember this moment." />
+      <item value="Сделал как было раньше. Сейчас показываются отмеченные лоты только из последнего завершённого аукциона. Если в последнем завершённом аукционе не будет отмеченных лотов, этот блок будет пустым. Попрошу запомнить этот момент." />
       <item value="Мы сделаем это." />
       <item value="I think this can be done." />
       <item value="Думаю это можно будет сделать." />
@@ -45,21 +55,11 @@
       <item value="I checked and confirmed the problem. The problem is related to the new Firefox update 96 version and its new feature." />
       <item value="I checked and confirmed the problem. The problem is related to the new Firefox update 96 and its new feature." />
       <item value="Stephen told us about an authorization problem on client sites from the Firefox browser. I checked and confirmed the problem. The problem is related to the new Firefox update and its new feature. Previously, we already had this in Chrome browsers." />
-      <item value="Stephen нам сообщил о проблема авторизации на сайтах клиентов с браузера Firefox. Я проверил и подтвердил проблему. Проблема связана с новым обновлением Firefox и его новой фичей. Ранее у нас такое уже было в браузерах Chrome." />
-      <item value="I'll report the problem to Bidspirit support and I think they know how to fix it." />
-      <item value="Я передам в support Bidspirit о проблеме, и думаю они знают как решить эту проблему." />
-      <item value="This has already happened before, but only in the Chrome browser, and then it was decided by Bidspirit for its part." />
-      <item value="Такое уже было раньше, но только в браузере Chrome и тогда это решалось со стороны Bidspirit со своей стороны." />
-      <item value="This has already happened before, but only in the Chrome browser, and then it was decided by Bidspirit." />
-      <item value="Такое уже было раньше, но только в браузере Chrome и тогда это решалось со стороны Bidspirit." />
-      <item value="I will try to figure it out. I'll try to replicate this problem myself." />
-      <item value="Постараюсь разобраться с этим. Попробую повторить эту проблему у себя." />
-      <item value="get Second Lang Code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5674" />
+        <entry key="ENGLISH" value="5682" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5675" />
+        <entry key="RUSSIAN" value="5682" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
