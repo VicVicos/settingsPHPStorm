@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Список сотрудников и их отделов" />
+      <item value="employee-list" />
       <item value="You did not enter a category name." />
       <item value="Next auction coming soon" />
       <item value="Auction coming soon" />
@@ -53,13 +55,11 @@
       <item value="I checked from the phone, where the browser version is 95 and logged in without problems." />
       <item value="Я проверил с телефона, где версия браузера 95 и авторизовался без проблем." />
       <item value="I checked and confirmed the problem. The problem is related to the new Firefox update version 96 and its new feature." />
-      <item value="I checked and confirmed the problem. The problem is related to the new Firefox update 96 version and its new feature." />
-      <item value="I checked and confirmed the problem. The problem is related to the new Firefox update 96 and its new feature." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5683" />
+        <entry key="ENGLISH" value="5684" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5683" />
+        <entry key="RUSSIAN" value="5685" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
