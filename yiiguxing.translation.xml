@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ok. I will look for a solution to this problem." />
+      <item value="Я буду искать решение этой проблемы." />
+      <item value="As for the second point. Here the problem is in the symbols in Hebrew, some of the symbols are not correct and an error occurs. I'm trying to solve this problem. Can you check on Bidspirit if all the categories are spelled correctly?" />
+      <item value="Что касается второго пункта. Тут проблема в символах на Иврите, какой то из символов не корректный и возникает ошибка. Пробую решить эту проблему. Можете проверить на Bidspirit все ли категории корректно записаны?" />
       <item value="I'll take care of it right after the production update." />
       <item value="Я займусь этим сразу после обновления на производстве." />
       <item value="We can change text for file uploader, but it will only have one language." />
@@ -51,15 +55,11 @@
       <item value="https мы подключим чуть позднее когда DNS севера будут знать о новом адресе вашего сайта." />
       <item value="I prepared everything. After you make changes to the NS records, it remains to connect ssl on the site and that's it." />
       <item value="And I prepared everything. After you make changes to the NS records, it remains to connect ssl on the site and that's it." />
-      <item value="И я всё подготовил. После того как вы внесёте изменения в NS записи останется подключить ssl на сайте и всё." />
-      <item value="И я всё подготовил. После останется подключить ssl на сайте и всё." />
-      <item value="Need you ftp access?" />
-      <item value="We can do it. I'll check that everything is there for the transition." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5696" />
+        <entry key="ENGLISH" value="5698" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5696" />
+        <entry key="RUSSIAN" value="5698" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
