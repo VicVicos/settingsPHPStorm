@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I'll try to do it from the side of the import script." />
+      <item value="Попробую сделать это со стороны скрипта импорта." />
+      <item value="I also see that you have two categories &quot;Rugs&quot;" />
+      <item value="Так же я вижу что у вас две категории &quot;Rugs&quot;" />
+      <item value="I found the problem. The double quote character causes this error." />
+      <item value="Я нашёл проблему. Символ двойной кавычки приводит к этой ошибки." />
+      <item value="סכו&quot;ם" />
       <item value="Ok. I will look for a solution to this problem." />
       <item value="Я буду искать решение этой проблемы." />
       <item value="As for the second point. Here the problem is in the symbols in Hebrew, some of the symbols are not correct and an error occurs. I'm trying to solve this problem. Can you check on Bidspirit if all the categories are spelled correctly?" />
@@ -48,18 +55,11 @@
       <item value="Ok. To do this, you did not need FTP access to the site." />
       <item value="Для этого вам не нужен был FTP доступ к сайту." />
       <item value="You cannot upload photos for lots through the site. The auction plugin doesn't work that way. You need the Bidspirit interface. You can upload your photos and videos to the site for other static pages." />
-      <item value="Вы не можете загружать фото для лотов через сайт. Плагин аукционов так не работает. Вы должны интерфейс Bidspirit. Вы можете загружать свои фото и видео на сайт для других статичных страниц." />
-      <item value="There is no limit as such, this should be clarified with Andrey Druz." />
-      <item value="Лимита как такого нет, это надо уточнить у Andrey Druz." />
-      <item value="https we will connect a little later when the DNS of the north will know about the new address of your site." />
-      <item value="https мы подключим чуть позднее когда DNS севера будут знать о новом адресе вашего сайта." />
-      <item value="I prepared everything. After you make changes to the NS records, it remains to connect ssl on the site and that's it." />
-      <item value="And I prepared everything. After you make changes to the NS records, it remains to connect ssl on the site and that's it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5698" />
+        <entry key="ENGLISH" value="5701" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5698" />
+        <entry key="RUSSIAN" value="5701" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="3" />
-        <entry key="HEBREW" value="171" />
+        <entry key="HEBREW" value="172" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
