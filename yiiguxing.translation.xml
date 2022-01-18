@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I'll take care of it right after the production update." />
+      <item value="Я займусь этим сразу после обновления на производстве." />
+      <item value="We can change text for file uploader, but it will only have one language." />
+      <item value="Но это будет иметь только один язык." />
+      <item value="We can change text for file uploader, but it have one language." />
+      <item value="We can change text for file uploader, but it are one language." />
+      <item value="We can change text for file uploader." />
       <item value="Department" />
       <item value="employees" />
       <item value="Position" />
@@ -48,18 +55,11 @@
       <item value="И я всё подготовил. После останется подключить ssl на сайте и всё." />
       <item value="Need you ftp access?" />
       <item value="We can do it. I'll check that everything is there for the transition." />
-      <item value="Мы можем это сделать. Я проверю что всё есть для перехода." />
-      <item value="We have returned to work on the plugin" />
-      <item value="We have returned to work on the plugin and the implementation of switching auctions synchronization to auctionId instead of auction number. Estimated time for this task is 9 hours." />
-      <item value="Мы вернулись к работе над плагином и реализацией переходу синхронизации аукционов на auctionId вместо auction number. Оценка по времени этой задачи 9 часов." />
-      <item value="auction with id" />
-      <item value="Work on the introduction of new features and fixing bugs is underway. You have automatic plugin updates enabled on your site, most likely you do not notice the update. A number of changes are planned for the next update related to the error when the Bidspirit auction number is not specified and other minor changes. The price display on the search page will also be implemented." />
-      <item value="Работы по внедрению новых фич и исправлении ошибок идут. У вас на сайте включено автоматическое обновление плагина, скорее всего вы не замечаете обновления. На ближайшее обновление запланирован ряд изменений связанных с ошибкой когда на Bidspirit для аукциона не указан номер и другие мелкие изменения. Так же будет реализован вывод цен на странице поиска." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5691" />
+        <entry key="ENGLISH" value="5696" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5692" />
+        <entry key="RUSSIAN" value="5696" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
