@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I fixed all requests?" />
       <item value="I'll try to do it from the side of the import script." />
       <item value="Попробую сделать это со стороны скрипта импорта." />
       <item value="I also see that you have two categories &quot;Rugs&quot;" />
@@ -54,12 +55,11 @@
       <item value="Думаю WP галерея это поддерживает. Для видео удобнее использовать TouTube. В любом случае если у вас возникнут проблемы мы поможем их решить." />
       <item value="Ok. To do this, you did not need FTP access to the site." />
       <item value="Для этого вам не нужен был FTP доступ к сайту." />
-      <item value="You cannot upload photos for lots through the site. The auction plugin doesn't work that way. You need the Bidspirit interface. You can upload your photos and videos to the site for other static pages." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5701" />
+        <entry key="ENGLISH" value="5702" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5701" />
+        <entry key="RUSSIAN" value="5702" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
