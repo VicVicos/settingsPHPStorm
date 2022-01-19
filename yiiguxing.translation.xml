@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Страница определяется этой опцией" />
       <item value="Phone bid" />
       <item value="I fixed all requests?" />
       <item value="I'll try to do it from the side of the import script." />
@@ -54,7 +55,6 @@
       <item value="Думаю это можно будет сделать." />
       <item value="I think WP gallery supports it. For video it is more convenient to use TouTube. In any case, if you have any problems, we will help you solve them." />
       <item value="Думаю WP галерея это поддерживает. Для видео удобнее использовать TouTube. В любом случае если у вас возникнут проблемы мы поможем их решить." />
-      <item value="Ok. To do this, you did not need FTP access to the site." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5703" />
+        <entry key="RUSSIAN" value="5704" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
