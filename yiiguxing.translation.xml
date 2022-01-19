@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get a catalog item of an auction for a language. Note - it is not recommended to use this api from the client, because the catalog data may be invisible to SEO. The api does not require a session id, so it can be called from the server side." />
+      <item value="I'm looking into the task of hiding auctions that customers hide by request on Bidspirit." />
+      <item value="I'm looking into the task of hiding auctions that customers hide on request on Bidspirit." />
+      <item value="I'm looking into the task of hiding auctions that customers hide on demand on Bidspirit. Previously, we did one hidden auction for web2-qa.bidspirit.com. But I can't find anything that would let me know that the auction is hidden." />
+      <item value="Я изучаю задачу по скрытию аукционов которые скрывают клиенты по запросу на Bidspirit. Ранее мы делали один скрытый аукцион для web2-qa.bidspirit.com. Но я не могу найти ни чего что бы дало мне понять что аукцион скрыт." />
       <item value="Display a list of departments and their users from the section &quot;Employee&quot;" />
       <item value="Отображаем список отделов и их пользователей из раздела" />
       <item value="טלפון" />
@@ -50,16 +55,11 @@
       <item value="employee-list" />
       <item value="You did not enter a category name." />
       <item value="Next auction coming soon" />
-      <item value="Auction coming soon" />
-      <item value="The plans for the next update of the plugin will be next month." />
-      <item value="В планах на следующее обновление плагина которое будет в следующем месяце." />
-      <item value="In the plans on the next plugin update for next month." />
-      <item value="In the plans for the next plugin update for next month." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5705" />
+        <entry key="ENGLISH" value="5709" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5705" />
+        <entry key="RUSSIAN" value="5709" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
