@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="טלפון" />
+      <item value="תפקיד של איש קשר" />
+      <item value="שם איש קשר" />
+      <item value="פרטים ליצירת קשר" />
+      <item value="מספר טלפון" />
+      <item value="כתובת דוא&quot;ל" />
+      <item value="אנשי קשר" />
       <item value="Страница определяется этой опцией" />
       <item value="Phone bid" />
       <item value="I fixed all requests?" />
@@ -48,18 +55,11 @@
       <item value="In the plans for the next plugin update for next month." />
       <item value="In the plans for the next plugin update next month." />
       <item value="В планах на следующее обновление плагина на следующий месяц." />
-      <item value="Made it the way it was before. Now only marked lots from the last completed auction are shown. If there are no marked lots in the last completed auction, this block will be empty. Please remember this moment." />
-      <item value="Сделал как было раньше. Сейчас показываются отмеченные лоты только из последнего завершённого аукциона. Если в последнем завершённом аукционе не будет отмеченных лотов, этот блок будет пустым. Попрошу запомнить этот момент." />
-      <item value="Мы сделаем это." />
-      <item value="I think this can be done." />
-      <item value="Думаю это можно будет сделать." />
-      <item value="I think WP gallery supports it. For video it is more convenient to use TouTube. In any case, if you have any problems, we will help you solve them." />
-      <item value="Думаю WP галерея это поддерживает. Для видео удобнее использовать TouTube. В любом случае если у вас возникнут проблемы мы поможем их решить." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5703" />
+        <entry key="ENGLISH" value="5704" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="3" />
-        <entry key="HEBREW" value="172" />
+        <entry key="HEBREW" value="180" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
