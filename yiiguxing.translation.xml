@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="свёрнутый" />
+      <item value="collapse" />
       <item value="get a catalog item of an auction for a language. Note - it is not recommended to use this api from the client, because the catalog data may be invisible to SEO. The api does not require a session id, so it can be called from the server side." />
       <item value="I'm looking into the task of hiding auctions that customers hide by request on Bidspirit." />
       <item value="I'm looking into the task of hiding auctions that customers hide on request on Bidspirit." />
@@ -53,13 +55,11 @@
       <item value="You shouldnt be here" />
       <item value="Список сотрудников и их отделов" />
       <item value="employee-list" />
-      <item value="You did not enter a category name." />
-      <item value="Next auction coming soon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5709" />
+        <entry key="ENGLISH" value="5710" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5709" />
+        <entry key="RUSSIAN" value="5711" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
