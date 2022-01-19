@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Minimized all sections" />
       <item value="свёрнутый" />
       <item value="collapse" />
       <item value="get a catalog item of an auction for a language. Note - it is not recommended to use this api from the client, because the catalog data may be invisible to SEO. The api does not require a session id, so it can be called from the server side." />
@@ -54,12 +55,11 @@
       <item value="Employeer" />
       <item value="You shouldnt be here" />
       <item value="Список сотрудников и их отделов" />
-      <item value="employee-list" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5710" />
+        <entry key="ENGLISH" value="5711" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
