@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="There is a request from a client for a feature that when a user subscribes to the Newsletter from the site, he must also subscribe to the newsletter from Bidspirit." />
+      <item value="There is a request from a client for a feature that when a user subscribes to the Newsletter from the site, he must also subscribe to the newsletter with Bidspirit." />
+      <item value="Есть запрос от клиента на фичу что когда пользователь подписывается на Newsletter из сайта, он так же должен подписаться на рассылку новостей и с Bidspirit." />
+      <item value="его" />
       <item value="search extension" />
       <item value="Minimized all sections" />
       <item value="свёрнутый" />
@@ -51,15 +55,11 @@
       <item value="The plugin implements the functionality of sorting categories in the following form:" />
       <item value="В плагине реализован функционал сортировки категорий в вот таком виде:" />
       <item value="department" />
-      <item value="отдел" />
-      <item value="Employee" />
-      <item value="Employeer" />
-      <item value="You shouldnt be here" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5712" />
+        <entry key="ENGLISH" value="5715" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5712" />
+        <entry key="RUSSIAN" value="5715" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
