@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="It doesn't work that way." />
+      <item value="Это не так работает." />
+      <item value="These banners are feature images for page." />
+      <item value="Эти баннеры являются feature images for page." />
       <item value="bag" />
       <item value="hammer" />
       <item value="hummer" />
@@ -51,15 +55,11 @@
       <item value="We can change text for file uploader, but it have one language." />
       <item value="We can change text for file uploader, but it are one language." />
       <item value="We can change text for file uploader." />
-      <item value="Department" />
-      <item value="employees" />
-      <item value="Position" />
-      <item value="Должность" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5718" />
+        <entry key="ENGLISH" value="5720" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5718" />
+        <entry key="RUSSIAN" value="5720" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
