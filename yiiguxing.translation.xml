@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Порядок" />
+      <item value="Order mode" />
       <item value="Sorting mode" />
       <item value="Mode sorting" />
       <item value="Mode ordering" />
@@ -53,13 +55,11 @@
       <item value="I also see that you have two categories &quot;Rugs&quot;" />
       <item value="Так же я вижу что у вас две категории &quot;Rugs&quot;" />
       <item value="I found the problem. The double quote character causes this error." />
-      <item value="Я нашёл проблему. Символ двойной кавычки приводит к этой ошибки." />
-      <item value="סכו&quot;ם" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5732" />
+        <entry key="ENGLISH" value="5733" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5732" />
+        <entry key="RUSSIAN" value="5734" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
