@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="List departments" />
       <item value="Порядок" />
       <item value="Order mode" />
       <item value="Sorting mode" />
@@ -54,12 +55,11 @@
       <item value="Попробую сделать это со стороны скрипта импорта." />
       <item value="I also see that you have two categories &quot;Rugs&quot;" />
       <item value="Так же я вижу что у вас две категории &quot;Rugs&quot;" />
-      <item value="I found the problem. The double quote character causes this error." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5733" />
+        <entry key="ENGLISH" value="5734" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
