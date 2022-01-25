@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can you make the width of all colums identical between the different tables i.e the e-mail, phone colums will start at the same position at all the departments" />
       <item value="Also we repair deleted banner." />
       <item value="Alse we repair deleted banner." />
       <item value="Please view video by number 6. It shows the process of editing banners for internal pages." />
@@ -54,12 +55,11 @@
       <item value="כתובת דוא&quot;ל" />
       <item value="אנשי קשר" />
       <item value="Страница определяется этой опцией" />
-      <item value="Phone bid" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5738" />
+        <entry key="ENGLISH" value="5739" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5738" />
+        <entry key="RUSSIAN" value="5739" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
