@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sometimes I need to add a url to employee, I don't want to add a seperate colum for it. I think its a good idea to add a field above &quot;Position&quot; (and below &quot;Title&quot;) were i can add the link enother option is to make the postion field enhance text so i can add the links directly to the text talk to vitaly about the size of the fonts he think its too big" />
       <item value="Can you make the width of all colums identical between the different tables i.e the e-mail, phone colums will start at the same position at all the departments" />
       <item value="Also we repair deleted banner." />
       <item value="Alse we repair deleted banner." />
@@ -54,12 +55,11 @@
       <item value="מספר טלפון" />
       <item value="כתובת דוא&quot;ל" />
       <item value="אנשי קשר" />
-      <item value="Страница определяется этой опцией" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5739" />
+        <entry key="ENGLISH" value="5740" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5739" />
+        <entry key="RUSSIAN" value="5740" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
