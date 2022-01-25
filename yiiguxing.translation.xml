@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Also we repair deleted banner." />
+      <item value="Alse we repair deleted banner." />
+      <item value="Please view video by number 6. It shows the process of editing banners for internal pages." />
+      <item value="Там показан процесс редактирования баннеров для внутренних страниц." />
+      <item value="Please view video by number 6" />
       <item value="List departments" />
       <item value="Порядок" />
       <item value="Order mode" />
@@ -50,16 +55,11 @@
       <item value="אנשי קשר" />
       <item value="Страница определяется этой опцией" />
       <item value="Phone bid" />
-      <item value="I fixed all requests?" />
-      <item value="I'll try to do it from the side of the import script." />
-      <item value="Попробую сделать это со стороны скрипта импорта." />
-      <item value="I also see that you have two categories &quot;Rugs&quot;" />
-      <item value="Так же я вижу что у вас две категории &quot;Rugs&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5734" />
+        <entry key="ENGLISH" value="5738" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5734" />
+        <entry key="RUSSIAN" value="5738" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
