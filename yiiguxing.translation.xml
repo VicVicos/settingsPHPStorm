@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We need to do a German translation in this file. The administrative part of the plugin is optional, these lines are marked in gray. I marked the lines that the site user will see in orange. Previously provided file does not fit - Bidspirit-Theme DE translations.docx" />
+      <item value="Нам нужно сделать перевод на немецкий в этом файле. Административная часть плагина не обязательна, эти строки отмечены серым цветом. Строки, которые будет видеть пользователь сайта я пометил оранжевым цветом. Ранее предоставленный файл не подходит - Bidspirit-Theme DE translations.docx" />
       <item value="Ok. Synchronization does not happen instantly. For future auctions, information should be updated within the hour." />
       <item value="Хорошо. Синхронизация не происходит моментально. Для будущих аукционов информация должна обновиться в течение часа." />
       <item value="I don't quite understand what the problem is." />
@@ -53,13 +55,11 @@
       <item value="Я изучаю задачу по скрытию аукционов которые скрывают клиенты по запросу на Bidspirit. Ранее мы делали один скрытый аукцион для web2-qa.bidspirit.com. Но я не могу найти ни чего что бы дало мне понять что аукцион скрыт." />
       <item value="Display a list of departments and their users from the section &quot;Employee&quot;" />
       <item value="Отображаем список отделов и их пользователей из раздела" />
-      <item value="טלפון" />
-      <item value="תפקיד של איש קשר" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5744" />
+        <entry key="ENGLISH" value="5745" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5744" />
+        <entry key="RUSSIAN" value="5745" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
