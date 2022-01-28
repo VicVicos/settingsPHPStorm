@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="It need for task &quot;Hide Auction if auction hide on Bidspirit 83295&quot;" />
+      <item value="Also please make auction with number 15 as hidden" />
+      <item value="Also please make auction number 15 as hidden" />
+      <item value="Tested on:" />
+      <item value="Запрос формируется корректно:" />
+      <item value="I'm having trouble storing the &quot;sendBidEmails&quot; and &quot;sendOverBidEmails&quot; values for the user when sending the itemsplaceBid request. Changing the value of &quot;sendBidEmails&quot; causes &quot;sendOverBidEmails&quot; to change its value as well. When changes to &quot;sendOverBidEmails&quot; do not result in any changes." />
+      <item value="Я испытываю проблемы с тем что бы сохранить значения &quot;sendBidEmails&quot; and &quot;sendOverBidEmails&quot; для пользователя при отправке запроса itemsplaceBid. Изменение значения &quot;sendBidEmails&quot; приводит к тому что и &quot;sendOverBidEmails&quot; меняет своё значение. Когда изменения &quot;sendOverBidEmails&quot; не приводят к каким либо изменениям." />
+      <item value="if true - send an email to the user when a higher bid on this item is placed . this value should be saved for the next time the use places a bid" />
+      <item value="if true - send a bid confirmation email. this value should be saved for the next time the use places a bid" />
       <item value="true if the user wants to get email confirmation when he puts an absentee bid. this value should be the default for sendBidEmails param when calling itemsplaceBid" />
       <item value="true if the user wants to get an email notification when a higher bid is placed on an item which he put a bid on. This value should be the default for sendOverBidEmails param when calling itemsplaceBid" />
       <item value="true if the user wants to get email confirmation when he puts an absentee bid. this value should be the default for sendBidEmails param when calling itemsplaceBid true if the user wants to get an email notification when a higher bid is placed on an item which he put a bid on. This value should be the default for sendOverBidEmails param when calling itemsplaceBid" />
@@ -46,20 +55,11 @@
       <item value="Calling the api is done through https requests , using the “GET” or “POST” methods. the arguments are passes through the query string(when calling with a “GET” method) or form parameters (using “POST” method). most apis can be called with both “GET” and “POST” methods, but apis that passes must be called with “POST”: namely - userslogin, usersregister and usersupdateDetails ." />
       <item value="New user Registration: Registration is done in several steps: User fills basic details (name, email and password) . this is achieved with the usersregister api If the user tries to register with an existing user in the auction house environment an error response code USER_EXIST Bidspirit system send a confirmation email to the user. Until the user confirms his email he cannot proceed with the registration, and the auction house admin will not get notified on the new registration. At this point the user can do 2 things: Resend the confirmation mail - through the usersresendConfirmationMail api Change his email (e.g. in case the user had a type in his email) - through the usersupdateEmail api. A new confirmation mail will be sent to the user. After the user confirms his email he is redirected to a page where he can add more details - phone, address, etc. only after the user completes his details, a request is sent to the auction house admin to approve the user. The details will be saved in bidspirit system through the usersupdateDetails api After the user completes his registration, an email is sent to the auction house admin. The user still cannot place bids until the auction house admin approves the user." />
       <item value="Originaly i asked from vitali that there will be an option to leave one of the Departments open on load, can you add the option to the compenent ?" />
-      <item value="I have 2 questions Originaly i asked from vitali that there will be an option to leave one of the Departments open on load, can you add the option to the compenent ? Is there an option to add to 2 seperate pages ? I mean Department a, b &amp; c in page 1, department d, e in page 2" />
-      <item value="i want to sort the contacts in the group can you make the sorting dynamix the following: default sort by ABC but if i add sorting index then its 1,2, 3 (if i'm not asked then the contacts will be sorted ABC, but sometime i get specific request &quot;put .... at the begining and after that ...&quot; am i clear ? yoav" />
-      <item value="Originaly i asked from vitali that there will be an option to leave one of the Departments open on load, can you add the option to the compenent ? Is there an option to add to 2 seperate pages ? I mean Department a, b &amp; c in page 1, department d, e in page 2" />
-      <item value="It doesn't work that way." />
-      <item value="Это не так работает." />
-      <item value="These banners are feature images for page." />
-      <item value="Эти баннеры являются feature images for page." />
-      <item value="bag" />
-      <item value="hammer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5757" />
+        <entry key="ENGLISH" value="5764" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5757" />
+        <entry key="RUSSIAN" value="5764" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
