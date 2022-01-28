@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can we start transferring the site to your domain?" />
+      <item value="Можем ли мы начать перенос сайта на ваш домен?" />
+      <item value="Процесс синхронизации не происходит моментально. Пожалуйста, подождите." />
+      <item value="No. We will send you a table with the texts to be translated." />
+      <item value="Мы пришлём вам таблицу с текстами которые надо будет перевести." />
       <item value="ten minutely" />
       <item value="Каждые 10 минут" />
       <item value="От вас потребуется помощь с переводом на португальский язык." />
@@ -50,16 +55,11 @@
       <item value="hammer" />
       <item value="hummer" />
       <item value="There is a request from a client for a feature that when a user subscribes to the Newsletter from the site, he must also subscribe to the newsletter from Bidspirit." />
-      <item value="There is a request from a client for a feature that when a user subscribes to the Newsletter from the site, he must also subscribe to the newsletter with Bidspirit." />
-      <item value="Есть запрос от клиента на фичу что когда пользователь подписывается на Newsletter из сайта, он так же должен подписаться на рассылку новостей и с Bidspirit." />
-      <item value="его" />
-      <item value="search extension" />
-      <item value="Minimized all sections" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5751" />
+        <entry key="ENGLISH" value="5754" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5751" />
+        <entry key="RUSSIAN" value="5754" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
