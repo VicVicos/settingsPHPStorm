@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Configuration: Configuration of the webhooks is done through bidspirit admin. In order to enable webhook calls the party implementing the api needs to provide a bidspirit admin the endpoint webhook url and an authentication token" />
+      <item value="To authenticate a request: Load the secret authentication token Process md5 on token+”_”+&lt;http reqeust body&gt; The result should be equals to value sent in the X-BIDSPIRIT-SIGNATURE header" />
+      <item value="the secret should be stored in a secure place" />
       <item value="It need for task &quot;Hide Auction if auction hide on Bidspirit 83295&quot;" />
       <item value="Also please make auction with number 15 as hidden" />
       <item value="Also please make auction number 15 as hidden" />
@@ -52,14 +55,11 @@
       <item value="Mode ordering" />
       <item value="Mode order by" />
       <item value="i want to sort the contacts in the group can you make the sorting dynamix the following: default sort by ABC but if i add sorting index then its 1,2, 3 (if i'm not asked then the contacts will be sorted ABC, but sometime i get specific request &quot;put .... at the begining and after that ...&quot;" />
-      <item value="Calling the api is done through https requests , using the “GET” or “POST” methods. the arguments are passes through the query string(when calling with a “GET” method) or form parameters (using “POST” method). most apis can be called with both “GET” and “POST” methods, but apis that passes must be called with “POST”: namely - userslogin, usersregister and usersupdateDetails ." />
-      <item value="New user Registration: Registration is done in several steps: User fills basic details (name, email and password) . this is achieved with the usersregister api If the user tries to register with an existing user in the auction house environment an error response code USER_EXIST Bidspirit system send a confirmation email to the user. Until the user confirms his email he cannot proceed with the registration, and the auction house admin will not get notified on the new registration. At this point the user can do 2 things: Resend the confirmation mail - through the usersresendConfirmationMail api Change his email (e.g. in case the user had a type in his email) - through the usersupdateEmail api. A new confirmation mail will be sent to the user. After the user confirms his email he is redirected to a page where he can add more details - phone, address, etc. only after the user completes his details, a request is sent to the auction house admin to approve the user. The details will be saved in bidspirit system through the usersupdateDetails api After the user completes his registration, an email is sent to the auction house admin. The user still cannot place bids until the auction house admin approves the user." />
-      <item value="Originaly i asked from vitali that there will be an option to leave one of the Departments open on load, can you add the option to the compenent ?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5764" />
+        <entry key="ENGLISH" value="5767" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5764" />
+        <entry key="RUSSIAN" value="5767" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
