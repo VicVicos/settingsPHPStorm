@@ -5,6 +5,25 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I wanted to clarify this issue. Am I missing something from the Bidspirit settings in this case? Or for this client it is necessary to change the text simply?" />
+      <item value="Или для этого клиента надо просто поменять текст?" />
+      <item value="I wanted to clarify this issue. Am I missing something from the Bidspirit settings in this case? Or just change the text?" />
+      <item value="I just wanted to clarify this issue. Am I missing something from the Bidspirit settings in this case? Or just change the text?" />
+      <item value="Я как раз хотел уточнить об этом вопросе. Я что-то не учёл из настроек Bidspirit в данном случае? Или надо просто поменять текст?" />
+      <item value="This is a big one. And a problem with every US auction house. Every reference to VAT should be Sales Tax" />
+      <item value="Ok. Please let me know if anything comes up." />
+      <item value="Хорошо. Пожалуйста дайте мне знать если что-то будет." />
+      <item value="Ok. As you summarize from his posts, please let me know." />
+      <item value="Хорошо. Как подведёте итоги из его сообщений, пожалуйста дайте мне знать об этом." />
+      <item value="Are there any problems with the UniquesAndAntiques client that I need to solve?" />
+      <item value="По клиенту UniquesAndAntiques есть какие то проблемы с которые я должен решить?" />
+      <item value="I checked it in my developer account and it works well there." />
+      <item value="Я проверил это в своей учетной записи разработчика и там это работает хорошо." />
+      <item value="I checked it on my developer account and" />
+      <item value="Cool. I check it on my developer account and" />
+      <item value="Настраивается в Bidspirit." />
+      <item value="This is implemented in the plugin. It is possible to buy a lot before the start of the auction, as well as after the end of the auction. Adjusted by settings in Bidspirit." />
+      <item value="Это реализовано в плагине. Есть возможность купить лот до начала торгов, а так же после завершения торгов. Регулируется настройками в Bidspirit." />
       <item value="Configuration: Configuration of the webhooks is done through bidspirit admin. In order to enable webhook calls the party implementing the api needs to provide a bidspirit admin the endpoint webhook url and an authentication token" />
       <item value="To authenticate a request: Load the secret authentication token Process md5 on token+”_”+&lt;http reqeust body&gt; The result should be equals to value sent in the X-BIDSPIRIT-SIGNATURE header" />
       <item value="the secret should be stored in a secure place" />
@@ -36,30 +55,11 @@
       <item value="We need to do a German translation in this file. The administrative part of the plugin is optional, these lines are marked in gray. I marked the lines that the site user will see in orange. Previously provided file does not fit - Bidspirit-Theme DE translations.docx" />
       <item value="Нам нужно сделать перевод на немецкий в этом файле. Административная часть плагина не обязательна, эти строки отмечены серым цветом. Строки, которые будет видеть пользователь сайта я пометил оранжевым цветом. Ранее предоставленный файл не подходит - Bidspirit-Theme DE translations.docx" />
       <item value="Ok. Synchronization does not happen instantly. For future auctions, information should be updated within the hour." />
-      <item value="Хорошо. Синхронизация не происходит моментально. Для будущих аукционов информация должна обновиться в течение часа." />
-      <item value="I don't quite understand what the problem is." />
-      <item value="Я не совсем понимаю в чём проблема." />
-      <item value="We have call today?" />
-      <item value="Sometimes I need to add a url to employee, I don't want to add a seperate colum for it. I think its a good idea to add a field above &quot;Position&quot; (and below &quot;Title&quot;) were i can add the link enother option is to make the postion field enhance text so i can add the links directly to the text talk to vitaly about the size of the fonts he think its too big" />
-      <item value="Can you make the width of all colums identical between the different tables i.e the e-mail, phone colums will start at the same position at all the departments" />
-      <item value="Also we repair deleted banner." />
-      <item value="Alse we repair deleted banner." />
-      <item value="Please view video by number 6. It shows the process of editing banners for internal pages." />
-      <item value="Там показан процесс редактирования баннеров для внутренних страниц." />
-      <item value="Please view video by number 6" />
-      <item value="List departments" />
-      <item value="Порядок" />
-      <item value="Order mode" />
-      <item value="Sorting mode" />
-      <item value="Mode sorting" />
-      <item value="Mode ordering" />
-      <item value="Mode order by" />
-      <item value="i want to sort the contacts in the group can you make the sorting dynamix the following: default sort by ABC but if i add sorting index then its 1,2, 3 (if i'm not asked then the contacts will be sorted ABC, but sometime i get specific request &quot;put .... at the begining and after that ...&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5767" />
+        <entry key="ENGLISH" value="5778" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5767" />
+        <entry key="RUSSIAN" value="5778" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642990386738" />
+    <option name="lastTrimTime" value="1643423043050" />
   </component>
 </application>
