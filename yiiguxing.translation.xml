@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think the problem is related to the server settings. We'll deal with this." />
+      <item value="Я думаю проблема связана с настройками сервера. Мы разберёмся с этим." />
       <item value="I have registered a new user through a form on the site with the default language selected as English. His email: vicos@vocis.ru Please confirm it so we can see if there is a problem if I receive emails in Hebrew. I received letters with a notification of registration in English, I am attaching the screenshots." />
       <item value="Я зарегистрировал нового пользователя через форму на сайте с выбранным языком по умолчанию как Английский. Его email: vicos@vocis.ru Пожалуйста подтвердите его что бы мы могли убедиться в наличии проблемы если я буду получать письма на Иврите. Письма с уведомлением о регистрации я получил на Английском, скрины прилагаю." />
       <item value="In order to perform migration from redmine to gitlab I changed your user names in redmine and gitlab to be same." />
@@ -53,13 +55,11 @@
       <item value="Can we start transferring the site to your domain?" />
       <item value="Можем ли мы начать перенос сайта на ваш домен?" />
       <item value="Процесс синхронизации не происходит моментально. Пожалуйста, подождите." />
-      <item value="No. We will send you a table with the texts to be translated." />
-      <item value="Мы пришлём вам таблицу с текстами которые надо будет перевести." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5785" />
+        <entry key="ENGLISH" value="5786" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5785" />
+        <entry key="RUSSIAN" value="5786" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
