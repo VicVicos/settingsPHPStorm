@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Which we talked about recently in the whatsapp group." />
+      <item value="О которой мы говорили недавно в группе WhatsApp." />
+      <item value="I made a video in which I reproduced the problem in the task." />
+      <item value="Я сделал видео на котором я воспроизвёл проблему в задаче." />
+      <item value="Please, if you continue to receive spam emails, please report the problem to us." />
+      <item value="Пожалуйста, если спам письма продолжат поступать, сообщите нам о проблеме." />
+      <item value="Please, if spam emails persist, please report the problem to us." />
+      <item value="Пожалуйста, если спам письма не прекратятся, сообщите нам о проблеме." />
       <item value="I think the problem is related to the server settings. We'll deal with this." />
       <item value="Я думаю проблема связана с настройками сервера. Мы разберёмся с этим." />
       <item value="I have registered a new user through a form on the site with the default language selected as English. His email: vicos@vocis.ru Please confirm it so we can see if there is a problem if I receive emails in Hebrew. I received letters with a notification of registration in English, I am attaching the screenshots." />
@@ -47,19 +55,11 @@
       <item value="Запрос формируется корректно:" />
       <item value="I'm having trouble storing the &quot;sendBidEmails&quot; and &quot;sendOverBidEmails&quot; values for the user when sending the itemsplaceBid request. Changing the value of &quot;sendBidEmails&quot; causes &quot;sendOverBidEmails&quot; to change its value as well. When changes to &quot;sendOverBidEmails&quot; do not result in any changes." />
       <item value="Я испытываю проблемы с тем что бы сохранить значения &quot;sendBidEmails&quot; and &quot;sendOverBidEmails&quot; для пользователя при отправке запроса itemsplaceBid. Изменение значения &quot;sendBidEmails&quot; приводит к тому что и &quot;sendOverBidEmails&quot; меняет своё значение. Когда изменения &quot;sendOverBidEmails&quot; не приводят к каким либо изменениям." />
-      <item value="if true - send an email to the user when a higher bid on this item is placed . this value should be saved for the next time the use places a bid" />
-      <item value="if true - send a bid confirmation email. this value should be saved for the next time the use places a bid" />
-      <item value="true if the user wants to get email confirmation when he puts an absentee bid. this value should be the default for sendBidEmails param when calling itemsplaceBid" />
-      <item value="true if the user wants to get an email notification when a higher bid is placed on an item which he put a bid on. This value should be the default for sendOverBidEmails param when calling itemsplaceBid" />
-      <item value="true if the user wants to get email confirmation when he puts an absentee bid. this value should be the default for sendBidEmails param when calling itemsplaceBid true if the user wants to get an email notification when a higher bid is placed on an item which he put a bid on. This value should be the default for sendOverBidEmails param when calling itemsplaceBid" />
-      <item value="Can we start transferring the site to your domain?" />
-      <item value="Можем ли мы начать перенос сайта на ваш домен?" />
-      <item value="Процесс синхронизации не происходит моментально. Пожалуйста, подождите." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5786" />
+        <entry key="ENGLISH" value="5790" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5786" />
+        <entry key="RUSSIAN" value="5790" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
