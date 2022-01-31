@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Doing" />
+      <item value="Staging" />
       <item value="We cannot remove the Address and ZipCode fields. These are required fields in Bidspirit for a user profile." />
       <item value="Мы не можем убрать поля Address и ZipCode. Это обязательные поля в Bidspirit для профиля пользователя." />
       <item value="get All Auctions Ids" />
@@ -53,13 +55,11 @@
       <item value="the secret should be stored in a secure place" />
       <item value="It need for task &quot;Hide Auction if auction hide on Bidspirit 83295&quot;" />
       <item value="Also please make auction with number 15 as hidden" />
-      <item value="Also please make auction number 15 as hidden" />
-      <item value="Tested on:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5792" />
+        <entry key="ENGLISH" value="5794" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5792" />
+        <entry key="RUSSIAN" value="5794" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
