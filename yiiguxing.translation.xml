@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Self" />
+      <item value="in case this item is sold - an object of the form {price, isSelf}" />
       <item value="Add an option at which tabs lose the ability to close." />
       <item value="Добавить опцию при которой вклдаки теряют возможность закрываться." />
       <item value="Doing" />
@@ -53,13 +55,11 @@
       <item value="This is implemented in the plugin. It is possible to buy a lot before the start of the auction, as well as after the end of the auction. Adjusted by settings in Bidspirit." />
       <item value="Это реализовано в плагине. Есть возможность купить лот до начала торгов, а так же после завершения торгов. Регулируется настройками в Bidspirit." />
       <item value="Configuration: Configuration of the webhooks is done through bidspirit admin. In order to enable webhook calls the party implementing the api needs to provide a bidspirit admin the endpoint webhook url and an authentication token" />
-      <item value="To authenticate a request: Load the secret authentication token Process md5 on token+”_”+&lt;http reqeust body&gt; The result should be equals to value sent in the X-BIDSPIRIT-SIGNATURE header" />
-      <item value="the secret should be stored in a secure place" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5795" />
+        <entry key="ENGLISH" value="5797" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5795" />
+        <entry key="RUSSIAN" value="5797" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
