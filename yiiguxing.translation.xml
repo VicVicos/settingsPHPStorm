@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Display only one department and with mod properties" />
+      <item value="Display only one department and her properties." />
+      <item value="If single mod" />
+      <item value="With this api the user can set his preference whether he accepts to get invitations for new auctions from the auction house or not." />
       <item value="Moved To Draft Bulk" />
       <item value="bulk Moved To Draft" />
       <item value="is Self" />
@@ -51,15 +55,11 @@
       <item value="По клиенту UniquesAndAntiques есть какие то проблемы с которые я должен решить?" />
       <item value="I checked it in my developer account and it works well there." />
       <item value="Я проверил это в своей учетной записи разработчика и там это работает хорошо." />
-      <item value="I checked it on my developer account and" />
-      <item value="Cool. I check it on my developer account and" />
-      <item value="Настраивается в Bidspirit." />
-      <item value="This is implemented in the plugin. It is possible to buy a lot before the start of the auction, as well as after the end of the auction. Adjusted by settings in Bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5799" />
+        <entry key="ENGLISH" value="5803" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5799" />
+        <entry key="RUSSIAN" value="5803" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
