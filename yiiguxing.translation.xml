@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="but I did not find anything about closed auctions in the documentation. Is there any information about this?" />
+      <item value="но о закрытых аукционах я ни чего не нашёл в документации. Есть информация по этому поводу?" />
+      <item value="A tronzelas.bidspirit.com client wanted to run private auctions for certain groups of people." />
+      <item value="Клиент tronzelas.bidspirit.com хотел проводить закрытые аукционы для определённых групп лиц." />
+      <item value="Можете сделать аукцион под номером 15 снова видимым, и скрыть аукцион под номером 14?" />
+      <item value="You can make auction number 15 visible again, and hide auction number 14. I need to test the task of hiding auctions in the plugin." />
+      <item value="Можете сделать аукцион под номером 15 снова видимым, и скрыть аукцион под номером 14. Мне надо протестировать задачу по скрытию аукционов в плагине." />
       <item value="Count employees" />
       <item value="per department" />
       <item value="per depart" />
@@ -48,18 +55,11 @@
       <item value="I wanted to clarify this issue. Am I missing something from the Bidspirit settings in this case? Or for this client it is necessary to change the text simply?" />
       <item value="Или для этого клиента надо просто поменять текст?" />
       <item value="I wanted to clarify this issue. Am I missing something from the Bidspirit settings in this case? Or just change the text?" />
-      <item value="I just wanted to clarify this issue. Am I missing something from the Bidspirit settings in this case? Or just change the text?" />
-      <item value="Я как раз хотел уточнить об этом вопросе. Я что-то не учёл из настроек Bidspirit в данном случае? Или надо просто поменять текст?" />
-      <item value="This is a big one. And a problem with every US auction house. Every reference to VAT should be Sales Tax" />
-      <item value="Ok. Please let me know if anything comes up." />
-      <item value="Хорошо. Пожалуйста дайте мне знать если что-то будет." />
-      <item value="Ok. As you summarize from his posts, please let me know." />
-      <item value="Хорошо. Как подведёте итоги из его сообщений, пожалуйста дайте мне знать об этом." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5806" />
+        <entry key="ENGLISH" value="5811" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5806" />
+        <entry key="RUSSIAN" value="5811" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
