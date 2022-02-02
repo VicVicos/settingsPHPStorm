@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="employee as profile" />
       <item value="Я внутри" />
       <item value="Не получается." />
       <item value="No. After entering the login and password, I am still greeted by a form with a confirmation code" />
@@ -54,12 +55,11 @@
       <item value="bigest-label" />
       <item value="I will compare with what is on Bidspirit." />
       <item value="Хорошо. Я сравню с тем что есть на Bidspirit." />
-      <item value="I understand that there are no errors in the plugin, but something needs to be improved for this client. And I still don't know what exactly I should do for this." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5813" />
+        <entry key="ENGLISH" value="5814" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
