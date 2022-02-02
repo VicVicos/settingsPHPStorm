@@ -5,6 +5,36 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Irene Santana asked about the implementation of this feature." />
+      <item value="asked about the implementation of this feature." />
+      <item value="I asked about the implementation of this feature." />
+      <item value="Спрашивала про реализацию этой фичи." />
+      <item value="Ok. Then we have to cancel this task." />
+      <item value="Тогда мы должны отменить эту задачу." />
+      <item value="To subscribe to the auction mailing, we have to use the API call userssetInvitationsEnabled, right?" />
+      <item value="It seems to me that this is not used for this." />
+      <item value="Что то мне кажется это не для этого используется." />
+      <item value="set Invitations Enabled" />
+      <item value="To subscribe to the auction mailing list, we have to use the API call userssetInvitationsEnabled, right?" />
+      <item value="Для подписки на рассылку об аукционах мы должны использовать API call userssetInvitationsEnabled, верно?" />
+      <item value="Is it possible to subscribe to the Bidspirit newsletter for non-registered users." />
+      <item value="Есть ли возможность подписаться на рассылку Bidspirit не зарегистрированным пользователям." />
+      <item value="With this api the user can set his preference whether he accepts to get invitations for new auctions from the auction house or not." />
+      <item value="Also we have task:" />
+      <item value="Early approved." />
+      <item value="Approved" />
+      <item value="Need a feature filter by lot number on auction page." />
+      <item value="Need a feature filter by lot number on site. We estimated the task at 4 hours. Can we start this task? Please approve." />
+      <item value="Мы оценили задачу на 4 часа. Можем ли мы начать выполнять эту задачу." />
+      <item value="Мы оценили задачу на 4 часа времени." />
+      <item value="Need a feature filter by lot number on site." />
+      <item value="Need a feature filter lot list by lot number on site." />
+      <item value="Need a feature on site filter lot list by lot number." />
+      <item value="Need a features on site as filter lot list by lot number." />
+      <item value="Have a features on site as filter lot list by lot number." />
+      <item value="Sorry for delay, updating soon" />
+      <item value="You can do it yourself:" />
+      <item value="Вы можете сделать это самостоятельно:" />
       <item value="Будет ли доступен поиск" />
       <item value="Enable search?" />
       <item value="Search enable?" />
@@ -25,41 +55,11 @@
       <item value="Count employees" />
       <item value="per department" />
       <item value="per depart" />
-      <item value="single Mode" />
-      <item value="Display only one department and with mod properties" />
-      <item value="Display only one department and her properties." />
-      <item value="If single mod" />
-      <item value="With this api the user can set his preference whether he accepts to get invitations for new auctions from the auction house or not." />
-      <item value="Moved To Draft Bulk" />
-      <item value="bulk Moved To Draft" />
-      <item value="is Self" />
-      <item value="in case this item is sold - an object of the form {price, isSelf}" />
-      <item value="Add an option at which tabs lose the ability to close." />
-      <item value="Добавить опцию при которой вклдаки теряют возможность закрываться." />
-      <item value="Doing" />
-      <item value="Staging" />
-      <item value="We cannot remove the Address and ZipCode fields. These are required fields in Bidspirit for a user profile." />
-      <item value="Мы не можем убрать поля Address и ZipCode. Это обязательные поля в Bidspirit для профиля пользователя." />
-      <item value="get All Auctions Ids" />
-      <item value="Which we talked about recently in the whatsapp group." />
-      <item value="О которой мы говорили недавно в группе WhatsApp." />
-      <item value="I made a video in which I reproduced the problem in the task." />
-      <item value="Я сделал видео на котором я воспроизвёл проблему в задаче." />
-      <item value="Please, if you continue to receive spam emails, please report the problem to us." />
-      <item value="Пожалуйста, если спам письма продолжат поступать, сообщите нам о проблеме." />
-      <item value="Please, if spam emails persist, please report the problem to us." />
-      <item value="Пожалуйста, если спам письма не прекратятся, сообщите нам о проблеме." />
-      <item value="I think the problem is related to the server settings. We'll deal with this." />
-      <item value="Я думаю проблема связана с настройками сервера. Мы разберёмся с этим." />
-      <item value="I have registered a new user through a form on the site with the default language selected as English. His email: vicos@vocis.ru Please confirm it so we can see if there is a problem if I receive emails in Hebrew. I received letters with a notification of registration in English, I am attaching the screenshots." />
-      <item value="Я зарегистрировал нового пользователя через форму на сайте с выбранным языком по умолчанию как Английский. Его email: vicos@vocis.ru Пожалуйста подтвердите его что бы мы могли убедиться в наличии проблемы если я буду получать письма на Иврите. Письма с уведомлением о регистрации я получил на Английском, скрины прилагаю." />
-      <item value="In order to perform migration from redmine to gitlab I changed your user names in redmine and gitlab to be same." />
-      <item value="Вы используете плагин Custom CSS &amp; JS для этой цели и код метрики загружены на сайт." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5818" />
+        <entry key="ENGLISH" value="5844" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5819" />
+        <entry key="RUSSIAN" value="5844" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
