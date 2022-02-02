@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Будет ли доступен поиск" />
+      <item value="Enable search?" />
+      <item value="Search enable?" />
       <item value="Open in new window?" />
       <item value="Target new blank" />
       <item value="employee as profile" />
@@ -52,14 +55,11 @@
       <item value="Я зарегистрировал нового пользователя через форму на сайте с выбранным языком по умолчанию как Английский. Его email: vicos@vocis.ru Пожалуйста подтвердите его что бы мы могли убедиться в наличии проблемы если я буду получать письма на Иврите. Письма с уведомлением о регистрации я получил на Английском, скрины прилагаю." />
       <item value="In order to perform migration from redmine to gitlab I changed your user names in redmine and gitlab to be same." />
       <item value="Вы используете плагин Custom CSS &amp; JS для этой цели и код метрики загружены на сайт." />
-      <item value="You use plugin Custom CSS &amp; JS for this target and that code metrics uploaded on site." />
-      <item value="To start using hubstuff with gitlab please login to you gitlab account. After this go to hubstuff and click on the bell  on right top and click on view you pending integrations. After this click on I creating tasks connect and on popup connect again. You will be redirected to gitlab and back to hubstuff with success message. If you have questions - contact me in private." />
-      <item value="bigest-label" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5816" />
+        <entry key="ENGLISH" value="5818" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5816" />
+        <entry key="RUSSIAN" value="5819" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
