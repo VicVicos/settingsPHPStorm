@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We inform you that we will not do this." />
+      <item value="Сообщаем вам что мы не будем этого делать." />
+      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели." />
+      <item value="We have considered the task of sorting auctions in the admin panel. We inform you that we will not be able to do this." />
+      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели. Сообщаем вам что мы не сможем это сделать." />
+      <item value="We have considered the task of sorting auctions in the admin panel. We inform you that we will not do this." />
+      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели. Сообщаем вам что мы не будем этого делать." />
+      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели. Сообщаем вам что мы не сможем этого сделать." />
       <item value="Next auctions coming soon" />
       <item value="Now we test new version and coming soon that be available for update." />
       <item value="Now we tested new version and coming soon that be available for update." />
@@ -47,19 +55,11 @@
       <item value="Будет ли доступен поиск" />
       <item value="Enable search?" />
       <item value="Search enable?" />
-      <item value="Open in new window?" />
-      <item value="Target new blank" />
-      <item value="employee as profile" />
-      <item value="Я внутри" />
-      <item value="Не получается." />
-      <item value="No. After entering the login and password, I am still greeted by a form with a confirmation code" />
-      <item value="Нет. После ввода логина и пароля меня всё равно встречает форма с confirmation code" />
-      <item value="but I did not find anything about closed auctions in the documentation. Is there any information about this?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5853" />
+        <entry key="ENGLISH" value="5858" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5853" />
+        <entry key="RUSSIAN" value="5858" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643423043050" />
+    <option name="lastTrimTime" value="1643879662241" />
   </component>
 </application>
