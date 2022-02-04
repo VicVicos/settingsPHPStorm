@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="It for GDPR feature." />
+      <item value="Hello! Please translate this document:" />
       <item value="Current Hebrew auctions please delete" />
       <item value="Please add past and future + 2 years auctions on English for demo site with https:wordpress-qa.bidspirit.com profile Bidspirit." />
       <item value="Please add past and future + 2 years auctions some auctions on English for demo site with https:wordpress-qa.bidspirit.com profile Bidspirit." />
@@ -53,13 +55,11 @@
       <item value="Need a feature filter by lot number on site." />
       <item value="Need a feature filter lot list by lot number on site." />
       <item value="Need a feature on site filter lot list by lot number." />
-      <item value="Need a features on site as filter lot list by lot number." />
-      <item value="Have a features on site as filter lot list by lot number." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5864" />
+        <entry key="ENGLISH" value="5866" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5864" />
+        <entry key="RUSSIAN" value="5866" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
