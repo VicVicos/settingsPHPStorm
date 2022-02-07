@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fix slid on homepage" />
+      <item value="Fixed slid on homepage" />
+      <item value="Refine the slider on the main" />
+      <item value="Доработать слайдер на главной" />
+      <item value="Add a slider on the main" />
+      <item value="Доделать слайдер на главной" />
       <item value="A backup of your old site is here:" />
       <item value="Backup вашего старого сайта находится здесь:" />
       <item value="Hello! For timely synchronization of auctions from Bidspirit, we recommend setting up synchronization on the server using cron tasks on server. We have enabled synchronization using the built-in wordpress tools in the plugin settings, but synchronization using this method may cause problems with large auctions. Also, for this method to work, users must visit the site regularly." />
@@ -49,17 +55,11 @@
       <item value="Тогда мы должны отменить эту задачу." />
       <item value="To subscribe to the auction mailing, we have to use the API call userssetInvitationsEnabled, right?" />
       <item value="It seems to me that this is not used for this." />
-      <item value="Что то мне кажется это не для этого используется." />
-      <item value="set Invitations Enabled" />
-      <item value="To subscribe to the auction mailing list, we have to use the API call userssetInvitationsEnabled, right?" />
-      <item value="Для подписки на рассылку об аукционах мы должны использовать API call userssetInvitationsEnabled, верно?" />
-      <item value="Is it possible to subscribe to the Bidspirit newsletter for non-registered users." />
-      <item value="Есть ли возможность подписаться на рассылку Bidspirit не зарегистрированным пользователям." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5873" />
+        <entry key="ENGLISH" value="5877" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5873" />
+        <entry key="RUSSIAN" value="5877" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
