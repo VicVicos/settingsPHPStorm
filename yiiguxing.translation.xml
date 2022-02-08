@@ -5,6 +5,42 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Same problem here." />
+      <item value="Здесь такая же проблема." />
+      <item value="Not many of the customers received this update. Now I will let you know who has this update installed." />
+      <item value="Not many of the customers received this update. I will let you know who has this update installed. Soon." />
+      <item value="В ближайшее время." />
+      <item value="Not many of the customers received this update. I will let you know who has this update installed. В ближайшее время." />
+      <item value="Not many of the customers received this update. I will let you know who has this update installed." />
+      <item value="Это обновление получили не многие из клиентов. Я сообщу вам у кого установлено это обновление." />
+      <item value="I returned the site to the state on 03.02" />
+      <item value="Я вернул сайт в состояние на 03.02" />
+      <item value="I picked up a backup from 03.02" />
+      <item value="Я поднял резервную копию от 03.02" />
+      <item value="I will install the old version of the plugin and sync again. Can you enable hidden auctions? If they should be visible on the site." />
+      <item value="Я установлю старую версию плагина и проведу синхронизацию снова. Вы можете включить скрытые аукционы? Усли они должны быть видны на сайте." />
+      <item value="I agree, there is a bug with the implementation of the function of hiding auctions. The Fairhill client is one of the few who received this plugin update." />
+      <item value="Согласен, есть ошибка с реализацией функции скрытия аукционов. Клиент Fairhill один из не многих кто получил это обновление плагина." />
+      <item value="I agree, there was an error with the implementation of the function of hiding auctions. The Fairhill client is one of the few who received this plugin update." />
+      <item value="Согласен, с реализацией функции скрытия аукционов произошла ошибка. Клиент Fairhill один из не многих кто получил это обновление плагина." />
+      <item value="We must receive archival auctions." />
+      <item value="Архивные аукционы мы должны получать." />
+      <item value="No, I was told that if the auction did not return to the request to get all auctions, then the auction is hidden." />
+      <item value="Нет, мне сообщили что если аукцион не вернулся на запрос получить все аукционы, значит аукцион скрыт." />
+      <item value="No, I was told that if the auction does not receive a response to my request to get all auctions, then the auction is hidden." />
+      <item value="Нет, мне сообщили что если аукцион не приходит мне ответ на запрос получить все аукционы, значит аукцион скрыт." />
+      <item value="I will remove the implementation of this feature and ask for the missing auctions to be returned." />
+      <item value="Я уберу реализацию этой фичи и попрошу вернуть пропавшие аукционы." />
+      <item value="No, I'm very far from there. We hope everything calms down." />
+      <item value="Нет, Я очень далеко от туда. Надеемся что всё успокоится." />
+      <item value="I know for what reason these auctions could disappear. We recently added a new feature to hide auctions that are hidden on Bidspirit." />
+      <item value="I know for what reason these auctions could disappear. We recently added a new feature to hide auctions that are hidden from Bidspirit." />
+      <item value="Я знаю по какой причине могли исчезнуть эти аукционы. Мы недавно добавили новую фичу по скрытию аукционов которые скрываются из Bidspirit." />
+      <item value="I'm from Russia." />
+      <item value="Bidspirit solves the problem with authorization on its part, I will transfer this appeal to Bidspirit technical support." />
+      <item value="Проблему с авторизацией Bidspirit решает со своей стороны, Я передам это обращение в техническую поддержку Bidspirit." />
+      <item value="Bidspirit solves the problem with authorization for its part, I will transfer this appeal to those. Bidspirit support." />
+      <item value="Проблему с авторизацией Bidspirit решает со своей стороны, Я передам это обращение в тех. поддержку Bidspirit." />
       <item value="Fix slid on homepage" />
       <item value="Fixed slid on homepage" />
       <item value="Refine the slider on the main" />
@@ -19,47 +55,11 @@
       <item value="We have enabled synchronization using the built-in wordpress tools in the plugin settings, but synchronization using this method may cause problems with large auctions." />
       <item value="Мы включили в настройках плагина синхронизацию с помощью встроенных средств wordpress, но при работе синхронизации с помощью этого способа могут возникать проблемы с большими аукционами." />
       <item value="For timely synchronization of auctions from Bidspirit, we recommend setting up synchronization on the server using cron tasks on server." />
-      <item value="Для своевременной синхронизации аукционов из Bidspirit мы рекомендуем настроить синхронизацию на сервере с помощью cron tasks on server." />
-      <item value="The production https:baranovich.org 185.176.40.204 here is they IP address." />
-      <item value="Hello! We create a new website. Client profile on bidspirit: https:baranovich.bidspirit.com The production https:baranovich.org 185.176.40.204 here is their IP address. Please addition this to whitelist." />
-      <item value="It for GDPR feature." />
-      <item value="Hello! Please translate this document:" />
-      <item value="Current Hebrew auctions please delete" />
-      <item value="Please add past and future + 2 years auctions on English for demo site with https:wordpress-qa.bidspirit.com profile Bidspirit." />
-      <item value="Please add past and future + 2 years auctions some auctions on English for demo site with https:wordpress-qa.bidspirit.com profile Bidspirit." />
-      <item value="Please import some auctions on English for demo site with https:wordpress-qa.bidspirit.com profile Bidspirit." />
-      <item value="Please import some auctions" />
-      <item value="Please add past and future + 2 years auctions." />
-      <item value="We inform you that we will not do this." />
-      <item value="Сообщаем вам что мы не будем этого делать." />
-      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели." />
-      <item value="We have considered the task of sorting auctions in the admin panel. We inform you that we will not be able to do this." />
-      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели. Сообщаем вам что мы не сможем это сделать." />
-      <item value="We have considered the task of sorting auctions in the admin panel. We inform you that we will not do this." />
-      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели. Сообщаем вам что мы не будем этого делать." />
-      <item value="Мы рассмотрели задачу по сортировке аукционов в админ панели. Сообщаем вам что мы не сможем этого сделать." />
-      <item value="Next auctions coming soon" />
-      <item value="Now we test new version and coming soon that be available for update." />
-      <item value="Now we tested new version and coming soon that be available for update." />
-      <item value="I checked auction Cadmore, and see what all lots syncronized." />
-      <item value="I checked auction Cadmore, and all lots syncronized." />
-      <item value="I check auction Cadmore, and all lots syncronized." />
-      <item value="This client has not paid for support for more than six months. We do not provide assistance to this client." />
-      <item value="Этот клиент уже более полугода не платит за поддержку. Мы не оказываем помощь этому клиенту." />
-      <item value="Режим с отображением только одного отдела." />
-      <item value="Irene Santana asked about the implementation of this feature." />
-      <item value="asked about the implementation of this feature." />
-      <item value="I asked about the implementation of this feature." />
-      <item value="Спрашивала про реализацию этой фичи." />
-      <item value="Ok. Then we have to cancel this task." />
-      <item value="Тогда мы должны отменить эту задачу." />
-      <item value="To subscribe to the auction mailing, we have to use the API call userssetInvitationsEnabled, right?" />
-      <item value="It seems to me that this is not used for this." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5877" />
+        <entry key="ENGLISH" value="5900" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5877" />
+        <entry key="RUSSIAN" value="5900" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
