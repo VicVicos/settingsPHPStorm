@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Архивные аукционы так же исчезают." />
+      <item value="Incorrect implementation of the task with hidden auctions" />
+      <item value="Не верная реализация задачи со скрытыми аукционами" />
       <item value="Have we resolved all issues? Any of your clients need help?" />
       <item value="Have we resolved all issues? Any of your clients need help anymore?" />
       <item value="Have we resolved all issues? Do any of your clients need help anymore?" />
@@ -52,14 +55,11 @@
       <item value="Fixed slid on homepage" />
       <item value="Refine the slider on the main" />
       <item value="Доработать слайдер на главной" />
-      <item value="Add a slider on the main" />
-      <item value="Доделать слайдер на главной" />
-      <item value="A backup of your old site is here:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5905" />
+        <entry key="ENGLISH" value="5906" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5905" />
+        <entry key="RUSSIAN" value="5907" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
