@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="do not disturb" />
       <item value="Архивные аукционы так же исчезают." />
       <item value="Incorrect implementation of the task with hidden auctions" />
       <item value="Не верная реализация задачи со скрытыми аукционами" />
@@ -54,12 +55,11 @@
       <item value="Fix slid on homepage" />
       <item value="Fixed slid on homepage" />
       <item value="Refine the slider on the main" />
-      <item value="Доработать слайдер на главной" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5906" />
+        <entry key="ENGLISH" value="5907" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643879662241" />
+    <option name="lastTrimTime" value="1644323362478" />
   </component>
 </application>
