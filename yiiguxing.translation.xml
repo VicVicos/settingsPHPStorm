@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think that the problem is similar to those that were earlier when authorizing in new versions of Chrome or Firefox." />
+      <item value="Я думаю что проблема аналогична тем что были ранее при авторизации в новых версиях Chrome или Firefox." />
+      <item value="I think what trouble is analog that" />
+      <item value="We testing mobile application and we have a trouble with authorize on Bidspirit." />
       <item value="Sorry, I don't understand what the problem is. I checked and it seems that all the lots of the future auction are loaded." />
       <item value="Простите, не понимаю в чём проблема. Я проверил и кажется что все лоты будущего аукциона загружены." />
       <item value="Slow place" />
@@ -51,15 +55,11 @@
       <item value="No, I was told that if the auction did not return to the request to get all auctions, then the auction is hidden." />
       <item value="Нет, мне сообщили что если аукцион не вернулся на запрос получить все аукционы, значит аукцион скрыт." />
       <item value="No, I was told that if the auction does not receive a response to my request to get all auctions, then the auction is hidden." />
-      <item value="Нет, мне сообщили что если аукцион не приходит мне ответ на запрос получить все аукционы, значит аукцион скрыт." />
-      <item value="I will remove the implementation of this feature and ask for the missing auctions to be returned." />
-      <item value="Я уберу реализацию этой фичи и попрошу вернуть пропавшие аукционы." />
-      <item value="No, I'm very far from there. We hope everything calms down." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5916" />
+        <entry key="ENGLISH" value="5919" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5916" />
+        <entry key="RUSSIAN" value="5919" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
