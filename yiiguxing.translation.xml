@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You can use export." />
+      <item value="We can use export." />
       <item value="I think that the problem is similar to those that were earlier when authorizing in new versions of Chrome or Firefox." />
       <item value="Я думаю что проблема аналогична тем что были ранее при авторизации в новых версиях Chrome или Firefox." />
       <item value="I think what trouble is analog that" />
@@ -53,13 +55,11 @@
       <item value="We must receive archival auctions." />
       <item value="Архивные аукционы мы должны получать." />
       <item value="No, I was told that if the auction did not return to the request to get all auctions, then the auction is hidden." />
-      <item value="Нет, мне сообщили что если аукцион не вернулся на запрос получить все аукционы, значит аукцион скрыт." />
-      <item value="No, I was told that if the auction does not receive a response to my request to get all auctions, then the auction is hidden." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5919" />
+        <entry key="ENGLISH" value="5921" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5919" />
+        <entry key="RUSSIAN" value="5921" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
