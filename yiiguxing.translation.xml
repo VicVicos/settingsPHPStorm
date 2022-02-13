@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have implemented this for a long time, but for customers who have been using this plugin for a long time, it may be necessary to update the theme templates." />
+      <item value="We have implemented this for a long time, but for customers who have been using this feature for a long time, it may be necessary to update the theme templates." />
+      <item value="Это у нас уже давно реализовано, но для клиентов которые уже давно для этой фичи может потребоваться обновить шаблоны темы." />
+      <item value="We have implemented this for a long time, but customers may need to update their theme templates for a long time. Any client interested in this?" />
+      <item value="Это у нас уже давно реализовано, но у клиентов что уже давно возможно потребуется обновить шаблоны темы. Какой-то клиент интересуется этим?" />
       <item value="We need to create a third cron task. Your current plan only allows we to create 2." />
       <item value="We need to create a third cron task. Your current plan only allows you to create 2." />
       <item value="Нам нужно создать третью cron задачу. Ваш текущий тариф позволяет создать только 2." />
@@ -50,16 +55,11 @@
       <item value="Я вернул сайт в состояние на 03.02" />
       <item value="I picked up a backup from 03.02" />
       <item value="Я поднял резервную копию от 03.02" />
-      <item value="I will install the old version of the plugin and sync again. Can you enable hidden auctions? If they should be visible on the site." />
-      <item value="Я установлю старую версию плагина и проведу синхронизацию снова. Вы можете включить скрытые аукционы? Усли они должны быть видны на сайте." />
-      <item value="I agree, there is a bug with the implementation of the function of hiding auctions. The Fairhill client is one of the few who received this plugin update." />
-      <item value="Согласен, есть ошибка с реализацией функции скрытия аукционов. Клиент Fairhill один из не многих кто получил это обновление плагина." />
-      <item value="I agree, there was an error with the implementation of the function of hiding auctions. The Fairhill client is one of the few who received this plugin update." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5924" />
+        <entry key="ENGLISH" value="5927" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5924" />
+        <entry key="RUSSIAN" value="5927" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
