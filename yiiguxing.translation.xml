@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="void" />
       <item value="You can use export." />
       <item value="We can use export." />
       <item value="I think that the problem is similar to those that were earlier when authorizing in new versions of Chrome or Firefox." />
@@ -54,12 +55,11 @@
       <item value="Согласен, с реализацией функции скрытия аукционов произошла ошибка. Клиент Fairhill один из не многих кто получил это обновление плагина." />
       <item value="We must receive archival auctions." />
       <item value="Архивные аукционы мы должны получать." />
-      <item value="No, I was told that if the auction did not return to the request to get all auctions, then the auction is hidden." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5921" />
+        <entry key="ENGLISH" value="5922" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5921" />
+        <entry key="RUSSIAN" value="5922" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
