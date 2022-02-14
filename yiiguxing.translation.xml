@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Do you want to add this to the plugin?" />
+      <item value="Вы хотите добавить это в плагин?" />
+      <item value="There is no technical reason for this. The functionality of the plugin initially did not display the start time of the auction on the list of auctions page." />
+      <item value="Технических причин для этого нет. Функционал плагина изначально не отображалось время начала аукциона на странице списка аукционов." />
+      <item value="There is no technical reason for this. The plugin initially did not display the start time of the auction on the list of auctions page." />
+      <item value="Технических причин для этого нет. В плагине изначально не отображалось время начала аукциона на странице списка аукционов." />
       <item value="notice personal data" />
       <item value="In this case, we do not have a feature with these categories. We will put this task in the plan for implementation." />
       <item value="В таком случае у нас нет фичи с этими категориями. Мы поставим эту задачу в план на выполнение." />
@@ -49,17 +55,11 @@
       <item value="Have we resolved all issues? Any of your clients need help?" />
       <item value="Have we resolved all issues? Any of your clients need help anymore?" />
       <item value="Have we resolved all issues? Do any of your clients need help anymore?" />
-      <item value="Мы решили все вопросы? Больше ни кому из клиентов не требуется помощь?" />
-      <item value="Пожалуйста! Спасибо за помощь." />
-      <item value="No one else seems to have received this update." />
-      <item value="Больше, вроде, ни кто не получил это обновление." />
-      <item value="Same problem here." />
-      <item value="Здесь такая же проблема." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5932" />
+        <entry key="ENGLISH" value="5935" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5932" />
+        <entry key="RUSSIAN" value="5935" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
