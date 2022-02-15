@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="something wrong with spacing. i expect less spacing bwtween cards and 4 cards in a row in this screen size" />
       <item value="button disappears no link to auction results" />
       <item value="still need to remove “overview”" />
       <item value="Do you want to add this to the plugin?" />
@@ -54,12 +55,11 @@
       <item value="Архивные аукционы так же исчезают." />
       <item value="Incorrect implementation of the task with hidden auctions" />
       <item value="Не верная реализация задачи со скрытыми аукционами" />
-      <item value="Have we resolved all issues? Any of your clients need help?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5937" />
+        <entry key="ENGLISH" value="5938" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5937" />
+        <entry key="RUSSIAN" value="5938" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
