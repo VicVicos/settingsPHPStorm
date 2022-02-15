@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="1) Yes. Please create new auction and publish they in Bidspirit" />
       <item value="I think that the problem is that the client did not provide access to the hosting where the site should be transferred, if you can get them in the near future, then today we will be able to publish a new site." />
       <item value="I think that the problem is that the client did not provide access to the hosting where the site should be transferred, if you can get them in the near future and this is the right reason, then today we will be able to publish a new site." />
       <item value="Я думаю что проблема в том что клиент не предоставил доступов к хостингу куда надо перенести сайт, если сможете получить их в ближайшее время и это верная причина, то сегодня мы сможем опубликовать новый сайт." />
@@ -54,12 +55,11 @@
       <item value="Простите, не понимаю в чём проблема. Я проверил и кажется что все лоты будущего аукциона загружены." />
       <item value="Slow place" />
       <item value="ask sended" />
-      <item value="send" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5944" />
+        <entry key="ENGLISH" value="5945" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5944" />
+        <entry key="RUSSIAN" value="5945" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
