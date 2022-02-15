@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bidspirit User Application" />
+      <item value="Only it will not be a token, but an arbitrary UserAgent header." />
+      <item value="Только это будет не токен, а произвольный UserAgent header." />
+      <item value="I have to pass a token by which you will determine that the user from the application is making a request." />
+      <item value="Я должен передать token по которому вы будите определять что пользователь из приложения делает запрос." />
       <item value="Sorry, I understand you. Should I provide the user's email and password?" />
       <item value="Should I provide the user's email and password?" />
       <item value="Я должен предоставить email и пароль пользователя?" />
@@ -50,16 +55,11 @@
       <item value="Event snippet for מילוי צור קשר conversion page" />
       <item value="Event snippet for submitting a form for lead details conversion page" />
       <item value="Event snippet for שליחת טופס לפרטי לידים conversion page" />
-      <item value="We are trying the API for the first time through the app. I will send you the application installer file tomorrow. Thanks!" />
-      <item value="Мы впервые пробуем API через приложение. Файл установщик приложения я отправлю вам завтра. Спасибо!" />
-      <item value="Sorry. But I don't see these categories on my Bidspirit. Please check the list of categories for this auction in this block. I also checked the list of categories in the database earlier and they were not loaded." />
-      <item value="Простите. Но я не вижу этих категорий у себя на Bidspirit. Пожалуйста, проверьте список категорий для этого аукциона в этом блоке. Так же я проверял ранее список категорий в БД и они не загружались." />
-      <item value="We have implemented this for a long time, but for customers who have been using this plugin for a long time, it may be necessary to update the theme templates." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5956" />
+        <entry key="ENGLISH" value="5959" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5956" />
+        <entry key="RUSSIAN" value="5959" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
