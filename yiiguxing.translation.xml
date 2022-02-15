@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I'm not sure if the application itself will send requests to Bidspirit." />
+      <item value="Я не уверен что само приложение будет отправлять запросы в Bidspirit." />
+      <item value="The Android application opens in its WebView, as it were, a browser tab with an iframe with a website." />
+      <item value="The Android application opens in its View, as it were, a browser tab with an iframe with a website." />
+      <item value="Android приложение открывает в своём View как бы вкладку браузера с iframe c сайтом." />
       <item value="No. Android app it is wrapper with iframe" />
       <item value="Changing the User-Agent by the user device is not allowed." />
       <item value="Changing the User-Agent by step the user is not allowed." />
@@ -50,16 +55,11 @@
       <item value="button disappears no link to auction results" />
       <item value="still need to remove “overview”" />
       <item value="Do you want to add this to the plugin?" />
-      <item value="Вы хотите добавить это в плагин?" />
-      <item value="There is no technical reason for this. The functionality of the plugin initially did not display the start time of the auction on the list of auctions page." />
-      <item value="Технических причин для этого нет. Функционал плагина изначально не отображалось время начала аукциона на странице списка аукционов." />
-      <item value="There is no technical reason for this. The plugin initially did not display the start time of the auction on the list of auctions page." />
-      <item value="Технических причин для этого нет. В плагине изначально не отображалось время начала аукциона на странице списка аукционов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5964" />
+        <entry key="ENGLISH" value="5967" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5964" />
+        <entry key="RUSSIAN" value="5967" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
