@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Я перепутал условие." />
       <item value="Bidspirit User Application" />
       <item value="Only it will not be a token, but an arbitrary UserAgent header." />
       <item value="Только это будет не токен, а произвольный UserAgent header." />
@@ -54,7 +55,6 @@
       <item value="В таком случае у нас нет фичи с этими категориями. Мы поставим эту задачу в план на выполнение." />
       <item value="Event snippet for מילוי צור קשר conversion page" />
       <item value="Event snippet for submitting a form for lead details conversion page" />
-      <item value="Event snippet for שליחת טופס לפרטי לידים conversion page" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5959" />
+        <entry key="RUSSIAN" value="5960" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
