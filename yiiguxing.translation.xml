@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You can find information about this in the plugin manual." />
+      <item value="Информацию об этом вы можете найти в мануале для плагина." />
+      <item value="We recommend setting up cron tasks for server-side synchronization. In the case of large auctions, the built-in WP tools may not be able to cope or will be late." />
+      <item value="Мы рекомендуем настроить cron задачи для синхронизации со стороны сервера. В случае с большими аукционами встроенные средства WP могут не справиться или будут опаздывать." />
+      <item value="We also got recomandation setting cron tasks" />
+      <item value="We also get recomandation setting cron tasks" />
+      <item value="We also take recomandation setting cron tasks" />
       <item value="And their IP address:" />
       <item value="I will forward this information to Bidspirit technical support." />
       <item value="Я передам эту информацию в техническую поддержку Bidspirit." />
@@ -48,18 +55,11 @@
       <item value="Я получил такие же ошибки как и вы." />
       <item value="No. I thought it was on your part need to set this parameter." />
       <item value="No. I thought it was on your part to set this parameter." />
-      <item value="Нет. Я думал это с вашей стороны надо устанавливать этот параметр." />
-      <item value="The second reason why cookies are not transmitted is the operation of the site in the application through the iframe." />
-      <item value="Вторая причина по которой cookie не передаются это работа сайта в приложении через iframe." />
-      <item value="1) Yes. Please create new auction and publish they in Bidspirit" />
-      <item value="I think that the problem is that the client did not provide access to the hosting where the site should be transferred, if you can get them in the near future, then today we will be able to publish a new site." />
-      <item value="I think that the problem is that the client did not provide access to the hosting where the site should be transferred, if you can get them in the near future and this is the right reason, then today we will be able to publish a new site." />
-      <item value="Я думаю что проблема в том что клиент не предоставил доступов к хостингу куда надо перенести сайт, если сможете получить их в ближайшее время и это верная причина, то сегодня мы сможем опубликовать новый сайт." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5974" />
+        <entry key="ENGLISH" value="5979" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5974" />
+        <entry key="RUSSIAN" value="5979" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
