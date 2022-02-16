@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Спасибо! Я вошёл в панель. Сейчас проверю что здесь есть всё необходимое." />
+      <item value="We will change the DNS settings that only apply to the domain. Mail will continue to work without interruption." />
+      <item value="Мы изменим настройки DNS который касаются только домена. Почта продолжит работать без перебоев." />
       <item value="Have new attempts been recorded?" />
       <item value="Новые попытки были записаны?" />
       <item value="Получил ошибку." />
@@ -52,14 +55,11 @@
       <item value="Я должен предоставить email и пароль пользователя?" />
       <item value="At the moment the situation is as follows. The application acts as a wrapper and opens the site inside through an iframe. For passing cookies with the lax parameter, it is not suitable for us, since they are not transmitted when requested through an iframe. I think the option with SameSite=None suits us. The restriction for this method states that the https protocol must be used." />
       <item value="На данный момент положение дел следующее. Приложение выступает как обёртка и открывает сайт внутри через iframe. Для передачи cookie с параметром lax нам не подходит, так как они не передаются при запросе через iframe. Думаю нам подходит вариант с SameSite=None. В ограничение для этого способа указано, что должен использоваться протокол https." />
-      <item value="Yes, cookies are set correctly in the application. But support for earlier versions of the SDK is not supported. In addition, I was able to access the firebase_id cookie from the site that the application passed to me." />
-      <item value="Да в приложении корректно устанавливаются cookie. Но поддержка ранних версий SDK не поддерживается. К тому же я смог получить доступ с сайта к cookie firebase_id которые мне передало приложение." />
-      <item value="I checked the site for problems and found nothing that could lead to such problems. I think you need to deal with these issues with your hosting provider. Or look at the DNS settings for your domain." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5984" />
+        <entry key="ENGLISH" value="5985" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5984" />
+        <entry key="RUSSIAN" value="5986" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
