@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I have everything to transfer your domain to our server and connect a new site." />
+      <item value="У меня есть всё что бы осуществить перенос вашего домена на наш сервер о подключить новый сайт." />
+      <item value="Should I temporarily hide all links to past auctions?" />
+      <item value="Я должен временно скрыть все ссылки на прошедшие аукционы?" />
+      <item value="Hello! Everything is fine, in the near future we will show you the site for final approval. I see that the designer is already finishing his work." />
+      <item value="Всё хорошо, в ближайшее время мы покажем вам сайт для финального одобрения. Я вижу что дизайнер уже заканчивает свою работу." />
+      <item value="Thanks! I entered the panel. Now I'll check that everything you need is here." />
       <item value="Спасибо! Я вошёл в панель. Сейчас проверю что здесь есть всё необходимое." />
       <item value="We will change the DNS settings that only apply to the domain. Mail will continue to work without interruption." />
       <item value="Мы изменим настройки DNS который касаются только домена. Почта продолжит работать без перебоев." />
@@ -48,18 +55,11 @@
       <item value="Bidspirit User Application" />
       <item value="Only it will not be a token, but an arbitrary UserAgent header." />
       <item value="Только это будет не токен, а произвольный UserAgent header." />
-      <item value="I have to pass a token by which you will determine that the user from the application is making a request." />
-      <item value="Я должен передать token по которому вы будите определять что пользователь из приложения делает запрос." />
-      <item value="Sorry, I understand you. Should I provide the user's email and password?" />
-      <item value="Should I provide the user's email and password?" />
-      <item value="Я должен предоставить email и пароль пользователя?" />
-      <item value="At the moment the situation is as follows. The application acts as a wrapper and opens the site inside through an iframe. For passing cookies with the lax parameter, it is not suitable for us, since they are not transmitted when requested through an iframe. I think the option with SameSite=None suits us. The restriction for this method states that the https protocol must be used." />
-      <item value="На данный момент положение дел следующее. Приложение выступает как обёртка и открывает сайт внутри через iframe. Для передачи cookie с параметром lax нам не подходит, так как они не передаются при запросе через iframe. Думаю нам подходит вариант с SameSite=None. В ограничение для этого способа указано, что должен использоваться протокол https." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5985" />
+        <entry key="ENGLISH" value="5989" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5986" />
+        <entry key="RUSSIAN" value="5989" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
