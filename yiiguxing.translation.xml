@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="And their IP address:" />
+      <item value="I will forward this information to Bidspirit technical support." />
+      <item value="Я передам эту информацию в техническую поддержку Bidspirit." />
+      <item value="We also need the IP address of your server to whitelist domains. I will pass this information on to those. Bidspirit support." />
+      <item value="You also need the IP address of your server to whitelist domains. I will pass this information on to those. Bidspirit support." />
+      <item value="Ещё требуется ip адрес вашего сервера для внесения доменов в белый список. Я передам эту информацию в тех. поддержку Bidspirit." />
+      <item value="Do you have access to hosting where the site needs to be transferred? Or we can throw off a backup copy of the site and the client himself will raise his site." />
+      <item value="Есть доступы к хостингу куда сайт надо перенести? Или мы можем скинуть резервную копию сайта и клиент сам поднимет свой сайт." />
       <item value="The font was reduced due to the fact that at low screen resolutions the text was distributed over two lines." />
       <item value="Шрифт был уменьшен по причине, что на малых разрешениях экрана текст распределялся на две строки." />
       <item value="I tried but it didn't work. I'll try again tomorrow." />
@@ -47,19 +55,11 @@
       <item value="I think that the problem is that the client did not provide access to the hosting where the site should be transferred, if you can get them in the near future, then today we will be able to publish a new site." />
       <item value="I think that the problem is that the client did not provide access to the hosting where the site should be transferred, if you can get them in the near future and this is the right reason, then today we will be able to publish a new site." />
       <item value="Я думаю что проблема в том что клиент не предоставил доступов к хостингу куда надо перенести сайт, если сможете получить их в ближайшее время и это верная причина, то сегодня мы сможем опубликовать новый сайт." />
-      <item value="I set up the tasks to sync. Now everything works." />
-      <item value="Я настроил задачи для синхронизации. Сейчас всё работает." />
-      <item value="Yes. I see it the same. I will check with Andrey the state of affairs on this site." />
-      <item value="Да. Я то же это вижу. Я уточню у Андрея положение дел по этому сайту." />
-      <item value="I don't know, but I don't have access to the site either. At heliosauctions.com, I get to the old site and then redirect me to bidspirit." />
-      <item value="Я не знаю, но и доступа к сайту у меня нет. По адресу heliosauctions.com я попадаю на старый сайт и после чего меня перенаправляет на bidspirit." />
-      <item value="If I understand correctly, they want to place their site on their hosting. If they need help to do this, then they must provide access so that we can transfer the site to another server." />
-      <item value="Если я правильно понял, то они хотят разместить свой сайт на своём хостинге. Если им для этого нужна будет помощь, то они должны предоставить доступы что мы смогли осуществить перенос сайта на другой сервер." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5969" />
+        <entry key="ENGLISH" value="5974" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5969" />
+        <entry key="RUSSIAN" value="5974" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
