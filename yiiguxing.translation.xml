@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Have new attempts been recorded?" />
+      <item value="Новые попытки были записаны?" />
+      <item value="Получил ошибку." />
+      <item value="Не получилось. Получил ошибку." />
       <item value="I can't override the User-Agent from the user side, but I'll try adding another custom header, like {&quot;Bidspirit-User&quot;: &quot;Web2UserApplication&quot;}. Let's try to catch him." />
       <item value="I can't override the User-Agent from the user side, but I'll try adding another custom header, like &quot;Bidspirit-User&quot;: &quot;Web2UserApplication&quot; example. Let's try to catch him." />
       <item value="Я не могу подменить User-Agent со стороны пользователя, но попробую добавить другой произвольный header, как пример &quot;Bidspirit-User&quot;: &quot;Web2UserApplication&quot;. Давайте попробуем его отловить." />
@@ -51,15 +55,11 @@
       <item value="Yes, cookies are set correctly in the application. But support for earlier versions of the SDK is not supported. In addition, I was able to access the firebase_id cookie from the site that the application passed to me." />
       <item value="Да в приложении корректно устанавливаются cookie. Но поддержка ранних версий SDK не поддерживается. К тому же я смог получить доступ с сайта к cookie firebase_id которые мне передало приложение." />
       <item value="I checked the site for problems and found nothing that could lead to such problems. I think you need to deal with these issues with your hosting provider. Or look at the DNS settings for your domain." />
-      <item value="Я проверил сайт на наличие проблем и не выявил ни чего что бы могло приводить к таким проблемам. Думаю вам надо решать эти проблемы с вашим хостинг провайдером. Или смотреть настройки DNS для вашего домена." />
-      <item value="At the moment there are no problems, although I did not change anything. Are you sure that this hosting provides a quality service?" />
-      <item value="В данный момент нет проблем, хоть я ни чего не менял. Вы уверены в том что этот хостинг предоставляет качественный сервис?" />
-      <item value="Этот момент я должен проверить." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5981" />
+        <entry key="ENGLISH" value="5984" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5981" />
+        <entry key="RUSSIAN" value="5984" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
