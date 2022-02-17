@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I added our header and the requests are blocked. Removed custom header and all is well." />
+      <item value="I added our header and the requests are blocked. Removed the header and all is well." />
+      <item value="Я добавил наш заголовок и запросы блокируются. Убрал заголовок и всё хорошо." />
+      <item value="Please check why requests are currently being blocked on this site." />
+      <item value="Пожалуйста, проверьте по какой причине сейчас запросы блокируются на этом сайте." />
+      <item value="Condition with {&quot;User-Agent&quot;: &quot;Web2UserApplication&quot;} left? What would I not rewrite the code in the application." />
+      <item value="Условие с {&quot;User-Agent&quot;: &quot;Web2UserApplication&quot;} осталось? Что бы мне не переписывать код в приложении." />
+      <item value="The absence of the SystemIdentity parameter is the reason that we cannot log in on site?" />
+      <item value="The absence of the SystemIdentity parameter is the reason that we cannot log in?" />
+      <item value="Отсутствие параметр SystemIdentity является причиной, что мы не можем авторизоваться?" />
+      <item value="We will deal with this." />
+      <item value="Хорошо. Мы будем разбираться с этим." />
+      <item value="Why, then, when making requests in the application, we do not receive any cookies? Do you assume that the problem is in the application settings and we need to understand the application code?" />
+      <item value="Почему тогда при запросах в приложении мы не получаем ни какие cookies? Вы предполагаете что проблема в настройке приложения и нам надо разбираться в коде приложения?" />
       <item value="Yes. The iframe passes cookies, and the samesite option has no effect on this." />
       <item value="Да. iframe передает cookies, и опция samesite на это ни как не влияет." />
       <item value="But here I get cookies in any response anyway." />
@@ -41,25 +55,11 @@
       <item value="Хорошо. Я посмотрю внимательнее код приложения может мне удастся что либо найти." />
       <item value="When initializing, we pass such a parameter. And he is equal to true." />
       <item value="When initializing, we pass such a parameter. And it is equal to true." />
-      <item value="При инициализации мы передаём такой параметр. И он равен true." />
-      <item value="I think that the problem lies in the fact that when requested through an iframe, cookies are not transmitted in any case." />
-      <item value="Я думаю что проблема кроется в том что при запросе через iframe cookies не передаются в любом случае." />
-      <item value="debug request info (no creds)" />
-      <item value="I uploaded a test page to the demo site. As a result, we see the User-Agent set, but the cookies do not come in any of the options." />
-      <item value="Я загрузил тестовую страницу на демо сайт. В итоге мы видим установленный User-Agent, но cookie не приходят ни в каком из вариантов." />
-      <item value="I have everything to transfer your domain to our server and connect a new site." />
-      <item value="У меня есть всё что бы осуществить перенос вашего домена на наш сервер о подключить новый сайт." />
-      <item value="Should I temporarily hide all links to past auctions?" />
-      <item value="Я должен временно скрыть все ссылки на прошедшие аукционы?" />
-      <item value="Hello! Everything is fine, in the near future we will show you the site for final approval. I see that the designer is already finishing his work." />
-      <item value="Всё хорошо, в ближайшее время мы покажем вам сайт для финального одобрения. Я вижу что дизайнер уже заканчивает свою работу." />
-      <item value="Thanks! I entered the panel. Now I'll check that everything you need is here." />
-      <item value="Спасибо! Я вошёл в панель. Сейчас проверю что здесь есть всё необходимое." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6014" />
+        <entry key="ENGLISH" value="6022" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6014" />
+        <entry key="RUSSIAN" value="6022" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
