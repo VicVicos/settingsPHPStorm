@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Yes. The iframe passes cookies, and the samesite option has no effect on this." />
+      <item value="Да. iframe передает cookies, и опция samesite на это ни как не влияет." />
+      <item value="But here I get cookies in any response anyway." />
+      <item value="But here I get cookies in response anyway." />
+      <item value="Но здесь я в любом случае получаю cookies в ответ." />
+      <item value="Но я в любом случае получаю cookies в ответ." />
+      <item value="Now I want to get an environment where the samesite option will affect cookies." />
+      <item value="Сейчас я хочу получить окружение когда опция samesite будет влиять на cookies." />
+      <item value="Now I want to achieve an environment where the samesite option will affect cookies. And to refute the theory that iframe cannot transmit cookies. To do this, I uploaded a test page to another site, but the requests are being blocked." />
+      <item value="Сейчас я хочу добиться среды когда опция samesite будет влиять на cookies. И опровергнуть теорию о том что iframe не может передавать cookies. Для этого я загрузил тестовую страницу на другой сайт, но запросы блокируются." />
+      <item value="Please add condition with new allow header A-User-Agent." />
+      <item value="Please add condition with new header A-User-Agent." />
+      <item value="We now receive cookies anyway, regardless of the secure Lax, Strict or None setting." />
+      <item value="Сейчас мы в любом случае получаем cookie файлы, вне зависимости от настройки secure Lax, Strict or None." />
       <item value="This is what I get when I change the User-Agent header to JS." />
       <item value="Это я получаю когда изменяю заголовок User-Agent на JS." />
       <item value="Let's add a condition for an additional header" />
@@ -41,25 +55,11 @@
       <item value="Всё хорошо, в ближайшее время мы покажем вам сайт для финального одобрения. Я вижу что дизайнер уже заканчивает свою работу." />
       <item value="Thanks! I entered the panel. Now I'll check that everything you need is here." />
       <item value="Спасибо! Я вошёл в панель. Сейчас проверю что здесь есть всё необходимое." />
-      <item value="We will change the DNS settings that only apply to the domain. Mail will continue to work without interruption." />
-      <item value="Мы изменим настройки DNS который касаются только домена. Почта продолжит работать без перебоев." />
-      <item value="Have new attempts been recorded?" />
-      <item value="Новые попытки были записаны?" />
-      <item value="Получил ошибку." />
-      <item value="Не получилось. Получил ошибку." />
-      <item value="I can't override the User-Agent from the user side, but I'll try adding another custom header, like {&quot;Bidspirit-User&quot;: &quot;Web2UserApplication&quot;}. Let's try to catch him." />
-      <item value="I can't override the User-Agent from the user side, but I'll try adding another custom header, like &quot;Bidspirit-User&quot;: &quot;Web2UserApplication&quot; example. Let's try to catch him." />
-      <item value="Я не могу подменить User-Agent со стороны пользователя, но попробую добавить другой произвольный header, как пример &quot;Bidspirit-User&quot;: &quot;Web2UserApplication&quot;. Давайте попробуем его отловить." />
-      <item value="You can find information about this in the plugin manual." />
-      <item value="Информацию об этом вы можете найти в мануале для плагина." />
-      <item value="We recommend setting up cron tasks for server-side synchronization. In the case of large auctions, the built-in WP tools may not be able to cope or will be late." />
-      <item value="Мы рекомендуем настроить cron задачи для синхронизации со стороны сервера. В случае с большими аукционами встроенные средства WP могут не справиться или будут опаздывать." />
-      <item value="We also got recomandation setting cron tasks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6005" />
+        <entry key="ENGLISH" value="6014" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6005" />
+        <entry key="RUSSIAN" value="6014" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
