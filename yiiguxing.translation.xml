@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please remake the test page without using the GET parameter." />
+      <item value="Пожалуйста, переделайте тестовую страницу без использования GET параметра." />
+      <item value="Okay. I'll take a closer look at the application code, maybe I'll be able to find something." />
+      <item value="Хорошо. Я посмотрю внимательнее код приложения может мне удастся что либо найти." />
+      <item value="When initializing, we pass such a parameter. And he is equal to true." />
+      <item value="When initializing, we pass such a parameter. And it is equal to true." />
+      <item value="При инициализации мы передаём такой параметр. И он равен true." />
+      <item value="I think that the problem lies in the fact that when requested through an iframe, cookies are not transmitted in any case." />
+      <item value="Я думаю что проблема кроется в том что при запросе через iframe cookies не передаются в любом случае." />
+      <item value="debug request info (no creds)" />
+      <item value="I uploaded a test page to the demo site. As a result, we see the User-Agent set, but the cookies do not come in any of the options." />
+      <item value="Я загрузил тестовую страницу на демо сайт. В итоге мы видим установленный User-Agent, но cookie не приходят ни в каком из вариантов." />
       <item value="I have everything to transfer your domain to our server and connect a new site." />
       <item value="У меня есть всё что бы осуществить перенос вашего домена на наш сервер о подключить новый сайт." />
       <item value="Should I temporarily hide all links to past auctions?" />
@@ -43,23 +55,11 @@
       <item value="Я попробовал, но это не сработало. Я попробую завтра ещё раз." />
       <item value="I'm not sure if the application itself will send requests to Bidspirit." />
       <item value="Я не уверен что само приложение будет отправлять запросы в Bidspirit." />
-      <item value="The Android application opens in its WebView, as it were, a browser tab with an iframe with a website." />
-      <item value="The Android application opens in its View, as it were, a browser tab with an iframe with a website." />
-      <item value="Android приложение открывает в своём View как бы вкладку браузера с iframe c сайтом." />
-      <item value="No. Android app it is wrapper with iframe" />
-      <item value="Changing the User-Agent by the user device is not allowed." />
-      <item value="Changing the User-Agent by step the user is not allowed." />
-      <item value="We must use a different method. Changing the User-Agent by the user is not allowed." />
-      <item value="Мы должны использовать другой способ. Изменение User-Agent со стороны пользователя не допустимо." />
-      <item value="Я перепутал условие." />
-      <item value="Bidspirit User Application" />
-      <item value="Only it will not be a token, but an arbitrary UserAgent header." />
-      <item value="Только это будет не токен, а произвольный UserAgent header." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5989" />
+        <entry key="ENGLISH" value="5996" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="5989" />
+        <entry key="RUSSIAN" value="5996" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
