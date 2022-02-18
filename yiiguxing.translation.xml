@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This is the last point that I would like to debug for today." />
+      <item value="Это последний момент который я бы хотел отладить на сегодня." />
+      <item value="Сейчас это не работает." />
       <item value="I added our header and the requests are blocked. Removed custom header and all is well." />
       <item value="I added our header and the requests are blocked. Removed the header and all is well." />
       <item value="Я добавил наш заголовок и запросы блокируются. Убрал заголовок и всё хорошо." />
@@ -52,14 +55,11 @@
       <item value="Please remake the test page without using the GET parameter." />
       <item value="Пожалуйста, переделайте тестовую страницу без использования GET параметра." />
       <item value="Okay. I'll take a closer look at the application code, maybe I'll be able to find something." />
-      <item value="Хорошо. Я посмотрю внимательнее код приложения может мне удастся что либо найти." />
-      <item value="When initializing, we pass such a parameter. And he is equal to true." />
-      <item value="When initializing, we pass such a parameter. And it is equal to true." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6022" />
+        <entry key="ENGLISH" value="6024" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6022" />
+        <entry key="RUSSIAN" value="6024" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
