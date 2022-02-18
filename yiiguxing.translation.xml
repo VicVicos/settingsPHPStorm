@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In response, we look at the presence of cookies. We should get &quot;serverCookie=testValue...&quot;" />
+      <item value="В ответе смотрим на наличие cookies. Мы должны получить &quot;serverCookie=testValue...&quot;" />
+      <item value="Click on button Clear server cookie" />
+      <item value="We will use the previous variant with {&quot;User-Agent&quot;: &quot;Web2UserApplication&quot;}." />
+      <item value="We will use the previous version" />
+      <item value="Будем использовать прошлый вариант с" />
       <item value="This is the last point that I would like to debug for today." />
       <item value="Это последний момент который я бы хотел отладить на сегодня." />
       <item value="Сейчас это не работает." />
@@ -49,17 +55,11 @@
       <item value="Давайте проверим момент, что iframe способен передавать cookies." />
       <item value="Но я делаю запросы с разрешённого домена." />
       <item value="No. It's just html. I wanted to check that the iframe is physically capable of passing cookies." />
-      <item value="Нет. Это просто html. Я хотел проверить что iframe физически способен передавать cookies." />
-      <item value="I tried to test calling API requests via iframe. But all my requests fail with a CORS error." />
-      <item value="Я попытался проверить вызов API запросов через iframe. Но все мои запросы завершаются CORS ошибкой." />
-      <item value="Please remake the test page without using the GET parameter." />
-      <item value="Пожалуйста, переделайте тестовую страницу без использования GET параметра." />
-      <item value="Okay. I'll take a closer look at the application code, maybe I'll be able to find something." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6024" />
+        <entry key="ENGLISH" value="6028" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6024" />
+        <entry key="RUSSIAN" value="6028" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
