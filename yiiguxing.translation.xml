@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="See attach config.png, initConfigureWebView.png" />
+      <item value="Тестовый пользователь для авторизации на сайте:" />
       <item value="In response, we look at the presence of cookies. We should get &quot;serverCookie=testValue...&quot;" />
       <item value="В ответе смотрим на наличие cookies. Мы должны получить &quot;serverCookie=testValue...&quot;" />
       <item value="Click on button Clear server cookie" />
@@ -53,13 +55,11 @@
       <item value="Let's check a moment that the iframe is capable of passing cookies." />
       <item value="Let's check for a moment that the iframe is capable of passing cookies." />
       <item value="Давайте проверим момент, что iframe способен передавать cookies." />
-      <item value="Но я делаю запросы с разрешённого домена." />
-      <item value="No. It's just html. I wanted to check that the iframe is physically capable of passing cookies." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6028" />
+        <entry key="ENGLISH" value="6029" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6028" />
+        <entry key="RUSSIAN" value="6029" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
