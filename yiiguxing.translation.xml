@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I fixed the issue. I turned off synchronization by mistake, now I turned it on and there will be no problems." />
+      <item value="Я исправил проблему. Я по ошибке отключил синхронизацию, сейчас я её включил и проблем не будет." />
       <item value="Due to the fact that cookies do not come, we cannot log in to the external server." />
       <item value="Из-за того что cookies не приходят мы не можем авторизоваться на внешнем сервере." />
       <item value="Site verification progress. You need to make an attempt to log in to a third-party server with user data attached." />
@@ -53,13 +55,11 @@
       <item value="Хорошо. Мы будем разбираться с этим." />
       <item value="Why, then, when making requests in the application, we do not receive any cookies? Do you assume that the problem is in the application settings and we need to understand the application code?" />
       <item value="Почему тогда при запросах в приложении мы не получаем ни какие cookies? Вы предполагаете что проблема в настройке приложения и нам надо разбираться в коде приложения?" />
-      <item value="Yes. The iframe passes cookies, and the samesite option has no effect on this." />
-      <item value="Да. iframe передает cookies, и опция samesite на это ни как не влияет." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6043" />
+        <entry key="ENGLISH" value="6044" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6043" />
+        <entry key="RUSSIAN" value="6044" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644757119731" />
+    <option name="lastTrimTime" value="1645362569973" />
   </component>
 </application>
