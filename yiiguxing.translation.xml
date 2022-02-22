@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Можете продублировать сообщению сюда?" />
+      <item value="Are there any news?" />
+      <item value="Есть какие-нибудь новости?" />
       <item value="some Code" />
       <item value="Have you completed the initial plugin setup? Created new pages for auctions?" />
       <item value="Вы выполнили первоначальную настройку плагина? Создали новые страницы для аукционов?" />
@@ -52,14 +55,11 @@
       <item value="Я добавил наш заголовок и запросы блокируются. Убрал заголовок и всё хорошо." />
       <item value="Please check why requests are currently being blocked on this site." />
       <item value="Пожалуйста, проверьте по какой причине сейчас запросы блокируются на этом сайте." />
-      <item value="Condition with {&quot;User-Agent&quot;: &quot;Web2UserApplication&quot;} left? What would I not rewrite the code in the application." />
-      <item value="Условие с {&quot;User-Agent&quot;: &quot;Web2UserApplication&quot;} осталось? Что бы мне не переписывать код в приложении." />
-      <item value="The absence of the SystemIdentity parameter is the reason that we cannot log in on site?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6048" />
+        <entry key="ENGLISH" value="6049" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6048" />
+        <entry key="RUSSIAN" value="6050" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
