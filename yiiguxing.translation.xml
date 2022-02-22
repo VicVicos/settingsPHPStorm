@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Doing" />
       <item value="Можете продублировать сообщению сюда?" />
       <item value="Are there any news?" />
       <item value="Есть какие-нибудь новости?" />
@@ -54,12 +55,11 @@
       <item value="I added our header and the requests are blocked. Removed the header and all is well." />
       <item value="Я добавил наш заголовок и запросы блокируются. Убрал заголовок и всё хорошо." />
       <item value="Please check why requests are currently being blocked on this site." />
-      <item value="Пожалуйста, проверьте по какой причине сейчас запросы блокируются на этом сайте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6049" />
+        <entry key="ENGLISH" value="6050" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
