@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="3) You can change the language on the site in the Elementor plugin settings. I am attaching a screenshot of where to find these options." />
+      <item value="3) Изменить язык на сайте вы можете в настройках плагина Elementor. Прикладываю скрин где найти эти опции." />
+      <item value="2) We have added the ability to translate into the en_GB language in the plugin. If you find any errors, please let us know and we will correct the translation." />
+      <item value="2) Мы добавили в плагин возможность перевода на en_GB язык. В случае обнаружения ошибок сообщите нам и мы исправим перевод." />
+      <item value="1) I completely hid this block with links. The top slider contains links to future auctions, you can change the text and links yourself. In order to return it, look at the attached picture." />
+      <item value="1) Я полностью скрыл этот блок со ссылками. Верхний слайдер сожержит ссылки на будущие аукционы, изменить текст и ссылкм вы сможете самостоятельно. Для того что бы вернуть его посмотрите на приложенную картину." />
       <item value="Doing" />
       <item value="Можете продублировать сообщению сюда?" />
       <item value="Are there any news?" />
@@ -49,17 +55,11 @@
       <item value="We will use the previous version" />
       <item value="Будем использовать прошлый вариант с" />
       <item value="This is the last point that I would like to debug for today." />
-      <item value="Это последний момент который я бы хотел отладить на сегодня." />
-      <item value="Сейчас это не работает." />
-      <item value="I added our header and the requests are blocked. Removed custom header and all is well." />
-      <item value="I added our header and the requests are blocked. Removed the header and all is well." />
-      <item value="Я добавил наш заголовок и запросы блокируются. Убрал заголовок и всё хорошо." />
-      <item value="Please check why requests are currently being blocked on this site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6050" />
+        <entry key="ENGLISH" value="6053" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6050" />
+        <entry key="RUSSIAN" value="6053" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
