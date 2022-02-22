@@ -5,6 +5,31 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive in response." />
+      <item value="When implementing and adding a feature with hiding auctions that are hidden on Bidspirit, customers began to complain that archived auctions began to disappear. When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive a response. I think this logic has a problem with auctions, which is in the archive." />
+      <item value="При реализации и добавлении фичи с сокрытием аукционов которые скрыты на Bidspirit клиенты стали жаловаться что стали пропадать архивные аукционы. При получении ответа на запрос auctionsgetAllAuctions.api мы удаляем те аукционы которых не пришли в ответ. Думаю в этой логике есть проблема с аукционами, что в архиве." />
+      <item value="those. in the end we connect your www.heliosauctions.com domain to our server?" />
+      <item value="т.е. в итоге мы подключаем ваш домен www.heliosauctions.com к нашему серверу?" />
+      <item value="I'm going to work on the edits." />
+      <item value="Приступаю к работе над правками." />
+      <item value="Now I will it to work." />
+      <item value="Now I will put it to work." />
+      <item value="Сейчас запущу его в работу." />
+      <item value="Now about reporting a problem on auction 105. We fixed this problem in the plugin, these errors should no longer occur." />
+      <item value="Теперь об сообщении с проблемой на аукционе 105. Мы исправили эту проблему в плагине, подобных ошибок более не должно возникать." />
+      <item value="Now regarding your handling of the issue on auction 105. We've fixed this issue in the plugin, these errors should no longer occur." />
+      <item value="Теперь что касается вашего обращения с проблемой на аукционе 105. Мы исправили эту проблему в плагине, подобных ошибок более не должно возникать." />
+      <item value="Now we have updated the plugin on your site, checked the last auction and it is up to date." />
+      <item value="Сейчас мы обновили плагин на вашем сайте, проверил последний аукцион и он имеет актуальную версию." />
+      <item value="Now we have updated the plugin on your site, checked the last auction, and it is similar to the one on Bidspirit." />
+      <item value="Сейчас мы обновили плагин на вашем сайте, проверил последний аукцион и он аналогичен с тем что есть на Bidspirit." />
+      <item value="Hello! Can you provide us access to hosting? We can send you a backup copy of the site." />
+      <item value="Вы можете предоставить нам доступы к хостингу? Мы можем скинуть вам резервную копию сайта." />
+      <item value="After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, checked for problems." />
+      <item value="After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, check for problems." />
+      <item value="In response to your issue about directory problems. We made a mistake in the implementation of a new Bidspirit feature so this error has occurred. After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, checked for problems." />
+      <item value="In response to your post about directory problems. We made a mistake in the implementation of a new Bidspirit feature so this error has occurred. After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, checked for problems." />
+      <item value="В ответ на ваше сообщение о проблемах с каталогом. Мы допустили ошибку в реализации новой функции Bidspirit поэтому эта ошибка произошла. После возникновения этого случая мы восстановили резервную копию сайта. Сейчас мы обновили плагин на вашем сайте, проверили на наличие проблем." />
       <item value="3) You can change the language on the site in the Elementor plugin settings. I am attaching a screenshot of where to find these options." />
       <item value="3) Изменить язык на сайте вы можете в настройках плагина Elementor. Прикладываю скрин где найти эти опции." />
       <item value="2) We have added the ability to translate into the en_GB language in the plugin. If you find any errors, please let us know and we will correct the translation." />
@@ -30,36 +55,11 @@
       <item value="If you use this page through the application, cookies do not come in any of the options." />
       <item value="Если использовать эту страницу через приложение cookies не приходит ни в каком из вариантов." />
       <item value="Manual for testing" />
-      <item value="And config for main sate." />
-      <item value="We also attach the rocket_web-test-page.io config to the letter with a test page on which you can check for the presence of cookies in the response when requesting the API." />
-      <item value="Так же прикладываем к письму конфиг rocket_web-test-page.io с тестовой страницей на которой можно проверить наличие cookies в ответе при запросе к API." />
-      <item value="Note: We use the User-Agent: Web2UserApplication header to identify and allow us to make a request to a third party server." />
-      <item value="Примечание: Заголовок User-Agent: Web2UserApplication мы используем для идентификации и разрешения выполнять запрос на сторонний сервер." />
-      <item value="In the application code, I found where the WebView is configured, the isEnableCookies = true parameter. In the attached images is a snippet of code and configuration." />
-      <item value="В коде приложения я нашёл где настраивается WebView, параметр isEnableCookies = true. В прилагаемых изображениях фрагмент кода и конфигурации." />
-      <item value="The site must work on the https protocol." />
-      <item value="Сайт должен работать по https протоколу." />
-      <item value="We tested different options for passing cookies through iframe using the samesate option. In order to be able to send cookies through an iframe, two conditions must be met:" />
-      <item value="Мы проверили разные варианты передачи cookies через iframe используя опцию samesate. Для того что бы была возможность передать cookies через iframe должны быть соблюдены два условия:" />
-      <item value="A third-party server sends cookies in response. There is a main problem with cookies, they do not come when using the application." />
-      <item value="A third-party server sends cookies in response. There is a problem with cookies, they do not come when using the application." />
-      <item value="Сторонний сервер в ответ присылаем cookies. C cookies и возникает проблема, они не приходят при использовании приложения." />
-      <item value="We've found an issue with the app. The site opened in the application makes requests to the API of a third-party server." />
-      <item value="Мы обнаружили проблему с приложением. Сайт открываемый в приложении делает запросы к API стороннего сервера." />
-      <item value="See attach config.png, initConfigureWebView.png" />
-      <item value="Тестовый пользователь для авторизации на сайте:" />
-      <item value="In response, we look at the presence of cookies. We should get &quot;serverCookie=testValue...&quot;" />
-      <item value="В ответе смотрим на наличие cookies. Мы должны получить &quot;serverCookie=testValue...&quot;" />
-      <item value="Click on button Clear server cookie" />
-      <item value="We will use the previous variant with {&quot;User-Agent&quot;: &quot;Web2UserApplication&quot;}." />
-      <item value="We will use the previous version" />
-      <item value="Будем использовать прошлый вариант с" />
-      <item value="This is the last point that I would like to debug for today." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6053" />
+        <entry key="ENGLISH" value="6069" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6053" />
+        <entry key="RUSSIAN" value="6069" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
