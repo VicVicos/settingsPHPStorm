@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You're welcome!" />
+      <item value="Unfortunately, the picture for the main slide is not as easy to change as the text. Only if you don't have a suitable picture." />
+      <item value="К сожалению картинку для главного слайда не поменять так просто как текст. Только если у вас нет подходящей картинки." />
+      <item value="Or I misunderstood you?" />
+      <item value="Или я вас не верно понял?" />
+      <item value="Now we display the name of the auction." />
+      <item value="So now we display the name of the auction." />
+      <item value="Так сейчас мы и отображаем название аукциона." />
+      <item value="Yes. Is it possible." />
+      <item value="Да. Такое возможно." />
+      <item value="Why the time is wrong, here I do not understand what should be." />
+      <item value="Почему время не верно, тут я не понимаю что должно быть." />
+      <item value="Optionally, the auction number can be displayed on the site for users." />
+      <item value="Опционально номер аукциона можно отразить на сайте для пользователей." />
+      <item value="The 200's are the auction IDs. In a recent plugin update, we moved away from using the auction number due to the fact that not all clients fill in the auction number, which caused questions why the auctions are not loading." />
+      <item value="Номера 200's это идентификаторы аукционов. В недавнем обновлении плагина мы ушли от использования номера аукциона по той причине что не все клиенты заполняют номер аукциона из за чего возникали вопросы почему аукционы не загружаются." />
+      <item value="Please specify instead of the name of the auction you want to display the number of the auction? In this case it should be Auction 35." />
+      <item value="Уточните, пожалуйста вместо имени аукциона вы хотите отображать номер аукциона? В данном случае должно быть Auction 35." />
+      <item value="Простите, но я вижу одинаковое время начала аукционов 10:00 PM что и в Bidspirit." />
+      <item value="I'm sorry, but I see the same 10:00 PM auction start time." />
+      <item value="Простите, но я вижу одинаковое время начала аукционов 10:00 PM." />
       <item value="Have I taken into account all your issues?" />
       <item value="Учёл ли я все ваши обращения?" />
       <item value="When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive in response." />
@@ -34,32 +55,11 @@
       <item value="В ответ на ваше сообщение о проблемах с каталогом. Мы допустили ошибку в реализации новой функции Bidspirit поэтому эта ошибка произошла. После возникновения этого случая мы восстановили резервную копию сайта. Сейчас мы обновили плагин на вашем сайте, проверили на наличие проблем." />
       <item value="3) You can change the language on the site in the Elementor plugin settings. I am attaching a screenshot of where to find these options." />
       <item value="3) Изменить язык на сайте вы можете в настройках плагина Elementor. Прикладываю скрин где найти эти опции." />
-      <item value="2) We have added the ability to translate into the en_GB language in the plugin. If you find any errors, please let us know and we will correct the translation." />
-      <item value="2) Мы добавили в плагин возможность перевода на en_GB язык. В случае обнаружения ошибок сообщите нам и мы исправим перевод." />
-      <item value="1) I completely hid this block with links. The top slider contains links to future auctions, you can change the text and links yourself. In order to return it, look at the attached picture." />
-      <item value="1) Я полностью скрыл этот блок со ссылками. Верхний слайдер сожержит ссылки на будущие аукционы, изменить текст и ссылкм вы сможете самостоятельно. Для того что бы вернуть его посмотрите на приложенную картину." />
-      <item value="Doing" />
-      <item value="Можете продублировать сообщению сюда?" />
-      <item value="Are there any news?" />
-      <item value="Есть какие-нибудь новости?" />
-      <item value="some Code" />
-      <item value="Have you completed the initial plugin setup? Created new pages for auctions?" />
-      <item value="Вы выполнили первоначальную настройку плагина? Создали новые страницы для аукционов?" />
-      <item value="what and where can i watch?" />
-      <item value="Что и где я смогу посмотреть?" />
-      <item value="spaceer" />
-      <item value="I fixed the issue. I turned off synchronization by mistake, now I turned it on and there will be no problems." />
-      <item value="Я исправил проблему. Я по ошибке отключил синхронизацию, сейчас я её включил и проблем не будет." />
-      <item value="Due to the fact that cookies do not come, we cannot log in to the external server." />
-      <item value="Из-за того что cookies не приходят мы не можем авторизоваться на внешнем сервере." />
-      <item value="Site verification progress. You need to make an attempt to log in to a third-party server with user data attached." />
-      <item value="Ход выполнения проверки на сайте. Нужно осуществить попытку авторизоваться на стороннем сервере с приложенными пользовательскими данными." />
-      <item value="If you use this page through the application, cookies do not come in any of the options." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6070" />
+        <entry key="ENGLISH" value="6082" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6070" />
+        <entry key="RUSSIAN" value="6082" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
