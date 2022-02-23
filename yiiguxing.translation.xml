@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Have I taken into account all your issues?" />
+      <item value="Учёл ли я все ваши обращения?" />
       <item value="When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive in response." />
       <item value="When implementing and adding a feature with hiding auctions that are hidden on Bidspirit, customers began to complain that archived auctions began to disappear. When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive a response. I think this logic has a problem with auctions, which is in the archive." />
       <item value="При реализации и добавлении фичи с сокрытием аукционов которые скрыты на Bidspirit клиенты стали жаловаться что стали пропадать архивные аукционы. При получении ответа на запрос auctionsgetAllAuctions.api мы удаляем те аукционы которых не пришли в ответ. Думаю в этой логике есть проблема с аукционами, что в архиве." />
@@ -53,13 +55,11 @@
       <item value="Site verification progress. You need to make an attempt to log in to a third-party server with user data attached." />
       <item value="Ход выполнения проверки на сайте. Нужно осуществить попытку авторизоваться на стороннем сервере с приложенными пользовательскими данными." />
       <item value="If you use this page through the application, cookies do not come in any of the options." />
-      <item value="Если использовать эту страницу через приложение cookies не приходит ни в каком из вариантов." />
-      <item value="Manual for testing" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6069" />
+        <entry key="ENGLISH" value="6070" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6069" />
+        <entry key="RUSSIAN" value="6070" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
