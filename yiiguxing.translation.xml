@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="There are no contraindications for this." />
+      <item value="Нет ни каких противопоказаний для этого." />
+      <item value="Февраль" />
+      <item value="Улучшение касаемо чего?" />
+      <item value="Запускайте один раз в 5 дней." />
+      <item value="Подробнее вы можете прочитать тут:" />
+      <item value="Sorry for the long answer. Please send a screenshot of the Bidspirit plugin settings page. Also, for full-fledged synchronization, we recommend setting up synchronization using cron on the server." />
+      <item value="Простите за долгий ответ. Скиньте скрин страницы настроек плагина Bidspirit. Так же для полноценной работы синхронизации мы рекомендуем настроить синхронизацию с помощью cron на сервере." />
       <item value="You're welcome!" />
       <item value="Unfortunately, the picture for the main slide is not as easy to change as the text. Only if you don't have a suitable picture." />
       <item value="К сожалению картинку для главного слайда не поменять так просто как текст. Только если у вас нет подходящей картинки." />
@@ -47,19 +55,11 @@
       <item value="Now we have updated the plugin on your site, checked the last auction, and it is similar to the one on Bidspirit." />
       <item value="Сейчас мы обновили плагин на вашем сайте, проверил последний аукцион и он аналогичен с тем что есть на Bidspirit." />
       <item value="Hello! Can you provide us access to hosting? We can send you a backup copy of the site." />
-      <item value="Вы можете предоставить нам доступы к хостингу? Мы можем скинуть вам резервную копию сайта." />
-      <item value="After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, checked for problems." />
-      <item value="After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, check for problems." />
-      <item value="In response to your issue about directory problems. We made a mistake in the implementation of a new Bidspirit feature so this error has occurred. After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, checked for problems." />
-      <item value="In response to your post about directory problems. We made a mistake in the implementation of a new Bidspirit feature so this error has occurred. After this incident occurred, we restored a site backup. Now we have updated the plugin on your site, checked for problems." />
-      <item value="В ответ на ваше сообщение о проблемах с каталогом. Мы допустили ошибку в реализации новой функции Bidspirit поэтому эта ошибка произошла. После возникновения этого случая мы восстановили резервную копию сайта. Сейчас мы обновили плагин на вашем сайте, проверили на наличие проблем." />
-      <item value="3) You can change the language on the site in the Elementor plugin settings. I am attaching a screenshot of where to find these options." />
-      <item value="3) Изменить язык на сайте вы можете в настройках плагина Elementor. Прикладываю скрин где найти эти опции." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6082" />
+        <entry key="ENGLISH" value="6088" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6082" />
+        <entry key="RUSSIAN" value="6088" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
