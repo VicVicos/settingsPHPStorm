@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will return to this problem later. At the moment, I can say that I will need to reproduce this problem on a test site." />
+      <item value="Я вернусь к этой проблеме позднее. На текущий момент могу сказать что мне надо будет воспроизвести эту проблему на тестовом сайте." />
       <item value="Hello! I see error on your site." />
       <item value="About situation in Ukraine. If you not going to be able to work in some days (no internet or something alse) - please write to me in person and I will try to give partial payment for this days." />
       <item value="Я планирую сделать это сегодня" />
@@ -53,13 +55,11 @@
       <item value="I'm going to work on the edits." />
       <item value="Приступаю к работе над правками." />
       <item value="Now I will it to work." />
-      <item value="Now I will put it to work." />
-      <item value="Сейчас запущу его в работу." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6095" />
+        <entry key="ENGLISH" value="6096" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6095" />
+        <entry key="RUSSIAN" value="6096" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
