@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! I see error on your site." />
       <item value="About situation in Ukraine. If you not going to be able to work in some days (no internet or something alse) - please write to me in person and I will try to give partial payment for this days." />
       <item value="Я планирую сделать это сегодня" />
       <item value="Пожалуйста, напишите номер аукциона, о котором мы говорим" />
@@ -54,12 +55,11 @@
       <item value="Now I will it to work." />
       <item value="Now I will put it to work." />
       <item value="Сейчас запущу его в работу." />
-      <item value="Now about reporting a problem on auction 105. We fixed this problem in the plugin, these errors should no longer occur." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6094" />
+        <entry key="ENGLISH" value="6095" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6094" />
+        <entry key="RUSSIAN" value="6095" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
