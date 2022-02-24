@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Я планирую сделать это сегодня" />
+      <item value="Пожалуйста, напишите номер аукциона, о котором мы говорим" />
+      <item value="Please write auction number when we talk" />
+      <item value="It's good if it worked. I wasn't sure if this would work. It is necessary to ensure that the auction number is added to the exclusion list for synchronization." />
+      <item value="Хорошо если это сработало. Я не был уверен в том что это будет работать. Надо проследить что бы номер аукциона был добавлен в список исключения для синхронизации." />
+      <item value="No, we did not consider such functionality." />
+      <item value="Нет, такой функциональности мы не рассматривали." />
       <item value="There are no contraindications for this." />
       <item value="Нет ни каких противопоказаний для этого." />
       <item value="Февраль" />
@@ -48,18 +55,11 @@
       <item value="Сейчас запущу его в работу." />
       <item value="Now about reporting a problem on auction 105. We fixed this problem in the plugin, these errors should no longer occur." />
       <item value="Теперь об сообщении с проблемой на аукционе 105. Мы исправили эту проблему в плагине, подобных ошибок более не должно возникать." />
-      <item value="Now regarding your handling of the issue on auction 105. We've fixed this issue in the plugin, these errors should no longer occur." />
-      <item value="Теперь что касается вашего обращения с проблемой на аукционе 105. Мы исправили эту проблему в плагине, подобных ошибок более не должно возникать." />
-      <item value="Now we have updated the plugin on your site, checked the last auction and it is up to date." />
-      <item value="Сейчас мы обновили плагин на вашем сайте, проверил последний аукцион и он имеет актуальную версию." />
-      <item value="Now we have updated the plugin on your site, checked the last auction, and it is similar to the one on Bidspirit." />
-      <item value="Сейчас мы обновили плагин на вашем сайте, проверил последний аукцион и он аналогичен с тем что есть на Bidspirit." />
-      <item value="Hello! Can you provide us access to hosting? We can send you a backup copy of the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6088" />
+        <entry key="ENGLISH" value="6093" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6088" />
+        <entry key="RUSSIAN" value="6094" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
