@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exhibition" />
+      <item value="exhibition-artist" />
+      <item value="exhibition-artists" />
+      <item value="exhibitions-artist" />
+      <item value="artist-exhibitions" />
       <item value="По задаче AppGateway. Ответил, попросил показать что проблема есть в Chrome на мобиле, записал видео с телефона. Ранее я ему с desktop версии записывал и эмулятора. И с телефона записывал, но в firefox (по привычке). Такое ощущение что он специально не хочет видеть проблемы." />
       <item value="I wanted to do a site transfer, but I can't get into godaddy." />
       <item value="I wanted to do a site migration, but I can't get into godaddy." />
@@ -50,16 +55,11 @@
       <item value="Уточните, пожалуйста вместо имени аукциона вы хотите отображать номер аукциона? В данном случае должно быть Auction 35." />
       <item value="Простите, но я вижу одинаковое время начала аукционов 10:00 PM что и в Bidspirit." />
       <item value="I'm sorry, but I see the same 10:00 PM auction start time." />
-      <item value="Простите, но я вижу одинаковое время начала аукционов 10:00 PM." />
-      <item value="Have I taken into account all your issues?" />
-      <item value="Учёл ли я все ваши обращения?" />
-      <item value="When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive in response." />
-      <item value="When implementing and adding a feature with hiding auctions that are hidden on Bidspirit, customers began to complain that archived auctions began to disappear. When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive a response. I think this logic has a problem with auctions, which is in the archive." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6099" />
+        <entry key="ENGLISH" value="6104" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6100" />
+        <entry key="RUSSIAN" value="6104" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
