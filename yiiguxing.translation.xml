@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="По задаче AppGateway. Ответил, попросил показать что проблема есть в Chrome на мобиле, записал видео с телефона. Ранее я ему с desktop версии записывал и эмулятора. И с телефона записывал, но в firefox (по привычке). Такое ощущение что он специально не хочет видеть проблемы." />
       <item value="I wanted to do a site transfer, but I can't get into godaddy." />
       <item value="I wanted to do a site migration, but I can't get into godaddy." />
       <item value="Я хотел заняться переносом сайта, но не могу попасть в godaddy." />
@@ -54,7 +55,6 @@
       <item value="Учёл ли я все ваши обращения?" />
       <item value="When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive in response." />
       <item value="When implementing and adding a feature with hiding auctions that are hidden on Bidspirit, customers began to complain that archived auctions began to disappear. When we receive a response to the auctionsgetAllAuctions.api request, we delete those auctions that did not receive a response. I think this logic has a problem with auctions, which is in the archive." />
-      <item value="При реализации и добавлении фичи с сокрытием аукционов которые скрыты на Bidspirit клиенты стали жаловаться что стали пропадать архивные аукционы. При получении ответа на запрос auctionsgetAllAuctions.api мы удаляем те аукционы которых не пришли в ответ. Думаю в этой логике есть проблема с аукционами, что в архиве." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6099" />
+        <entry key="RUSSIAN" value="6100" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
