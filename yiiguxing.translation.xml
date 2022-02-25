@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Определить проблему с таймером на iPhone." />
       <item value="exhibition" />
       <item value="Shadows, the difference is significant only in this." />
       <item value="Тени, разница существенная только в этом." />
@@ -54,7 +55,6 @@
       <item value="Опционально номер аукциона можно отразить на сайте для пользователей." />
       <item value="The 200's are the auction IDs. In a recent plugin update, we moved away from using the auction number due to the fact that not all clients fill in the auction number, which caused questions why the auctions are not loading." />
       <item value="Номера 200's это идентификаторы аукционов. В недавнем обновлении плагина мы ушли от использования номера аукциона по той причине что не все клиенты заполняют номер аукциона из за чего возникали вопросы почему аукционы не загружаются." />
-      <item value="Please specify instead of the name of the auction you want to display the number of the auction? In this case it should be Auction 35." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6108" />
+        <entry key="RUSSIAN" value="6109" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645362569973" />
+    <option name="lastTrimTime" value="1645795873414" />
   </component>
 </application>
