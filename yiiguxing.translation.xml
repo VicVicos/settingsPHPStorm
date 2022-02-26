@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Я проверил это, и не нашел таких лотов." />
+      <item value="I check it, and don't found that lots." />
       <item value="Please check if there are lots created manually on the site in English and delete them." />
       <item value="Пожалуйста, проверьте наличие лотов созданных в ручную на сайте на Английском и удалите их." />
       <item value="Unfortunately, it is very difficult to determine the problem from the information received. Requests are heavily curtailed. Can you give me ssh access so I can determine how the sync works?" />
@@ -53,13 +55,11 @@
       <item value="So now we display the name of the auction." />
       <item value="Так сейчас мы и отображаем название аукциона." />
       <item value="Yes. Is it possible." />
-      <item value="Да. Такое возможно." />
-      <item value="Why the time is wrong, here I do not understand what should be." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6112" />
+        <entry key="ENGLISH" value="6113" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6112" />
+        <entry key="RUSSIAN" value="6114" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
