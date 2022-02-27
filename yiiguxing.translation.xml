@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We are getting an error when trying to bid on this auction. I checked the plugin on the test sites available to me, I don’t get this error there." />
+      <item value="Мы получаем ошибку при попытке сделать ставку на этом аукционе. Я проверил работу плагина на доступных мне тестовых площадках, там я ошибки это не получаю." />
       <item value="I also attach duplicate rocket_web.io files to the letter. One main site, the second file rocket_web_test-page.io - this is a special page for testing cookies." />
       <item value="Так же к письму прикладываю дубли файлов rocket_web.io. Один основного сайта, второй файл rocket_web_test-page.io - эта специальная страница для проверки cookies." />
       <item value="You can download all additional materials from this link." />
@@ -53,13 +55,11 @@
       <item value="Запускайте один раз в 5 дней." />
       <item value="Подробнее вы можете прочитать тут:" />
       <item value="Sorry for the long answer. Please send a screenshot of the Bidspirit plugin settings page. Also, for full-fledged synchronization, we recommend setting up synchronization using cron on the server." />
-      <item value="Простите за долгий ответ. Скиньте скрин страницы настроек плагина Bidspirit. Так же для полноценной работы синхронизации мы рекомендуем настроить синхронизацию с помощью cron на сервере." />
-      <item value="You're welcome!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6118" />
+        <entry key="ENGLISH" value="6119" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6118" />
+        <entry key="RUSSIAN" value="6119" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
