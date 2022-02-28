@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I also logged into the site without any problems." />
+      <item value="Так же я без проблем авторизовался на сайте." />
+      <item value="I tried to register and I succeeded." />
+      <item value="Я попробовал зарегистрироваться и у меня получилось." />
       <item value="Hello! Have you looked at the site? Can we finish with it?" />
       <item value="Вы посмотрели сайт? Можем ли мы завершить работу с ним?" />
       <item value="The auctions are silent except for Hammersite. There's an error due to which it was impossible to place bets. I checked, the error is not on our part, if I am not mistaken. Reported the issue to Bidspirit tech. Their programmer has flown to London to see if he can." />
@@ -51,15 +55,11 @@
       <item value="Please write auction number when we talk" />
       <item value="It's good if it worked. I wasn't sure if this would work. It is necessary to ensure that the auction number is added to the exclusion list for synchronization." />
       <item value="Хорошо если это сработало. Я не был уверен в том что это будет работать. Надо проследить что бы номер аукциона был добавлен в список исключения для синхронизации." />
-      <item value="No, we did not consider such functionality." />
-      <item value="Нет, такой функциональности мы не рассматривали." />
-      <item value="There are no contraindications for this." />
-      <item value="Нет ни каких противопоказаний для этого." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6122" />
+        <entry key="ENGLISH" value="6124" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6122" />
+        <entry key="RUSSIAN" value="6124" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
