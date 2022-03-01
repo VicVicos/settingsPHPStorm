@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="field length slug" />
+      <item value="length field slug" />
+      <item value="length slug field" />
       <item value="chunk Slug" />
       <item value="I also logged into the site without any problems." />
       <item value="Так же я без проблем авторизовался на сайте." />
@@ -52,14 +55,11 @@
       <item value="Hello! I see error on your site." />
       <item value="About situation in Ukraine. If you not going to be able to work in some days (no internet or something alse) - please write to me in person and I will try to give partial payment for this days." />
       <item value="Я планирую сделать это сегодня" />
-      <item value="Пожалуйста, напишите номер аукциона, о котором мы говорим" />
-      <item value="Please write auction number when we talk" />
-      <item value="It's good if it worked. I wasn't sure if this would work. It is necessary to ensure that the auction number is added to the exclusion list for synchronization." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6125" />
+        <entry key="ENGLISH" value="6128" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6125" />
+        <entry key="RUSSIAN" value="6128" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
