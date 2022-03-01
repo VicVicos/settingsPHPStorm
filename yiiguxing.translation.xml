@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="chunk Slug" />
       <item value="I also logged into the site without any problems." />
       <item value="Так же я без проблем авторизовался на сайте." />
       <item value="I tried to register and I succeeded." />
@@ -54,12 +55,11 @@
       <item value="Пожалуйста, напишите номер аукциона, о котором мы говорим" />
       <item value="Please write auction number when we talk" />
       <item value="It's good if it worked. I wasn't sure if this would work. It is necessary to ensure that the auction number is added to the exclusion list for synchronization." />
-      <item value="Хорошо если это сработало. Я не был уверен в том что это будет работать. Надо проследить что бы номер аукциона был добавлен в список исключения для синхронизации." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6124" />
+        <entry key="ENGLISH" value="6125" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6124" />
+        <entry key="RUSSIAN" value="6125" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
