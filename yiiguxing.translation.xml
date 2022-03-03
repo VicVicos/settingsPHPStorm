@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reduce spacing between petween cards" />
+      <item value="more padding!" />
       <item value="I think I won’t give an exact assessment" />
       <item value="I think I won’t give an exact assessment, but I’ll say for sure that the world has changed in a few days." />
       <item value="Думаю точную оценку я не скажу, но точно скажу что мир поменялся за несколько дней." />
@@ -53,13 +55,11 @@
       <item value="exhibition-artists" />
       <item value="exhibitions-artist" />
       <item value="artist-exhibitions" />
-      <item value="По задаче AppGateway. Ответил, попросил показать что проблема есть в Chrome на мобиле, записал видео с телефона. Ранее я ему с desktop версии записывал и эмулятора. И с телефона записывал, но в firefox (по привычке). Такое ощущение что он специально не хочет видеть проблемы." />
-      <item value="I wanted to do a site transfer, but I can't get into godaddy." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6134" />
+        <entry key="ENGLISH" value="6136" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6134" />
+        <entry key="RUSSIAN" value="6136" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
