@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think I won’t give an exact assessment" />
+      <item value="I think I won’t give an exact assessment, but I’ll say for sure that the world has changed in a few days." />
+      <item value="Думаю точную оценку я не скажу, но точно скажу что мир поменялся за несколько дней." />
+      <item value="Are you asking about the state of affairs in the country? I think I will give an exact assessment, but I will say for sure that the world has changed in a few days." />
+      <item value="Ты спрашиваешь о положении дел в стране? Думаю точную оценку я скажу, но точно скажу что мир поменялся за несколько дней." />
+      <item value="Hello! I'm fine." />
       <item value="Can we return to solving the issue with authorization on the application? Let's try to identify application users through an additional GET parameter." />
       <item value="Мы можем вернуть к решению вопроса с авторизацией на приложении? Давайте попробуем идентифицировать пользователей приложения через дополнительный GET параметр." />
       <item value="Where i can printed document" />
@@ -49,17 +55,11 @@
       <item value="artist-exhibitions" />
       <item value="По задаче AppGateway. Ответил, попросил показать что проблема есть в Chrome на мобиле, записал видео с телефона. Ранее я ему с desktop версии записывал и эмулятора. И с телефона записывал, но в firefox (по привычке). Такое ощущение что он специально не хочет видеть проблемы." />
       <item value="I wanted to do a site transfer, but I can't get into godaddy." />
-      <item value="I wanted to do a site migration, but I can't get into godaddy." />
-      <item value="Я хотел заняться переносом сайта, но не могу попасть в godaddy." />
-      <item value="The error persists. Have you overridden the templates in the theme?" />
-      <item value="Ошибка сохраняется. Вы не переопределяли шаблоны в теме?" />
-      <item value="I will return to this problem later. At the moment, I can say that I will need to reproduce this problem on a test site." />
-      <item value="Я вернусь к этой проблеме позднее. На текущий момент могу сказать что мне надо будет воспроизвести эту проблему на тестовом сайте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6130" />
+        <entry key="ENGLISH" value="6134" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6130" />
+        <entry key="RUSSIAN" value="6134" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645795873414" />
+    <option name="lastTrimTime" value="1646263298099" />
   </component>
 </application>
