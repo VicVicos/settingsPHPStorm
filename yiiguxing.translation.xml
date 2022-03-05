@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We tested this plugin and found that it does not support multiple languages. Leave Portuguese for GDPR?" />
+      <item value="Оставим Португальский язык для GDPR?" />
+      <item value="We tested this plugin and found that it does not support multiple languages. Let's leave the Portuguese language for the GDPR." />
+      <item value="Мы проверили работу этого плагина и выяснили что он не поддерживает работу с несколькими языками. Оставим Португальский язык для GDPR." />
+      <item value="The only note is that in the English version all the texts in the sections: &quot;HOW TO PARTECIPATE&quot;, &quot;ABOUT US&quot; and &quot;TERMS AND CONDITIONS&quot; are missing, how do you plan to proceed for this last but important point?" />
       <item value="Your message looks very much like spam.&quot;" />
       <item value="The above message looks very much like spam." />
       <item value="Выше сообщение очень похоже на спам." />
@@ -50,16 +55,11 @@
       <item value="length slug field" />
       <item value="chunk Slug" />
       <item value="I also logged into the site without any problems." />
-      <item value="Так же я без проблем авторизовался на сайте." />
-      <item value="I tried to register and I succeeded." />
-      <item value="Я попробовал зарегистрироваться и у меня получилось." />
-      <item value="Hello! Have you looked at the site? Can we finish with it?" />
-      <item value="Вы посмотрели сайт? Можем ли мы завершить работу с ним?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6154" />
+        <entry key="ENGLISH" value="6157" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6154" />
+        <entry key="RUSSIAN" value="6157" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
