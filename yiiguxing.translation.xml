@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Выше сообщение очень похоже на спам." />
       <item value="Let me know in case of problems." />
       <item value="Дайте мне знать в случае возникновения проблем." />
       <item value="Now all auctions are in place and their lots. Let me know if there are any problems. I'll try to keep an eye on the site as well." />
@@ -54,7 +55,6 @@
       <item value="Вы посмотрели сайт? Можем ли мы завершить работу с ним?" />
       <item value="The auctions are silent except for Hammersite. There's an error due to which it was impossible to place bets. I checked, the error is not on our part, if I am not mistaken. Reported the issue to Bidspirit tech. Their programmer has flown to London to see if he can." />
       <item value="По аукционам тишина кроме Hammersite. Там ошибка из за которой нельзя было делать ставки. Я проверил, ошибка не с нашей стороны, если я не ошибся. Описал проблему в Bidspirit tech. Их программист улетел в Лондон, посмотрет по возможности." />
-      <item value="Ok. We'll wait." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6152" />
+        <entry key="RUSSIAN" value="6153" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
