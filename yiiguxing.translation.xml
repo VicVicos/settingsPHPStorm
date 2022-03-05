@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I am attaching a screenshot. The lot seems to have a bid, but it is not sold at the end of the auction." />
+      <item value="I am attaching a screenshot." />
+      <item value="Так же я получил запрос от клиента Ansuini. Прилагаю скрин. Лот как будто имеет ставку, но он не продан по завершению торгов. На Bidspirit это выглядит так:" />
+      <item value="Also i got issue from client Ansuini." />
+      <item value="Also i give issue from client Ansuini." />
+      <item value="To implement this functionality, I will need to clarify some points with the client." />
+      <item value="Для реализации этого функционала мне надо будет уточнить некоторые моменты у клиента." />
+      <item value="I will give an estimate later." />
+      <item value="Оценку времени я дам позднее." />
+      <item value="Estimate i got later." />
+      <item value="Эта фича имеет ряд опций в плагине которые надо будет учесть." />
       <item value="We tested this plugin and found that it does not support multiple languages. Leave Portuguese for GDPR?" />
       <item value="Оставим Португальский язык для GDPR?" />
       <item value="We tested this plugin and found that it does not support multiple languages. Let's leave the Portuguese language for the GDPR." />
@@ -44,22 +55,11 @@
       <item value="I think I won’t give an exact assessment" />
       <item value="I think I won’t give an exact assessment, but I’ll say for sure that the world has changed in a few days." />
       <item value="Думаю точную оценку я не скажу, но точно скажу что мир поменялся за несколько дней." />
-      <item value="Are you asking about the state of affairs in the country? I think I will give an exact assessment, but I will say for sure that the world has changed in a few days." />
-      <item value="Ты спрашиваешь о положении дел в стране? Думаю точную оценку я скажу, но точно скажу что мир поменялся за несколько дней." />
-      <item value="Hello! I'm fine." />
-      <item value="Can we return to solving the issue with authorization on the application? Let's try to identify application users through an additional GET parameter." />
-      <item value="Мы можем вернуть к решению вопроса с авторизацией на приложении? Давайте попробуем идентифицировать пользователей приложения через дополнительный GET параметр." />
-      <item value="Where i can printed document" />
-      <item value="field length slug" />
-      <item value="length field slug" />
-      <item value="length slug field" />
-      <item value="chunk Slug" />
-      <item value="I also logged into the site without any problems." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6157" />
+        <entry key="ENGLISH" value="6164" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6157" />
+        <entry key="RUSSIAN" value="6164" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
