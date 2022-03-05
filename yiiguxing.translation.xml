@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Let me know in case of problems." />
+      <item value="Дайте мне знать в случае возникновения проблем." />
+      <item value="Now all auctions are in place and their lots. Let me know if there are any problems. I'll try to keep an eye on the site as well." />
+      <item value="I made changes to the plugin and updated it to fairhil. Now all auctions are in place and their lots. Let me know if there are any problems. I'll try to keep an eye on the site as well." />
+      <item value="Я внёс правки в плагин и обновил его на fairhil. Сейчас все аукционы на месте и их лоты. В случае возникновения проблем дайте мне знать. Я так же постараюсь понаблюдать за сайтом." />
       <item value="Thanks! I see this hidden auction on their site and it should be removed. Did I get it right? I will backup the database in case something goes wrong." />
       <item value="Спасибо! Я вижу этот скрытый аукцион у них на сайте и он должен быть удалён. Я верно понял? Я сделаю резервную копию БД на случай если что то пойдёт не так." />
       <item value="I only see these auctions" />
@@ -50,16 +55,11 @@
       <item value="The auctions are silent except for Hammersite. There's an error due to which it was impossible to place bets. I checked, the error is not on our part, if I am not mistaken. Reported the issue to Bidspirit tech. Their programmer has flown to London to see if he can." />
       <item value="По аукционам тишина кроме Hammersite. Там ошибка из за которой нельзя было делать ставки. Я проверил, ошибка не с нашей стороны, если я не ошибся. Описал проблему в Bidspirit tech. Их программист улетел в Лондон, посмотрет по возможности." />
       <item value="Ok. We'll wait." />
-      <item value="We are getting an error when trying to bid on this auction. I checked the plugin on the test sites available to me, I don’t get this error there." />
-      <item value="Мы получаем ошибку при попытке сделать ставку на этом аукционе. Я проверил работу плагина на доступных мне тестовых площадках, там я ошибки это не получаю." />
-      <item value="I also attach duplicate rocket_web.io files to the letter. One main site, the second file rocket_web_test-page.io - this is a special page for testing cookies." />
-      <item value="Так же к письму прикладываю дубли файлов rocket_web.io. Один основного сайта, второй файл rocket_web_test-page.io - эта специальная страница для проверки cookies." />
-      <item value="You can download all additional materials from this link." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6149" />
+        <entry key="ENGLISH" value="6152" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6149" />
+        <entry key="RUSSIAN" value="6152" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
