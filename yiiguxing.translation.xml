@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If you have questions - please ask in private." />
+      <item value="Its not payed holiday, work day moved from 732022 to 572022 (Sandy) so please do not write it to uco holidays If you want day off - you can work on next Sandy or take not payed holiday." />
+      <item value="Its not payed holiday, work day moved from 732022 to 572022 (Sandy) so please do not write it to uco holidays If you want day off - you can work on next Sandy or take not payed holiday. If you have questions - please ask in private. Производственный календарь 2022 (рабочие дни, праздники и выходные дни) \ Консультант Плюс https:www.consultant.ru Year 2022 Calendar – Ukraine https:www.timeanddate.com" />
       <item value="I am attaching a screenshot. The lot seems to have a bid, but it is not sold at the end of the auction." />
       <item value="I am attaching a screenshot." />
       <item value="Так же я получил запрос от клиента Ansuini. Прилагаю скрин. Лот как будто имеет ставку, но он не продан по завершению торгов. На Bidspirit это выглядит так:" />
@@ -52,14 +55,11 @@
       <item value="Вы заполняете информацию о лотах на двух языках? Я не смог посмотреть это на Bidspirit так как там нет аукционов." />
       <item value="reduce spacing between petween cards" />
       <item value="more padding!" />
-      <item value="I think I won’t give an exact assessment" />
-      <item value="I think I won’t give an exact assessment, but I’ll say for sure that the world has changed in a few days." />
-      <item value="Думаю точную оценку я не скажу, но точно скажу что мир поменялся за несколько дней." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6164" />
+        <entry key="ENGLISH" value="6167" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6164" />
+        <entry key="RUSSIAN" value="6166" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
