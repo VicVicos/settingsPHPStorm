@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry, I forgot what issues we solved. Can you tell me what version of the plugin you are using? Maybe I'll just send you the latest version of the plugin and it will be solved." />
+      <item value="Sorry, Я забыл какие вопросы мы решали. Можете сказать какую версию плагина вы используете? Может я просто пришлю вам последнюю версию плагина и с этим всё решится." />
+      <item value="The changes will take effect within 12 hours." />
+      <item value="Изменения вступят в силу в течении 12 часов." />
       <item value="If you have questions - please ask in private." />
       <item value="Its not payed holiday, work day moved from 732022 to 572022 (Sandy) so please do not write it to uco holidays If you want day off - you can work on next Sandy or take not payed holiday." />
       <item value="Its not payed holiday, work day moved from 732022 to 572022 (Sandy) so please do not write it to uco holidays If you want day off - you can work on next Sandy or take not payed holiday. If you have questions - please ask in private. Производственный календарь 2022 (рабочие дни, праздники и выходные дни) \ Консультант Плюс https:www.consultant.ru Year 2022 Calendar – Ukraine https:www.timeanddate.com" />
@@ -51,15 +55,11 @@
       <item value="I cleared the cache, but this temporarily solves the problem. To fully solve the problem, I will need to look for a solution." />
       <item value="Я очистил кеш, но это временно решает проблему. Для полного решения проблемы мне надо будет поискать решение." />
       <item value="Да я вижу эту проблему и знаю причину." />
-      <item value="Hello! Do you fill in information about lots in two languages? I couldn't see it on Bidspirit as there are no auctions." />
-      <item value="Вы заполняете информацию о лотах на двух языках? Я не смог посмотреть это на Bidspirit так как там нет аукционов." />
-      <item value="reduce spacing between petween cards" />
-      <item value="more padding!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6167" />
+        <entry key="ENGLISH" value="6169" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6166" />
+        <entry key="RUSSIAN" value="6169" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646263298099" />
+    <option name="lastTrimTime" value="1646707575013" />
   </component>
 </application>
