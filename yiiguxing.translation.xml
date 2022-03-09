@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="notice" />
       <item value="Lines with translation for site users start from line 98." />
       <item value="Строки с переводом для пользователей сайта начинаются с 98 строки." />
       <item value="We need help with Chinese language support for the plugin. Can you help us with this?" />
@@ -54,12 +55,11 @@
       <item value="Also i give issue from client Ansuini." />
       <item value="To implement this functionality, I will need to clarify some points with the client." />
       <item value="Для реализации этого функционала мне надо будет уточнить некоторые моменты у клиента." />
-      <item value="I will give an estimate later." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6190" />
+        <entry key="ENGLISH" value="6191" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6190" />
+        <entry key="RUSSIAN" value="6191" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
