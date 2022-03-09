@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please update ip address from white list for client" />
+      <item value="Я вижу, что старая версия плагина установлена на вашем сайте." />
+      <item value="I see what old version plugin install on your site." />
       <item value="Why do they need these Premium DNS?" />
       <item value="Зачем им эти Premium DNS?" />
       <item value="By specifying these NS records, we switched DNS editing to cloudflare. And connecting DNS premium will lead to nothing. They will not be able to edit anything from their side." />
@@ -52,14 +55,11 @@
       <item value="The above message looks very much like spam." />
       <item value="Выше сообщение очень похоже на спам." />
       <item value="Let me know in case of problems." />
-      <item value="Дайте мне знать в случае возникновения проблем." />
-      <item value="Now all auctions are in place and their lots. Let me know if there are any problems. I'll try to keep an eye on the site as well." />
-      <item value="I made changes to the plugin and updated it to fairhil. Now all auctions are in place and their lots. Let me know if there are any problems. I'll try to keep an eye on the site as well." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6181" />
+        <entry key="ENGLISH" value="6183" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6181" />
+        <entry key="RUSSIAN" value="6183" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
