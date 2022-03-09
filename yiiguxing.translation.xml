@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Why do they need these Premium DNS?" />
+      <item value="Зачем им эти Premium DNS?" />
+      <item value="By specifying these NS records, we switched DNS editing to cloudflare. And connecting DNS premium will lead to nothing. They will not be able to edit anything from their side." />
+      <item value="Указав эти NS записи мы же по переключили редактирование DNS на cloudflare. И подключение DNS премиум ни к чему не приведёт. Они не смогут редактировать ни чего со своей стороны." />
+      <item value="In the latest versions of the plugin, there were changes for which you need to run auction synchronization 1 time." />
+      <item value="В последних версиях плагина были изменения для которых надо прогнать синхронизации аукционов 1 раз." />
+      <item value="If they don't plan to change NS records then there shouldn't be any problems." />
+      <item value="Если они не планируют менять NS записи то, не должно быть ни каких проблем." />
       <item value="What should be written here?" />
       <item value="Что здесь должно быть написано?" />
       <item value="Download this zip file and update the include files to the plugin folder on the site." />
@@ -47,19 +55,11 @@
       <item value="Дайте мне знать в случае возникновения проблем." />
       <item value="Now all auctions are in place and their lots. Let me know if there are any problems. I'll try to keep an eye on the site as well." />
       <item value="I made changes to the plugin and updated it to fairhil. Now all auctions are in place and their lots. Let me know if there are any problems. I'll try to keep an eye on the site as well." />
-      <item value="Я внёс правки в плагин и обновил его на fairhil. Сейчас все аукционы на месте и их лоты. В случае возникновения проблем дайте мне знать. Я так же постараюсь понаблюдать за сайтом." />
-      <item value="Thanks! I see this hidden auction on their site and it should be removed. Did I get it right? I will backup the database in case something goes wrong." />
-      <item value="Спасибо! Я вижу этот скрытый аукцион у них на сайте и он должен быть удалён. Я верно понял? Я сделаю резервную копию БД на случай если что то пойдёт не так." />
-      <item value="I only see these auctions" />
-      <item value="Я вижу только вот эти аукционы" />
-      <item value="Can you check hidden auctions for fairhillauction?" />
-      <item value="Can you check hidden auction for fairhillauction?" />
-      <item value="I checked it and i need talk about it with Bidspirit support." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6177" />
+        <entry key="ENGLISH" value="6181" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6177" />
+        <entry key="RUSSIAN" value="6181" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
