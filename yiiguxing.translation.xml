@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Lines with translation for site users start from line 98." />
+      <item value="Строки с переводом для пользователей сайта начинаются с 98 строки." />
+      <item value="We need help with Chinese language support for the plugin. Can you help us with this?" />
+      <item value="Нам нужно помочь с поддержкой китайского языка для плагина. Можете помочь нам с этим?" />
+      <item value="We need to check how the synchronization works. It shouldn't take that long." />
+      <item value="Надо проверить как работает синхронизация. Это не должно занимать столько времени." />
+      <item value="Надо проверить как работает синхронизация." />
+      <item value="In the latest version plugin, this moment is implemented differently. I think you need to update the plugin." />
+      <item value="In the latest version, this moment is implemented differently. I think you need to update the plugin." />
+      <item value="В последней версии этот момент реализован иначе. Думаю вам надо обновить плагин." />
+      <item value="Yes, this occurs if the item has been deleted from bidspirit, but has not yet been synchronized on the site. future auctions are synced every hour." />
+      <item value="да это возникает в случае если лот был удалён с bidspirit, но ещё не был синхронизирован на сайте. будущие аукционы синхронизируются каждый час." />
       <item value="Please update ip address from white list for client" />
       <item value="Я вижу, что старая версия плагина установлена на вашем сайте." />
       <item value="I see what old version plugin install on your site." />
@@ -43,23 +55,11 @@
       <item value="To implement this functionality, I will need to clarify some points with the client." />
       <item value="Для реализации этого функционала мне надо будет уточнить некоторые моменты у клиента." />
       <item value="I will give an estimate later." />
-      <item value="Оценку времени я дам позднее." />
-      <item value="Estimate i got later." />
-      <item value="Эта фича имеет ряд опций в плагине которые надо будет учесть." />
-      <item value="We tested this plugin and found that it does not support multiple languages. Leave Portuguese for GDPR?" />
-      <item value="Оставим Португальский язык для GDPR?" />
-      <item value="We tested this plugin and found that it does not support multiple languages. Let's leave the Portuguese language for the GDPR." />
-      <item value="Мы проверили работу этого плагина и выяснили что он не поддерживает работу с несколькими языками. Оставим Португальский язык для GDPR." />
-      <item value="The only note is that in the English version all the texts in the sections: &quot;HOW TO PARTECIPATE&quot;, &quot;ABOUT US&quot; and &quot;TERMS AND CONDITIONS&quot; are missing, how do you plan to proceed for this last but important point?" />
-      <item value="Your message looks very much like spam.&quot;" />
-      <item value="The above message looks very much like spam." />
-      <item value="Выше сообщение очень похоже на спам." />
-      <item value="Let me know in case of problems." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6183" />
+        <entry key="ENGLISH" value="6190" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6183" />
+        <entry key="RUSSIAN" value="6190" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
