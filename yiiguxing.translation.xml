@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please standartize field Auction name, we display auction name from that field" />
+      <item value="Please standartize field Auction name, we displaing auction name from that field" />
+      <item value="Hi, I noticed that past auctions N.5 and N.6 have the auction title without the auction number, so when the user enters the auction he loses the reference of which auction he is looking at, instead the auctions N.3, N.4 and N.7 correctly indicate their number. Please standardize them." />
+      <item value="We have run synchronization for old auctions." />
+      <item value="Мы прогнали синхронизацию для старых аукционов." />
+      <item value="Filter by this categories list working in plugin." />
+      <item value="Filter by this categories list working on plugin." />
+      <item value="I need to understand what you are filling out in the Bidspirit admin panel so that I can replicate it in a test environment." />
+      <item value="Я должен понимать что вы заполняете в админ панели Bidspirit что бы я мог повторить это в тестовой среде." />
+      <item value="I also wanted to clarify with regard to filtering by category." />
+      <item value="Так же я хотел уточнить что касается фильтрации по категориям." />
+      <item value="Also i need clearify" />
       <item value="auction-start" />
       <item value="мы внесли изменения на тестовый сайт. пожалуйста, проверьте." />
       <item value="I am working with a mobile application on a test account web2-qa.bidspirit.com and wordpress-qa.bidspirit.com But the authorization error persists." />
@@ -43,23 +55,11 @@
       <item value="That is why we need to resolve all disagreements before implementing this feature." />
       <item value="Именно поэтому нам и надо устранить все разногласия перед реализацией этой фичи." />
       <item value="I understand that we need to clarify what exactly they use for these purposes." />
-      <item value="Я понимаю что нам надо уточнить что именно они используют для этих целей." />
-      <item value="Maybe they mean categories which are defined by the auction house" />
-      <item value="Sorry, I forgot what issues we solved. Can you tell me what version of the plugin you are using? Maybe I'll just send you the latest version of the plugin and it will be solved." />
-      <item value="Sorry, Я забыл какие вопросы мы решали. Можете сказать какую версию плагина вы используете? Может я просто пришлю вам последнюю версию плагина и с этим всё решится." />
-      <item value="The changes will take effect within 12 hours." />
-      <item value="Изменения вступят в силу в течении 12 часов." />
-      <item value="If you have questions - please ask in private." />
-      <item value="Its not payed holiday, work day moved from 732022 to 572022 (Sandy) so please do not write it to uco holidays If you want day off - you can work on next Sandy or take not payed holiday." />
-      <item value="Its not payed holiday, work day moved from 732022 to 572022 (Sandy) so please do not write it to uco holidays If you want day off - you can work on next Sandy or take not payed holiday. If you have questions - please ask in private. Производственный календарь 2022 (рабочие дни, праздники и выходные дни) \ Консультант Плюс https:www.consultant.ru Year 2022 Calendar – Ukraine https:www.timeanddate.com" />
-      <item value="I am attaching a screenshot. The lot seems to have a bid, but it is not sold at the end of the auction." />
-      <item value="I am attaching a screenshot." />
-      <item value="Так же я получил запрос от клиента Ansuini. Прилагаю скрин. Лот как будто имеет ставку, но он не продан по завершению торгов. На Bidspirit это выглядит так:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6192" />
+        <entry key="ENGLISH" value="6202" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6194" />
+        <entry key="RUSSIAN" value="6202" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
