@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="in this regard, there may be problems with timely response to requests from customers." />
+      <item value="в связи с этим могут быть проблемы со своевременным реагированием на запросы от клиентов." />
+      <item value="I check it on my phone, and i think what it work it." />
+      <item value="Note that you can make such changes yourself and do not wait for us." />
+      <item value="Note your." />
+      <item value="Recall that you can make such changes yourself and do not wait for us. You have full access to the site." />
+      <item value="Напомним что подобного рода изменения вы можете сделать самостоятельно и не ждать нас. Вы имеете полный доступ к сайту." />
+      <item value="Let me explain how synchronization works. Future auctions are synced every hour. Those that have passed, the first 30 days are synchronized once every five days. After 30 days since the auction has been completed, it falls into exceptions and does not sync." />
+      <item value="Объясню как работает синхронизация. Будущих аукционы синхронизируются каждый час. Те что прошли, первые 30 дней синхронизируются 1 раз в пять дней. После 30 дней как аукцион был завершён он попадает в исключения и не синхронизируется." />
       <item value="All the pages that I have seen it cache. We are not responsible for the performance of your hosting" />
       <item value="All the pages that I have seen are cached. We are not responsible for the performance of your hosting" />
       <item value="Все страницы, что я видел это кэш. За работу вашего хостинга мы не отвечаем" />
@@ -46,20 +55,11 @@
       <item value="By specifying these NS records, we switched DNS editing to cloudflare. And connecting DNS premium will lead to nothing. They will not be able to edit anything from their side." />
       <item value="Указав эти NS записи мы же по переключили редактирование DNS на cloudflare. И подключение DNS премиум ни к чему не приведёт. Они не смогут редактировать ни чего со своей стороны." />
       <item value="In the latest versions of the plugin, there were changes for which you need to run auction synchronization 1 time." />
-      <item value="В последних версиях плагина были изменения для которых надо прогнать синхронизации аукционов 1 раз." />
-      <item value="If they don't plan to change NS records then there shouldn't be any problems." />
-      <item value="Если они не планируют менять NS записи то, не должно быть ни каких проблем." />
-      <item value="What should be written here?" />
-      <item value="Что здесь должно быть написано?" />
-      <item value="Download this zip file and update the include files to the plugin folder on the site." />
-      <item value="Загрузите этот zip-архив и обновите включаемые файлы в папку с плагином на сайте." />
-      <item value="Please download this zip archive and update include files" />
-      <item value="Is they manager Rob?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6205" />
+        <entry key="ENGLISH" value="6211" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6205" />
+        <entry key="RUSSIAN" value="6211" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
