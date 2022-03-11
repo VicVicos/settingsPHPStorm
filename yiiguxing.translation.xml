@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fill Filed" />
+      <item value="fillable Filed" />
+      <item value="inquiry-target-field" />
       <item value="in this regard, there may be problems with timely response to requests from customers." />
       <item value="в связи с этим могут быть проблемы со своевременным реагированием на запросы от клиентов." />
       <item value="I check it on my phone, and i think what it work it." />
@@ -52,14 +55,11 @@
       <item value="I see what old version plugin install on your site." />
       <item value="Why do they need these Premium DNS?" />
       <item value="Зачем им эти Premium DNS?" />
-      <item value="By specifying these NS records, we switched DNS editing to cloudflare. And connecting DNS premium will lead to nothing. They will not be able to edit anything from their side." />
-      <item value="Указав эти NS записи мы же по переключили редактирование DNS на cloudflare. И подключение DNS премиум ни к чему не приведёт. Они не смогут редактировать ни чего со своей стороны." />
-      <item value="In the latest versions of the plugin, there were changes for which you need to run auction synchronization 1 time." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6211" />
+        <entry key="ENGLISH" value="6214" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6211" />
+        <entry key="RUSSIAN" value="6214" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
