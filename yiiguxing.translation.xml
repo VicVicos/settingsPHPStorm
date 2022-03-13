@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have already moved away from using auctionNumber for auctionId in the plugin. Now I am getting this error." />
+      <item value="Мы в плагине уже ушли от использования auctionNumber на auctionId. Сейчас я получаю эту ошибку." />
+      <item value="I found a small problem with the getFavorites and setFavorites API requests. We only get the auctionNumber, but not all clients fill this field for their auctions. Can you add an auctionId field to the response that will solve this problem?" />
+      <item value="Я нашёл небольшую проблему с API запросами getFavorites и setFavorites. Мы получаем только auctionNumber, но не всегда клиенты заполняют это поле для своих аукционов. Вы можете добавить к ответу поле auctionId который решит эту проблему?" />
       <item value="Yes. And there it also works, but the problem is with caching." />
       <item value="Да. И там так же есть работает, но проблема с кэшированием." />
       <item value="Can we disable this cache?" />
@@ -51,15 +55,11 @@
       <item value="Надо проверить как работает синхронизация. Это не должно занимать столько времени." />
       <item value="Надо проверить как работает синхронизация." />
       <item value="In the latest version plugin, this moment is implemented differently. I think you need to update the plugin." />
-      <item value="In the latest version, this moment is implemented differently. I think you need to update the plugin." />
-      <item value="В последней версии этот момент реализован иначе. Думаю вам надо обновить плагин." />
-      <item value="Yes, this occurs if the item has been deleted from bidspirit, but has not yet been synchronized on the site. future auctions are synced every hour." />
-      <item value="да это возникает в случае если лот был удалён с bidspirit, но ещё не был синхронизирован на сайте. будущие аукционы синхронизируются каждый час." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6217" />
+        <entry key="ENGLISH" value="6219" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6217" />
+        <entry key="RUSSIAN" value="6219" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646707575013" />
+    <option name="lastTrimTime" value="1647184587904" />
   </component>
 </application>
