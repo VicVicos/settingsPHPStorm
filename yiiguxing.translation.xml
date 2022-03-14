@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I was confused by this error and I fixed it." />
+      <item value="Меня смущала вот эта ошибка и я её исправил." />
+      <item value="Пожалуйста дайте мне знать если я где то ошибся." />
       <item value="In this case, let's enable the test site to accept webhooks." />
       <item value="В таком случае давайте разрешим для тестового сайта принимать webhooks." />
       <item value="Configuration: Configuration of the webhooks is done through bidspirit admin. In order to enable webhook calls the party implementing the api needs to provide a bidspirit admin the endpoint webhook url and an authentication token" />
@@ -52,14 +55,11 @@
       <item value="За работу вашего хостинга мы не отвечаем" />
       <item value="Please standartize field Auction name, we display auction name from that field" />
       <item value="Please standartize field Auction name, we displaing auction name from that field" />
-      <item value="Hi, I noticed that past auctions N.5 and N.6 have the auction title without the auction number, so when the user enters the auction he loses the reference of which auction he is looking at, instead the auctions N.3, N.4 and N.7 correctly indicate their number. Please standardize them." />
-      <item value="We have run synchronization for old auctions." />
-      <item value="Мы прогнали синхронизацию для старых аукционов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6232" />
+        <entry key="ENGLISH" value="6234" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6232" />
+        <entry key="RUSSIAN" value="6234" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
