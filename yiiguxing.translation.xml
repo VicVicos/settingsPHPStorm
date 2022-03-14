@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This option will only work with the https certificate enabled on the site. The test site does not have this certificate." />
+      <item value="Эта опция будет работать только со включенным сертификатом https на сайте. На тестовом сайте этого сертификата нет." />
+      <item value="Please, specify where?" />
+      <item value="Пожалуйста, уточните где?" />
       <item value="But how can we track changes in bids for lots that users are following?" />
       <item value="Но как мы можем отслеживать изменение ставок на лоты за которыми пользователи следят?" />
       <item value="Для идентификации запроса от Bidspirit я сделал проверку на наличие заголовка:" />
@@ -51,15 +55,11 @@
       <item value="Я должен понимать что вы заполняете в админ панели Bidspirit что бы я мог повторить это в тестовой среде." />
       <item value="I also wanted to clarify with regard to filtering by category." />
       <item value="Так же я хотел уточнить что касается фильтрации по категориям." />
-      <item value="Also i need clearify" />
-      <item value="auction-start" />
-      <item value="мы внесли изменения на тестовый сайт. пожалуйста, проверьте." />
-      <item value="I am working with a mobile application on a test account web2-qa.bidspirit.com and wordpress-qa.bidspirit.com But the authorization error persists." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6225" />
+        <entry key="ENGLISH" value="6227" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6225" />
+        <entry key="RUSSIAN" value="6227" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
