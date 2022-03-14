@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In this case, let's enable the test site to accept webhooks." />
+      <item value="В таком случае давайте разрешим для тестового сайта принимать webhooks." />
+      <item value="Configuration: Configuration of the webhooks is done through bidspirit admin. In order to enable webhook calls the party implementing the api needs to provide a bidspirit admin the endpoint webhook url and an authentication token" />
+      <item value="Bidspirit enables external api systems to accept webhook api calls for specific events. all webhook calls are post http requests carrying a json object. The json always include a field notificationType which can be one of TEST, LEADING_BID_UPDATE, AUCTION_STARTS_SOON, or ITEM_LIVE_SOON Each webhook request also carries a X-BIDSPIRIT-SIGNATURE header which should be used for authentication of the request (see below)." />
       <item value="UCO API STORAGE" />
       <item value="the secret should be stored in a secure place" />
       <item value="This option will only work with the https certificate enabled on the site. The test site does not have this certificate." />
@@ -51,15 +55,11 @@
       <item value="Hi, I noticed that past auctions N.5 and N.6 have the auction title without the auction number, so when the user enters the auction he loses the reference of which auction he is looking at, instead the auctions N.3, N.4 and N.7 correctly indicate their number. Please standardize them." />
       <item value="We have run synchronization for old auctions." />
       <item value="Мы прогнали синхронизацию для старых аукционов." />
-      <item value="Filter by this categories list working in plugin." />
-      <item value="Filter by this categories list working on plugin." />
-      <item value="I need to understand what you are filling out in the Bidspirit admin panel so that I can replicate it in a test environment." />
-      <item value="Я должен понимать что вы заполняете в админ панели Bidspirit что бы я мог повторить это в тестовой среде." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6229" />
+        <entry key="ENGLISH" value="6232" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6229" />
+        <entry key="RUSSIAN" value="6232" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
