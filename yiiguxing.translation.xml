@@ -5,8 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Please fix mistake" />
+      <item value="move to for only user app" />
       <item value="What do we have with the authorization error in the application? Have you checked cookies in last test application build?" />
+      <item value="Please fix mistake" />
       <item value="Have you checked cookies in last test application build?" />
       <item value="Have you checked cookies in last build test application?" />
       <item value="Have you checked cookies?" />
@@ -54,12 +55,11 @@
       <item value="fill Filed" />
       <item value="fillable Filed" />
       <item value="inquiry-target-field" />
-      <item value="in this regard, there may be problems with timely response to requests from customers." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6247" />
+        <entry key="ENGLISH" value="6249" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6247" />
+        <entry key="RUSSIAN" value="6249" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
