@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Featured items делаются вот так" />
       <item value="We have question about request &quot;auctionssetAuctionAlert&quot; and he required parameter sessionId. Can we enable a notification for all users when the auction is synchronized from the server side." />
       <item value="Можем ли мы включить оповещение для всех пользователей при синхронизации аукциона со стороны сервера." />
       <item value="Can we enable alert for all users" />
@@ -54,7 +55,6 @@
       <item value="I found a small problem with the getFavorites and setFavorites API requests. We only get the auctionNumber, but not all clients fill this field for their auctions. Can you add an auctionId field to the response that will solve this problem?" />
       <item value="Я нашёл небольшую проблему с API запросами getFavorites и setFavorites. Мы получаем только auctionNumber, но не всегда клиенты заполняют это поле для своих аукционов. Вы можете добавить к ответу поле auctionId который решит эту проблему?" />
       <item value="Yes. And there it also works, but the problem is with caching." />
-      <item value="Да. И там так же есть работает, но проблема с кэшированием." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6255" />
+        <entry key="RUSSIAN" value="6256" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
