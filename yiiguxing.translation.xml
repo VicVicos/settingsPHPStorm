@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The preferred language of the recipients of this notification. If the auction house supports 2 languages - 2 notifications would be sent" />
+      <item value="I get incorrect value for filed lang in webhook response LEADING_BID_SURPASSED" />
+      <item value="I get incorrect value in filed lang for webhook response LEADING_BID_SURPASSED" />
       <item value="move to for only user app" />
       <item value="What do we have with the authorization error in the application? Have you checked cookies in last test application build?" />
       <item value="Please fix mistake" />
@@ -52,14 +55,11 @@
       <item value="Can we disable this cache?" />
       <item value="Thanks! Wipe Data helps, but on a real device, we are faced with the fact that pages are cached in the same way as we see in the emulator. I added a call to the clearCache() function and with each Run Application (Shift+F10) the cache is cleared and I can see the changes from the site, but only once, when I repeat the action, I see the cached data again. Without a function call, only Wipe Data helps." />
       <item value="Спасибо! Wipe Data помогает, но и на реальном устройстве мы столкнулись с тем что страницы кешируются аналогично тому что мы видим и в эмуляторе. Я добавил вызов функции clearCache() и при каждом Run Application (Shift+F10) кэш очищается и я могу увидеть изменения с сайта, но только один раз, при повторном действии я снова вижу кэшированные данные. Без вызова функции помогает только Wipe Data." />
-      <item value="fill Filed" />
-      <item value="fillable Filed" />
-      <item value="inquiry-target-field" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6249" />
+        <entry key="ENGLISH" value="6252" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6249" />
+        <entry key="RUSSIAN" value="6252" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
