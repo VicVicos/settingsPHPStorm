@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We have question about request &quot;auctionssetAuctionAlert&quot; and he required parameter sessionId. Can we enable a notification for all users when the auction is synchronized from the server side." />
+      <item value="Можем ли мы включить оповещение для всех пользователей при синхронизации аукциона со стороны сервера." />
       <item value="Can we enable alert for all users" />
       <item value="The preferred language of the recipients of this notification. If the auction house supports 2 languages - 2 notifications would be sent" />
       <item value="I get incorrect value for filed lang in webhook response LEADING_BID_SURPASSED" />
@@ -53,13 +55,11 @@
       <item value="Я нашёл небольшую проблему с API запросами getFavorites и setFavorites. Мы получаем только auctionNumber, но не всегда клиенты заполняют это поле для своих аукционов. Вы можете добавить к ответу поле auctionId который решит эту проблему?" />
       <item value="Yes. And there it also works, but the problem is with caching." />
       <item value="Да. И там так же есть работает, но проблема с кэшированием." />
-      <item value="Can we disable this cache?" />
-      <item value="Thanks! Wipe Data helps, but on a real device, we are faced with the fact that pages are cached in the same way as we see in the emulator. I added a call to the clearCache() function and with each Run Application (Shift+F10) the cache is cleared and I can see the changes from the site, but only once, when I repeat the action, I see the cached data again. Without a function call, only Wipe Data helps." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6254" />
+        <entry key="ENGLISH" value="6255" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6254" />
+        <entry key="RUSSIAN" value="6255" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
