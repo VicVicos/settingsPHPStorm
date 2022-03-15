@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets or cancels an alert for this item. if an alert is set, the user would get an alert before the item goes live on auction. See Bidspirit webhooks for more information" />
+      <item value="A notification before the live auction of an item starts soon. Sent to all users that requested to be notified (using the itemssetItemAlert api) In general the notification i sent 5 items before the alerted item goes live (e.g. lot 10 would get a notification when lot 5 goes live) The only exception is for the first 5 items - they all get notifications (if needed) when the first item of the auction goes live." />
+      <item value="A notification before the auction starts for all users that requested to be notified (using the auctionssetAuctionAlert api). The notification is sent 30 minutes before the auction starts." />
+      <item value="Expected response format:" />
+      <item value="The Api should respond with a json encoded http response. it must have the field success to indicate if the webhook call was successful. In case there was an error processing the api, the webhook expects the response to put a short description as an error field" />
       <item value="I was confused by this error and I fixed it." />
       <item value="Меня смущала вот эта ошибка и я её исправил." />
       <item value="Пожалуйста дайте мне знать если я где то ошибся." />
@@ -50,16 +55,11 @@
       <item value="Let me explain how synchronization works. Future auctions are synced every hour. Those that have passed, the first 30 days are synchronized once every five days. After 30 days since the auction has been completed, it falls into exceptions and does not sync." />
       <item value="Объясню как работает синхронизация. Будущих аукционы синхронизируются каждый час. Те что прошли, первые 30 дней синхронизируются 1 раз в пять дней. После 30 дней как аукцион был завершён он попадает в исключения и не синхронизируется." />
       <item value="All the pages that I have seen it cache. We are not responsible for the performance of your hosting" />
-      <item value="All the pages that I have seen are cached. We are not responsible for the performance of your hosting" />
-      <item value="Все страницы, что я видел это кэш. За работу вашего хостинга мы не отвечаем" />
-      <item value="За работу вашего хостинга мы не отвечаем" />
-      <item value="Please standartize field Auction name, we display auction name from that field" />
-      <item value="Please standartize field Auction name, we displaing auction name from that field" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6234" />
+        <entry key="ENGLISH" value="6239" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6234" />
+        <entry key="RUSSIAN" value="6239" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
