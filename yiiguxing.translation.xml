@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I also want to remind you that in case something goes wrong, you can use the restoration of the old version of the page using the revision." />
+      <item value="Так же хочу вам напомнить, на случай если что то пойдёт не так, то можно будет воспользовать восстановлением старой версии страницы с помощью ревизии." />
+      <item value="I also want to remind you that in case something goes wrong, you can use the restoration of the old version of the page." />
+      <item value="Так же хочу вам напомнить, на случай если что то пойдёт не так, то можно будет воспользовать восстановлением старой версии страницы." />
+      <item value="Now I’ll throw off screenshots of the option with the main page and how you can copy the content of the page in Elementor." />
+      <item value="I could offer another option with copying the content from the draft and pasting it into the desired page, after deleting the old content. Now I’ll throw off screenshots of the option with the main page and how you can copy the content of the page in Elementor." />
+      <item value="Я мог бы предложить ещё вариант с копированием контента из черновика и вставке его в нужную страницу, предварительно удалив старый контент. Сейчас скину скрины опции с главной страницей и то как можно копировать контент страницы в Elementor." />
+      <item value="Delete original, rename and publish this option will only work with secondary pages. For the main page, you will need to select it in the site settings." />
+      <item value="Удалить оригинал, переименовать и опубликовать такой вариант сработает только со второстепенными страницами. Для главной страницы надо будет выбрать её в настройках сайт." />
+      <item value="Can you explain to the client how to work with this? Do you need help?" />
+      <item value="Вы сможете объяснить клиенту как с этим работать? Вам не требуется помощь?" />
+      <item value="Can you explain how to work with this scenario? If you have any questions, please set up a Zoom call with Andrey Druz and he will help answer all questions." />
+      <item value="Вы сможете объяснить как работать по этому сценарию? Если у вас возникнут вопросы, пожалуйста назначьте Zoom call с Andrey Druz и он поможет ответить на все вопросы." />
+      <item value="Вы сможете объяснить как работать по этому сценарию?" />
+      <item value="We install a plugin that will allow you to duplicate pages and they will be able to work with the site without any problems." />
+      <item value="Yes. To do this, it is not necessary to have a copy of the site. Install a plugin that will allow you to duplicate pages and they will be able to work with the site without any problems." />
+      <item value="Для этого совсем не обязательно иметь копию сайта. Установим плагин который позволит дублировать страницы и они смогут без проблем работать с сайтом." />
+      <item value="Можете уточнить какой именно клиент и что именно он хочет делать?" />
       <item value="Please try to deploy the project from this archive" />
       <item value="Пожалуйста попрробуйте развернуть проект из этого архива" />
       <item value="In this regard, we have small misunderstandings about which categories we need to implement filtering. I see two types of categories in Bidspirit. Filtering by one type is implemented in our plugin. The second type of category, which is referred to as tags, is used by only a few Bidspirit clients and mainly in Israel." />
@@ -37,29 +55,11 @@
       <item value="What do we have with the authorization error in the application? Have you checked cookies in last test application build?" />
       <item value="Please fix mistake" />
       <item value="Have you checked cookies in last test application build?" />
-      <item value="Have you checked cookies in last build test application?" />
-      <item value="Have you checked cookies?" />
-      <item value="Вы проверили cookies?" />
-      <item value="What do we have with the authorization error in the application?" />
-      <item value="Что у нас с ошибкой авторизации в приложении?" />
-      <item value="An alert which informs the user he is no longer the leading bidder for a certain lot. This alert is sent to the leading user if he sets it in his preference using the userssetLeadingBidAlertEnabled api." />
-      <item value="A notification before the live auction of an item starts soon. Sent to all users that requested to be notified (using the itemssetItemAlert api) In general the notification i sent 5 items before the alerted item goes live (e.g. lot 10 would get a notification when lot 5 goes live) The only exception is for the first 5 items - they all get notifications (if needed) when the first item of the auction goes live." />
-      <item value="Sets or cancels an alert for this item. if an alert is set, the user would get an alert before the item goes live on auction. See Bidspirit webhooks for more information" />
-      <item value="A notification before the auction starts for all users that requested to be notified (using the auctionssetAuctionAlert api). The notification is sent 30 minutes before the auction starts." />
-      <item value="Expected response format:" />
-      <item value="The Api should respond with a json encoded http response. it must have the field success to indicate if the webhook call was successful. In case there was an error processing the api, the webhook expects the response to put a short description as an error field" />
-      <item value="I was confused by this error and I fixed it." />
-      <item value="Меня смущала вот эта ошибка и я её исправил." />
-      <item value="Пожалуйста дайте мне знать если я где то ошибся." />
-      <item value="In this case, let's enable the test site to accept webhooks." />
-      <item value="В таком случае давайте разрешим для тестового сайта принимать webhooks." />
-      <item value="Configuration: Configuration of the webhooks is done through bidspirit admin. In order to enable webhook calls the party implementing the api needs to provide a bidspirit admin the endpoint webhook url and an authentication token" />
-      <item value="Bidspirit enables external api systems to accept webhook api calls for specific events. all webhook calls are post http requests carrying a json object. The json always include a field notificationType which can be one of TEST, LEADING_BID_UPDATE, AUCTION_STARTS_SOON, or ITEM_LIVE_SOON Each webhook request also carries a X-BIDSPIRIT-SIGNATURE header which should be used for authentication of the request (see below)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6270" />
+        <entry key="ENGLISH" value="6281" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6270" />
+        <entry key="RUSSIAN" value="6281" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
