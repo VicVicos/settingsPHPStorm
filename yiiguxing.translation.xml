@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If there are comments on the pictures, then it is better to send them to us with a note of what and where, so that we do not have to guess. The designer will deal with the pictures on the site, she will do it as soon as she starts the working day." />
+      <item value="Если остались замечания к картинкам, то лучше пришлите их нам с пометкой что и куда, что бы нам не пришлось гадать. Картинками на сайте будет заниматься нам дизайнер, она как начнёт рабочий день сделает это." />
+      <item value="Так хорошо?" />
       <item value="buyer's premium" />
       <item value="Can we change the name commission as buyer's premium which Christies, Sothebys international auction house and, Luxeford are using the same method. We use the word commission as seller's commission. In this case, price including commission please do not apply to Luxeford, and we don't have goods including commission. Unless, those goods are selling in private sales directly that could be price including buyer's premium" />
       <item value="In auction, after absentee bids, phone bids, live bids are signed on the blinding agreement that listed Sale number and lot number, customer can see live bidding screen with Sale Number and Lot number. eg. HK0127 Lot 250. So they cannot refuse bidding on the wrong lot and wrong sale number" />
@@ -52,14 +55,11 @@
       <item value="Мы можем вернуть к решению проблемы с авторизацией в приложении?" />
       <item value="Please check now. Now it remains to correct this page in the adaptive." />
       <item value="Теперь осталось в адптиве подправить эту страницу." />
-      <item value="Я проверил эту фичу на сайте и она работает." />
-      <item value="When editing this element, you can make a mistake by deleting an extra character and break the form." />
-      <item value="При редактировании этого элемента можно допустить ошибку, удалив лишний символ, и поломать форму." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6292" />
+        <entry key="ENGLISH" value="6294" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6292" />
+        <entry key="RUSSIAN" value="6294" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
