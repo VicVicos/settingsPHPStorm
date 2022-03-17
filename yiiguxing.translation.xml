@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think the problem is on your device. You do not use any proxy connections to the Internet?" />
+      <item value="Я думаю что проблема на вашем устройстве. Вы не используете ни какие proxy подключения к интернету?" />
+      <item value="I installed a plugin that should force connection of resources via https protocol." />
+      <item value="Я установил плагин который должен принудительно подключать ресурсы по https проколу." />
+      <item value="Я попробую изменить настройки ssl на cloudflare." />
+      <item value="Weird. I'm fine." />
+      <item value="Странно. У меня всё хорошо." />
       <item value="I also want to remind you that in case something goes wrong, you can use the restoration of the old version of the page using the revision." />
       <item value="Так же хочу вам напомнить, на случай если что то пойдёт не так, то можно будет воспользовать восстановлением старой версии страницы с помощью ревизии." />
       <item value="I also want to remind you that in case something goes wrong, you can use the restoration of the old version of the page." />
@@ -48,18 +55,11 @@
       <item value="We have question about request &quot;auctionssetAuctionAlert&quot; and he required parameter sessionId. Can we enable a notification for all users when the auction is synchronized from the server side." />
       <item value="Можем ли мы включить оповещение для всех пользователей при синхронизации аукциона со стороны сервера." />
       <item value="Can we enable alert for all users" />
-      <item value="The preferred language of the recipients of this notification. If the auction house supports 2 languages - 2 notifications would be sent" />
-      <item value="I get incorrect value for filed lang in webhook response LEADING_BID_SURPASSED" />
-      <item value="I get incorrect value in filed lang for webhook response LEADING_BID_SURPASSED" />
-      <item value="move to for only user app" />
-      <item value="What do we have with the authorization error in the application? Have you checked cookies in last test application build?" />
-      <item value="Please fix mistake" />
-      <item value="Have you checked cookies in last test application build?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6281" />
+        <entry key="ENGLISH" value="6285" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6281" />
+        <entry key="RUSSIAN" value="6285" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
