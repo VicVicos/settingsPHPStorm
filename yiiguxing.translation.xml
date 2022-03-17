@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="עברית" />
       <item value="Our designer wants to offer you a different background for banners. Will send you an example soon." />
       <item value="Наш дизайнер хочет предложить вам другой вариант заднего фона для баннеров. Скоро скинет вам пример." />
       <item value="We think that these pictures do not really fit the style of the jewelry business. We would suggest using a darker background." />
@@ -54,7 +55,6 @@
       <item value="Can you explain how to work with this scenario? If you have any questions, please set up a Zoom call with Andrey Druz and he will help answer all questions." />
       <item value="Вы сможете объяснить как работать по этому сценарию? Если у вас возникнут вопросы, пожалуйста назначьте Zoom call с Andrey Druz и он поможет ответить на все вопросы." />
       <item value="Вы сможете объяснить как работать по этому сценарию?" />
-      <item value="We install a plugin that will allow you to duplicate pages and they will be able to work with the site without any problems." />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="3" />
-        <entry key="HEBREW" value="183" />
+        <entry key="HEBREW" value="184" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
