@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Are you planning to host your site on our server?" />
+      <item value="Вы планируете разместить свой сайт на нашем сервере?" />
+      <item value="или вы сами должны изменить NS записи для вашего домена." />
       <item value="Past" />
       <item value="Did we forget to do something?" />
       <item value="Мы ни чего не забыли сделать?" />
@@ -52,14 +55,11 @@
       <item value="Please try to deploy the project from this archive" />
       <item value="Пожалуйста попрробуйте развернуть проект из этого архива" />
       <item value="In this regard, we have small misunderstandings about which categories we need to implement filtering. I see two types of categories in Bidspirit. Filtering by one type is implemented in our plugin. The second type of category, which is referred to as tags, is used by only a few Bidspirit clients and mainly in Israel." />
-      <item value="Второй тип категорий, который именуется как теги, используют лишь не многие клиенты Bidspirit и преимущественно в Израиле." />
-      <item value="In this regard, we have small misunderstandings about which categories we need to implement filtering. I see two types of categories in Bidspirit. Filtering by one type is implemented in our plugin. The second type of categories is used only by a few Bidspirit clients and mainly in Israel." />
-      <item value="В этом плане у нас небольшие недопонимания на счёт того по каким категориям нам надо реализовать фильтрацию. Я в Bidspirit вижу возможность использовать два типа категорий. Фильтрация по одному типу у нас в плагине реализована. Второй тип категорий используют лишь не многие клиенты Bidspirit и преимущественно в Израиле." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6298" />
+        <entry key="ENGLISH" value="6301" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6298" />
+        <entry key="RUSSIAN" value="6301" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
