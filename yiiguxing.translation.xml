@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Our designer wants to offer you a different background for banners. Will send you an example soon." />
+      <item value="Наш дизайнер хочет предложить вам другой вариант заднего фона для баннеров. Скоро скинет вам пример." />
+      <item value="We think that these pictures do not really fit the style of the jewelry business. We would suggest using a darker background." />
+      <item value="Мы думаем что эти картинки не очень подходят к стилю бизнеса который занимается ювелиркой. Мы бы предложили использовать более тёмный фон." />
+      <item value="1. Sorry to say but we don’t like the design, we’re not keen on the marble effect or the way the pictures appear on the banner and we can’t change them" />
+      <item value="I sent you the png file. Can you please try it for the home page?" />
       <item value="Are you planning to host your site on our server?" />
       <item value="Вы планируете разместить свой сайт на нашем сервере?" />
       <item value="или вы сами должны изменить NS записи для вашего домена." />
@@ -49,17 +55,11 @@
       <item value="Вы сможете объяснить как работать по этому сценарию? Если у вас возникнут вопросы, пожалуйста назначьте Zoom call с Andrey Druz и он поможет ответить на все вопросы." />
       <item value="Вы сможете объяснить как работать по этому сценарию?" />
       <item value="We install a plugin that will allow you to duplicate pages and they will be able to work with the site without any problems." />
-      <item value="Yes. To do this, it is not necessary to have a copy of the site. Install a plugin that will allow you to duplicate pages and they will be able to work with the site without any problems." />
-      <item value="Для этого совсем не обязательно иметь копию сайта. Установим плагин который позволит дублировать страницы и они смогут без проблем работать с сайтом." />
-      <item value="Можете уточнить какой именно клиент и что именно он хочет делать?" />
-      <item value="Please try to deploy the project from this archive" />
-      <item value="Пожалуйста попрробуйте развернуть проект из этого архива" />
-      <item value="In this regard, we have small misunderstandings about which categories we need to implement filtering. I see two types of categories in Bidspirit. Filtering by one type is implemented in our plugin. The second type of category, which is referred to as tags, is used by only a few Bidspirit clients and mainly in Israel." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6301" />
+        <entry key="ENGLISH" value="6305" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6301" />
+        <entry key="RUSSIAN" value="6305" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
