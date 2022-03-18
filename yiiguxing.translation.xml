@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I prepared everything for my part, it remains to connect an ssl certificate for the site." />
+      <item value="Я всё подготовил со своей стороны, останется подключить ssl сертификат для сайта." />
       <item value="Сообщите нам" />
       <item value="Уведомите нас" />
       <item value="Slow place" />
@@ -53,13 +55,11 @@
       <item value="Я мог бы предложить ещё вариант с копированием контента из черновика и вставке его в нужную страницу, предварительно удалив старый контент. Сейчас скину скрины опции с главной страницей и то как можно копировать контент страницы в Elementor." />
       <item value="Delete original, rename and publish this option will only work with secondary pages. For the main page, you will need to select it in the site settings." />
       <item value="Удалить оригинал, переименовать и опубликовать такой вариант сработает только со второстепенными страницами. Для главной страницы надо будет выбрать её в настройках сайт." />
-      <item value="Can you explain to the client how to work with this? Do you need help?" />
-      <item value="Вы сможете объяснить клиенту как с этим работать? Вам не требуется помощь?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6307" />
+        <entry key="ENGLISH" value="6309" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6308" />
+        <entry key="RUSSIAN" value="6309" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
