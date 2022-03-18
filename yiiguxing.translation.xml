@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="As soon as network solutions change the NS records, the site will be migrated within an hour. In rare cases, it takes longer." />
+      <item value="Как только network solutions сменят NS записи сайт будет перенесён в течении часа. В редких случаях это занимает дольше времени." />
       <item value="I prepared everything for my part, it remains to connect an ssl certificate for the site." />
       <item value="Я всё подготовил со своей стороны, останется подключить ssl сертификат для сайта." />
       <item value="Сообщите нам" />
@@ -53,13 +55,11 @@
       <item value="Now I’ll throw off screenshots of the option with the main page and how you can copy the content of the page in Elementor." />
       <item value="I could offer another option with copying the content from the draft and pasting it into the desired page, after deleting the old content. Now I’ll throw off screenshots of the option with the main page and how you can copy the content of the page in Elementor." />
       <item value="Я мог бы предложить ещё вариант с копированием контента из черновика и вставке его в нужную страницу, предварительно удалив старый контент. Сейчас скину скрины опции с главной страницей и то как можно копировать контент страницы в Elementor." />
-      <item value="Delete original, rename and publish this option will only work with secondary pages. For the main page, you will need to select it in the site settings." />
-      <item value="Удалить оригинал, переименовать и опубликовать такой вариант сработает только со второстепенными страницами. Для главной страницы надо будет выбрать её в настройках сайт." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6309" />
+        <entry key="ENGLISH" value="6310" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6309" />
+        <entry key="RUSSIAN" value="6310" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
