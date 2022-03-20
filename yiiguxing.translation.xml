@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In order to participate in the auction you need to sign in." />
+      <item value="Аналогичная фраза которую мы заменили, встречается и тут. Когда пользователь заполняет данные в профиле, но не получил подтверждения от администрации аукционного дома." />
+      <item value="Эта фраза встречается и тут. Когда пользователь заполняет данные в профиле, но не получил подтверждения от администрации аукционного дома." />
+      <item value="I had to leave for household chores. I'll fix the mistake." />
+      <item value="Я вынужден был уйти по домашним делам. Ошибку исправлю." />
+      <item value="Я вынужден был уйти по делам. Ошибку исправлю." />
       <item value="As soon as network solutions change the NS records, the site will be migrated within an hour. In rare cases, it takes longer." />
       <item value="Как только network solutions сменят NS записи сайт будет перенесён в течении часа. В редких случаях это занимает дольше времени." />
       <item value="I prepared everything for my part, it remains to connect an ssl certificate for the site." />
@@ -49,17 +55,11 @@
       <item value="Weird. I'm fine." />
       <item value="Странно. У меня всё хорошо." />
       <item value="I also want to remind you that in case something goes wrong, you can use the restoration of the old version of the page using the revision." />
-      <item value="Так же хочу вам напомнить, на случай если что то пойдёт не так, то можно будет воспользовать восстановлением старой версии страницы с помощью ревизии." />
-      <item value="I also want to remind you that in case something goes wrong, you can use the restoration of the old version of the page." />
-      <item value="Так же хочу вам напомнить, на случай если что то пойдёт не так, то можно будет воспользовать восстановлением старой версии страницы." />
-      <item value="Now I’ll throw off screenshots of the option with the main page and how you can copy the content of the page in Elementor." />
-      <item value="I could offer another option with copying the content from the draft and pasting it into the desired page, after deleting the old content. Now I’ll throw off screenshots of the option with the main page and how you can copy the content of the page in Elementor." />
-      <item value="Я мог бы предложить ещё вариант с копированием контента из черновика и вставке его в нужную страницу, предварительно удалив старый контент. Сейчас скину скрины опции с главной страницей и то как можно копировать контент страницы в Elementor." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6310" />
+        <entry key="ENGLISH" value="6314" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6310" />
+        <entry key="RUSSIAN" value="6314" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647184587904" />
+    <option name="lastTrimTime" value="1647786656589" />
   </component>
 </application>
