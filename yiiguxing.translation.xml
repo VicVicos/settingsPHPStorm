@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Yes. We have already received a similar problem from another client. I will lift a backup copy of a DB." />
+      <item value="Да. Мы уже получили подобную проблему от другого клиента. Буду поднимать резервную копию БД." />
       <item value="Please study the composition of the package WPMUDEV, maybe you will find something else useful for yourself." />
       <item value="Please study the composition of the package, maybe you will find something else useful for yourself." />
       <item value="Пожалуйста изучите состав пакета, может найдёте что-то полезное для себя ещё." />
@@ -53,13 +55,11 @@
       <item value="In General practice, we call Buyer's Premium" />
       <item value="Можно." />
       <item value="This is not necessary in this case, site users will not see it. I will remove this translation line." />
-      <item value="Это не обязательно в данном случае, пользователи сайта это не увидят. Я уберу эту строку перевода." />
-      <item value="I think the problem is on your device. You do not use any proxy connections to the Internet?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6320" />
+        <entry key="ENGLISH" value="6321" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6320" />
+        <entry key="RUSSIAN" value="6321" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
