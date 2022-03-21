@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For change banner on auction page please set Feature images for page you selected." />
+      <item value="You can use shortcode for add form register or login in bidspirit." />
       <item value="overviews" />
       <item value="In order to participate in the auction you need to sign in." />
       <item value="Аналогичная фраза которую мы заменили, встречается и тут. Когда пользователь заполняет данные в профиле, но не получил подтверждения от администрации аукционного дома." />
@@ -53,13 +55,11 @@
       <item value="I installed a plugin that should force connection of resources via https protocol." />
       <item value="Я установил плагин который должен принудительно подключать ресурсы по https проколу." />
       <item value="Я попробую изменить настройки ssl на cloudflare." />
-      <item value="Weird. I'm fine." />
-      <item value="Странно. У меня всё хорошо." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6315" />
+        <entry key="ENGLISH" value="6317" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6315" />
+        <entry key="RUSSIAN" value="6317" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
