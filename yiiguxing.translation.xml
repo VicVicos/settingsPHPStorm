@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Do you know how to make the site findable with a google search? (is this to do with the web design or something else we need to do?)" />
+      <item value="You can make changes in page Terms&amp;Conditions. You have access ti admin panel your site." />
+      <item value="You can make changes in page Terms&amp;Conditions." />
+      <item value="You need make changes in page Terms&amp;Conditions." />
+      <item value="I need to edit the buyer T&amp;Cs as we now charge 20% to buyers, but it is not editable. Please change this but also I need to be able to edit the T&amp;Cs" />
+      <item value="Please could there then be a large picture across the width of the screen that can be changed by us in future. For now please could you see if you can find an auctioneer’s gavel on a leather background (like a leather desktop), please make sure it’s an auctioneer’s gavel not a judges one with legal imagery." />
+      <item value="don’t understand." />
+      <item value="I have a concern with the way the info is being pulled through from bid spirit, it seems to run without a gap from the auction title, time and viewing days which looks a bit messy, please could it be arranged more neatly in the box" />
       <item value="Yes. We have already received a similar problem from another client. I will lift a backup copy of a DB." />
       <item value="Да. Мы уже получили подобную проблему от другого клиента. Буду поднимать резервную копию БД." />
       <item value="Please study the composition of the package WPMUDEV, maybe you will find something else useful for yourself." />
@@ -47,19 +55,11 @@
       <item value="Если остались замечания к картинкам, то лучше пришлите их нам с пометкой что и куда, что бы нам не пришлось гадать. Картинками на сайте будет заниматься нам дизайнер, она как начнёт рабочий день сделает это." />
       <item value="Так хорошо?" />
       <item value="buyer's premium" />
-      <item value="Can we change the name commission as buyer's premium which Christies, Sothebys international auction house and, Luxeford are using the same method. We use the word commission as seller's commission. In this case, price including commission please do not apply to Luxeford, and we don't have goods including commission. Unless, those goods are selling in private sales directly that could be price including buyer's premium" />
-      <item value="In auction, after absentee bids, phone bids, live bids are signed on the blinding agreement that listed Sale number and lot number, customer can see live bidding screen with Sale Number and Lot number. eg. HK0127 Lot 250. So they cannot refuse bidding on the wrong lot and wrong sale number" />
-      <item value="Some auction houses include only the auction house commission in the price of their listings, with no taxes added." />
-      <item value="Некоторые аукционные дома включают в стоимость своих лотов только комиссию аукционного дома без добавления налогов." />
-      <item value="We do not have any item including commission, please explain in details what this is referring to." />
-      <item value="In General practice, we call Buyer's Premium" />
-      <item value="Можно." />
-      <item value="This is not necessary in this case, site users will not see it. I will remove this translation line." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6321" />
+        <entry key="ENGLISH" value="6330" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6321" />
+        <entry key="RUSSIAN" value="6330" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
