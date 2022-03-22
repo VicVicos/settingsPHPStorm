@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="page graciac" />
+      <item value="page gracias" />
       <item value="To do overview" />
       <item value="Do you know how to make the site findable with a google search? (is this to do with the web design or something else we need to do?)" />
       <item value="You can make changes in page Terms&amp;Conditions. You have access ti admin panel your site." />
@@ -53,8 +55,6 @@
       <item value="Я не учёл ваши комментарии с тем что бы сократить шрифт на 10% в некоторых местах" />
       <item value="Shrink" />
       <item value="If there are comments on the pictures, then it is better to send them to us with a note of what and where, so that we do not have to guess. The designer will deal with the pictures on the site, she will do it as soon as she starts the working day." />
-      <item value="Если остались замечания к картинкам, то лучше пришлите их нам с пометкой что и куда, что бы нам не пришлось гадать. Картинками на сайте будет заниматься нам дизайнер, она как начнёт рабочий день сделает это." />
-      <item value="Так хорошо?" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6331" />
+        <entry key="RUSSIAN" value="6332" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -90,7 +90,7 @@
         <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="6" />
         <entry key="HEBREW" value="184" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
