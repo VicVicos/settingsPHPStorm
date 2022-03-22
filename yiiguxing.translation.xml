@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="list primal" />
+      <item value="extension" />
+      <item value="extend" />
       <item value="page graciac" />
       <item value="page gracias" />
       <item value="To do overview" />
@@ -52,14 +55,11 @@
       <item value="Did we forget to do something?" />
       <item value="Мы ни чего не забыли сделать?" />
       <item value="I did not take into account your comments in order to reduce the font by 10% in some places" />
-      <item value="Я не учёл ваши комментарии с тем что бы сократить шрифт на 10% в некоторых местах" />
-      <item value="Shrink" />
-      <item value="If there are comments on the pictures, then it is better to send them to us with a note of what and where, so that we do not have to guess. The designer will deal with the pictures on the site, she will do it as soon as she starts the working day." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6331" />
+        <entry key="ENGLISH" value="6334" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6332" />
+        <entry key="RUSSIAN" value="6334" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
