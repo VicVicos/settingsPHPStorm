@@ -5,6 +5,30 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will let you know how the details from Bidspirit will be." />
+      <item value="Сообщу как будут подробности от Bidspirit." />
+      <item value="I cannot give you an answer to this question." />
+      <item value="Я не могу вам дать ответ на этот вопрос." />
+      <item value="We did changes by your list and we have some questions. Please see your file." />
+      <item value="Please could there then be a large picture across the width of the screen that can be changed by us in future. For now please could you see if you can find an auctioneer’s gavel on a leather background (like a leather desktop), please make sure it’s an auctioneer’s gavel not a judges one with legal imagery." />
+      <item value="Текущая запись не актуальна?" />
+      <item value="You updated spf record? Currently record is don’t actually?" />
+      <item value="We updated spf record? Currently record is don’t actualy?" />
+      <item value="Мы можем перенести ваш сайт на другой сервер." />
+      <item value="Так же вы можете установить плагин для подключения Google Analytics." />
+      <item value="We do not provide support for SEO. But we can help you get started with this. In the list of installed plugins you will find: SmartCrawl Pro." />
+      <item value="Мы не оказываем поддержку для SEO. Но можем помочь для начала работы с этим. В списке установленных плагинов вы найдёте:" />
+      <item value="We need an spf record adding to include the following two sites:" />
+      <item value="Unless with css you can do the task you want, then you will need to override the plugin template." />
+      <item value="Unless with css you can do the task you want, then you will need to override the plugin templates." />
+      <item value="Unless css you can do the task you want, then you will need to override the plugin templates." />
+      <item value="Если только css вы не сможете сделать нужную вам задачу, тогда вам надо будет переопределить шаблоны плагина." />
+      <item value="If you own css, then you can easily do it yourself." />
+      <item value="Если вы владеете css, то вы без проблем можете сделать это самостоятельно." />
+      <item value="We are investigating a load issue on the server." />
+      <item value="A long response when opening a page happens in cases where the page is don't have cache." />
+      <item value="We are investigating a load issue on the server. A long response when opening a page happens in cases where the page is not cached." />
+      <item value="Мы изучаем проблему с нагрузкой на сервере. Долгий ответ при открытии страницы случается в случаях когда страница не закеширована." />
       <item value="We are checking it out." />
       <item value="Do you know how to make the site findable with a google search? (is this to do with the web design or something else we need to do?)" />
       <item value="I received a response from Bidspirit tech support. This is a new feature that is not in the plugin. Now we cannot do it." />
@@ -31,35 +55,11 @@
       <item value="I got a question from Irene, but I can't figure out what she wants." />
       <item value="Я получил вопрос от Irene, но не могу понять что она хочет." />
       <item value="What you mean by ONLINE AUCTIONS?" />
-      <item value="What you mean" />
-      <item value="We will answer your questions later." />
-      <item value="Мы ответим на ваши вопросы позднее." />
-      <item value="Yes, you can install the plugins you require. I don't remember a plugin that could implement your request." />
-      <item value="Да, вы можете устанавливать плагины которые вам требуются. Я не вспомню плагина который бы мог реализовать ваш запрос." />
-      <item value="list primal" />
-      <item value="extension" />
-      <item value="extend" />
-      <item value="page graciac" />
-      <item value="page gracias" />
-      <item value="To do overview" />
-      <item value="You can make changes in page Terms&amp;Conditions. You have access ti admin panel your site." />
-      <item value="You can make changes in page Terms&amp;Conditions." />
-      <item value="You need make changes in page Terms&amp;Conditions." />
-      <item value="I need to edit the buyer T&amp;Cs as we now charge 20% to buyers, but it is not editable. Please change this but also I need to be able to edit the T&amp;Cs" />
-      <item value="Please could there then be a large picture across the width of the screen that can be changed by us in future. For now please could you see if you can find an auctioneer’s gavel on a leather background (like a leather desktop), please make sure it’s an auctioneer’s gavel not a judges one with legal imagery." />
-      <item value="don’t understand." />
-      <item value="I have a concern with the way the info is being pulled through from bid spirit, it seems to run without a gap from the auction title, time and viewing days which looks a bit messy, please could it be arranged more neatly in the box" />
-      <item value="Yes. We have already received a similar problem from another client. I will lift a backup copy of a DB." />
-      <item value="Да. Мы уже получили подобную проблему от другого клиента. Буду поднимать резервную копию БД." />
-      <item value="Please study the composition of the package WPMUDEV, maybe you will find something else useful for yourself." />
-      <item value="Please study the composition of the package, maybe you will find something else useful for yourself." />
-      <item value="Пожалуйста изучите состав пакета, может найдёте что-то полезное для себя ещё." />
-      <item value="Can you add two drag down pages for us as Press Release and Sale Results under Sell with us or About?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6355" />
+        <entry key="ENGLISH" value="6372" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6355" />
+        <entry key="RUSSIAN" value="6372" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
