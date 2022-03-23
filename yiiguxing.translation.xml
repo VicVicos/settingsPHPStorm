@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! We are working on optimizing processes to reduce the load on the server. We can also offer to transfer your site to another server." />
+      <item value="Мы работаем над оптимизацией процессов для снижения нагрузки на сервере. Так же мы можем предложить перенести ваш сайт на другой сервер." />
+      <item value="Страницы которые связаны с плагином аукционов, не изменяются с помощью Elementor." />
+      <item value="Hello! We don't do design changes for clients who only bought the plugin. But you can easily make these changes if you find a person who is engaged in web development." />
+      <item value="Мы не занимаемся изменением дизайна для клиентов которые купили только плагин. Но вы без проблем сможете внести эти изменения если найдёте человека который занимается web-разработкой." />
       <item value="Thanks! And sorry for i don't understand." />
       <item value="И извините за непонимание." />
       <item value="Thanks! And sorry of i don't understand." />
@@ -50,16 +55,11 @@
       <item value="overviews" />
       <item value="In order to participate in the auction you need to sign in." />
       <item value="Аналогичная фраза которую мы заменили, встречается и тут. Когда пользователь заполняет данные в профиле, но не получил подтверждения от администрации аукционного дома." />
-      <item value="Эта фраза встречается и тут. Когда пользователь заполняет данные в профиле, но не получил подтверждения от администрации аукционного дома." />
-      <item value="I had to leave for household chores. I'll fix the mistake." />
-      <item value="Я вынужден был уйти по домашним делам. Ошибку исправлю." />
-      <item value="Я вынужден был уйти по делам. Ошибку исправлю." />
-      <item value="As soon as network solutions change the NS records, the site will be migrated within an hour. In rare cases, it takes longer." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6347" />
+        <entry key="ENGLISH" value="6350" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6347" />
+        <entry key="RUSSIAN" value="6350" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
