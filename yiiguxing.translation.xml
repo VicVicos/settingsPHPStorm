@@ -5,6 +5,22 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Thanks! And sorry for i don't understand." />
+      <item value="И извините за непонимание." />
+      <item value="Thanks! And sorry of i don't understand." />
+      <item value="Thanks! And sorry of i understand." />
+      <item value="Can you contact Andrey Druz and try to explain to him?" />
+      <item value="Вы можете связаться с Andrey Druz и попытаться объяснить ему?" />
+      <item value="Что должно быть на странице?" />
+      <item value="Online Auctions имеют реальную ссылку на данный момент?" />
+      <item value="Sorry, I don't understand what will be on the second tab. Perhaps you are talking about some new Bidspirit feature that we do not have in the plugin. I sent a message to Bidspirit technical support, maybe they will clarify." />
+      <item value="Извините, я не понимаю что будет на второй вкладке. Возможно вы говорите о какой-то новой фиче Bidspirit которой нет у нас в плагине. Я отправил обращение в техническую поддержку Bidspirit, быть может они внесут ясность." />
+      <item value="I got a request from Irene, but I can't figure out what she wants." />
+      <item value="Я получил запрос от Irene, но не могу понять что она хочет." />
+      <item value="I got a question from Irene, but I can't figure out what she wants." />
+      <item value="Я получил вопрос от Irene, но не могу понять что она хочет." />
+      <item value="What you mean by ONLINE AUCTIONS?" />
+      <item value="What you mean" />
       <item value="We will answer your questions later." />
       <item value="Мы ответим на ваши вопросы позднее." />
       <item value="Yes, you can install the plugins you require. I don't remember a plugin that could implement your request." />
@@ -39,27 +55,11 @@
       <item value="Я вынужден был уйти по домашним делам. Ошибку исправлю." />
       <item value="Я вынужден был уйти по делам. Ошибку исправлю." />
       <item value="As soon as network solutions change the NS records, the site will be migrated within an hour. In rare cases, it takes longer." />
-      <item value="Как только network solutions сменят NS записи сайт будет перенесён в течении часа. В редких случаях это занимает дольше времени." />
-      <item value="I prepared everything for my part, it remains to connect an ssl certificate for the site." />
-      <item value="Я всё подготовил со своей стороны, останется подключить ssl сертификат для сайта." />
-      <item value="Сообщите нам" />
-      <item value="Уведомите нас" />
-      <item value="Slow place" />
-      <item value="עברית" />
-      <item value="Our designer wants to offer you a different background for banners. Will send you an example soon." />
-      <item value="Наш дизайнер хочет предложить вам другой вариант заднего фона для баннеров. Скоро скинет вам пример." />
-      <item value="We think that these pictures do not really fit the style of the jewelry business. We would suggest using a darker background." />
-      <item value="Мы думаем что эти картинки не очень подходят к стилю бизнеса который занимается ювелиркой. Мы бы предложили использовать более тёмный фон." />
-      <item value="1. Sorry to say but we don’t like the design, we’re not keen on the marble effect or the way the pictures appear on the banner and we can’t change them" />
-      <item value="I sent you the png file. Can you please try it for the home page?" />
-      <item value="Are you planning to host your site on our server?" />
-      <item value="Вы планируете разместить свой сайт на нашем сервере?" />
-      <item value="или вы сами должны изменить NS записи для вашего домена." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6336" />
+        <entry key="ENGLISH" value="6347" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6336" />
+        <entry key="RUSSIAN" value="6347" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
