@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We will answer your questions later." />
+      <item value="Мы ответим на ваши вопросы позднее." />
+      <item value="Yes, you can install the plugins you require. I don't remember a plugin that could implement your request." />
+      <item value="Да, вы можете устанавливать плагины которые вам требуются. Я не вспомню плагина который бы мог реализовать ваш запрос." />
       <item value="list primal" />
       <item value="extension" />
       <item value="extend" />
@@ -51,15 +55,11 @@
       <item value="Are you planning to host your site on our server?" />
       <item value="Вы планируете разместить свой сайт на нашем сервере?" />
       <item value="или вы сами должны изменить NS записи для вашего домена." />
-      <item value="Past" />
-      <item value="Did we forget to do something?" />
-      <item value="Мы ни чего не забыли сделать?" />
-      <item value="I did not take into account your comments in order to reduce the font by 10% in some places" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6334" />
+        <entry key="ENGLISH" value="6336" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6334" />
+        <entry key="RUSSIAN" value="6336" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
