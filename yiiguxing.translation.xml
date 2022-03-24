@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I just checked the authorization in Bidspirit on a real device and it worked!" />
+      <item value="Я сейчас проверил авторизацию в Bidspirit на реальном устройстве и она заработала!" />
+      <item value="Authorization in the Android studio emulator works, but the error remains on real devices. We assume that the problem may be hiding in the User-Agent header that we changed. Can we consider using another custom header to identify users?" />
+      <item value="Авторизация в эмуляторе Android studio работает, но ошибка остаётся на реальных устройствах. Мы предполагаем что проблема может скрываться в изменённом нами заголовке User-Agent. Можем ли мы рассмотреть вариант с идентификацией пользователей по другому произвольному заголовку?" />
       <item value="Thanks a lot, you are being supper supportive." />
       <item value="It is only a short question since the plugin doesn't work as we were used to. We did everything by ourselves, we don't need a web designer or anything like that. It is only a simple question. And I think it is fair to obtain this tiny help. Thanks a lot, you are being supper suppotive." />
       <item value="It is only a short question since the plugin doesn't work as we were used to." />
@@ -51,15 +55,11 @@
       <item value="Hello! We don't do design changes for clients who only bought the plugin. But you can easily make these changes if you find a person who is engaged in web development." />
       <item value="Мы не занимаемся изменением дизайна для клиентов которые купили только плагин. Но вы без проблем сможете внести эти изменения если найдёте человека который занимается web-разработкой." />
       <item value="Thanks! And sorry for i don't understand." />
-      <item value="И извините за непонимание." />
-      <item value="Thanks! And sorry of i don't understand." />
-      <item value="Thanks! And sorry of i understand." />
-      <item value="Can you contact Andrey Druz and try to explain to him?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6381" />
+        <entry key="ENGLISH" value="6383" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6381" />
+        <entry key="RUSSIAN" value="6383" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
