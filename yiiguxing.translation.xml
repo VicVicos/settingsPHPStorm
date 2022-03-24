@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Thanks a lot, you are being supper supportive." />
+      <item value="It is only a short question since the plugin doesn't work as we were used to. We did everything by ourselves, we don't need a web designer or anything like that. It is only a simple question. And I think it is fair to obtain this tiny help. Thanks a lot, you are being supper suppotive." />
+      <item value="It is only a short question since the plugin doesn't work as we were used to." />
+      <item value="Ok, we did the website ourselves and it works quit good, we don't need any web design we only need him ti tell me where can we find the edit and adjustment tools, since id doesnt't work like other plugins (no way to edit with elementor neither from the wordpress panel). We even tried to do it via CSS codes but it also doesn't change anything. So, please, I don't think it is too much to ask please for the correct CSS code or other edit tools after installing 3 times the plugin because of their fault." />
+      <item value="We asked via whatsapp and one of the boys told me we had n't pay for a web design so he was not going to help." />
+      <item value="After installing it 3 times - which is not optimal for the website - then we saw it was quite complicated to edit anything (letters and colors) so it doesn't look natural in our website." />
+      <item value="Then we were told there was a bug and that we should do everything again. This plugin can't be updated so we had to uninstall and install again from 0, not once but 3 times because they sent us the wrong twice." />
+      <item value="We bought the plugin and installed it 3-4 days ago for the first time. We soon noticed there was something wrong and so we told you via whatsapp." />
+      <item value="Thanks a lot for your support regarding this problem" />
       <item value="Уже присутствует на сайте" />
       <item value="I will let you know how the details from Bidspirit will be." />
       <item value="Сообщу как будут подробности от Bidspirit." />
@@ -46,20 +55,11 @@
       <item value="Thanks! And sorry of i don't understand." />
       <item value="Thanks! And sorry of i understand." />
       <item value="Can you contact Andrey Druz and try to explain to him?" />
-      <item value="Вы можете связаться с Andrey Druz и попытаться объяснить ему?" />
-      <item value="Что должно быть на странице?" />
-      <item value="Online Auctions имеют реальную ссылку на данный момент?" />
-      <item value="Sorry, I don't understand what will be on the second tab. Perhaps you are talking about some new Bidspirit feature that we do not have in the plugin. I sent a message to Bidspirit technical support, maybe they will clarify." />
-      <item value="Извините, я не понимаю что будет на второй вкладке. Возможно вы говорите о какой-то новой фиче Bidspirit которой нет у нас в плагине. Я отправил обращение в техническую поддержку Bidspirit, быть может они внесут ясность." />
-      <item value="I got a request from Irene, but I can't figure out what she wants." />
-      <item value="Я получил запрос от Irene, но не могу понять что она хочет." />
-      <item value="I got a question from Irene, but I can't figure out what she wants." />
-      <item value="Я получил вопрос от Irene, но не могу понять что она хочет." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6372" />
+        <entry key="ENGLISH" value="6381" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6373" />
+        <entry key="RUSSIAN" value="6381" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
