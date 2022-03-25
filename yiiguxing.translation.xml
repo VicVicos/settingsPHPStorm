@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Should I do this plugin update before the next auction?" />
+      <item value="Мне сделать это обновление плагина до начала следующего аукциона?" />
+      <item value="Should I upgrade to the next auction?" />
+      <item value="Мне сделать обновление до следующего аукциона?" />
       <item value="added HK translated" />
       <item value="The essence is that one step worth 16 is missing? Did I get it right?" />
       <item value="I am currently working on the problem you described. The essence of the problem you describe is that one step worth 16 is missing? Did I get it right?" />
@@ -51,15 +55,11 @@
       <item value="We do not provide support for SEO. But we can help you get started with this. In the list of installed plugins you will find: SmartCrawl Pro." />
       <item value="Мы не оказываем поддержку для SEO. Но можем помочь для начала работы с этим. В списке установленных плагинов вы найдёте:" />
       <item value="We need an spf record adding to include the following two sites:" />
-      <item value="Unless with css you can do the task you want, then you will need to override the plugin template." />
-      <item value="Unless with css you can do the task you want, then you will need to override the plugin templates." />
-      <item value="Unless css you can do the task you want, then you will need to override the plugin templates." />
-      <item value="Если только css вы не сможете сделать нужную вам задачу, тогда вам надо будет переопределить шаблоны плагина." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6399" />
+        <entry key="ENGLISH" value="6401" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6399" />
+        <entry key="RUSSIAN" value="6401" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
