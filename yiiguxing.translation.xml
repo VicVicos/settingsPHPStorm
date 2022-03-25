@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="LEADING BID SURPASSED" />
       <item value="I'll check now. We've seen similar problems before." />
       <item value="Сейчас проверю. Мы уже встречали подобные проблемы." />
       <item value="I reinstalled the plugin and now the synchronization works." />
@@ -54,12 +55,11 @@
       <item value="Мы проверяем это." />
       <item value="results to dictionary" />
       <item value="Hello! We are working on optimizing processes to reduce the load on the server. We can also offer to transfer your site to another server." />
-      <item value="Мы работаем над оптимизацией процессов для снижения нагрузки на сервере. Так же мы можем предложить перенести ваш сайт на другой сервер." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6385" />
+        <entry key="ENGLISH" value="6386" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6385" />
+        <entry key="RUSSIAN" value="6386" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
