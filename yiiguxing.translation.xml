@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="leading bid surpassed" />
       <item value="request Body" />
       <item value="LEADING BID SURPASSED" />
       <item value="I'll check now. We've seen similar problems before." />
@@ -54,12 +55,11 @@
       <item value="I received a response from Bidspirit tech support. This is a new feature that is not in the plugin. Now we cannot do it." />
       <item value="Я получил ответ от технической поддержки Bidspirit. Это новая фича которой нет в плагине. Сейчас мы не можем сделать это." />
       <item value="Мы проверяем это." />
-      <item value="results to dictionary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6387" />
+        <entry key="ENGLISH" value="6388" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6387" />
+        <entry key="RUSSIAN" value="6388" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
