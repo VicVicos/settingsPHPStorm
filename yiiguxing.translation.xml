@@ -6,6 +6,7 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="response to bidspirit" />
+      <item value="request to firebase" />
       <item value="Item live soon alert" />
       <item value="some string" />
       <item value="hard string" />
@@ -54,12 +55,11 @@
       <item value="A long response when opening a page happens in cases where the page is don't have cache." />
       <item value="We are investigating a load issue on the server. A long response when opening a page happens in cases where the page is not cached." />
       <item value="Мы изучаем проблему с нагрузкой на сервере. Долгий ответ при открытии страницы случается в случаях когда страница не закеширована." />
-      <item value="We are checking it out." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6392" />
+        <entry key="ENGLISH" value="6394" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6392" />
+        <entry key="RUSSIAN" value="6394" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
