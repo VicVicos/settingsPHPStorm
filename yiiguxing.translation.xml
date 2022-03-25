@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Previously, identification was based on the auction number field." />
+      <item value="And one important point. Auctions after 1.9.x version are now identified by id from Bidspirit." />
+      <item value="And one important point. Auctions in before 1.9.x version are now identified by id from Bidspirit." />
+      <item value="И один важный момент. Аукционы теперь идентифицируются по id из Bidspirit. Ранее идентификация была по полю auction number." />
+      <item value="Very strange, I remember exactly that in the morning I checked many times that everything was working well." />
+      <item value="Очень странно, я точно помню что утром я много раз проверял что всё хорошо работает." />
+      <item value="Я проверю проблему на uniquesandantiques." />
+      <item value="but updating to version 1.9.x.x is not yet available from the admin panel, for the reason that many clients require manual updating of some points." />
+      <item value="но обновление до версии 1.9.x.x пока не доступно из админ панели, по той причине что для многих клиентов требуется ручное обновление некоторых моментов." />
       <item value="Should I do this plugin update before the next auction?" />
       <item value="Мне сделать это обновление плагина до начала следующего аукциона?" />
       <item value="Should I upgrade to the next auction?" />
@@ -46,20 +55,11 @@
       <item value="I cannot give you an answer to this question." />
       <item value="Я не могу вам дать ответ на этот вопрос." />
       <item value="We did changes by your list and we have some questions. Please see your file." />
-      <item value="Please could there then be a large picture across the width of the screen that can be changed by us in future. For now please could you see if you can find an auctioneer’s gavel on a leather background (like a leather desktop), please make sure it’s an auctioneer’s gavel not a judges one with legal imagery." />
-      <item value="Текущая запись не актуальна?" />
-      <item value="You updated spf record? Currently record is don’t actually?" />
-      <item value="We updated spf record? Currently record is don’t actualy?" />
-      <item value="Мы можем перенести ваш сайт на другой сервер." />
-      <item value="Так же вы можете установить плагин для подключения Google Analytics." />
-      <item value="We do not provide support for SEO. But we can help you get started with this. In the list of installed plugins you will find: SmartCrawl Pro." />
-      <item value="Мы не оказываем поддержку для SEO. Но можем помочь для начала работы с этим. В списке установленных плагинов вы найдёте:" />
-      <item value="We need an spf record adding to include the following two sites:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6401" />
+        <entry key="ENGLISH" value="6407" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6401" />
+        <entry key="RUSSIAN" value="6407" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
