@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Or you can give us access and we will transfer records management to ourselves on cloudflare." />
+      <item value="Или вы можете предоставить нам доступ и мы перенесём управление записями к себе на cloudflare." />
+      <item value="I didn't find your domain with us. Therefore, I assumed that you did not transfer NS records to us. You need to go to the admin panel of the service where you bought the domain and find the section with DNS records and make the appropriate changes." />
+      <item value="Я не нашёл ваш домен у нас. Поэтому, предположил что NS записи вы нам не передавали. Надо зайти админ панель сервиса где вы покупали домен и найти раздел с DNS записями и внести соответствующие изменения." />
+      <item value="We finished migrated your site on new server. Please update NS records A type on 75.119.143.179. Also, we recommended use Cloudflare as NS server." />
+      <item value="We finished migrated your site on new server. Please update NS record A type on 75.119.143.179. Also, we recommended use Cloudflare as NS server." />
+      <item value="We finished migrated tour site on new server. Please update NS record A type on 75.119.143.179. Also we recommended use Cloudflare as NS server." />
       <item value="In the plugin, we must implement the display of non-automatic auctions separately from automatic ones?" />
       <item value="В плагине мы должны реализовать отображение не автоматических аукционов отдельно от автоматических?" />
       <item value="Automatic auctions are conducted with a timer - each lot has a certain amount of seconds and then it is closed and the system is moving to the next lot. Non automatic auctions are managed by an auctioneer which decides when the lot is closed. Auciton house can configure each auciton each auction in the way they want that it will e conducted" />
@@ -48,18 +55,11 @@
       <item value="notify" />
       <item value="response to bidspirit" />
       <item value="request to firebase" />
-      <item value="Item live soon alert" />
-      <item value="some string" />
-      <item value="hard string" />
-      <item value="leading bid surpassed" />
-      <item value="request Body" />
-      <item value="LEADING BID SURPASSED" />
-      <item value="I'll check now. We've seen similar problems before." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6424" />
+        <entry key="ENGLISH" value="6429" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6424" />
+        <entry key="RUSSIAN" value="6429" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
