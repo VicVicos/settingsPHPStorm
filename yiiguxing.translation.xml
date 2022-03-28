@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="iphone wife" />
+      <item value="iphone wifes" />
+      <item value="wife iphone" />
+      <item value="wife devices" />
+      <item value="It helps a lot." />
+      <item value="Это очень помогает." />
+      <item value="Пожалуйста! И спасибо что помогаете." />
+      <item value="There is nothing strange. The moment I missed, and it was related to the last update." />
+      <item value="Ни чего странного нет. Момент который я упустил, и он был связан с последним обновлением." />
       <item value="Previously, identification was based on the auction number field." />
       <item value="And one important point. Auctions after 1.9.x version are now identified by id from Bidspirit." />
       <item value="And one important point. Auctions in before 1.9.x version are now identified by id from Bidspirit." />
@@ -46,20 +55,11 @@
       <item value="Ok, we did the website ourselves and it works quit good, we don't need any web design we only need him ti tell me where can we find the edit and adjustment tools, since id doesnt't work like other plugins (no way to edit with elementor neither from the wordpress panel). We even tried to do it via CSS codes but it also doesn't change anything. So, please, I don't think it is too much to ask please for the correct CSS code or other edit tools after installing 3 times the plugin because of their fault." />
       <item value="We asked via whatsapp and one of the boys told me we had n't pay for a web design so he was not going to help." />
       <item value="After installing it 3 times - which is not optimal for the website - then we saw it was quite complicated to edit anything (letters and colors) so it doesn't look natural in our website." />
-      <item value="Then we were told there was a bug and that we should do everything again. This plugin can't be updated so we had to uninstall and install again from 0, not once but 3 times because they sent us the wrong twice." />
-      <item value="We bought the plugin and installed it 3-4 days ago for the first time. We soon noticed there was something wrong and so we told you via whatsapp." />
-      <item value="Thanks a lot for your support regarding this problem" />
-      <item value="Уже присутствует на сайте" />
-      <item value="I will let you know how the details from Bidspirit will be." />
-      <item value="Сообщу как будут подробности от Bidspirit." />
-      <item value="I cannot give you an answer to this question." />
-      <item value="Я не могу вам дать ответ на этот вопрос." />
-      <item value="We did changes by your list and we have some questions. Please see your file." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6407" />
+        <entry key="ENGLISH" value="6414" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6407" />
+        <entry key="RUSSIAN" value="6414" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
