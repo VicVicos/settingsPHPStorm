@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can you add the itemId field in the response - lot ID in the response for the LEADING_BID_SURPASSED webhook?" />
+      <item value="This will make it easier for us to get a picture for the lot." />
+      <item value="Это упростит нам возможность получить картинку для лота." />
+      <item value="Can you add the itemId field in the response - the lot ID in the response for the LEADING_BID_SURPASSED webhook?" />
+      <item value="Можете ли вы добавить в ответ поле itemId - идентификатор лота в ответ для вебхука LEADING_BID_SURPASSED?" />
       <item value="iphone wife" />
       <item value="iphone wifes" />
       <item value="wife iphone" />
@@ -50,16 +55,11 @@
       <item value="Authorization in the Android studio emulator works, but the error remains on real devices. We assume that the problem may be hiding in the User-Agent header that we changed. Can we consider using another custom header to identify users?" />
       <item value="Авторизация в эмуляторе Android studio работает, но ошибка остаётся на реальных устройствах. Мы предполагаем что проблема может скрываться в изменённом нами заголовке User-Agent. Можем ли мы рассмотреть вариант с идентификацией пользователей по другому произвольному заголовку?" />
       <item value="Thanks a lot, you are being supper supportive." />
-      <item value="It is only a short question since the plugin doesn't work as we were used to. We did everything by ourselves, we don't need a web designer or anything like that. It is only a simple question. And I think it is fair to obtain this tiny help. Thanks a lot, you are being supper suppotive." />
-      <item value="It is only a short question since the plugin doesn't work as we were used to." />
-      <item value="Ok, we did the website ourselves and it works quit good, we don't need any web design we only need him ti tell me where can we find the edit and adjustment tools, since id doesnt't work like other plugins (no way to edit with elementor neither from the wordpress panel). We even tried to do it via CSS codes but it also doesn't change anything. So, please, I don't think it is too much to ask please for the correct CSS code or other edit tools after installing 3 times the plugin because of their fault." />
-      <item value="We asked via whatsapp and one of the boys told me we had n't pay for a web design so he was not going to help." />
-      <item value="After installing it 3 times - which is not optimal for the website - then we saw it was quite complicated to edit anything (letters and colors) so it doesn't look natural in our website." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6414" />
+        <entry key="ENGLISH" value="6417" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6414" />
+        <entry key="RUSSIAN" value="6417" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
