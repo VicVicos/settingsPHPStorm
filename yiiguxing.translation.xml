@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In the plugin, we must implement the display of non-automatic auctions separately from automatic ones?" />
+      <item value="В плагине мы должны реализовать отображение не автоматических аукционов отдельно от автоматических?" />
+      <item value="Automatic auctions are conducted with a timer - each lot has a certain amount of seconds and then it is closed and the system is moving to the next lot. Non automatic auctions are managed by an auctioneer which decides when the lot is closed. Auciton house can configure each auciton each auction in the way they want that it will e conducted" />
+      <item value="Please, can you provide more details about this feature?" />
+      <item value="Please, can we provide more details about this feature?" />
+      <item value="Please, we provided more details about this feature?" />
+      <item value="Please, can we provided more details about this feature?" />
+      <item value="Ask to explain" />
       <item value="Can you add the itemId field in the response - lot ID in the response for the LEADING_BID_SURPASSED webhook?" />
       <item value="This will make it easier for us to get a picture for the lot." />
       <item value="Это упростит нам возможность получить картинку для лота." />
@@ -47,19 +55,11 @@
       <item value="request Body" />
       <item value="LEADING BID SURPASSED" />
       <item value="I'll check now. We've seen similar problems before." />
-      <item value="Сейчас проверю. Мы уже встречали подобные проблемы." />
-      <item value="I reinstalled the plugin and now the synchronization works." />
-      <item value="Я переустановил плагин и сейчас синхронизация работает." />
-      <item value="I just checked the authorization in Bidspirit on a real device and it worked!" />
-      <item value="Я сейчас проверил авторизацию в Bidspirit на реальном устройстве и она заработала!" />
-      <item value="Authorization in the Android studio emulator works, but the error remains on real devices. We assume that the problem may be hiding in the User-Agent header that we changed. Can we consider using another custom header to identify users?" />
-      <item value="Авторизация в эмуляторе Android studio работает, но ошибка остаётся на реальных устройствах. Мы предполагаем что проблема может скрываться в изменённом нами заголовке User-Agent. Можем ли мы рассмотреть вариант с идентификацией пользователей по другому произвольному заголовку?" />
-      <item value="Thanks a lot, you are being supper supportive." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6417" />
+        <entry key="ENGLISH" value="6424" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6417" />
+        <entry key="RUSSIAN" value="6424" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
