@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="?מעוניינים להשתתף" />
       <item value="Or you can give us access and we will transfer records management to ourselves on cloudflare." />
       <item value="Или вы можете предоставить нам доступ и мы перенесём управление записями к себе на cloudflare." />
       <item value="I didn't find your domain with us. Therefore, I assumed that you did not transfer NS records to us. You need to go to the admin panel of the service where you bought the domain and find the section with DNS records and make the appropriate changes." />
@@ -54,7 +55,6 @@
       <item value="Суть проблемы описываемой вами в том что пропущен один шаг стоимостью 16? Я верно понял?" />
       <item value="notify" />
       <item value="response to bidspirit" />
-      <item value="request to firebase" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="6" />
-        <entry key="HEBREW" value="184" />
+        <entry key="HEBREW" value="185" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
