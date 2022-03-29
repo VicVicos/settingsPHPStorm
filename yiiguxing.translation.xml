@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Я забыл это исправить." />
       <item value="Синхронизация выполняется автоматически. Я прослежу за этим." />
       <item value="Auctions must be synced again for this to work." />
       <item value="Аукционы должны пройти синхронизацию повтороно что бы это заработало." />
@@ -54,12 +55,11 @@
       <item value="There is nothing strange. The moment I missed, and it was related to the last update." />
       <item value="Ни чего странного нет. Момент который я упустил, и он был связан с последним обновлением." />
       <item value="Previously, identification was based on the auction number field." />
-      <item value="And one important point. Auctions after 1.9.x version are now identified by id from Bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6439" />
+        <entry key="ENGLISH" value="6440" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6440" />
+        <entry key="RUSSIAN" value="6441" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
