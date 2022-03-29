@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The lot_estimated_price_int field is not created for many lots." />
+      <item value="Не создаётся поле lot_estimated_price_int для многих лотов." />
+      <item value="Я упустил" />
+      <item value="We have not yet fully discussed this issue. Can you send a screenshot from the Bidspirit admin where you specify the categories for the auction?" />
+      <item value="Этот вопрос мы так и не обсудили до конца. Можете скинуть скрин из админки Bidspirit где вы указываете категории для аукциона?" />
+      <item value="Я поставлю исправление этого бага в разработку." />
+      <item value="Я очистил кеш на сайте для надёжности." />
+      <item value="The start time of the auction I see is the same on the site and on Bidspirit." />
+      <item value="Время начала аукциона я вижу одинаковое на сайте и на Bidspirit." />
       <item value="I have forwarded your message to" />
       <item value="Я передал ваше сообщение к" />
       <item value="I think you haven't finished setting up the plugin for Google Analytics." />
@@ -46,20 +55,11 @@
       <item value="And one important point. Auctions in before 1.9.x version are now identified by id from Bidspirit." />
       <item value="И один важный момент. Аукционы теперь идентифицируются по id из Bidspirit. Ранее идентификация была по полю auction number." />
       <item value="Very strange, I remember exactly that in the morning I checked many times that everything was working well." />
-      <item value="Очень странно, я точно помню что утром я много раз проверял что всё хорошо работает." />
-      <item value="Я проверю проблему на uniquesandantiques." />
-      <item value="but updating to version 1.9.x.x is not yet available from the admin panel, for the reason that many clients require manual updating of some points." />
-      <item value="но обновление до версии 1.9.x.x пока не доступно из админ панели, по той причине что для многих клиентов требуется ручное обновление некоторых моментов." />
-      <item value="Should I do this plugin update before the next auction?" />
-      <item value="Мне сделать это обновление плагина до начала следующего аукциона?" />
-      <item value="Should I upgrade to the next auction?" />
-      <item value="Мне сделать обновление до следующего аукциона?" />
-      <item value="added HK translated" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6432" />
+        <entry key="ENGLISH" value="6438" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6432" />
+        <entry key="RUSSIAN" value="6438" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
