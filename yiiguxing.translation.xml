@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We can enable analytics without Google. The plugin has its own metric, we can try it." />
+      <item value="Мы можем включить аналитику без Google. В плагин встроена своя метрика, можем её попробовать." />
+      <item value="Do not know. You can see the information in these articles. Maybe you missed something?" />
+      <item value="Do not know. You can see the information in these articles. Maybe they missed something?" />
+      <item value="Не знаю. Можете посмотреть информацию в этих статьях. Может, упустили чего?" />
       <item value="this auction seems to have been completely re-synced." />
       <item value="It's still in the sync process. https:www.cadmoreauctions.co.ukauction254-two-day-general?part=1 this auction seems to have been completely re-synced." />
       <item value="Сортировка. Это ещё в процессе синхронизации. https:www.cadmoreauctions.co.ukauction254-two-day-general?part=1 вот этот аукцион похоже полностью пересинхронизировался." />
@@ -50,16 +55,11 @@
       <item value="This will make it easier for us to get a picture for the lot." />
       <item value="Это упростит нам возможность получить картинку для лота." />
       <item value="Can you add the itemId field in the response - the lot ID in the response for the LEADING_BID_SURPASSED webhook?" />
-      <item value="Можете ли вы добавить в ответ поле itemId - идентификатор лота в ответ для вебхука LEADING_BID_SURPASSED?" />
-      <item value="iphone wife" />
-      <item value="iphone wifes" />
-      <item value="wife iphone" />
-      <item value="wife devices" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6445" />
+        <entry key="ENGLISH" value="6448" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6445" />
+        <entry key="RUSSIAN" value="6448" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
