@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="outer-tab" />
       <item value="Please write the Hebrew word &quot;Overview&quot;" />
       <item value="Пожалуйста напишите на Иврите слово &quot;Overview&quot;" />
       <item value="This will be received by the user with the status" />
@@ -54,12 +55,11 @@
       <item value="INCOMPLETE PROFILE" />
       <item value="I feel like I'm not using it properly. It should be shown to all users who just entered the site and did not log in. Right?" />
       <item value="Мне кажется я её не по назначению использую. Она должна быть показана всем пользователям которые просто зашли на сайт и не авторизовались. Верно?" />
-      <item value="Мне кажется я её не по назначению использую. Она должна быть показана всем пользователям которые просто зашли на сайт и не авторизовались." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6497" />
+        <entry key="ENGLISH" value="6498" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6497" />
+        <entry key="RUSSIAN" value="6498" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
