@@ -5,6 +5,25 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For which of the statuses should we display which messages?" />
+      <item value="Для какого из статусов мы должны выводить какие сообщения?" />
+      <item value="After approval, the user receives the status:" />
+      <item value="После одобрения пользователь получает статус:" />
+      <item value="After the user get status:" />
+      <item value="After the user receives the status:" />
+      <item value="After the user receives the status: APPROVED." />
+      <item value="После пользователь получает статус: APPROVED." />
+      <item value="When the administration must confirm his registration and allow him to place bets in Bidspirit." />
+      <item value="Когда администрация должна подтвердить его регистрацию и разрешить делать ставки в Bidspirit." />
+      <item value="When the user must complete their profile. And after saving the changes, it gets the status." />
+      <item value="Когда пользователь должен заполнить свой профиль. И после сохранения изменений он получает статус." />
+      <item value="There are three statuses for authorized users." />
+      <item value="Для авторизованных пользователей есть три статуса." />
+      <item value="INCOMPLETE PROFILE" />
+      <item value="I feel like I'm not using it properly. It should be shown to all users who just entered the site and did not log in. Right?" />
+      <item value="Мне кажется я её не по назначению использую. Она должна быть показана всем пользователям которые просто зашли на сайт и не авторизовались. Верно?" />
+      <item value="Мне кажется я её не по назначению использую. Она должна быть показана всем пользователям которые просто зашли на сайт и не авторизовались." />
+      <item value="И вот эта фраза" />
       <item value="In order to participate in the auction you need to sign in." />
       <item value="The complexity of this task is that I'm a little confused. Let's clarify some points." />
       <item value="Сложность этой задачи в том что я немного запутался. Давайте уточним некоторые моменты." />
@@ -36,30 +55,11 @@
       <item value="We have not yet fully discussed this issue. Can you send a screenshot from the Bidspirit admin where you specify the categories for the auction?" />
       <item value="Этот вопрос мы так и не обсудили до конца. Можете скинуть скрин из админки Bidspirit где вы указываете категории для аукциона?" />
       <item value="Я поставлю исправление этого бага в разработку." />
-      <item value="Я очистил кеш на сайте для надёжности." />
-      <item value="The start time of the auction I see is the same on the site and on Bidspirit." />
-      <item value="Время начала аукциона я вижу одинаковое на сайте и на Bidspirit." />
-      <item value="I have forwarded your message to" />
-      <item value="Я передал ваше сообщение к" />
-      <item value="I think you haven't finished setting up the plugin for Google Analytics." />
-      <item value="Я думаю вы не завершили настройку плагина для Google Analytics." />
-      <item value="Fixed. The page for the profile was not selected in the plugin settings." />
-      <item value="В настройках плагина не была выбрана страница для профиля." />
-      <item value="?מעוניינים להשתתף" />
-      <item value="Or you can give us access and we will transfer records management to ourselves on cloudflare." />
-      <item value="Или вы можете предоставить нам доступ и мы перенесём управление записями к себе на cloudflare." />
-      <item value="I didn't find your domain with us. Therefore, I assumed that you did not transfer NS records to us. You need to go to the admin panel of the service where you bought the domain and find the section with DNS records and make the appropriate changes." />
-      <item value="Я не нашёл ваш домен у нас. Поэтому, предположил что NS записи вы нам не передавали. Надо зайти админ панель сервиса где вы покупали домен и найти раздел с DNS записями и внести соответствующие изменения." />
-      <item value="We finished migrated your site on new server. Please update NS records A type on 75.119.143.179. Also, we recommended use Cloudflare as NS server." />
-      <item value="We finished migrated your site on new server. Please update NS record A type on 75.119.143.179. Also, we recommended use Cloudflare as NS server." />
-      <item value="We finished migrated tour site on new server. Please update NS record A type on 75.119.143.179. Also we recommended use Cloudflare as NS server." />
-      <item value="In the plugin, we must implement the display of non-automatic auctions separately from automatic ones?" />
-      <item value="В плагине мы должны реализовать отображение не автоматических аукционов отдельно от автоматических?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6456" />
+        <entry key="ENGLISH" value="6469" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6456" />
+        <entry key="RUSSIAN" value="6469" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
