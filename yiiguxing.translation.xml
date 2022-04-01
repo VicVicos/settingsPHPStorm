@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Wrong someting" />
       <item value="auction-follow" />
       <item value="auction alert print" />
       <item value="We can give you a website to host on your host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
@@ -54,12 +55,11 @@
       <item value="I’ve taken a screen shot, can you see how there is no gap before the 10.30 (the start time of the auction) so the text runs straight into it, and it would make more sense if the time was near the date not mixed up within the text, then it goes straight to the viewing dates where the time is more clear, but I think if someone looked at this quickly they would think the auction time was 10 - 6. It would be better if the viewing day info was separated by a space" />
       <item value="This recommendation is required if you have many auctions and they have many lots." />
       <item value="Hello! For more reliable synchronization with Bidspirit, we recommend setting it up from the server side using cron tasks. You can find out more in the user manual:" />
-      <item value="Hello! Для более надёжной синхронизации с Bidspirit мы рекомендуем настроить её запуск со стороны сервера с помощью cron задач. Подробнее вы можете узнать в инструкции пользователя: https:docs.google.comdocumentd1pB01I5nv8cXUynJR-g-i95JjPxCgencKt279M8rwikAeditheading=h.8np1wpqu4047 Эта рекомендация обязательна если вы имеете много аукционов и они имеют много лотов." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6511" />
+        <entry key="ENGLISH" value="6512" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6511" />
+        <entry key="RUSSIAN" value="6512" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
