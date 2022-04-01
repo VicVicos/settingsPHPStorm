@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We can give you a website to host on your host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
+      <item value="We can give you a website to host on our host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
+      <item value="Мы можем передать вам сайт для размещения на своём хосте. В таком случае вы лишаетесь поддержки в работе сайта, мы сможем только оказывать вам поддержку в работе плагина." />
+      <item value="This page shows links to the authorization and registration form for non-authorized users. If the user is authorized, he will see information about his account. We would not recommend removing this menu item. I don't understand what design differences you're talking about." />
+      <item value="Эта страница показывает ссылки на форму авторизации и регистрации для не авторизованных пользователей. Если пользователь авторизован, он увидит информацию о своём аккаунте. Мы бы не рекомендовали убирать этот пункт меню. О каких отличиях с дизайном вы говорите я не пойму." />
+      <item value="Эта страница показывает ссылки на форму авторизации и регистрации для не авторизованных пользователей. Если пользователь авторизован, он увидит информацию о своём аккаунте." />
+      <item value="last thing - on the black menu at the bottom there is a &quot;profile&quot; page which is the old design, I'm not sure what this is for I think it can just be removed, unless its needed for people to log in (in which case please could you make it look like the others)" />
+      <item value="Here are the lots marked in the admin panel of the site, pictures and text are selected automatically. I removed one lot. You can also make your own gallery with Elementor." />
+      <item value="Here are the lots marked in the admin panel of the site, pictures and text are selected automatically. I removed one item. You can also make your own gallery with Elementor." />
+      <item value="2. Здесь представлены лоты отмеченные в админ панели сайта, картинки и текст выбирается автоматически. Я убрал один лот. Так же вы можете сделать с помощью Elementor свою галерею." />
       <item value="Have you access to domain registrator admin panel?" />
       <item value="Have you access to domain registrator admin panel? I will try to help you." />
       <item value="Have you access to domain register admin panel? I will try to help you." />
@@ -45,21 +55,11 @@
       <item value="Hello! Для более надёжной синхронизации с Bidspirit мы рекомендуем настроить её запуск со стороны сервера с помощью cron задач. Подробнее вы можете узнать в инструкции пользователя: https:docs.google.comdocumentd1pB01I5nv8cXUynJR-g-i95JjPxCgencKt279M8rwikAeditheading=h.8np1wpqu4047 Эта рекомендация обязательна если вы имеете много аукционов и они имеют много лотов." />
       <item value="For which of the statuses should we display which messages?" />
       <item value="Для какого из статусов мы должны выводить какие сообщения?" />
-      <item value="After approval, the user receives the status:" />
-      <item value="После одобрения пользователь получает статус:" />
-      <item value="After the user get status:" />
-      <item value="After the user receives the status:" />
-      <item value="After the user receives the status: APPROVED." />
-      <item value="После пользователь получает статус: APPROVED." />
-      <item value="When the administration must confirm his registration and allow him to place bets in Bidspirit." />
-      <item value="Когда администрация должна подтвердить его регистрацию и разрешить делать ставки в Bidspirit." />
-      <item value="When the user must complete their profile. And after saving the changes, it gets the status." />
-      <item value="Когда пользователь должен заполнить свой профиль. И после сохранения изменений он получает статус." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6502" />
+        <entry key="ENGLISH" value="6509" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6502" />
+        <entry key="RUSSIAN" value="6509" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
