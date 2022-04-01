@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="auction-follow" />
+      <item value="auction alert print" />
       <item value="We can give you a website to host on your host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
       <item value="We can give you a website to host on our host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
       <item value="Мы можем передать вам сайт для размещения на своём хосте. В таком случае вы лишаетесь поддержки в работе сайта, мы сможем только оказывать вам поддержку в работе плагина." />
@@ -53,13 +55,11 @@
       <item value="This recommendation is required if you have many auctions and they have many lots." />
       <item value="Hello! For more reliable synchronization with Bidspirit, we recommend setting it up from the server side using cron tasks. You can find out more in the user manual:" />
       <item value="Hello! Для более надёжной синхронизации с Bidspirit мы рекомендуем настроить её запуск со стороны сервера с помощью cron задач. Подробнее вы можете узнать в инструкции пользователя: https:docs.google.comdocumentd1pB01I5nv8cXUynJR-g-i95JjPxCgencKt279M8rwikAeditheading=h.8np1wpqu4047 Эта рекомендация обязательна если вы имеете много аукционов и они имеют много лотов." />
-      <item value="For which of the statuses should we display which messages?" />
-      <item value="Для какого из статусов мы должны выводить какие сообщения?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6509" />
+        <entry key="ENGLISH" value="6511" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6509" />
+        <entry key="RUSSIAN" value="6511" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
