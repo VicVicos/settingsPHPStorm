@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\env(key,default)" />
+        <added pattern="\md5(string,binary)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

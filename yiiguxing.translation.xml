@@ -1,0 +1,105 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1095" />
+    <option name="newTranslationDialogY" value="618" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="Wrong someting" />
+      <item value="auction-follow" />
+      <item value="auction alert print" />
+      <item value="We can give you a website to host on your host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
+      <item value="We can give you a website to host on our host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
+      <item value="Мы можем передать вам сайт для размещения на своём хосте. В таком случае вы лишаетесь поддержки в работе сайта, мы сможем только оказывать вам поддержку в работе плагина." />
+      <item value="This page shows links to the authorization and registration form for non-authorized users. If the user is authorized, he will see information about his account. We would not recommend removing this menu item. I don't understand what design differences you're talking about." />
+      <item value="Эта страница показывает ссылки на форму авторизации и регистрации для не авторизованных пользователей. Если пользователь авторизован, он увидит информацию о своём аккаунте. Мы бы не рекомендовали убирать этот пункт меню. О каких отличиях с дизайном вы говорите я не пойму." />
+      <item value="Эта страница показывает ссылки на форму авторизации и регистрации для не авторизованных пользователей. Если пользователь авторизован, он увидит информацию о своём аккаунте." />
+      <item value="last thing - on the black menu at the bottom there is a &quot;profile&quot; page which is the old design, I'm not sure what this is for I think it can just be removed, unless its needed for people to log in (in which case please could you make it look like the others)" />
+      <item value="Here are the lots marked in the admin panel of the site, pictures and text are selected automatically. I removed one lot. You can also make your own gallery with Elementor." />
+      <item value="Here are the lots marked in the admin panel of the site, pictures and text are selected automatically. I removed one item. You can also make your own gallery with Elementor." />
+      <item value="2. Здесь представлены лоты отмеченные в админ панели сайта, картинки и текст выбирается автоматически. Я убрал один лот. Так же вы можете сделать с помощью Elementor свою галерею." />
+      <item value="Have you access to domain registrator admin panel?" />
+      <item value="Have you access to domain registrator admin panel? I will try to help you." />
+      <item value="Have you access to domain register admin panel? I will try to help you." />
+      <item value="Have you access to admin panel domain register? I will try to help you." />
+      <item value="Я постараюсь вам помочь." />
+      <item value="outer-tab" />
+      <item value="Please write the Hebrew word &quot;Overview&quot;" />
+      <item value="Пожалуйста напишите на Иврите слово &quot;Overview&quot;" />
+      <item value="This will be received by the user with the status" />
+      <item value="Это получит пользователь со статусом" />
+      <item value="Thank you for joining us! Just a few more details to complete your registration and we\'re all done :)" />
+      <item value="Please complete your registration to participate in our auctions." />
+      <item value="Your account is pending approval. You will receive an email when you are approved to bid." />
+      <item value="Featured items" />
+      <item value="Feature items" />
+      <item value="About add auction to add, Arbel ask to add button to auction also" />
+      <item value="Then syncing with Wordpress should handle it." />
+      <item value="Тогда синхронизация средством Wordpress должна справиться с этим." />
+      <item value="Do you have completed auctions on Bidspirit?" />
+      <item value="Вы имеете завершённые аукциона на Bidspirit?" />
+      <item value="Although it is not so important, it is important if they will have 1000 lots. In this case, it must be done." />
+      <item value="Хотя это не так важно, важно если они будут иметь по 1000 лотов. В этом случае это сделать обязательно." />
+      <item value="В общем много аукционов. Хотя это не так важно, важно если они будут иметь по 1000 лотов. В этом случае это сделать обязательно." />
+      <item value="В общем много старых аукционов. Хотя это не так важно, важно если они будут иметь по 1000 лотов. В этом случае это сделать обязательно." />
+      <item value="Ok. Let's us know as Network solution do it." />
+      <item value="Ok. Let's us know as Network solution did change." />
+      <item value="Good. I did changes in main slide and added spf record." />
+      <item value="Good. I maked changes in main slide and added spf record." />
+      <item value="Good. I make changes in main slide and added spf record." />
+      <item value="now it is not actual" />
+      <item value="I didn’t do this, maybe it was taken from our old site? I don’t really understand this part but I know it needs to say exactly what was shown, and the easy live line seems to have an IP address in the middle of it? also the Amazonses part needs adding, and this is so all the bid spirit emails don’t go into recipient junk (as happened for the last auction), so it’s very important that this is added in (Bid Spirit admin gave me that info)" />
+      <item value="You updated spf record? Is the current post not up to date?" />
+      <item value="OK thanks, because the demo site was no longer editable I couldn’t see what I could and couldn't change, as long as I can that’s fine" />
+      <item value="I have a concern with the way the info is being pulled through from bid spirit, it seems to run without a gap from the auction title, time and viewing days which looks a bit messy, please could it be arranged more neatly in the box" />
+      <item value="I’ve taken a screen shot, can you see how there is no gap before the 10.30 (the start time of the auction) so the text runs straight into it, and it would make more sense if the time was near the date not mixed up within the text, then it goes straight to the viewing dates where the time is more clear, but I think if someone looked at this quickly they would think the auction time was 10 - 6. It would be better if the viewing day info was separated by a space" />
+      <item value="This recommendation is required if you have many auctions and they have many lots." />
+      <item value="Hello! For more reliable synchronization with Bidspirit, we recommend setting it up from the server side using cron tasks. You can find out more in the user manual:" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="6512" />
+        <entry key="ARABIC" value="1" />
+        <entry key="AZERBAIJANI" value="4" />
+        <entry key="BELARUSIAN" value="1" />
+        <entry key="BULGARIAN" value="3" />
+        <entry key="POLISH" value="2" />
+        <entry key="DANISH" value="3" />
+        <entry key="GERMAN" value="2" />
+        <entry key="RUSSIAN" value="6512" />
+        <entry key="FRENCH" value="7" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="FINNISH" value="2" />
+        <entry key="FRISIAN" value="1" />
+        <entry key="DUTCH" value="3" />
+        <entry key="CATALAN" value="3" />
+        <entry key="CZECH" value="1" />
+        <entry key="CORSICAN" value="2" />
+        <entry key="KURDISH" value="1" />
+        <entry key="LATIN" value="2" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="ROMANIAN" value="8" />
+        <entry key="MALTESE" value="1" />
+        <entry key="MACEDONIAN" value="2" />
+        <entry key="BENGALI" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="9" />
+        <entry key="SWEDISH" value="9" />
+        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SOMALI" value="1" />
+        <entry key="TELUGU" value="1" />
+        <entry key="TURKISH" value="2" />
+        <entry key="SPANISH" value="6" />
+        <entry key="HEBREW" value="185" />
+        <entry key="ITALIAN" value="5" />
+        <entry key="HINDI" value="2" />
+        <entry key="INDONESIAN" value="4" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1648693119900" />
+  </component>
+</application>

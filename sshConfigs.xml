@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="vicosb.beget.tech" id="5ddbae81-92c7-46d5-b03b-97ebe56e918d" port="22" customName="uco_vocis.dev" nameFormat="CUSTOM" username="vicosb_uco" useOpenSSHConfig="true">
+        <option name="customName" value="uco_vocis.dev" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
