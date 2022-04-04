@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Второй пункт. Вы говорите об этом?" />
+      <item value="Do you want to remove the banners with the hammer picture and just make the heading on a white background like on other pages?" />
+      <item value="Вы хотите убрать баннеры с картинкой молотка и сделать просто заголовок на белом фоне как на других страницах?" />
       <item value="I forgot what parameter I can use to change the date of the last auction. Can you remind? It was necessary to add some kind of get parameter." />
       <item value="Я забыл с помощью какого параметра я могу изменить дату прошедшего аукциона. Можете напомнить? Добавить какой то гет параметр надо было." />
       <item value="I forgotten why change auction date for helpfull get params?" />
@@ -52,14 +55,11 @@
       <item value="Featured items" />
       <item value="Feature items" />
       <item value="About add auction to add, Arbel ask to add button to auction also" />
-      <item value="Then syncing with Wordpress should handle it." />
-      <item value="Тогда синхронизация средством Wordpress должна справиться с этим." />
-      <item value="Do you have completed auctions on Bidspirit?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6529" />
+        <entry key="ENGLISH" value="6530" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6529" />
+        <entry key="RUSSIAN" value="6531" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
