@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For auction which splits on days. How determine day number on webhook AUCTION_STARTS_SOON?" />
+      <item value="For auction which splits on days. How determine number day on webhook AUCTION_STARTS_SOON?" />
+      <item value="For an auction that is divided number day, how do we define the number day for the webHook AUCTION_STARTS_SOON" />
+      <item value="For an auction that is divided into days, how do we define the number day for the webHook AUCTION_STARTS_SOON" />
+      <item value="For an auction that is divided into days, how do we define the number for the webHook AUCTION_STARTS_SOON" />
+      <item value="Для аукциона, который делится на дни, как мы определяем номер для в webHook AUCTION_STARTS_SOON" />
+      <item value="For auction which splits on days," />
+      <item value="For auction which splits on days" />
+      <item value="For which auction splits on days" />
+      <item value="For which auction split on days" />
       <item value="device Tokens For Users" />
       <item value="devices Token For Users" />
       <item value="devices Tokens For Users" />
@@ -45,21 +55,11 @@
       <item value="Вы имеете завершённые аукциона на Bidspirit?" />
       <item value="Although it is not so important, it is important if they will have 1000 lots. In this case, it must be done." />
       <item value="Хотя это не так важно, важно если они будут иметь по 1000 лотов. В этом случае это сделать обязательно." />
-      <item value="В общем много аукционов. Хотя это не так важно, важно если они будут иметь по 1000 лотов. В этом случае это сделать обязательно." />
-      <item value="В общем много старых аукционов. Хотя это не так важно, важно если они будут иметь по 1000 лотов. В этом случае это сделать обязательно." />
-      <item value="Ok. Let's us know as Network solution do it." />
-      <item value="Ok. Let's us know as Network solution did change." />
-      <item value="Good. I did changes in main slide and added spf record." />
-      <item value="Good. I maked changes in main slide and added spf record." />
-      <item value="Good. I make changes in main slide and added spf record." />
-      <item value="now it is not actual" />
-      <item value="I didn’t do this, maybe it was taken from our old site? I don’t really understand this part but I know it needs to say exactly what was shown, and the easy live line seems to have an IP address in the middle of it? also the Amazonses part needs adding, and this is so all the bid spirit emails don’t go into recipient junk (as happened for the last auction), so it’s very important that this is added in (Bid Spirit admin gave me that info)" />
-      <item value="You updated spf record? Is the current post not up to date?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6517" />
+        <entry key="ENGLISH" value="6527" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6517" />
+        <entry key="RUSSIAN" value="6527" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
