@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I forgot what parameter I can use to change the date of the last auction. Can you remind? It was necessary to add some kind of get parameter." />
+      <item value="Я забыл с помощью какого параметра я могу изменить дату прошедшего аукциона. Можете напомнить? Добавить какой то гет параметр надо было." />
+      <item value="I forgotten why change auction date for helpfull get params?" />
       <item value="For auction which splits on days. How determine day number on webhook AUCTION_STARTS_SOON?" />
       <item value="For auction which splits on days. How determine number day on webhook AUCTION_STARTS_SOON?" />
       <item value="For an auction that is divided number day, how do we define the number day for the webHook AUCTION_STARTS_SOON" />
@@ -52,14 +55,11 @@
       <item value="Then syncing with Wordpress should handle it." />
       <item value="Тогда синхронизация средством Wordpress должна справиться с этим." />
       <item value="Do you have completed auctions on Bidspirit?" />
-      <item value="Вы имеете завершённые аукциона на Bidspirit?" />
-      <item value="Although it is not so important, it is important if they will have 1000 lots. In this case, it must be done." />
-      <item value="Хотя это не так важно, важно если они будут иметь по 1000 лотов. В этом случае это сделать обязательно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6527" />
+        <entry key="ENGLISH" value="6529" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6527" />
+        <entry key="RUSSIAN" value="6529" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
