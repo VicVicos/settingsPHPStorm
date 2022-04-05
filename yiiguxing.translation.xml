@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Earlier, Arbel showed me how, using some kind of get parameter, I could change the start date of the auction which. I forgot what this parameter is. The essence of the problem is that I would debug notifications in the application, I need a live auction, and each time creating a new one is not very convenient." />
+      <item value="Ранее Арбель мне показывал с как с помощью какого то get параметра я мог изменить дату начала аукциона который. Я забыл что это за параметр. Суть проблемы в том что бы мне отладить уведомления в приложении мне нужен живой аукцион, а каждый раз создавать новый не очень удобно." />
       <item value="As for the part of the site that is made not in Elementor, please describe here more precisely what you want to do." />
       <item value="As for the part of the site that is made in Elementor, please describe here more precisely what you want to do." />
       <item value="As for the part of the part that is made in Elementor, please describe here more precisely what you want to do." />
@@ -53,13 +55,11 @@
       <item value="2. Здесь представлены лоты отмеченные в админ панели сайта, картинки и текст выбирается автоматически. Я убрал один лот. Так же вы можете сделать с помощью Elementor свою галерею." />
       <item value="Have you access to domain registrator admin panel?" />
       <item value="Have you access to domain registrator admin panel? I will try to help you." />
-      <item value="Have you access to domain register admin panel? I will try to help you." />
-      <item value="Have you access to admin panel domain register? I will try to help you." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6538" />
+        <entry key="ENGLISH" value="6539" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6538" />
+        <entry key="RUSSIAN" value="6539" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
