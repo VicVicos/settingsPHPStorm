@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="As for the part of the site that is made not in Elementor, please describe here more precisely what you want to do." />
+      <item value="As for the part of the site that is made in Elementor, please describe here more precisely what you want to do." />
+      <item value="As for the part of the part that is made in Elementor, please describe here more precisely what you want to do." />
+      <item value="То что касается части часта которая сделана на Elementor, тут пожалкйста опишите более точно что вы хотите сделать." />
+      <item value="I think you can easily find a YouTube video on how to make a Blog with Elementor Pro." />
+      <item value="Я думаю вы без труда найдёте видео на YouTube о том как сделать Blog на Elementor Pro." />
+      <item value="Создать блог вы можете без проблем." />
+      <item value="The client can change everything he wants on the site on his own with what is done using the Elementor plugin." />
+      <item value="Клиент может менять на сайте всё что хочет самостоятельно с тем что сделано с помощью плагина Elementor." />
+      <item value="The client can change to do whatever he wants on his own with what is done using the Elementor plugin." />
+      <item value="Клиент может менять делать всё что хочет самостоятельно с тем что сделано с помощью плагина Elementor." />
       <item value="even" />
       <item value="Второй пункт. Вы говорите об этом?" />
       <item value="Do you want to remove the banners with the hammer picture and just make the heading on a white background like on other pages?" />
@@ -44,22 +55,11 @@
       <item value="Have you access to domain registrator admin panel? I will try to help you." />
       <item value="Have you access to domain register admin panel? I will try to help you." />
       <item value="Have you access to admin panel domain register? I will try to help you." />
-      <item value="Я постараюсь вам помочь." />
-      <item value="outer-tab" />
-      <item value="Please write the Hebrew word &quot;Overview&quot;" />
-      <item value="Пожалуйста напишите на Иврите слово &quot;Overview&quot;" />
-      <item value="This will be received by the user with the status" />
-      <item value="Это получит пользователь со статусом" />
-      <item value="Thank you for joining us! Just a few more details to complete your registration and we\'re all done :)" />
-      <item value="Please complete your registration to participate in our auctions." />
-      <item value="Your account is pending approval. You will receive an email when you are approved to bid." />
-      <item value="Featured items" />
-      <item value="Feature items" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6531" />
+        <entry key="ENGLISH" value="6538" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6531" />
+        <entry key="RUSSIAN" value="6538" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
