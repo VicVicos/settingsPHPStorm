@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Open need page for notification click" />
+      <item value="Open need page for click notification" />
+      <item value="I will try to use &quot;state&quot; field validation in this case." />
+      <item value="I will try to use state field validation in this case." />
+      <item value="Я попробую использовать проверку поля state в данном случае." />
+      <item value="I also received a request from an Ansuini client. I am attaching a screenshot. The lot seems to have a bid, but it is not sold at the end of the auction." />
+      <item value="I'd like to get back to solving the problem with an Ansuiniaste client." />
+      <item value="Я бы хотел вернуть к решению проблемы у клиента Ansuiniaste." />
+      <item value="Yes, that seems like the right thing to do." />
+      <item value="Да, это похоже на то что надо сделать." />
+      <item value="Let's leave this moment then." />
+      <item value="Тогда оставим этот момент." />
       <item value="time Shift" />
       <item value="The time is displayed without of the user's time zone." />
       <item value="The time is displayed regardless of the user's time zone." />
@@ -43,23 +55,11 @@
       <item value="device Tokens For Users" />
       <item value="devices Token For Users" />
       <item value="devices Tokens For Users" />
-      <item value="Are there changes only on the main page?" />
-      <item value="Изменения есть только на главной странице?" />
-      <item value="Wrong someting" />
-      <item value="auction-follow" />
-      <item value="auction alert print" />
-      <item value="We can give you a website to host on your host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
-      <item value="We can give you a website to host on our host. In this case, you lose support in the operation of the site, we can only provide you with support in the operation of the plugin." />
-      <item value="Мы можем передать вам сайт для размещения на своём хосте. В таком случае вы лишаетесь поддержки в работе сайта, мы сможем только оказывать вам поддержку в работе плагина." />
-      <item value="This page shows links to the authorization and registration form for non-authorized users. If the user is authorized, he will see information about his account. We would not recommend removing this menu item. I don't understand what design differences you're talking about." />
-      <item value="Эта страница показывает ссылки на форму авторизации и регистрации для не авторизованных пользователей. Если пользователь авторизован, он увидит информацию о своём аккаунте. Мы бы не рекомендовали убирать этот пункт меню. О каких отличиях с дизайном вы говорите я не пойму." />
-      <item value="Эта страница показывает ссылки на форму авторизации и регистрации для не авторизованных пользователей. Если пользователь авторизован, он увидит информацию о своём аккаунте." />
-      <item value="last thing - on the black menu at the bottom there is a &quot;profile&quot; page which is the old design, I'm not sure what this is for I think it can just be removed, unless its needed for people to log in (in which case please could you make it look like the others)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6544" />
+        <entry key="ENGLISH" value="6552" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6544" />
+        <entry key="RUSSIAN" value="6552" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
