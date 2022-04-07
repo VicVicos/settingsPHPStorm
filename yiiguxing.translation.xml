@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will talk to Andrey about this at the next team call." />
+      <item value="I will talk to Andrey about this at the next phone call." />
+      <item value="Я поговорю с Андреем об этом на ближайшем созвоне." />
+      <item value="What client are you doing this for? And did I understand correctly that you are using the All in one SEO Pack plugin?" />
+      <item value="Для какого клиента вы это делаете? И верно я понял что вы используете плагин All in one SEO Pack?" />
+      <item value="I think that if the SEO plugin allows you to intervene in the social media widget generation code, then it can be improved. But I will have to discuss this with Andrey Druz." />
+      <item value="Я думаю что если SEO плагин позволит вмешаться в код формирования виджета для социальных сетей, то можно будет доработать. Но я должен буду обсудить это с Андреем Druz." />
+      <item value="I think that just changing the plugin settings will not do it, since we don't store Bidspirit photos on the site." />
+      <item value="Since we don't store Bidspirit photos on the site, they simply don't come from anywhere." />
+      <item value="Так как мы не храним фотографии Bidspirit на сайте, то им просто не откуда взяться." />
+      <item value="I think that just changing the plugin settings will not do it." />
+      <item value="Думаю что просто так изменив настройки плагина этого не сделать." />
       <item value="JSON UNESCAPED UNICODE" />
       <item value="Да. Ваш домен управляется нами. Что вы хотите изменить?" />
       <item value="Да. Ваш домен управляется нами. Что вы хотите добавить?" />
@@ -43,23 +55,11 @@
       <item value="even" />
       <item value="Второй пункт. Вы говорите об этом?" />
       <item value="Do you want to remove the banners with the hammer picture and just make the heading on a white background like on other pages?" />
-      <item value="Вы хотите убрать баннеры с картинкой молотка и сделать просто заголовок на белом фоне как на других страницах?" />
-      <item value="I forgot what parameter I can use to change the date of the last auction. Can you remind? It was necessary to add some kind of get parameter." />
-      <item value="Я забыл с помощью какого параметра я могу изменить дату прошедшего аукциона. Можете напомнить? Добавить какой то гет параметр надо было." />
-      <item value="I forgotten why change auction date for helpfull get params?" />
-      <item value="For auction which splits on days. How determine day number on webhook AUCTION_STARTS_SOON?" />
-      <item value="For auction which splits on days. How determine number day on webhook AUCTION_STARTS_SOON?" />
-      <item value="For an auction that is divided number day, how do we define the number day for the webHook AUCTION_STARTS_SOON" />
-      <item value="For an auction that is divided into days, how do we define the number day for the webHook AUCTION_STARTS_SOON" />
-      <item value="For an auction that is divided into days, how do we define the number for the webHook AUCTION_STARTS_SOON" />
-      <item value="Для аукциона, который делится на дни, как мы определяем номер для в webHook AUCTION_STARTS_SOON" />
-      <item value="For auction which splits on days," />
-      <item value="For auction which splits on days" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6555" />
+        <entry key="ENGLISH" value="6563" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6555" />
+        <entry key="RUSSIAN" value="6563" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
