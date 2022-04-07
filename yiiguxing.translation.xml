@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If you have an instruction with changes to MX records, please let us know." />
+      <item value="Если у вас будет инструкция с изменениями MX записей, пожалуйста сообщите нам." />
+      <item value="The work of mail should remain as before. Nothing should change." />
+      <item value="Работа почты должна остаться как и ранее. Ни чего не должно поменяться." />
+      <item value="Сообщите нам что вы хотите изменить и мы сделаем это." />
+      <item value="I changed only that records. All other records left without change." />
+      <item value="I changed only that records. All other records lost without change." />
+      <item value="We will leave everything unchanged, we will only need to change the A record for the main domain." />
+      <item value="Мы оставим всё без изменений, нам нужно будет изменить только A запись для основного домена." />
       <item value="Can you grant access to your account for me to try?" />
       <item value="Вы можете предоставить доступ к своему аккаунту что бы я попробовал это сделать?" />
       <item value="You found that records?" />
@@ -46,20 +55,11 @@
       <item value="The time is displayed regardless of the user's time zone." />
       <item value="regard" />
       <item value="Время отображается без учёта часового пояса пользователя." />
-      <item value="Earlier, Arbel showed me how, using some kind of get parameter, I could change the start date of the auction which. I forgot what this parameter is. The essence of the problem is that I would debug notifications in the application, I need a live auction, and each time creating a new one is not very convenient." />
-      <item value="Ранее Арбель мне показывал с как с помощью какого то get параметра я мог изменить дату начала аукциона который. Я забыл что это за параметр. Суть проблемы в том что бы мне отладить уведомления в приложении мне нужен живой аукцион, а каждый раз создавать новый не очень удобно." />
-      <item value="As for the part of the site that is made not in Elementor, please describe here more precisely what you want to do." />
-      <item value="As for the part of the site that is made in Elementor, please describe here more precisely what you want to do." />
-      <item value="As for the part of the part that is made in Elementor, please describe here more precisely what you want to do." />
-      <item value="То что касается части часта которая сделана на Elementor, тут пожалкйста опишите более точно что вы хотите сделать." />
-      <item value="I think you can easily find a YouTube video on how to make a Blog with Elementor Pro." />
-      <item value="Я думаю вы без труда найдёте видео на YouTube о том как сделать Blog на Elementor Pro." />
-      <item value="Создать блог вы можете без проблем." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6569" />
+        <entry key="ENGLISH" value="6576" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6569" />
+        <entry key="RUSSIAN" value="6576" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
