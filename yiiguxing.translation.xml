@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="JSON UNESCAPED UNICODE" />
       <item value="Да. Ваш домен управляется нами. Что вы хотите изменить?" />
       <item value="Да. Ваш домен управляется нами. Что вы хотите добавить?" />
       <item value="I got as far as solving the issue you described earlier, but I can't upload the update to the site because the FTP connection is down again." />
@@ -54,12 +55,11 @@
       <item value="Для аукциона, который делится на дни, как мы определяем номер для в webHook AUCTION_STARTS_SOON" />
       <item value="For auction which splits on days," />
       <item value="For auction which splits on days" />
-      <item value="For which auction splits on days" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6554" />
+        <entry key="ENGLISH" value="6555" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
