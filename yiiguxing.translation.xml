@@ -5,6 +5,28 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In the &quot;Overview fields&quot; the featured lots are selected as a comma-separated list of numbers." />
+      <item value="В &quot;Overview fields&quot; избранные лоты выбираются как список номеров разделённый запятой." />
+      <item value="Это &quot;Overview fields&quot; которые заполняются в админ панели при редактировании обзора." />
+      <item value="It is Overview fields, witch fillable ion admin panel." />
+      <item value="It is Overview fields, when fillable ion admin panel." />
+      <item value="This is a list of selected lots in the auction, which are marked with a checkmark on the lot editing page." />
+      <item value="Это список избранных лотов в аукционе которые отмечаются галочкой на странице редактирования лота." />
+      <item value="Title, main content and featured image us Overview." />
+      <item value="Title, main content and featured image Overview current." />
+      <item value="Title, main content and featured image current Overview." />
+      <item value="Title, main content and featured image currently Overview." />
+      <item value="Save changes." />
+      <item value="Establish a connection between the Auction and Overview into page editing auction." />
+      <item value="Fill in the required content. Please see the Test Overview as an example." />
+      <item value="Заполните нужный контент. Пожалуйста, изучите как пример тестовый Overview." />
+      <item value="Заполните нужный контент." />
+      <item value="Fillable need content" />
+      <item value="Establish a connection between the Auction and Overview" />
+      <item value="Установить связь между Аукционом и Overview" />
+      <item value="Нам нужны доступы к вашего хостингу." />
+      <item value="Мы можем начать перенос вашего сайта на ваш хостинг." />
+      <item value="Пожалуйста сообщите мне MX записи которые я должен добавить." />
       <item value="If you have an instruction with changes to MX records, please let us know." />
       <item value="Если у вас будет инструкция с изменениями MX записей, пожалуйста сообщите нам." />
       <item value="The work of mail should remain as before. Nothing should change." />
@@ -33,33 +55,11 @@
       <item value="Так как мы не храним фотографии Bidspirit на сайте, то им просто не откуда взяться." />
       <item value="I think that just changing the plugin settings will not do it." />
       <item value="Думаю что просто так изменив настройки плагина этого не сделать." />
-      <item value="JSON UNESCAPED UNICODE" />
-      <item value="Да. Ваш домен управляется нами. Что вы хотите изменить?" />
-      <item value="Да. Ваш домен управляется нами. Что вы хотите добавить?" />
-      <item value="I got as far as solving the issue you described earlier, but I can't upload the update to the site because the FTP connection is down again." />
-      <item value="Я дошёл до решения проблемы описанной вами ранее, но не смогу загрузить обновление на сайт, так как FTP соединение снова не работает." />
-      <item value="Open need page for notification click" />
-      <item value="Open need page for click notification" />
-      <item value="I will try to use &quot;state&quot; field validation in this case." />
-      <item value="I will try to use state field validation in this case." />
-      <item value="Я попробую использовать проверку поля state в данном случае." />
-      <item value="I also received a request from an Ansuini client. I am attaching a screenshot. The lot seems to have a bid, but it is not sold at the end of the auction." />
-      <item value="I'd like to get back to solving the problem with an Ansuiniaste client." />
-      <item value="Я бы хотел вернуть к решению проблемы у клиента Ansuiniaste." />
-      <item value="Yes, that seems like the right thing to do." />
-      <item value="Да, это похоже на то что надо сделать." />
-      <item value="Let's leave this moment then." />
-      <item value="Тогда оставим этот момент." />
-      <item value="time Shift" />
-      <item value="The time is displayed without of the user's time zone." />
-      <item value="The time is displayed regardless of the user's time zone." />
-      <item value="regard" />
-      <item value="Время отображается без учёта часового пояса пользователя." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6576" />
+        <entry key="ENGLISH" value="6594" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6576" />
+        <entry key="RUSSIAN" value="6594" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
