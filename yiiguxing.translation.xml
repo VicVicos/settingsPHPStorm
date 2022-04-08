@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="hang Picture" />
+      <item value="повешать картину" />
       <item value="image On Wall" />
       <item value="Hello! We fixed filter by category on your site. Please check. But i found 3 auction's whitch used this features." />
       <item value="In the &quot;Overview fields&quot; the featured lots are selected as a comma-separated list of numbers." />
@@ -53,13 +55,11 @@
       <item value="I think that if the SEO plugin allows you to intervene in the social media widget generation code, then it can be improved. But I will have to discuss this with Andrey Druz." />
       <item value="Я думаю что если SEO плагин позволит вмешаться в код формирования виджета для социальных сетей, то можно будет доработать. Но я должен буду обсудить это с Андреем Druz." />
       <item value="I think that just changing the plugin settings will not do it, since we don't store Bidspirit photos on the site." />
-      <item value="Since we don't store Bidspirit photos on the site, they simply don't come from anywhere." />
-      <item value="Так как мы не храним фотографии Bidspirit на сайте, то им просто не откуда взяться." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6597" />
+        <entry key="ENGLISH" value="6598" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6597" />
+        <entry key="RUSSIAN" value="6598" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
