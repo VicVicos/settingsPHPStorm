@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Which auction are you talking about?" />
+      <item value="О каком из аукционов вы говорите?" />
+      <item value="About witch auction talk you?" />
       <item value="hang Picture" />
       <item value="повешать картину" />
       <item value="image On Wall" />
@@ -52,14 +55,11 @@
       <item value="Я поговорю с Андреем об этом на ближайшем созвоне." />
       <item value="What client are you doing this for? And did I understand correctly that you are using the All in one SEO Pack plugin?" />
       <item value="Для какого клиента вы это делаете? И верно я понял что вы используете плагин All in one SEO Pack?" />
-      <item value="I think that if the SEO plugin allows you to intervene in the social media widget generation code, then it can be improved. But I will have to discuss this with Andrey Druz." />
-      <item value="Я думаю что если SEO плагин позволит вмешаться в код формирования виджета для социальных сетей, то можно будет доработать. Но я должен буду обсудить это с Андреем Druz." />
-      <item value="I think that just changing the plugin settings will not do it, since we don't store Bidspirit photos on the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6598" />
+        <entry key="ENGLISH" value="6600" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6598" />
+        <entry key="RUSSIAN" value="6600" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
