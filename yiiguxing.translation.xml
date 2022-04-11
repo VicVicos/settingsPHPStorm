@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Really. Perhaps I made a mistake somewhere when transferring to a new server. I'll check now." />
+      <item value="Действительно. Возможно я где то ошибся при переносе на новый сервер. Сейчас проверю." />
       <item value="Plugin developers have such a great opportunity as &quot;Custom Datastore&quot; and could offer their own solution for storing meta data in a separate table, this would solve a lot of WP problems." />
       <item value="Разработчики плагина имеют такую прекрасную возможность как &quot;Custom Datastore&quot; и могли бы предложить своё решение для хранения мета данных в отдельной таблице это бы решило множество проблем WP." />
       <item value="If the plugin developers had such a great opportunity as &quot;Custom Datastore&quot; and offered their own solution for storing meta data in a separate table, this would solve a lot of WP problems." />
@@ -53,13 +55,11 @@
       <item value="It is Overview fields, when fillable ion admin panel." />
       <item value="This is a list of selected lots in the auction, which are marked with a checkmark on the lot editing page." />
       <item value="Это список избранных лотов в аукционе которые отмечаются галочкой на странице редактирования лота." />
-      <item value="Title, main content and featured image us Overview." />
-      <item value="Title, main content and featured image Overview current." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6625" />
+        <entry key="ENGLISH" value="6626" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6625" />
+        <entry key="RUSSIAN" value="6626" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
