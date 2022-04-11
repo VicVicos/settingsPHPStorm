@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Styles background" />
+      <item value="Image on Wall" />
       <item value="Past auctions are synced less often, 1 time in 5 days. I started the synchronization manually." />
       <item value="Я запустил синхронизацию в ручную." />
       <item value="I run sync in manual" />
@@ -53,13 +55,11 @@
       <item value="Сообщите нам что вы хотите изменить и мы сделаем это." />
       <item value="I changed only that records. All other records left without change." />
       <item value="I changed only that records. All other records lost without change." />
-      <item value="We will leave everything unchanged, we will only need to change the A record for the main domain." />
-      <item value="Мы оставим всё без изменений, нам нужно будет изменить только A запись для основного домена." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6609" />
+        <entry key="ENGLISH" value="6611" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6609" />
+        <entry key="RUSSIAN" value="6611" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
