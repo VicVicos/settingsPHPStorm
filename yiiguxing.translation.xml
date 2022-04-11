@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please, if you want to do it yourself, check out the instructions on how to work with Elementor and the basics on the site. If you want us to do it, send us a file with edits that need to be done." />
+      <item value="Пожалуйста, если вы хотите сделать это самостоятельно изучите инструкции о том как работать с Elementor и с базовыми вещами на сайте. Если вы хотите что мы это сделали, пришлите нам файл с правками которые надо сделать." />
       <item value="remove comments and customize for custom post types" />
       <item value="Make changes on site you can on dev site and we will migrate your site on Fast Host." />
       <item value="Make changes on site you can on dev site and after we will migrate your site on Fast Host." />
@@ -53,13 +55,11 @@
       <item value="You fined that records?" />
       <item value="You finded that records?" />
       <item value="You finded this records?" />
-      <item value="Measurement with frame:" />
-      <item value="I will talk to Andrey about this at the next team call." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6604" />
+        <entry key="ENGLISH" value="6605" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6604" />
+        <entry key="RUSSIAN" value="6605" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
