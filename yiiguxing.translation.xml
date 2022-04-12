@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I removed all lots from auction 10. Old lots interfered and produced copies." />
+      <item value="Я удалил все лоты из 10 аукциона. Старые лоты мешали и плодили копии." />
       <item value="Yes, I think there was a problem and without the update it would not have been solved. I haven't received this issue in a long time." />
       <item value="Да тут думаю проблема была и без обновления она бы не решилась. Я давно не получал обращений с этой проблемой." />
       <item value="Да тут думаю проблема была и без обновления она бы не решилась." />
@@ -53,13 +55,11 @@
       <item value="повешать картину" />
       <item value="image On Wall" />
       <item value="Hello! We fixed filter by category on your site. Please check. But i found 3 auction's whitch used this features." />
-      <item value="In the &quot;Overview fields&quot; the featured lots are selected as a comma-separated list of numbers." />
-      <item value="В &quot;Overview fields&quot; избранные лоты выбираются как список номеров разделённый запятой." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6629" />
+        <entry key="ENGLISH" value="6630" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6629" />
+        <entry key="RUSSIAN" value="6630" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
