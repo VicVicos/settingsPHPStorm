@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Yes, I think there was a problem and without the update it would not have been solved. I haven't received this issue in a long time." />
+      <item value="Да тут думаю проблема была и без обновления она бы не решилась. Я давно не получал обращений с этой проблемой." />
+      <item value="Да тут думаю проблема была и без обновления она бы не решилась." />
+      <item value="Yes. Now the auction will be synchronized again and the problem will go away. I updated the plugin, I think these problems were in an earlier version of the plugin." />
+      <item value="Да. Сейчас аукцион пройдёт синхронизацию ещё раз и проблема уйдёт. Я обновил плагин, думаю эти проблемы были в более ранней версии плагина." />
       <item value="Really. Perhaps I made a mistake somewhere when transferring to a new server. I'll check now." />
       <item value="Действительно. Возможно я где то ошибся при переносе на новый сервер. Сейчас проверю." />
       <item value="Plugin developers have such a great opportunity as &quot;Custom Datastore&quot; and could offer their own solution for storing meta data in a separate table, this would solve a lot of WP problems." />
@@ -50,16 +55,11 @@
       <item value="Hello! We fixed filter by category on your site. Please check. But i found 3 auction's whitch used this features." />
       <item value="In the &quot;Overview fields&quot; the featured lots are selected as a comma-separated list of numbers." />
       <item value="В &quot;Overview fields&quot; избранные лоты выбираются как список номеров разделённый запятой." />
-      <item value="Это &quot;Overview fields&quot; которые заполняются в админ панели при редактировании обзора." />
-      <item value="It is Overview fields, witch fillable ion admin panel." />
-      <item value="It is Overview fields, when fillable ion admin panel." />
-      <item value="This is a list of selected lots in the auction, which are marked with a checkmark on the lot editing page." />
-      <item value="Это список избранных лотов в аукционе которые отмечаются галочкой на странице редактирования лота." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6626" />
+        <entry key="ENGLISH" value="6629" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6626" />
+        <entry key="RUSSIAN" value="6629" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
