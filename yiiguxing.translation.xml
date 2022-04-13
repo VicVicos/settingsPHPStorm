@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I understand what you want, but I don't see where this block is displayed." />
+      <item value="Я вас понимаю что вы хотите, но я не вижу, где этот блок отображается." />
       <item value="Link on admin panel: astemercatinodelgioiello.itadmin_74891 but, you setup redirect for all pages and we can't get access for it." />
       <item value="I think you missed a field when setting up this block." />
       <item value="Я думаю, что у вы пропустили поле при настройке этого блока." />
@@ -53,13 +55,11 @@
       <item value="Past auctions are synced less often, 1 time in 5 days." />
       <item value="Прошлые аукционы синхронизируются реже. 1 раз в 5 дней." />
       <item value="Какой номер аукциона?" />
-      <item value="Please, if you want to do it yourself, check out the instructions on how to work with Elementor and the basics on the site. If you want us to do it, send us a file with edits that need to be done." />
-      <item value="Пожалуйста, если вы хотите сделать это самостоятельно изучите инструкции о том как работать с Elementor и с базовыми вещами на сайте. Если вы хотите что мы это сделали, пришлите нам файл с правками которые надо сделать." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6637" />
+        <entry key="ENGLISH" value="6638" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6637" />
+        <entry key="RUSSIAN" value="6638" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
