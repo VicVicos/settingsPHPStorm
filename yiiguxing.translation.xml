@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The fact that auction 184 in English has content in Hebrew I will check." />
+      <item value="То что аукцион 184 на английском имеет контент на Иврите я проверю." />
       <item value="I'll write it in the code on their website." />
       <item value="Я пропишу это в коде у них на сайте." />
       <item value="But I think that it is necessary to show Estimate price always for this client and not depend on this option." />
@@ -53,13 +55,11 @@
       <item value="Это происходит при любых запросах на поиск значений для мета полей начинающихся с &quot;_&quot; (_crb_field_name), т.е. под это попадают все поля созданные Carbon Fields. Изменение параметров meta_compare, meta_compare_key для WP_Query ни как не меняет запрос." />
       <item value="Select Background Style" />
       <item value="Select List Style" />
-      <item value="Select Style List" />
-      <item value="Styles background" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6642" />
+        <entry key="ENGLISH" value="6643" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6642" />
+        <entry key="RUSSIAN" value="6643" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
