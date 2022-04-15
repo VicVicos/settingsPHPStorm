@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Allow me to write an appeal to technical fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
+      <item value="Allow me to write an appeal to those. fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
+      <item value="Разрешите мне написать обращение в тех. поддержку fasthosts. Я не пойму как сменить пакет для домена chardauctions.co.uk с Website Builder Essential на WP Hosting." />
+      <item value="I see your site is attached to the fasthosts site builder, but to use WordPress hosting you need to purchase a separate package." />
+      <item value="Я вижу ваш сайт прикреплён к конструктору сайтов на fasthosts, но что бы воспользоваться WordPress хостингом нужно приобрести отдельный пакет." />
       <item value="Вы не меняли ни чего не меняли на сайте сегодня?" />
       <item value="Please watch the video instructions for working the site." />
       <item value="Sorry. I do not understand you. But if you want to make a block of these elements but manage the content manually, you can make it with the tools that Elementor Pro provides. On YouTube, you will find many instructions on how to work with Elementor. The module that we provide selects lots manually selected on the lot of editing page. Please watch the video instructions for using the site." />
@@ -50,16 +55,11 @@
       <item value="Данное решение частичное и не используется на проекте на котором я столкнулся с проблемой очень медленных запросов на поиск по мета-полям. Это решение я использую для сохранения значений которые не используются для фильтрации записей по мета-полям и возможно оно ещё потребует доработки." />
       <item value="This solution is partial and is not used on the project on which I encountered the problem of very slow search queries by meta fields. I use this solution to store values that are not used to filter posts by meta fields." />
       <item value="Данное решение частичное и не используется на проекте на котором я столкнулся с проблемой очень медленных запросов на поиск по мета-полям. Это решение я использую для сохранения значений которые не используются для фильтрации записей по мета-полям." />
-      <item value="By creating a separate table to store meta fields." />
-      <item value="Создав отдельную таблицу для хранения мета полей." />
-      <item value="Для себя я нашёл частичное решение проблемы через Custom Datastore." />
-      <item value="For myself, I found a solution to the problem through the Custom Datastore." />
-      <item value="Для себя я нашёл решение проблемы через Custom Datastore." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6646" />
+        <entry key="ENGLISH" value="6650" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6647" />
+        <entry key="RUSSIAN" value="6650" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
