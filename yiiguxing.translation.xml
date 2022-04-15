@@ -5,6 +5,47 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Are we done? Can I continue doing my business?" />
+      <item value="Мы закончили? Я могу продолжить заниматься своими делами?" />
+      <item value="Я создаю запрос на миграцию сайта." />
+      <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done." />
+      <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done. There is also one point related to the synchronization of the site with Bidspirit. For correct operation, we recommend using cron tasks from the server side, since the wp-cron synchronization tools may not be able to cope with timely synchronization due to server restrictions and problems may arise. This is true for large auctions, but it is not necessary for your auction at the moment. Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this where you can do it." />
+      <item value="Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this where you can do it." />
+      <item value="Ваше текущий тариф WP хостинга не поддерживает настройку cron задач на сервере, но fasthosts предлагают для этого приобрести услугу VPS где это можно будет сделать." />
+      <item value="There is also one point related to the synchronization of the site with Bidspirit. For correct operation, we recommend using cron tasks from the server side, since the wp-cron synchronization tools may not be able to cope with timely synchronization due to server restrictions and problems may arise. This is true for large auctions, but it is not necessary for your auction at the moment. Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this, where it will be fashionable to do so." />
+      <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done. There is also one point related to the synchronization of the site with Bidspirit. For correct operation, we recommend using cron tasks from the server side, since the wp-cron synchronization tools may not be able to cope with timely synchronization due to server restrictions and problems may arise. This is true for large auctions, but it is not necessary for your auction at the moment. Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this, where it will be fashionable to do so." />
+      <item value="Я передал всё необходимое в support для миграции сайта, они сообщят вам как работа будет выполнена. Так же есть один момент связанный с синхронизацией сайта с Bidspirit. Для корректной работы мы рекомендуем использовать cron задачи со стороны сервера, так как средства синхронизации wp-cron из за ограничений сервера могут не справиться со своевременной синхронизацией и могут возникать проблемы. Это актуально для больших аукционов, но для вашего аукциона на данный момент это не обязательно. Ваше текущий тариф WP хостинга не поддерживает настройку cron задач на сервере, но fasthosts предлагают для этого приобрести услугу VPS где это модно будет сделать." />
+      <item value="Good. I will contact you if we need a VPS." />
+      <item value="Хорошо. Свяжусь с вами если нам потребуется VPS." />
+      <item value="Good. Let's stay on WordPress hosting for now and if there are problems with synchronization using standard wp-cron tools, then we will consider the VPS option." />
+      <item value="Хорошо. Давайте пока останемся на WordPress хостинге и если будут проблемы с синхронизацией стандартными средствами wp-cron, то будем рассматривать вариант с VPS." />
+      <item value="The user himself cannot upload the site to the hosting, they do it themselves." />
+      <item value="Пользователь сам не может залить сайт на хостинг, это делает они сами." />
+      <item value="Cancel. They directly got the link to google drive." />
+      <item value="Отмена. Они напрямую получили ссылку на google drive." />
+      <item value="Какая информация ещё вам нужна?" />
+      <item value="Can i send us link on google drive with backup?" />
+      <item value="Can i send us link on google drive?" />
+      <item value="Domain name: chardauctions.co.uk Also. For the site to work correctly, you need to set up 3 cron tasks to synchronize content from a third-party server. Will you be able to do this in the current tariff?" />
+      <item value="Для корректной работы сайта надо настроить 3 cron задачи для синхронизации контента со стороннего сервера. Вы сможете это сделать в имеющемся тарифе?" />
+      <item value="Вы должны отправить им в ответ этот архив." />
+      <item value="I will not be able to provide SFTP, since access is only from another company's VPN." />
+      <item value="SFTP я не смогу предоставить, так как доступ есть только из под VPN другой компании." />
+      <item value="I can provide you with backup zip copy of the site." />
+      <item value="I can provide you with zip archive copy of the site." />
+      <item value="I can provide you with zip archive copies of the site." />
+      <item value="Я могу предоставить вам zip archive копии сайта." />
+      <item value="У меня есть сайт на другом хостинге. Я хочу перенести его к вам. Как сделать это из вашей панели я не понял." />
+      <item value="Where should I send the backup?" />
+      <item value="Куда мне отправить backup?" />
+      <item value="Я должна предоставить вам backup сайта?" />
+      <item value="Should I provide you with a site backup?" />
+      <item value="Я должен предоставить вам backup сайта?" />
+      <item value="I'm interested in the possibility of transferring a site on WordPress from another hosting to my fasthosts account. How can i do this?" />
+      <item value="I'm interested in the possibility of transferring a site from another hosting to my fasthosts account. How can i do this?" />
+      <item value="Меня интересует возможность перенести сайт с другого хостинга на свой аккаунт fasthosts. Как я могу это сделать?" />
+      <item value="That's exactly what I wanted to clarify with them about site migration." />
+      <item value="Вот как раз я и хотел уточнить у них на счёт миграции сайта." />
       <item value="Allow me to write an appeal to technical fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
       <item value="Allow me to write an appeal to those. fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
       <item value="Разрешите мне написать обращение в тех. поддержку fasthosts. Я не пойму как сменить пакет для домена chardauctions.co.uk с Website Builder Essential на WP Hosting." />
@@ -14,52 +55,11 @@
       <item value="Please watch the video instructions for working the site." />
       <item value="Sorry. I do not understand you. But if you want to make a block of these elements but manage the content manually, you can make it with the tools that Elementor Pro provides. On YouTube, you will find many instructions on how to work with Elementor. The module that we provide selects lots manually selected on the lot of editing page. Please watch the video instructions for using the site." />
       <item value="Простите. Я не совсем понимаю вас. Но если вы хотите сделать блок из подобных жлементов но управлять содержимым в ручную, вы можете сделать его с помощью инструментов, что предоставляет Elementor Pro. На YouTube вы найдёте множество инструкций о том как работать с Elementor. Модуль который мы предоставляем выбирает лоты выбранные вручную на странице редактирования лота. Пожалуйста, ознакомьтесь с видео инструкциями по работе с сайтом." />
-      <item value="We do not restrict you from using other plugins." />
-      <item value="Мы не ограничиваем вас в использовании других плагинов" />
-      <item value="The fact that auction 184 in English has content in Hebrew I will check." />
-      <item value="То что аукцион 184 на английском имеет контент на Иврите я проверю." />
-      <item value="I'll write it in the code on their website." />
-      <item value="Я пропишу это в коде у них на сайте." />
-      <item value="But I think that it is necessary to show Estimate price always for this client and not depend on this option." />
-      <item value="Но я думаю, что нужно показывать Estimate price всегда для этого клиента и не зависеть от этой опции." />
-      <item value="But i think what need visible" />
-      <item value="Where can I find the &quot;show estimated price&quot; option in the Bidspirit admin panel?" />
-      <item value="Где в админ панели Bidspirit я могу найти опцию &quot;show estimated price&quot;?" />
-      <item value="I understand what you want, but I don't see where this block is displayed." />
-      <item value="Я вас понимаю что вы хотите, но я не вижу, где этот блок отображается." />
-      <item value="Link on admin panel: astemercatinodelgioiello.itadmin_74891 but, you setup redirect for all pages and we can't get access for it." />
-      <item value="I think you missed a field when setting up this block." />
-      <item value="Я думаю, что у вы пропустили поле при настройке этого блока." />
-      <item value="I think what you less field when setup link for this button." />
-      <item value="Вы хотите удалить https:www.mercatinodelgioiello.it этот сайт? Или вы хотите поменять домен?" />
-      <item value="Вы хотите удалить https:www.mercatinodelgioiello.it этот сайт? Я не совсем понял какой сайт вы хотите удалить." />
-      <item value="And why do all pages redirect to https:www.mercatinodelgioiello.it ?" />
-      <item value="И почему все страницы делают редирект на https:www.mercatinodelgioiello.it ?" />
-      <item value="Sorry. I was distracted and I forgot. Auction 184 is synchronized." />
-      <item value="Sorry. I was distracted and I forgot. 184 auction is synchronized." />
-      <item value="Простите. Меня отвлекли и я забыл. 184 аукцион синхронизирован." />
-      <item value="I removed all lots from auction 10. Old lots interfered and produced copies." />
-      <item value="Я удалил все лоты из 10 аукциона. Старые лоты мешали и плодили копии." />
-      <item value="Yes, I think there was a problem and without the update it would not have been solved. I haven't received this issue in a long time." />
-      <item value="Да тут думаю проблема была и без обновления она бы не решилась. Я давно не получал обращений с этой проблемой." />
-      <item value="Да тут думаю проблема была и без обновления она бы не решилась." />
-      <item value="Yes. Now the auction will be synchronized again and the problem will go away. I updated the plugin, I think these problems were in an earlier version of the plugin." />
-      <item value="Да. Сейчас аукцион пройдёт синхронизацию ещё раз и проблема уйдёт. Я обновил плагин, думаю эти проблемы были в более ранней версии плагина." />
-      <item value="Really. Perhaps I made a mistake somewhere when transferring to a new server. I'll check now." />
-      <item value="Действительно. Возможно я где то ошибся при переносе на новый сервер. Сейчас проверю." />
-      <item value="Plugin developers have such a great opportunity as &quot;Custom Datastore&quot; and could offer their own solution for storing meta data in a separate table, this would solve a lot of WP problems." />
-      <item value="Разработчики плагина имеют такую прекрасную возможность как &quot;Custom Datastore&quot; и могли бы предложить своё решение для хранения мета данных в отдельной таблице это бы решило множество проблем WP." />
-      <item value="If the plugin developers had such a great opportunity as &quot;Custom Datastore&quot; and offered their own solution for storing meta data in a separate table, this would solve a lot of WP problems." />
-      <item value="Если разработчики плагина имеют такую прекрасную возможность как &quot;Custom Datastore&quot; и предложили бы своё решение для хранения мета данных в отдельной таблице это бы решило множество проблем WP." />
-      <item value="This solution is partial and is not used on the project on which I encountered the problem of very slow search queries by meta fields. I use this solution to save values that are not used to filter posts by meta fields and it may still need to be improved." />
-      <item value="Данное решение частичное и не используется на проекте на котором я столкнулся с проблемой очень медленных запросов на поиск по мета-полям. Это решение я использую для сохранения значений которые не используются для фильтрации записей по мета-полям и возможно оно ещё потребует доработки." />
-      <item value="This solution is partial and is not used on the project on which I encountered the problem of very slow search queries by meta fields. I use this solution to store values that are not used to filter posts by meta fields." />
-      <item value="Данное решение частичное и не используется на проекте на котором я столкнулся с проблемой очень медленных запросов на поиск по мета-полям. Это решение я использую для сохранения значений которые не используются для фильтрации записей по мета-полям." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6650" />
+        <entry key="ENGLISH" value="6678" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6650" />
+        <entry key="RUSSIAN" value="6678" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
