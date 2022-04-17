@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Вроде ни чего критичного, но в случае если это будет повторяться надо будет искать проблему." />
+      <item value="На какой странице вы поймали эту ошибку?" />
+      <item value="Я вижу что сайт работает" />
       <item value="Things are good. It required a manual update of the plugin to the latest versions, and at this time I turned off synchronization from the server side, but forgot to turn it back on." />
       <item value="Всё хорошо. Требовалось ручное обновление плагина что до последних версий и на это время я отключил синхронизацию со стороны сервера, а включить обратно забыл." />
       <item value="Are we done? Can I continue doing my business?" />
@@ -52,14 +55,11 @@
       <item value="Allow me to write an appeal to those. fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
       <item value="Разрешите мне написать обращение в тех. поддержку fasthosts. Я не пойму как сменить пакет для домена chardauctions.co.uk с Website Builder Essential на WP Hosting." />
       <item value="I see your site is attached to the fasthosts site builder, but to use WordPress hosting you need to purchase a separate package." />
-      <item value="Я вижу ваш сайт прикреплён к конструктору сайтов на fasthosts, но что бы воспользоваться WordPress хостингом нужно приобрести отдельный пакет." />
-      <item value="Вы не меняли ни чего не меняли на сайте сегодня?" />
-      <item value="Please watch the video instructions for working the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6679" />
+        <entry key="ENGLISH" value="6681" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6679" />
+        <entry key="RUSSIAN" value="6682" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
