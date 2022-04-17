@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Things are good. It required a manual update of the plugin to the latest versions, and at this time I turned off synchronization from the server side, but forgot to turn it back on." />
+      <item value="Всё хорошо. Требовалось ручное обновление плагина что до последних версий и на это время я отключил синхронизацию со стороны сервера, а включить обратно забыл." />
       <item value="Are we done? Can I continue doing my business?" />
       <item value="Мы закончили? Я могу продолжить заниматься своими делами?" />
       <item value="Я создаю запрос на миграцию сайта." />
@@ -53,13 +55,11 @@
       <item value="Я вижу ваш сайт прикреплён к конструктору сайтов на fasthosts, но что бы воспользоваться WordPress хостингом нужно приобрести отдельный пакет." />
       <item value="Вы не меняли ни чего не меняли на сайте сегодня?" />
       <item value="Please watch the video instructions for working the site." />
-      <item value="Sorry. I do not understand you. But if you want to make a block of these elements but manage the content manually, you can make it with the tools that Elementor Pro provides. On YouTube, you will find many instructions on how to work with Elementor. The module that we provide selects lots manually selected on the lot of editing page. Please watch the video instructions for using the site." />
-      <item value="Простите. Я не совсем понимаю вас. Но если вы хотите сделать блок из подобных жлементов но управлять содержимым в ручную, вы можете сделать его с помощью инструментов, что предоставляет Elementor Pro. На YouTube вы найдёте множество инструкций о том как работать с Elementor. Модуль который мы предоставляем выбирает лоты выбранные вручную на странице редактирования лота. Пожалуйста, ознакомьтесь с видео инструкциями по работе с сайтом." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6678" />
+        <entry key="ENGLISH" value="6679" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6678" />
+        <entry key="RUSSIAN" value="6679" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649645260239" />
+    <option name="lastTrimTime" value="1650155454508" />
   </component>
 </application>
