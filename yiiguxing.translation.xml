@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please, enable the client site to accept webhooks." />
+      <item value="Please, enable the test site to accept webhooks." />
+      <item value="In this case, let's enable the test site to accept webhooks." />
       <item value="Вроде ни чего критичного, но в случае если это будет повторяться надо будет искать проблему." />
       <item value="На какой странице вы поймали эту ошибку?" />
       <item value="Я вижу что сайт работает" />
@@ -52,14 +55,11 @@
       <item value="That's exactly what I wanted to clarify with them about site migration." />
       <item value="Вот как раз я и хотел уточнить у них на счёт миграции сайта." />
       <item value="Allow me to write an appeal to technical fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
-      <item value="Allow me to write an appeal to those. fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
-      <item value="Разрешите мне написать обращение в тех. поддержку fasthosts. Я не пойму как сменить пакет для домена chardauctions.co.uk с Website Builder Essential на WP Hosting." />
-      <item value="I see your site is attached to the fasthosts site builder, but to use WordPress hosting you need to purchase a separate package." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6681" />
+        <entry key="ENGLISH" value="6684" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6682" />
+        <entry key="RUSSIAN" value="6684" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
