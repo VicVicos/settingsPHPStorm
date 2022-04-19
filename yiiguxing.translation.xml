@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will add this record." />
+      <item value="Now all domain records managed in cloudflare account." />
+      <item value="Это могла быть ошибка cookie файлов." />
       <item value="מידע באמצעות דואר אלקטרוני" />
       <item value="המכירות של" />
       <item value="תירוש" />
@@ -52,14 +55,11 @@
       <item value="Всё хорошо. Требовалось ручное обновление плагина что до последних версий и на это время я отключил синхронизацию со стороны сервера, а включить обратно забыл." />
       <item value="Are we done? Can I continue doing my business?" />
       <item value="Мы закончили? Я могу продолжить заниматься своими делами?" />
-      <item value="Я создаю запрос на миграцию сайта." />
-      <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done." />
-      <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done. There is also one point related to the synchronization of the site with Bidspirit. For correct operation, we recommend using cron tasks from the server side, since the wp-cron synchronization tools may not be able to cope with timely synchronization due to server restrictions and problems may arise. This is true for large auctions, but it is not necessary for your auction at the moment. Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this where you can do it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6703" />
+        <entry key="ENGLISH" value="6705" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6703" />
+        <entry key="RUSSIAN" value="6705" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
