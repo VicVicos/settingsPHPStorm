@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="מידע באמצעות דואר אלקטרוני" />
+      <item value="המכירות של" />
+      <item value="תירוש" />
+      <item value="תירוש לשלוח לי" />
+      <item value="לי" />
+      <item value="לשלוח" />
+      <item value="שליחה" />
+      <item value="על ידי לחיצה על &quot;שליחה&quot; אני מסכים לתנאי שימוש ומאפשר לבית המכירות של תירוש לשלוח לי מידע באמצעות דואר אלקטרוני" />
+      <item value="I lost access to Google Workspace for account nuno@eclecticaleiloes.com." />
+      <item value="I got error what that account does not exist." />
+      <item value="Я потерял доступ к Google Workspace для аккаунта nuno@eclecticaleiloes.com. Я получил ошибку, что эта учетная запись не существует." />
+      <item value="I lost access to Google Workspace for account nuno@eclecticaleiloes.com. I got error what that account not realy." />
+      <item value="It was the one Nitzan created. Itnwas received by us and forwarded to Andrey." />
       <item value="Tomorrow we will discuss with Andrey whether it will be possible to start working with the site." />
       <item value="Завтра с Андреем обсудим это можно ли будет начать работу с сайтом." />
       <item value="So that we can check if the auction has been changed and that it needs to be updated." />
@@ -42,24 +55,11 @@
       <item value="Я создаю запрос на миграцию сайта." />
       <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done." />
       <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done. There is also one point related to the synchronization of the site with Bidspirit. For correct operation, we recommend using cron tasks from the server side, since the wp-cron synchronization tools may not be able to cope with timely synchronization due to server restrictions and problems may arise. This is true for large auctions, but it is not necessary for your auction at the moment. Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this where you can do it." />
-      <item value="Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this where you can do it." />
-      <item value="Ваше текущий тариф WP хостинга не поддерживает настройку cron задач на сервере, но fasthosts предлагают для этого приобрести услугу VPS где это можно будет сделать." />
-      <item value="There is also one point related to the synchronization of the site with Bidspirit. For correct operation, we recommend using cron tasks from the server side, since the wp-cron synchronization tools may not be able to cope with timely synchronization due to server restrictions and problems may arise. This is true for large auctions, but it is not necessary for your auction at the moment. Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this, where it will be fashionable to do so." />
-      <item value="I have forwarded everything needed to support for the site migration, they will let you know how the job is done. There is also one point related to the synchronization of the site with Bidspirit. For correct operation, we recommend using cron tasks from the server side, since the wp-cron synchronization tools may not be able to cope with timely synchronization due to server restrictions and problems may arise. This is true for large auctions, but it is not necessary for your auction at the moment. Your current WP hosting plan does not support setting up cron tasks on the server, but fasthosts offer to purchase a VPS service for this, where it will be fashionable to do so." />
-      <item value="Я передал всё необходимое в support для миграции сайта, они сообщят вам как работа будет выполнена. Так же есть один момент связанный с синхронизацией сайта с Bidspirit. Для корректной работы мы рекомендуем использовать cron задачи со стороны сервера, так как средства синхронизации wp-cron из за ограничений сервера могут не справиться со своевременной синхронизацией и могут возникать проблемы. Это актуально для больших аукционов, но для вашего аукциона на данный момент это не обязательно. Ваше текущий тариф WP хостинга не поддерживает настройку cron задач на сервере, но fasthosts предлагают для этого приобрести услугу VPS где это модно будет сделать." />
-      <item value="Good. I will contact you if we need a VPS." />
-      <item value="Хорошо. Свяжусь с вами если нам потребуется VPS." />
-      <item value="Good. Let's stay on WordPress hosting for now and if there are problems with synchronization using standard wp-cron tools, then we will consider the VPS option." />
-      <item value="Хорошо. Давайте пока останемся на WordPress хостинге и если будут проблемы с синхронизацией стандартными средствами wp-cron, то будем рассматривать вариант с VPS." />
-      <item value="The user himself cannot upload the site to the hosting, they do it themselves." />
-      <item value="Пользователь сам не может залить сайт на хостинг, это делает они сами." />
-      <item value="Cancel. They directly got the link to google drive." />
-      <item value="Отмена. Они напрямую получили ссылку на google drive." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6699" />
+        <entry key="ENGLISH" value="6703" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6699" />
+        <entry key="RUSSIAN" value="6703" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="6" />
-        <entry key="HEBREW" value="185" />
+        <entry key="HEBREW" value="196" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
