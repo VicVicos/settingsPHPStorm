@@ -5,6 +5,30 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Tomorrow we will discuss with Andrey whether it will be possible to start working with the site." />
+      <item value="Завтра с Андреем обсудим это можно ли будет начать работу с сайтом." />
+      <item value="So that we can check if the auction has been changed and that it needs to be updated." />
+      <item value="Что бы мы могли проверить были ли внесены изменения аукцион и что его нужно обновлять." />
+      <item value="You could add a timestamp field when the auction is being edited for the call auctionsgetAllAuctions API. This will simplify and speed up the synchronization process in the plugin." />
+      <item value="Вы могли бы добавить поле метки времени когда редактируется аукцион для API call auctionsgetAllAuctions. Это упростит и ускорит процесс синхронизации в плагине." />
+      <item value="This includes a website guarantee working for site and full technical support." />
+      <item value="Do you know about the tariff for hosting on our server? 40 permonth This includes a website guarantee and full technical support." />
+      <item value="Это включает в себя гарантию в работе сайта и полную техническую поддержку." />
+      <item value="Do you know about the tariff for hosting on our server? 40 permonth" />
+      <item value="Do you know about the tariff for hosting on our server?" />
+      <item value="Вы знаете о тарифе размещение на нашем сервере?" />
+      <item value="Transfer site to client hosting." />
+      <item value="Please note: Our &quot;Hosting&quot; price includes warranty and service for the site. if the site is not on our hosting - you will not get warranty and service for the site. If something will stop working or you will need us for some reason - you will need to pay per hour price." />
+      <item value="You want placed your new site on us server?" />
+      <item value="You want placed your domain on us server?" />
+      <item value="Думаю что да." />
+      <item value="I think why yes." />
+      <item value="И в какой то момент почта перестанет работать примерно на 2-4 часа" />
+      <item value="No. If you have such an account, then we will not be able to create an alias" />
+      <item value="Нет. Если у вас есть такой аккаунт, то мы не сможем создать alias" />
+      <item value="When I try to create an alias for Catarina, I get this error. Have you already made this point? Since the list of aliases is empty." />
+      <item value="При попытке создать alias для Catarina я получаю аот такую ошибку. Вы уже сделали этот пункт? Так как список алиасов пуст." />
+      <item value="При попытке создать alias для Catarina я получаю аот такую ошибку. Вы уже сделали этот пункт?" />
       <item value="Please, enable the client site to accept webhooks." />
       <item value="Please, enable the test site to accept webhooks." />
       <item value="In this case, let's enable the test site to accept webhooks." />
@@ -31,35 +55,11 @@
       <item value="Пользователь сам не может залить сайт на хостинг, это делает они сами." />
       <item value="Cancel. They directly got the link to google drive." />
       <item value="Отмена. Они напрямую получили ссылку на google drive." />
-      <item value="Какая информация ещё вам нужна?" />
-      <item value="Can i send us link on google drive with backup?" />
-      <item value="Can i send us link on google drive?" />
-      <item value="Domain name: chardauctions.co.uk Also. For the site to work correctly, you need to set up 3 cron tasks to synchronize content from a third-party server. Will you be able to do this in the current tariff?" />
-      <item value="Для корректной работы сайта надо настроить 3 cron задачи для синхронизации контента со стороннего сервера. Вы сможете это сделать в имеющемся тарифе?" />
-      <item value="Вы должны отправить им в ответ этот архив." />
-      <item value="I will not be able to provide SFTP, since access is only from another company's VPN." />
-      <item value="SFTP я не смогу предоставить, так как доступ есть только из под VPN другой компании." />
-      <item value="I can provide you with backup zip copy of the site." />
-      <item value="I can provide you with zip archive copy of the site." />
-      <item value="I can provide you with zip archive copies of the site." />
-      <item value="Я могу предоставить вам zip archive копии сайта." />
-      <item value="У меня есть сайт на другом хостинге. Я хочу перенести его к вам. Как сделать это из вашей панели я не понял." />
-      <item value="Where should I send the backup?" />
-      <item value="Куда мне отправить backup?" />
-      <item value="Я должна предоставить вам backup сайта?" />
-      <item value="Should I provide you with a site backup?" />
-      <item value="Я должен предоставить вам backup сайта?" />
-      <item value="I'm interested in the possibility of transferring a site on WordPress from another hosting to my fasthosts account. How can i do this?" />
-      <item value="I'm interested in the possibility of transferring a site from another hosting to my fasthosts account. How can i do this?" />
-      <item value="Меня интересует возможность перенести сайт с другого хостинга на свой аккаунт fasthosts. Как я могу это сделать?" />
-      <item value="That's exactly what I wanted to clarify with them about site migration." />
-      <item value="Вот как раз я и хотел уточнить у них на счёт миграции сайта." />
-      <item value="Allow me to write an appeal to technical fasthost support. I don't understand how to change package for chardauctions.co.uk domain from Website Builder Essential to WP Hosting." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6684" />
+        <entry key="ENGLISH" value="6699" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6684" />
+        <entry key="RUSSIAN" value="6699" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
