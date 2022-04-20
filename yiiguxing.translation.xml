@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I will suggest updating the plugin after the 24th when their auction is over. Major changes have been made in recent versions." />
+      <item value="Я предложу обновить плагин после 24 числа, когда пройдёт их аукцион. В последних версиях было сделано серьёзное изменение." />
       <item value="Unable to migrate your mail to Google. Can you clarify the imap config of your old mail server?" />
       <item value="Не удаётся мигрировать вашу почту в Google. Вы можете уточнить imap config вашего старого почтового сервера?" />
       <item value="In this case, might require paid support if you want me to check your project" />
@@ -53,13 +55,11 @@
       <item value="Do you know about the tariff for hosting on our server? 40 permonth" />
       <item value="Do you know about the tariff for hosting on our server?" />
       <item value="Вы знаете о тарифе размещение на нашем сервере?" />
-      <item value="Transfer site to client hosting." />
-      <item value="Please note: Our &quot;Hosting&quot; price includes warranty and service for the site. if the site is not on our hosting - you will not get warranty and service for the site. If something will stop working or you will need us for some reason - you will need to pay per hour price." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6719" />
+        <entry key="ENGLISH" value="6720" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6719" />
+        <entry key="RUSSIAN" value="6720" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
