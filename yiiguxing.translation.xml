@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello, Steve! We did your request about image for social networks." />
+      <item value="We did your request about image for social networks" />
       <item value="We look forward to your comments about the site." />
       <item value="We look forward to your comments on the site." />
       <item value="Мы ждём замечаний по сайту от вас." />
@@ -53,13 +55,11 @@
       <item value="Думаю что да." />
       <item value="I think why yes." />
       <item value="И в какой то момент почта перестанет работать примерно на 2-4 часа" />
-      <item value="No. If you have such an account, then we will not be able to create an alias" />
-      <item value="Нет. Если у вас есть такой аккаунт, то мы не сможем создать alias" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6714" />
+        <entry key="ENGLISH" value="6716" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6714" />
+        <entry key="RUSSIAN" value="6716" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
