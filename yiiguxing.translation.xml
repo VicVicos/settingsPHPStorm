@@ -1,10 +1,22 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We look forward to your comments about the site." />
+      <item value="We look forward to your comments on the site." />
+      <item value="Мы ждём замечаний по сайту от вас." />
+      <item value="Вы можете купить у них VPS сервер и тогда мы сможем сделать всё самостоятельно." />
+      <item value="You can buy for they" />
+      <item value="You can buy for him" />
+      <item value="Inside the archive that I'm uploading a copy of your site. The dump_15.04.sql file is a database dump. That's all you need to raise the site on a new hosting." />
+      <item value="Внутри архива что я скидываю копия вашего сайта. Файл dump_15.04.sql это dump базы данных. Это всё что нужно что бы поднять сайт на новом хостинге." />
+      <item value="And I forwarded it to your hosting support." />
+      <item value="И я пересылал её поддержке вашего хостинга." />
+      <item value="I passed the link to google drive. Here is a backup of your site." />
+      <item value="Я передавал ссылку на google drive. Вот backup вашего сайта." />
       <item value="Filter by" />
       <item value="I will add this record." />
       <item value="Now all domain records managed in cloudflare account." />
@@ -43,23 +55,11 @@
       <item value="И в какой то момент почта перестанет работать примерно на 2-4 часа" />
       <item value="No. If you have such an account, then we will not be able to create an alias" />
       <item value="Нет. Если у вас есть такой аккаунт, то мы не сможем создать alias" />
-      <item value="When I try to create an alias for Catarina, I get this error. Have you already made this point? Since the list of aliases is empty." />
-      <item value="При попытке создать alias для Catarina я получаю аот такую ошибку. Вы уже сделали этот пункт? Так как список алиасов пуст." />
-      <item value="При попытке создать alias для Catarina я получаю аот такую ошибку. Вы уже сделали этот пункт?" />
-      <item value="Please, enable the client site to accept webhooks." />
-      <item value="Please, enable the test site to accept webhooks." />
-      <item value="In this case, let's enable the test site to accept webhooks." />
-      <item value="Вроде ни чего критичного, но в случае если это будет повторяться надо будет искать проблему." />
-      <item value="На какой странице вы поймали эту ошибку?" />
-      <item value="Я вижу что сайт работает" />
-      <item value="Things are good. It required a manual update of the plugin to the latest versions, and at this time I turned off synchronization from the server side, but forgot to turn it back on." />
-      <item value="Всё хорошо. Требовалось ручное обновление плагина что до последних версий и на это время я отключил синхронизацию со стороны сервера, а включить обратно забыл." />
-      <item value="Are we done? Can I continue doing my business?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6706" />
+        <entry key="ENGLISH" value="6714" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6706" />
+        <entry key="RUSSIAN" value="6714" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
