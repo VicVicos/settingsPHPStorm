@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Not yet" />
+      <item value="I will start this task this week." />
+      <item value="Я приступлю к этой задаче на этой неделе." />
+      <item value="Not yet, but this is the next task in the plans for implementation in the plugin." />
+      <item value="Пока ещё нет, но это следующая задача в планах к реализации в плагине." />
       <item value="Я делаю это так:" />
       <item value="After the update, start the synchronization process manually by running the script located along the path" />
       <item value="После обновления запустите в ручную процесс синхронизации запустив скрипт который находится по пути" />
@@ -50,16 +55,11 @@
       <item value="Мы ждём замечаний по сайту от вас." />
       <item value="Вы можете купить у них VPS сервер и тогда мы сможем сделать всё самостоятельно." />
       <item value="You can buy for they" />
-      <item value="You can buy for him" />
-      <item value="Inside the archive that I'm uploading a copy of your site. The dump_15.04.sql file is a database dump. That's all you need to raise the site on a new hosting." />
-      <item value="Внутри архива что я скидываю копия вашего сайта. Файл dump_15.04.sql это dump базы данных. Это всё что нужно что бы поднять сайт на новом хостинге." />
-      <item value="And I forwarded it to your hosting support." />
-      <item value="И я пересылал её поддержке вашего хостинга." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6741" />
+        <entry key="ENGLISH" value="6745" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6742" />
+        <entry key="RUSSIAN" value="6745" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
