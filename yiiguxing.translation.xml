@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Я делаю это так:" />
+      <item value="After the update, start the synchronization process manually by running the script located along the path" />
+      <item value="После обновления запустите в ручную процесс синхронизации запустив скрипт который находится по пути" />
+      <item value="We also think that it is better to update the plugin after the 24th, when your next auction ends." />
+      <item value="Так же мы думаем что обновлять плагин лучше после 24 числа, когда завершится ваш ближайший аукцион." />
+      <item value="If you encounter problems with the plugin, please let me know. Contact can be made by replying to this email or by reporting the issue to Stephen Binkley." />
+      <item value="В случае возникновения проблем с работой плагина пожалуйста дайте мне знать. Связаться можно ответом к этому письму или сообщив о проблеме Stephen Binkley." />
+      <item value="Я от Stephen Binkley." />
+      <item value="He said that you need to update the uco-auctions plugin. The latest versions have a number of changes and features that were required for your site. You can download the latest version of the plugin from the link." />
+      <item value="Он сказал что вам надо обновить плагин uco-auctions. В последних версиях имеется ряд изменений и функций которые требовались для вашего сайта. По ссылку вы можете скачать последнюю версию плагина." />
+      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things needs for WordPress to do when migrating the site to a new domain." />
+      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things for WordPress needs to do when migrating the site to a new domain." />
+      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things that for WordPress needs to do when migrating the site to a new domain." />
+      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things that for WP needs to do when migrating the site to a new domain. Let's think that they are working on it and they will cope." />
+      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things that WP needs to do when migrating the site to a new domain. Let's think that they are working on it and they will cope." />
+      <item value="Я вижу они загрузили сайт на нужный домен, но они не сделали базовые вещи которые надо сделать для WP при миграции сайта на новый домен. Будем думать что они работают над этим и они справятся." />
+      <item value="But the site still has an error with API requests. Is there a difference in domains with or without www?" />
+      <item value="Но на сайте остаётся ошибка с запросами по API. Есть ли разница в доменах с www или без них?" />
       <item value="child" />
       <item value="close the div as we are nesting" />
       <item value="should be passed an array of objects" />
@@ -37,29 +55,11 @@
       <item value="Внутри архива что я скидываю копия вашего сайта. Файл dump_15.04.sql это dump базы данных. Это всё что нужно что бы поднять сайт на новом хостинге." />
       <item value="And I forwarded it to your hosting support." />
       <item value="И я пересылал её поддержке вашего хостинга." />
-      <item value="I passed the link to google drive. Here is a backup of your site." />
-      <item value="Я передавал ссылку на google drive. Вот backup вашего сайта." />
-      <item value="Filter by" />
-      <item value="I will add this record." />
-      <item value="Now all domain records managed in cloudflare account." />
-      <item value="Это могла быть ошибка cookie файлов." />
-      <item value="מידע באמצעות דואר אלקטרוני" />
-      <item value="המכירות של" />
-      <item value="תירוש" />
-      <item value="תירוש לשלוח לי" />
-      <item value="לי" />
-      <item value="לשלוח" />
-      <item value="שליחה" />
-      <item value="על ידי לחיצה על &quot;שליחה&quot; אני מסכים לתנאי שימוש ומאפשר לבית המכירות של תירוש לשלוח לי מידע באמצעות דואר אלקטרוני" />
-      <item value="I lost access to Google Workspace for account nuno@eclecticaleiloes.com." />
-      <item value="I got error what that account does not exist." />
-      <item value="Я потерял доступ к Google Workspace для аккаунта nuno@eclecticaleiloes.com. Я получил ошибку, что эта учетная запись не существует." />
-      <item value="I lost access to Google Workspace for account nuno@eclecticaleiloes.com. I got error what that account not realy." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6730" />
+        <entry key="ENGLISH" value="6741" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6730" />
+        <entry key="RUSSIAN" value="6742" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
