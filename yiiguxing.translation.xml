@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think now the technical support of your hosting will not have any problems." />
+      <item value="Думаю сейчас у технической поддержки вашего хостинга не возникнет проблем." />
+      <item value="Hello! I'll help you figure it out." />
+      <item value="Я помогу вам с этим разобраться." />
+      <item value="Gmail mail should be back up and running soon." />
+      <item value="Работоспособность gmail почты должна вернуться в ближайшее время." />
+      <item value="Yes, it has to do with migration." />
+      <item value="Да, это связано с миграцией. Надо было отключить почту от gmail. Верну всё как было." />
       <item value="I will suggest updating the plugin after the 24th when their auction is over. Major changes have been made in recent versions." />
       <item value="Я предложу обновить плагин после 24 числа, когда пройдёт их аукцион. В последних версиях было сделано серьёзное изменение." />
       <item value="Unable to migrate your mail to Google. Can you clarify the imap config of your old mail server?" />
@@ -47,19 +55,11 @@
       <item value="Завтра с Андреем обсудим это можно ли будет начать работу с сайтом." />
       <item value="So that we can check if the auction has been changed and that it needs to be updated." />
       <item value="Что бы мы могли проверить были ли внесены изменения аукцион и что его нужно обновлять." />
-      <item value="You could add a timestamp field when the auction is being edited for the call auctionsgetAllAuctions API. This will simplify and speed up the synchronization process in the plugin." />
-      <item value="Вы могли бы добавить поле метки времени когда редактируется аукцион для API call auctionsgetAllAuctions. Это упростит и ускорит процесс синхронизации в плагине." />
-      <item value="This includes a website guarantee working for site and full technical support." />
-      <item value="Do you know about the tariff for hosting on our server? 40 permonth This includes a website guarantee and full technical support." />
-      <item value="Это включает в себя гарантию в работе сайта и полную техническую поддержку." />
-      <item value="Do you know about the tariff for hosting on our server? 40 permonth" />
-      <item value="Do you know about the tariff for hosting on our server?" />
-      <item value="Вы знаете о тарифе размещение на нашем сервере?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6720" />
+        <entry key="ENGLISH" value="6724" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6720" />
+        <entry key="RUSSIAN" value="6724" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
