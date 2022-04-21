@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Я исправлю положение иконки." />
       <item value="Not yet" />
       <item value="I will start this task this week." />
       <item value="Я приступлю к этой задаче на этой неделе." />
@@ -54,7 +55,6 @@
       <item value="We look forward to your comments on the site." />
       <item value="Мы ждём замечаний по сайту от вас." />
       <item value="Вы можете купить у них VPS сервер и тогда мы сможем сделать всё самостоятельно." />
-      <item value="You can buy for they" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6745" />
+        <entry key="RUSSIAN" value="6746" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
