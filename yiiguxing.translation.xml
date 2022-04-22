@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tree" />
       <item value="Я исправлю положение иконки." />
       <item value="Not yet" />
       <item value="I will start this task this week." />
@@ -54,12 +55,11 @@
       <item value="We look forward to your comments about the site." />
       <item value="We look forward to your comments on the site." />
       <item value="Мы ждём замечаний по сайту от вас." />
-      <item value="Вы можете купить у них VPS сервер и тогда мы сможем сделать всё самостоятельно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6745" />
+        <entry key="ENGLISH" value="6746" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650155454508" />
+    <option name="lastTrimTime" value="1650591971269" />
   </component>
 </application>
