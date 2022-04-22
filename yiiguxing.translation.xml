@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="You can use media library and upload your file." />
       <item value="We are not receiving items from auction 452 from Bidspirit. Please check that this auction is published." />
       <item value="Мы не получаем лоты из 452 аукциона от Bidspirit. Пожалуйста, проверьте что этот аукцион опубликован." />
       <item value="We do not receive auction items from Bidspirit. Please check that this auction is published." />
@@ -54,12 +55,11 @@
       <item value="In this case, might require paid support if you want me to check your project" />
       <item value="No one needed this before your request for Heartland Artifacts, and I forgot the domain of their site. Before updating, I need to check different points so that the update gets up without problems." />
       <item value="Это ни кому не требовалось до твоего запроса для Heartland Artifacts, И я забыл домен их сайта. Перед обновлением мне надо проверить разные моменты что бы обновление встало без проблем." />
-      <item value="Hello, Steve! We did your request about image for social networks." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6748" />
+        <entry key="ENGLISH" value="6749" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6748" />
+        <entry key="RUSSIAN" value="6749" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
