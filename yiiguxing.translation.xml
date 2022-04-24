@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Поправьте только заголовок на Португальский." />
+      <item value="On the other hand, if we look at the Blog page, then I would suggest making a full-fledged blog." />
+      <item value="I would not pay attention to this, because if we consider this assessment on the About page, we can conclude that this assessment is not entirely correct." />
+      <item value="Я бы не стал обращать на это внимания, потому как если рассматривать эту оценку по странице About, то можно сделать вывод что эта оценка не совсем корректная." />
+      <item value="I would not pay attention to this, because if you evaluate this assessment on the About page, then you can conclude that this assessment is not entirely correct. On the other hand, if we look at the Blog page, then I would suggest making a full-fledged blog." />
+      <item value="Я бы не стал обращать на это внимания, потому как если оценивать эту оценку по странице About, то можно сделать вывод что эта оценка не совсем корректная. С другой стороны если мы глянем на страницу Blog, то я бы предложил сделать полноценный блог." />
+      <item value="I'll try to understand what this assessment consists of." />
+      <item value="Я попробую понять из чего складывается эта оценка." />
       <item value="You need to either contact the technical support of the hosting, so that they can do this or via FTP. Usually, getting FTP access to a site from a hosting provider is a simple task." />
       <item value="Sorry. I didn't understand what you wanted .htaccess to load. This file will not upload." />
       <item value="Sorry. I didn't understand what you wanted .htaccess to load. This file will not work. You need to either contact the technical support of the hosting, so that they can do this or via FTP. Usually, getting FTP access to a site from a hosting provider is a simple task." />
@@ -47,19 +55,11 @@
       <item value="I think now the technical support of your hosting will not have any problems." />
       <item value="Думаю сейчас у технической поддержки вашего хостинга не возникнет проблем." />
       <item value="Hello! I'll help you figure it out." />
-      <item value="Я помогу вам с этим разобраться." />
-      <item value="Gmail mail should be back up and running soon." />
-      <item value="Работоспособность gmail почты должна вернуться в ближайшее время." />
-      <item value="Yes, it has to do with migration." />
-      <item value="Да, это связано с миграцией. Надо было отключить почту от gmail. Верну всё как было." />
-      <item value="I will suggest updating the plugin after the 24th when their auction is over. Major changes have been made in recent versions." />
-      <item value="Я предложу обновить плагин после 24 числа, когда пройдёт их аукцион. В последних версиях было сделано серьёзное изменение." />
-      <item value="Unable to migrate your mail to Google. Can you clarify the imap config of your old mail server?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6752" />
+        <entry key="ENGLISH" value="6756" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6752" />
+        <entry key="RUSSIAN" value="6757" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
