@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I have transferred the domain. It remains to wait until the dns records are updated for everyone." />
+      <item value="Я перенёс домен. Осталось подождать когда dns записи обновятся для всех." />
+      <item value="Have you made any changes to the site since April 15th?" />
+      <item value="Вы не делали каких либо изменений на сайте с момента с 15 апреля?" />
+      <item value="Have you shared any changes to the site since April 15th?" />
+      <item value="Вы не делили каких либо изменений на сайте с момента с 15 апреля?" />
+      <item value="It seems to me more convenient to use one email address (amanda@chardauctions.co.uk - as the main one) and info@ as an alias. After that, you can set up various rules and collect mail in different directories for more convenience." />
+      <item value="Мне кажется удобнее пользоваться один email адресом (amanda@chardauctions.co.uk - как основной) и info@ сделать как alias. После вы можете настроить различные правила и собирать почту в разные каталоги для большего удобства." />
+      <item value="If we do not need to transfer anything, then we simply create the necessary mailboxes and connect google mail to your domain and you can use it." />
+      <item value="Если нам не надо ни чего переносить, то мы просто создаём нужные ящики и подключаем google почту к вашему домену и вы можете ей пользоваться." />
+      <item value="Can we not bear these four emails?" />
+      <item value="Can we not bear these four letters?" />
+      <item value="Эти четыре письма мы можем не переносить?" />
+      <item value="That four email we can don't migrate?" />
+      <item value="Эти данные не подошли" />
       <item value="And I have not yet figured out how to make translations of the name of the forms for the second language." />
       <item value="И я пока не понял как сделать переводы названия форм для второго языка." />
       <item value="You must set the desired options for the plugin." />
@@ -40,26 +55,11 @@
       <item value="Простите. Я не понял что вы хотели .htaccess загрузить. Этот файл не пройдёт так. Вам надо или обратиться в техническую поддержку хостинга, что бы они это сделали или через FTP. Обычно у хостинг провайдера получить FTP доступ к сайту это простая задача." />
       <item value="You can use media library and upload your file." />
       <item value="We are not receiving items from auction 452 from Bidspirit. Please check that this auction is published." />
-      <item value="Мы не получаем лоты из 452 аукциона от Bidspirit. Пожалуйста, проверьте что этот аукцион опубликован." />
-      <item value="We do not receive auction items from Bidspirit. Please check that this auction is published." />
-      <item value="Мы не получаем лоты из аукциона от Bidspirit. Пожалуйста, проверьте что этот аукцион опубликован." />
-      <item value="tree" />
-      <item value="Я исправлю положение иконки." />
-      <item value="Not yet" />
-      <item value="I will start this task this week." />
-      <item value="Я приступлю к этой задаче на этой неделе." />
-      <item value="Not yet, but this is the next task in the plans for implementation in the plugin." />
-      <item value="Пока ещё нет, но это следующая задача в планах к реализации в плагине." />
-      <item value="Я делаю это так:" />
-      <item value="After the update, start the synchronization process manually by running the script located along the path" />
-      <item value="После обновления запустите в ручную процесс синхронизации запустив скрипт который находится по пути" />
-      <item value="We also think that it is better to update the plugin after the 24th, when your next auction ends." />
-      <item value="Так же мы думаем что обновлять плагин лучше после 24 числа, когда завершится ваш ближайший аукцион." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6772" />
+        <entry key="ENGLISH" value="6781" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6772" />
+        <entry key="RUSSIAN" value="6781" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
