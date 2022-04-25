@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Какое значение для поля target?" />
+      <item value="We can provide video manual about working with Wordpress site based on Elementor. Also, we provide video manual about working with base elements on your site. Further, by analogy with how current press releases are made, you can repeat the same for press releases in 2022." />
+      <item value="Далее вы сможете по аналогии с тем, как сделаны текущие пресс-релизы повторить это же и для пресс-релизов 2022 года." />
+      <item value="We can provide video manual about working with Wordpress site based on Elementor. Also we provide video manual about working with base elements on your site." />
+      <item value="We can provided video manual about working with Wordpress site based on Elementor. Also we provided video manual about working with base elements on your site." />
+      <item value="Unfortunately, I don't know anything about this picture. Can you drop it on whatsapp?" />
+      <item value="К сожалению я не знаю об этой картинке ни чего. Можете скинуть её в WhatsApp?" />
       <item value="I have transferred the domain. It remains to wait until the dns records are updated for everyone." />
       <item value="Я перенёс домен. Осталось подождать когда dns записи обновятся для всех." />
       <item value="Have you made any changes to the site since April 15th?" />
@@ -48,18 +55,11 @@
       <item value="I would not pay attention to this, because if you evaluate this assessment on the About page, then you can conclude that this assessment is not entirely correct. On the other hand, if we look at the Blog page, then I would suggest making a full-fledged blog." />
       <item value="Я бы не стал обращать на это внимания, потому как если оценивать эту оценку по странице About, то можно сделать вывод что эта оценка не совсем корректная. С другой стороны если мы глянем на страницу Blog, то я бы предложил сделать полноценный блог." />
       <item value="I'll try to understand what this assessment consists of." />
-      <item value="Я попробую понять из чего складывается эта оценка." />
-      <item value="You need to either contact the technical support of the hosting, so that they can do this or via FTP. Usually, getting FTP access to a site from a hosting provider is a simple task." />
-      <item value="Sorry. I didn't understand what you wanted .htaccess to load. This file will not upload." />
-      <item value="Sorry. I didn't understand what you wanted .htaccess to load. This file will not work. You need to either contact the technical support of the hosting, so that they can do this or via FTP. Usually, getting FTP access to a site from a hosting provider is a simple task." />
-      <item value="Простите. Я не понял что вы хотели .htaccess загрузить. Этот файл не пройдёт так. Вам надо или обратиться в техническую поддержку хостинга, что бы они это сделали или через FTP. Обычно у хостинг провайдера получить FTP доступ к сайту это простая задача." />
-      <item value="You can use media library and upload your file." />
-      <item value="We are not receiving items from auction 452 from Bidspirit. Please check that this auction is published." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6781" />
+        <entry key="ENGLISH" value="6785" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6781" />
+        <entry key="RUSSIAN" value="6786" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
