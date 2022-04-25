@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Если не получится, сообщите и я помогу вам." />
+      <item value="Это был кеш." />
+      <item value="Вы можете изменить это самостоятельно?" />
+      <item value="Login details are the same." />
+      <item value="Данные для входа прежние." />
       <item value="Как давно вы установили изображения для этих лотов?" />
       <item value="How to long you set image for that lots?" />
       <item value="If this option suits you, we will do it." />
@@ -50,16 +55,11 @@
       <item value="В таком случае лучше сделать миграцию почты на google." />
       <item value="We will not affect the mail, it will work as before. I have all access and I should be able to do everything without problems." />
       <item value="Почту мы не затронем, она будет работать в прежнем режиме. Я имею все доступы и у меня должно получиться всё сделать без проблем." />
-      <item value="Я подниму сайт на нашем сервере." />
-      <item value="Я вижу что новый сайт не работает." />
-      <item value="Хотел уточнить. Вы хотите сделать на сайте блог?" />
-      <item value="You wanted to make a blog on the site. Is it still topical? We could help you with this." />
-      <item value="Hello! Вы хотели сделать блог на сайте. Это ещё актуально? Мы бы могли вам помочь с этим." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6791" />
+        <entry key="ENGLISH" value="6795" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6792" />
+        <entry key="RUSSIAN" value="6796" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
