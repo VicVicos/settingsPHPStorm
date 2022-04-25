@@ -5,6 +5,26 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="And I have not yet figured out how to make translations of the name of the forms for the second language." />
+      <item value="И я пока не понял как сделать переводы названия форм для второго языка." />
+      <item value="You must set the desired options for the plugin." />
+      <item value="Вы должны установить нужные опции для плагина." />
+      <item value="You have setup need settings for plugin" />
+      <item value="Do you want to get an average of 80 points on this SEO plugin?" />
+      <item value="Вы хотите получить средние 80 балов по оценке этого SEO плагина?" />
+      <item value="Вы хотите получить средние 80 балов по оценке этого плагина?" />
+      <item value="У вас есть нужная картинка?" />
+      <item value="You have need picture?" />
+      <item value="Какую картинку вы хотите?" />
+      <item value="Yes. In this case, it is better to migrate mail to google." />
+      <item value="В таком случае лучше сделать миграцию почты на google." />
+      <item value="We will not affect the mail, it will work as before. I have all access and I should be able to do everything without problems." />
+      <item value="Почту мы не затронем, она будет работать в прежнем режиме. Я имею все доступы и у меня должно получиться всё сделать без проблем." />
+      <item value="Я подниму сайт на нашем сервере." />
+      <item value="Я вижу что новый сайт не работает." />
+      <item value="Хотел уточнить. Вы хотите сделать на сайте блог?" />
+      <item value="You wanted to make a blog on the site. Is it still topical? We could help you with this." />
+      <item value="Hello! Вы хотели сделать блог на сайте. Это ещё актуально? Мы бы могли вам помочь с этим." />
       <item value="Мы исправим это в следующем обновлении." />
       <item value="Поправьте только заголовок на Португальский." />
       <item value="On the other hand, if we look at the Blog page, then I would suggest making a full-fledged blog." />
@@ -35,31 +55,11 @@
       <item value="После обновления запустите в ручную процесс синхронизации запустив скрипт который находится по пути" />
       <item value="We also think that it is better to update the plugin after the 24th, when your next auction ends." />
       <item value="Так же мы думаем что обновлять плагин лучше после 24 числа, когда завершится ваш ближайший аукцион." />
-      <item value="If you encounter problems with the plugin, please let me know. Contact can be made by replying to this email or by reporting the issue to Stephen Binkley." />
-      <item value="В случае возникновения проблем с работой плагина пожалуйста дайте мне знать. Связаться можно ответом к этому письму или сообщив о проблеме Stephen Binkley." />
-      <item value="Я от Stephen Binkley." />
-      <item value="He said that you need to update the uco-auctions plugin. The latest versions have a number of changes and features that were required for your site. You can download the latest version of the plugin from the link." />
-      <item value="Он сказал что вам надо обновить плагин uco-auctions. В последних версиях имеется ряд изменений и функций которые требовались для вашего сайта. По ссылку вы можете скачать последнюю версию плагина." />
-      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things needs for WordPress to do when migrating the site to a new domain." />
-      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things for WordPress needs to do when migrating the site to a new domain." />
-      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things that for WordPress needs to do when migrating the site to a new domain." />
-      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things that for WP needs to do when migrating the site to a new domain. Let's think that they are working on it and they will cope." />
-      <item value="I see they uploaded the site to the correct domain, but they didn't do the basic things that WP needs to do when migrating the site to a new domain. Let's think that they are working on it and they will cope." />
-      <item value="Я вижу они загрузили сайт на нужный домен, но они не сделали базовые вещи которые надо сделать для WP при миграции сайта на новый домен. Будем думать что они работают над этим и они справятся." />
-      <item value="But the site still has an error with API requests. Is there a difference in domains with or without www?" />
-      <item value="Но на сайте остаётся ошибка с запросами по API. Есть ли разница в доменах с www или без них?" />
-      <item value="child" />
-      <item value="close the div as we are nesting" />
-      <item value="should be passed an array of objects" />
-      <item value="loop through main cateogires - array of objects" />
-      <item value="loop through subcategories" />
-      <item value="I think now the technical support of your hosting will not have any problems." />
-      <item value="Думаю сейчас у технической поддержки вашего хостинга не возникнет проблем." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6757" />
+        <entry key="ENGLISH" value="6772" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6758" />
+        <entry key="RUSSIAN" value="6772" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
