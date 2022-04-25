@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Как давно вы установили изображения для этих лотов?" />
+      <item value="How to long you set image for that lots?" />
       <item value="If this option suits you, we will do it." />
       <item value="Если такой вариант вам подойдёт мы сделаем это." />
       <item value="Yes, we have changed routes for auctions. This was done because not all clients used the auction number field, or if it did, there were duplicates of this field. We needed a unique value for this. I think we can make a separate route where you can pass the auction id and lot number, after which the site will redirect to the desired page." />
@@ -53,13 +55,11 @@
       <item value="Хотел уточнить. Вы хотите сделать на сайте блог?" />
       <item value="You wanted to make a blog on the site. Is it still topical? We could help you with this." />
       <item value="Hello! Вы хотели сделать блог на сайте. Это ещё актуально? Мы бы могли вам помочь с этим." />
-      <item value="Мы исправим это в следующем обновлении." />
-      <item value="Поправьте только заголовок на Португальский." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6790" />
+        <entry key="ENGLISH" value="6791" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6790" />
+        <entry key="RUSSIAN" value="6792" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
