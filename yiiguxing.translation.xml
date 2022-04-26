@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Отображать цены в ставках с центами." />
+      <item value="1) Fixed. 2) Do you want to display the sold lots separately on the page? What does &quot;choose&quot; mean? It is desirable to change lots or auctions only from Bidspirit. 3) Auction or listing pages are not editable with Elementor. What do you want to change? 4) I removed item &quot;Home&quot;. But it seems that this is not enough, should we reduce it more?" />
+      <item value="2) Вы хотите вывести отдельно на странице проданные лоты? Что значить &quot;выбрать&quot;? Изменять лоты или аукционы желательно только со стороны Bidspirit. 3) Страницы аукционов или лотов не редактируются с помощью Elementor. Что вы хотите изменить? 4) I removed item &quot;Home&quot;. Но кажется этого недостаточно, надо уменьшить ещё?" />
+      <item value="The menu across the top doesn’t fit (it should be on one line, but contact is beneath home)" />
+      <item value="When you click on a past auction and go through to see the catalogue, how can I change the design of the page you see?" />
+      <item value="Could you tell me how I can choose the items that go in recently sold, and change some of the ones there?" />
+      <item value="Did." />
+      <item value="Issues:" />
+      <item value="Can you hide the February auction from past auctions? This is just temporary, after 7th May we can have two again but for now take the link off, put a box over it or anything?" />
       <item value="Yes, for the countdown timer widget, I will do this now." />
       <item value="Да, для виджета с таймером обратного отсчёта этот момент я сделаю сейчас." />
       <item value="I'll take a closer look at what and where should be. And an important point. Is it just for this client or is it better to do it for all clients?" />
@@ -46,20 +55,11 @@
       <item value="Can we not bear these four emails?" />
       <item value="Can we not bear these four letters?" />
       <item value="Эти четыре письма мы можем не переносить?" />
-      <item value="That four email we can don't migrate?" />
-      <item value="Эти данные не подошли" />
-      <item value="And I have not yet figured out how to make translations of the name of the forms for the second language." />
-      <item value="И я пока не понял как сделать переводы названия форм для второго языка." />
-      <item value="You must set the desired options for the plugin." />
-      <item value="Вы должны установить нужные опции для плагина." />
-      <item value="You have setup need settings for plugin" />
-      <item value="Do you want to get an average of 80 points on this SEO plugin?" />
-      <item value="Вы хотите получить средние 80 балов по оценке этого SEO плагина?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6800" />
+        <entry key="ENGLISH" value="6808" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6800" />
+        <entry key="RUSSIAN" value="6809" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
