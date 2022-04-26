@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Insert term ID" />
+      <item value="Excluded auctions" />
       <item value="Pasting content must be done through the keyboard shortcut Ctrl+Shift+V" />
       <item value="Вставку контента нужно делать через сочетание клавиш Ctrl+Shift+V" />
       <item value="I think it would be better if I make a video about how I made a press release." />
@@ -53,13 +55,11 @@
       <item value="This option will remain. Changes will only be on the list of auctions page." />
       <item value="Эта опция останется. Изменения будут только на странице списка аукционов." />
       <item value="Do you want to display this information in the description of the auction card?" />
-      <item value="Вы хотите в описании карточки аукциона отображать эту информацию?" />
-      <item value="Если не получится, сообщите и я помогу вам." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6831" />
+        <entry key="ENGLISH" value="6833" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6831" />
+        <entry key="RUSSIAN" value="6833" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
