@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Auctions archive page" />
+      <item value="Auction archive page" />
+      <item value="Auctions page" />
+      <item value="Страница архива аукционов" />
+      <item value="Archive auctions page" />
+      <item value="Page archive auctions" />
+      <item value="Page auctions" />
+      <item value="Page auction\'s" />
+      <item value="Manual Auctions Page" />
+      <item value="Страница ручных аукционов" />
+      <item value="manuals Page auction's" />
+      <item value="Page auction's manuals" />
+      <item value="Page manuals auction's" />
       <item value="Отображать цены в ставках с центами." />
       <item value="1) Fixed. 2) Do you want to display the sold lots separately on the page? What does &quot;choose&quot; mean? It is desirable to change lots or auctions only from Bidspirit. 3) Auction or listing pages are not editable with Elementor. What do you want to change? 4) I removed item &quot;Home&quot;. But it seems that this is not enough, should we reduce it more?" />
       <item value="2) Вы хотите вывести отдельно на странице проданные лоты? Что значить &quot;выбрать&quot;? Изменять лоты или аукционы желательно только со стороны Bidspirit. 3) Страницы аукционов или лотов не редактируются с помощью Elementor. Что вы хотите изменить? 4) I removed item &quot;Home&quot;. Но кажется этого недостаточно, надо уменьшить ещё?" />
@@ -42,24 +55,11 @@
       <item value="We can provided video manual about working with Wordpress site based on Elementor. Also we provided video manual about working with base elements on your site." />
       <item value="Unfortunately, I don't know anything about this picture. Can you drop it on whatsapp?" />
       <item value="К сожалению я не знаю об этой картинке ни чего. Можете скинуть её в WhatsApp?" />
-      <item value="I have transferred the domain. It remains to wait until the dns records are updated for everyone." />
-      <item value="Я перенёс домен. Осталось подождать когда dns записи обновятся для всех." />
-      <item value="Have you made any changes to the site since April 15th?" />
-      <item value="Вы не делали каких либо изменений на сайте с момента с 15 апреля?" />
-      <item value="Have you shared any changes to the site since April 15th?" />
-      <item value="Вы не делили каких либо изменений на сайте с момента с 15 апреля?" />
-      <item value="It seems to me more convenient to use one email address (amanda@chardauctions.co.uk - as the main one) and info@ as an alias. After that, you can set up various rules and collect mail in different directories for more convenience." />
-      <item value="Мне кажется удобнее пользоваться один email адресом (amanda@chardauctions.co.uk - как основной) и info@ сделать как alias. После вы можете настроить различные правила и собирать почту в разные каталоги для большего удобства." />
-      <item value="If we do not need to transfer anything, then we simply create the necessary mailboxes and connect google mail to your domain and you can use it." />
-      <item value="Если нам не надо ни чего переносить, то мы просто создаём нужные ящики и подключаем google почту к вашему домену и вы можете ей пользоваться." />
-      <item value="Can we not bear these four emails?" />
-      <item value="Can we not bear these four letters?" />
-      <item value="Эти четыре письма мы можем не переносить?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6808" />
+        <entry key="ENGLISH" value="6819" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6809" />
+        <entry key="RUSSIAN" value="6819" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
