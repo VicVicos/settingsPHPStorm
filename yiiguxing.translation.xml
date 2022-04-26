@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! I did split auctions in the plugin. We can update the plugin." />
+      <item value="Я сделал разделение аукционов в плагине. Можем обновить плагин." />
+      <item value="I did split auction on manual and auto." />
+      <item value="I did split auction on manual and auto task." />
+      <item value="I did task split auction on manual and auto." />
       <item value="get Auction Hiddens" />
       <item value="get Auctions Hidden" />
       <item value="get Auction Hidden" />
@@ -50,16 +55,11 @@
       <item value="Could you tell me how I can choose the items that go in recently sold, and change some of the ones there?" />
       <item value="Did." />
       <item value="Issues:" />
-      <item value="Can you hide the February auction from past auctions? This is just temporary, after 7th May we can have two again but for now take the link off, put a box over it or anything?" />
-      <item value="Yes, for the countdown timer widget, I will do this now." />
-      <item value="Да, для виджета с таймером обратного отсчёта этот момент я сделаю сейчас." />
-      <item value="I'll take a closer look at what and where should be. And an important point. Is it just for this client or is it better to do it for all clients?" />
-      <item value="Я посмотрю внимательнее что и где должно быть. И важный момент. Это только для этого клиента или это лучше сделать для всех клиентов?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6836" />
+        <entry key="ENGLISH" value="6840" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6836" />
+        <entry key="RUSSIAN" value="6840" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
