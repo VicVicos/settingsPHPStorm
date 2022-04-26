@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Yes, for the countdown timer widget, I will do this now." />
+      <item value="Да, для виджета с таймером обратного отсчёта этот момент я сделаю сейчас." />
       <item value="I'll take a closer look at what and where should be. And an important point. Is it just for this client or is it better to do it for all clients?" />
       <item value="Я посмотрю внимательнее что и где должно быть. И важный момент. Это только для этого клиента или это лучше сделать для всех клиентов?" />
       <item value="This option will remain. Changes will only be on the list of auctions page." />
@@ -53,13 +55,11 @@
       <item value="You have setup need settings for plugin" />
       <item value="Do you want to get an average of 80 points on this SEO plugin?" />
       <item value="Вы хотите получить средние 80 балов по оценке этого SEO плагина?" />
-      <item value="Вы хотите получить средние 80 балов по оценке этого плагина?" />
-      <item value="У вас есть нужная картинка?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6799" />
+        <entry key="ENGLISH" value="6800" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6799" />
+        <entry key="RUSSIAN" value="6800" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
