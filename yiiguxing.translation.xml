@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I'll take a closer look at what and where should be. And an important point. Is it just for this client or is it better to do it for all clients?" />
+      <item value="Я посмотрю внимательнее что и где должно быть. И важный момент. Это только для этого клиента или это лучше сделать для всех клиентов?" />
+      <item value="This option will remain. Changes will only be on the list of auctions page." />
+      <item value="Эта опция останется. Изменения будут только на странице списка аукционов." />
+      <item value="Do you want to display this information in the description of the auction card?" />
+      <item value="Вы хотите в описании карточки аукциона отображать эту информацию?" />
       <item value="Если не получится, сообщите и я помогу вам." />
       <item value="Это был кеш." />
       <item value="Вы можете изменить это самостоятельно?" />
@@ -49,17 +55,11 @@
       <item value="Вы хотите получить средние 80 балов по оценке этого SEO плагина?" />
       <item value="Вы хотите получить средние 80 балов по оценке этого плагина?" />
       <item value="У вас есть нужная картинка?" />
-      <item value="You have need picture?" />
-      <item value="Какую картинку вы хотите?" />
-      <item value="Yes. In this case, it is better to migrate mail to google." />
-      <item value="В таком случае лучше сделать миграцию почты на google." />
-      <item value="We will not affect the mail, it will work as before. I have all access and I should be able to do everything without problems." />
-      <item value="Почту мы не затронем, она будет работать в прежнем режиме. Я имею все доступы и у меня должно получиться всё сделать без проблем." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6795" />
+        <entry key="ENGLISH" value="6799" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6796" />
+        <entry key="RUSSIAN" value="6799" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
