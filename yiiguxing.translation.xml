@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Что бы стиль текста поменять можно использовать эти настройки" />
+      <item value="Вы должны создать новый пост с пресс релизом этого аукциона и он автоматически появится здесь." />
+      <item value="Я помогу." />
       <item value="Auctions archive page" />
       <item value="Auction archive page" />
       <item value="Auctions page" />
@@ -52,14 +55,11 @@
       <item value="We can provide video manual about working with Wordpress site based on Elementor. Also, we provide video manual about working with base elements on your site. Further, by analogy with how current press releases are made, you can repeat the same for press releases in 2022." />
       <item value="Далее вы сможете по аналогии с тем, как сделаны текущие пресс-релизы повторить это же и для пресс-релизов 2022 года." />
       <item value="We can provide video manual about working with Wordpress site based on Elementor. Also we provide video manual about working with base elements on your site." />
-      <item value="We can provided video manual about working with Wordpress site based on Elementor. Also we provided video manual about working with base elements on your site." />
-      <item value="Unfortunately, I don't know anything about this picture. Can you drop it on whatsapp?" />
-      <item value="К сожалению я не знаю об этой картинке ни чего. Можете скинуть её в WhatsApp?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6819" />
+        <entry key="ENGLISH" value="6821" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6819" />
+        <entry key="RUSSIAN" value="6822" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
