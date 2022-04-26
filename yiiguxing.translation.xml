@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can also combine these two links into one &quot;Auctions&quot; group" />
+      <item value="You can also combine these two links into one &quot;Auctions&quot; group" />
+      <item value="Так же можно объединить в одну группу &quot;Auctions&quot; эти две ссылки" />
+      <item value="Так же можно объединить в одну группу эти две ссылки" />
+      <item value="But in short, you need to mark this checkbox in the admin panel on the lot editing page." />
+      <item value="Но если коротко то вам надо в админке на странице редактирования лота отметить this checkbox." />
+      <item value="What manage base elements on site you can learn us video manual." />
       <item value="Что бы стиль текста поменять можно использовать эти настройки" />
       <item value="Вы должны создать новый пост с пресс релизом этого аукциона и он автоматически появится здесь." />
       <item value="Я помогу." />
@@ -48,18 +55,11 @@
       <item value="If this option suits you, we will do it." />
       <item value="Если такой вариант вам подойдёт мы сделаем это." />
       <item value="Yes, we have changed routes for auctions. This was done because not all clients used the auction number field, or if it did, there were duplicates of this field. We needed a unique value for this. I think we can make a separate route where you can pass the auction id and lot number, after which the site will redirect to the desired page." />
-      <item value="Да мы изменили роуты для аукционов. Это было сделано по той причине что не у всех клиентов поле auction number использовался или если использовался то были дубликаты этого поля. Нам нужно было уникальное значение для этого. Думаю мы можем сделать отдельный роут куда вы сможете передать id аукциона и номер лота, после чего на сайте будет редирект на нужную страницу." />
-      <item value="For the invitations, we need a simple way to know the link to the auction and link to specific lots in the auctions (with numbers only)." />
-      <item value="You used to have a link the catalogs in your site with the format: https:&lt;domain&gt;auctionauctionNumber It looks like it was changed and now contains the internal number of the auction and part of the auction name. This is problematic for us since we can't predict the link. Why are you putting the auction name? For SEO purposes? For the invitations, we need a simple way to know the link to the auction and link to specific lots in the auctions (with numbers only). Can you make this change?" />
-      <item value="Какое значение для поля target?" />
-      <item value="We can provide video manual about working with Wordpress site based on Elementor. Also, we provide video manual about working with base elements on your site. Further, by analogy with how current press releases are made, you can repeat the same for press releases in 2022." />
-      <item value="Далее вы сможете по аналогии с тем, как сделаны текущие пресс-релизы повторить это же и для пресс-релизов 2022 года." />
-      <item value="We can provide video manual about working with Wordpress site based on Elementor. Also we provide video manual about working with base elements on your site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6821" />
+        <entry key="ENGLISH" value="6826" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6822" />
+        <entry key="RUSSIAN" value="6826" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
