@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This field should be the unique identifier." />
+      <item value="Уникальным идентификатором должно быть вот это поле." />
+      <item value="It is not necessary to make different headers. As it should be right and do it." />
+      <item value="Делать разные заголовки не обязательно. Как должно быть правильно так и делайте." />
       <item value="Specifically, these two pages are already linked. I did this before." />
       <item value="Specifically, these two pages are already linked. I have done this before." />
       <item value="Конкретно эти две страницы уже связаны. Я сделал это ранее." />
@@ -51,15 +55,11 @@
       <item value="Вставку контента нужно делать через сочетание клавиш Ctrl+Shift+V" />
       <item value="I think it would be better if I make a video about how I made a press release." />
       <item value="Думаю будет лучше если я сделаю видео о том как я делал пресс-релиз." />
-      <item value="Ctrl+Shift+V - keyboard shortcut ignores text formatting from a PDF file." />
-      <item value="Ctrl+Shift+V - сочетание клавиш игнорирует форматирование текста из PDF файла." />
-      <item value="I made a press release from a PDF file by simply copying Ctrl+C and pasting Ctrl+Shift+V" />
-      <item value="Я сделал пресс-релиз из PDF файла, банальным копированием Ctrl+C и вставкой Ctrl+Shift+V" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6862" />
+        <entry key="ENGLISH" value="6864" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6862" />
+        <entry key="RUSSIAN" value="6864" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
