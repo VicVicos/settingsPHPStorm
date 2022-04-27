@@ -5,6 +5,31 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Specifically, these two pages are already linked. I did this before." />
+      <item value="Specifically, these two pages are already linked. I have done this before." />
+      <item value="Конкретно эти две страницы уже связаны. Я сделал это ранее." />
+      <item value="Click on the pencil icon and you will be taken to editing the post in Chinese" />
+      <item value="Кликните на иконку карандаша и вы перейдёте к редактирования поста на китайсом языке" />
+      <item value="Карандаш" />
+      <item value="To link a translation to an article, enter name the article in the second language in this field." />
+      <item value="To link a translation to an article, enter the article in the second language in this field." />
+      <item value="Для того что бы связать перевод со статьёй укажите в этом поле статью на втором языке." />
+      <item value="Вы можете создать перевод для отсутствующих страниц и добавить их в меню." />
+      <item value="You can create translate for left pages and add they in menu." />
+      <item value="We can create translate for left pages and add they in menu." />
+      <item value="Chinese press release page not created" />
+      <item value="Не была создана страница для Press release на китайском" />
+      <item value="The second copy of HK0127 was created during the demo, you can delete it." />
+      <item value="Вторая копия HK0127 была создана в процессе демонстрации, её можно удалить." />
+      <item value="You do not establish a link between posts, thereby not indicating that this is a translation of the article." />
+      <item value="Вы не устанавливаете связь между постами, тем самым не указываете что это перевод статьи." />
+      <item value="In this case, this auction fell into the section with automatic auctions." />
+      <item value="В данном случае этот аукцион попал в раздел с автоматическими аукционами." />
+      <item value="And I did a plugin update with split auctions" />
+      <item value="И я сделал обновление плагина с разделением аукционов" />
+      <item value="What are the errors? I see a future auction." />
+      <item value="О каких ошибках идёт речь? Я вижу будущий аукцион." />
+      <item value="О каких ошибках идёт речь? Я вижу последний аукцион." />
       <item value="I think we need to update lastCatalogUpdate. Since if the client changes the information about the auction, he will not see this change on the site." />
       <item value="I think we need to update. Since if the client changes the information about the auction, he will not see this change on the site." />
       <item value="Думаю нам надо что бы обновлялось. Так как если клиент изменит информацию об аукционе он не увидит это изменение на сайте." />
@@ -30,36 +55,11 @@
       <item value="Ctrl+Shift+V - сочетание клавиш игнорирует форматирование текста из PDF файла." />
       <item value="I made a press release from a PDF file by simply copying Ctrl+C and pasting Ctrl+Shift+V" />
       <item value="Я сделал пресс-релиз из PDF файла, банальным копированием Ctrl+C и вставкой Ctrl+Shift+V" />
-      <item value="У вас есть отдельно эти картинки?" />
-      <item value="Can also combine these two links into one &quot;Auctions&quot; group" />
-      <item value="You can also combine these two links into one &quot;Auctions&quot; group" />
-      <item value="Так же можно объединить в одну группу &quot;Auctions&quot; эти две ссылки" />
-      <item value="Так же можно объединить в одну группу эти две ссылки" />
-      <item value="But in short, you need to mark this checkbox in the admin panel on the lot editing page." />
-      <item value="Но если коротко то вам надо в админке на странице редактирования лота отметить this checkbox." />
-      <item value="What manage base elements on site you can learn us video manual." />
-      <item value="Что бы стиль текста поменять можно использовать эти настройки" />
-      <item value="Вы должны создать новый пост с пресс релизом этого аукциона и он автоматически появится здесь." />
-      <item value="Я помогу." />
-      <item value="Auctions archive page" />
-      <item value="Auction archive page" />
-      <item value="Auctions page" />
-      <item value="Страница архива аукционов" />
-      <item value="Archive auctions page" />
-      <item value="Page archive auctions" />
-      <item value="Page auctions" />
-      <item value="Page auction\'s" />
-      <item value="Manual Auctions Page" />
-      <item value="Страница ручных аукционов" />
-      <item value="manuals Page auction's" />
-      <item value="Page auction's manuals" />
-      <item value="Page manuals auction's" />
-      <item value="Отображать цены в ставках с центами." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6844" />
+        <entry key="ENGLISH" value="6862" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6844" />
+        <entry key="RUSSIAN" value="6862" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650591971269" />
+    <option name="lastTrimTime" value="1651042358303" />
   </component>
 </application>
