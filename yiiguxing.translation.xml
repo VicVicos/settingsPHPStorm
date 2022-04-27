@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We just talked about the fact that the Subscribe form does not make sense and it needs to be converted into a button for the registration form in Bidspirit." />
+      <item value="Мы же только что говорили о том что форма Subscribe не имеет смысла и её надо переделать на кнопку для формы регистрации в Bidspirit." />
+      <item value="What about the block itself?" />
+      <item value="А сам блок?" />
       <item value="We will discuss this point at the next call." />
       <item value="We will discuss this point at the next meeting." />
       <item value="Мы обсудим этот момент на следующем собрании." />
@@ -51,15 +55,11 @@
       <item value="О каких ошибках идёт речь? Я вижу последний аукцион." />
       <item value="I think we need to update lastCatalogUpdate. Since if the client changes the information about the auction, he will not see this change on the site." />
       <item value="I think we need to update. Since if the client changes the information about the auction, he will not see this change on the site." />
-      <item value="Думаю нам надо что бы обновлялось. Так как если клиент изменит информацию об аукционе он не увидит это изменение на сайте." />
-      <item value="Hello! I have a question regarding the lastCatalogUpdate field. It doesn't change if I make changes to the auction fields and I get the old timestamp. If I make changes in the Advanced Settings tab, the timestamp is updated." />
-      <item value="Hello! У меня есть вопрос касательно поля lastCatalogUpdate. Оно не изменяется если я вношу изменения в поля аукциона, и я получаю старую метку времени. Если я вношу изменения во вкладке Advanced Settings, timestamp обновляется." />
-      <item value="For manual auctions on the site, you need to create a new page. How to call it? In English and Spanish, please." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6873" />
+        <entry key="ENGLISH" value="6875" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6873" />
+        <entry key="RUSSIAN" value="6875" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
