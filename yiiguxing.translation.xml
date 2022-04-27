@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We will discuss this point at the next call." />
+      <item value="We will discuss this point at the next meeting." />
+      <item value="Мы обсудим этот момент на следующем собрании." />
+      <item value="In this case, there really is no sense in this form." />
+      <item value="В таком случае действительно от этой формы нет толка." />
       <item value="Should I remove subscription forms in template? No, this is a separate feature, it should not be a registration on Bidspirit. This form works like a user subscription to news." />
       <item value="Should I remove subscription forms? No, this is a separate feature, it should not be a registration on Bidspirit. This form works like a user subscription to news." />
       <item value="Должны удалить формы подписки? Нет, это отдельная фича, это не должно быть регистрацией на Bidspirit. Эта форма работает как подписка пользователей на новости." />
@@ -50,16 +55,11 @@
       <item value="Hello! I have a question regarding the lastCatalogUpdate field. It doesn't change if I make changes to the auction fields and I get the old timestamp. If I make changes in the Advanced Settings tab, the timestamp is updated." />
       <item value="Hello! У меня есть вопрос касательно поля lastCatalogUpdate. Оно не изменяется если я вношу изменения в поля аукциона, и я получаю старую метку времени. Если я вношу изменения во вкладке Advanced Settings, timestamp обновляется." />
       <item value="For manual auctions on the site, you need to create a new page. How to call it? In English and Spanish, please." />
-      <item value="Для аукционов проводимых в ручную на сайте надо создать новую страницу. Как её назвать? На Английском и Испанском, пожалуйста." />
-      <item value="Hello! I did split auctions in the plugin. We can update the plugin." />
-      <item value="Я сделал разделение аукционов в плагине. Можем обновить плагин." />
-      <item value="I did split auction on manual and auto." />
-      <item value="I did split auction on manual and auto task." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6870" />
+        <entry key="ENGLISH" value="6873" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6870" />
+        <entry key="RUSSIAN" value="6873" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
