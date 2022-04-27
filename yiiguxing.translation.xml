@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Should I remove subscription forms in template? No, this is a separate feature, it should not be a registration on Bidspirit. This form works like a user subscription to news." />
+      <item value="Should I remove subscription forms? No, this is a separate feature, it should not be a registration on Bidspirit. This form works like a user subscription to news." />
+      <item value="Должны удалить формы подписки? Нет, это отдельная фича, это не должно быть регистрацией на Bidspirit. Эта форма работает как подписка пользователей на новости." />
+      <item value="Let's discuss this a little later, now I have to solve a problem for Tiroche." />
+      <item value="Давайте обсудим это чуть позднее, сейчас мне надо решить проблему для Tiroche." />
+      <item value="We think they mixed up height and width." />
+      <item value="Мы думаем что они перепутали высоту и ширину." />
+      <item value="Please check for Tiroche client fields width and height for auction 182, lots 122, 133, 143 as example." />
+      <item value="In that case, it doesn't work for us." />
+      <item value="В таком случае нам это не подходит." />
       <item value="This field should be the unique identifier." />
       <item value="Уникальным идентификатором должно быть вот это поле." />
       <item value="It is not necessary to make different headers. As it should be right and do it." />
@@ -45,21 +55,11 @@
       <item value="Я сделал разделение аукционов в плагине. Можем обновить плагин." />
       <item value="I did split auction on manual and auto." />
       <item value="I did split auction on manual and auto task." />
-      <item value="I did task split auction on manual and auto." />
-      <item value="get Auction Hiddens" />
-      <item value="get Auctions Hidden" />
-      <item value="get Auction Hidden" />
-      <item value="Insert term ID" />
-      <item value="Excluded auctions" />
-      <item value="Pasting content must be done through the keyboard shortcut Ctrl+Shift+V" />
-      <item value="Вставку контента нужно делать через сочетание клавиш Ctrl+Shift+V" />
-      <item value="I think it would be better if I make a video about how I made a press release." />
-      <item value="Думаю будет лучше если я сделаю видео о том как я делал пресс-релиз." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6864" />
+        <entry key="ENGLISH" value="6870" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6864" />
+        <entry key="RUSSIAN" value="6870" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
