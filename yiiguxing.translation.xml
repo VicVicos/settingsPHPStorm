@@ -5,6 +5,29 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="But the main page of the site in Chinese is broken." />
+      <item value="Но главная страница сайта на китайском языке поломана." />
+      <item value="This is not true. All press-release articles in Chinese are displayed." />
+      <item value="Это не так. Все press-release статьи на китайском отображаются." />
+      <item value="эти страницы" />
+      <item value="Once all the pages are done, they will need to be added to the menu." />
+      <item value="Как сделаете все страницы их надо будет добавить в меню." />
+      <item value="Once you have did all the pages, it remains to add them to the menu. If you need help please let me know." />
+      <item value="Once you have done all the pages, it remains to add them to the menu. If you need help please let me know." />
+      <item value="Как сделаете все страницы останется добавить их в меню. Если понадобится помощь сообщите мне об этом." />
+      <item value="Things are good? Have you checked?" />
+      <item value="Всё хорошо? Проверили?" />
+      <item value="Это устаревшая информация" />
+      <item value="Red zone: Карандаш означает что статья первод установлена. Blue zone: Язык для этой статьи установлен Китайский." />
+      <item value="Я заметил что некоторые статьи получили переводы страниц с другими именами." />
+      <item value="But the pencil will be only if the translation for the article is already installed. If there is no translation for the article, then there will be a plus sign." />
+      <item value="Но карандаш будет только в том случае если перевод для статьи уже установлен. Если для статьи нет перевода, то там будет значок плюса." />
+      <item value="О какой странице вы говорите?" />
+      <item value="I'll think about how to make automatic cache cleaning in such cases." />
+      <item value="Подумаю как сделать автоматическую очистку кеша в таких случаях." />
+      <item value="I found differences in the second day of the auction, this is a cache on the site. Cleared with this button." />
+      <item value="Hello! Yes, I found differences on the second day of the auction, this is a cache on the site. Cleared with this button." />
+      <item value="Я нашёл отличия во втором дне аукциона, это кеш на сайте. Очистил с помощью этой кнопки." />
       <item value="We just talked about the fact that the Subscribe form does not make sense and it needs to be converted into a button for the registration form in Bidspirit." />
       <item value="Мы же только что говорили о том что форма Subscribe не имеет смысла и её надо переделать на кнопку для формы регистрации в Bidspirit." />
       <item value="What about the block itself?" />
@@ -32,34 +55,11 @@
       <item value="Specifically, these two pages are already linked. I have done this before." />
       <item value="Конкретно эти две страницы уже связаны. Я сделал это ранее." />
       <item value="Click on the pencil icon and you will be taken to editing the post in Chinese" />
-      <item value="Кликните на иконку карандаша и вы перейдёте к редактирования поста на китайсом языке" />
-      <item value="Карандаш" />
-      <item value="To link a translation to an article, enter name the article in the second language in this field." />
-      <item value="To link a translation to an article, enter the article in the second language in this field." />
-      <item value="Для того что бы связать перевод со статьёй укажите в этом поле статью на втором языке." />
-      <item value="Вы можете создать перевод для отсутствующих страниц и добавить их в меню." />
-      <item value="You can create translate for left pages and add they in menu." />
-      <item value="We can create translate for left pages and add they in menu." />
-      <item value="Chinese press release page not created" />
-      <item value="Не была создана страница для Press release на китайском" />
-      <item value="The second copy of HK0127 was created during the demo, you can delete it." />
-      <item value="Вторая копия HK0127 была создана в процессе демонстрации, её можно удалить." />
-      <item value="You do not establish a link between posts, thereby not indicating that this is a translation of the article." />
-      <item value="Вы не устанавливаете связь между постами, тем самым не указываете что это перевод статьи." />
-      <item value="In this case, this auction fell into the section with automatic auctions." />
-      <item value="В данном случае этот аукцион попал в раздел с автоматическими аукционами." />
-      <item value="And I did a plugin update with split auctions" />
-      <item value="И я сделал обновление плагина с разделением аукционов" />
-      <item value="What are the errors? I see a future auction." />
-      <item value="О каких ошибках идёт речь? Я вижу будущий аукцион." />
-      <item value="О каких ошибках идёт речь? Я вижу последний аукцион." />
-      <item value="I think we need to update lastCatalogUpdate. Since if the client changes the information about the auction, he will not see this change on the site." />
-      <item value="I think we need to update. Since if the client changes the information about the auction, he will not see this change on the site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6875" />
+        <entry key="ENGLISH" value="6890" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6875" />
+        <entry key="RUSSIAN" value="6890" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
