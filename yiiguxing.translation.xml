@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Delete the directory itself if empty, or we can remove the dir." />
+      <item value="Use WP_Filesystem API to delete files." />
       <item value="lot Insert Or Update" />
       <item value="Это понятно. На Bidspirit это условие уже реализовано?" />
       <item value="Это понятно. Постараемся реализовать это в ближайшее время." />
@@ -53,13 +55,11 @@
       <item value="What about the block itself?" />
       <item value="А сам блок?" />
       <item value="We will discuss this point at the next call." />
-      <item value="We will discuss this point at the next meeting." />
-      <item value="Мы обсудим этот момент на следующем собрании." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6902" />
+        <entry key="ENGLISH" value="6904" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6902" />
+        <entry key="RUSSIAN" value="6904" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
