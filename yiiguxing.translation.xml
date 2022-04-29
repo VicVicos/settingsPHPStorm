@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Это понятно. На Bidspirit это условие уже реализовано?" />
+      <item value="Это понятно. Постараемся реализовать это в ближайшее время." />
+      <item value="It went to my spam folder and I accidentally deleted it." />
+      <item value="Оно пришло в папку со спамом, и я удалил его случайно." />
+      <item value="It ended up in my spam folder and I accidentally deleted it." />
+      <item value="Оно попало в папку со спамом и я удалил его случайно." />
+      <item value="Ok. We will fixed it." />
+      <item value="I set currency on site as HK. It is correct?" />
+      <item value="We do not take into account this condition." />
+      <item value="Такое условие у нас не учитывается" />
       <item value="It is important to clarify with the user the device, browser and whether it has been updated to the latest version." />
       <item value="Важно уточнить у пользователя устройство, браузер и обновлён ли он до последней версии." />
       <item value="Важно уточнить у пользователя устройство и обновлён ли у него браузер до последней версии." />
@@ -45,21 +55,11 @@
       <item value="We will discuss this point at the next meeting." />
       <item value="Мы обсудим этот момент на следующем собрании." />
       <item value="In this case, there really is no sense in this form." />
-      <item value="В таком случае действительно от этой формы нет толка." />
-      <item value="Should I remove subscription forms in template? No, this is a separate feature, it should not be a registration on Bidspirit. This form works like a user subscription to news." />
-      <item value="Should I remove subscription forms? No, this is a separate feature, it should not be a registration on Bidspirit. This form works like a user subscription to news." />
-      <item value="Должны удалить формы подписки? Нет, это отдельная фича, это не должно быть регистрацией на Bidspirit. Эта форма работает как подписка пользователей на новости." />
-      <item value="Let's discuss this a little later, now I have to solve a problem for Tiroche." />
-      <item value="Давайте обсудим это чуть позднее, сейчас мне надо решить проблему для Tiroche." />
-      <item value="We think they mixed up height and width." />
-      <item value="Мы думаем что они перепутали высоту и ширину." />
-      <item value="Please check for Tiroche client fields width and height for auction 182, lots 122, 133, 143 as example." />
-      <item value="In that case, it doesn't work for us." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6895" />
+        <entry key="ENGLISH" value="6901" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6895" />
+        <entry key="RUSSIAN" value="6902" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
