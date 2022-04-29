@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lot Insert Or Update" />
       <item value="Это понятно. На Bidspirit это условие уже реализовано?" />
       <item value="Это понятно. Постараемся реализовать это в ближайшее время." />
       <item value="It went to my spam folder and I accidentally deleted it." />
@@ -54,12 +55,11 @@
       <item value="We will discuss this point at the next call." />
       <item value="We will discuss this point at the next meeting." />
       <item value="Мы обсудим этот момент на следующем собрании." />
-      <item value="In this case, there really is no sense in this form." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6901" />
+        <entry key="ENGLISH" value="6902" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
