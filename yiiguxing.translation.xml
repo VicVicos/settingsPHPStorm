@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Да. Это обязательно." />
+      <item value="Я не знаю. Я не вижу их сайт." />
+      <item value="Какая ссылка на их сайт?" />
+      <item value="Я понял" />
+      <item value="В последних версиях можно создать отдельные страницы с формами авторизации и регистрации" />
+      <item value="If you need help, I will need access to the site's admin panel." />
+      <item value="В случае если потребуется помощь, то мне нужен будет доступ к админке сайта." />
+      <item value="We did not create any access to their site." />
+      <item value="Мы не создавали ни каких доступов к их сайту." />
       <item value="Одеяло" />
       <item value="С какой страницы было отправлено или полный текст сообщения?" />
       <item value="Have you more details about spam emails?" />
@@ -46,20 +55,11 @@
       <item value="Всё хорошо? Проверили?" />
       <item value="Это устаревшая информация" />
       <item value="Red zone: Карандаш означает что статья первод установлена. Blue zone: Язык для этой статьи установлен Китайский." />
-      <item value="Я заметил что некоторые статьи получили переводы страниц с другими именами." />
-      <item value="But the pencil will be only if the translation for the article is already installed. If there is no translation for the article, then there will be a plus sign." />
-      <item value="Но карандаш будет только в том случае если перевод для статьи уже установлен. Если для статьи нет перевода, то там будет значок плюса." />
-      <item value="О какой странице вы говорите?" />
-      <item value="I'll think about how to make automatic cache cleaning in such cases." />
-      <item value="Подумаю как сделать автоматическую очистку кеша в таких случаях." />
-      <item value="I found differences in the second day of the auction, this is a cache on the site. Cleared with this button." />
-      <item value="Hello! Yes, I found differences on the second day of the auction, this is a cache on the site. Cleared with this button." />
-      <item value="Я нашёл отличия во втором дне аукциона, это кеш на сайте. Очистил с помощью этой кнопки." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6908" />
+        <entry key="ENGLISH" value="6917" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6909" />
+        <entry key="RUSSIAN" value="6918" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
