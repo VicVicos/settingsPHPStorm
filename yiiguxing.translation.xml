@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We thought the client changed their profile to Bidspirit because the client stopped receiving auction updates." />
+      <item value="Мы подумали что клиент сменил профиль на Bidspirit, так как клиент перестал получать обновления аукционов." />
+      <item value="I need to make corrections to the plugin code so that these characters do not break the site." />
+      <item value="Then I need to make corrections to the plugin code so that these characters do not break the site." />
+      <item value="Тогда мне надо внести исправления в код плагина что бы эти символы не ломали сайт." />
       <item value="Thanks!" />
       <item value="Thank you for your help too!" />
       <item value="Спасибо и вам за помощь!" />
@@ -50,16 +55,11 @@
       <item value="Эта ошибка приходит от Bidspirit, она не возникает со стороны сайта." />
       <item value="I checked the authorization from my account, I did not encounter any problems. Previously, when this problem arose, it was fixed on the side of Bidspirit, there was no error in the plugin. Also, the occurrence of this error is highly dependent on the user's device." />
       <item value="Я проверил авторизацию со своего аккаунта, проблем не встретил. Раньше когда эта проблема возникала её исправляли на стороне Bidspirit, ошибки в плагине не было. Так же возникновение этой ошибки сильно зависит от устройства пользователя." />
-      <item value="Hello! If we are done. Can we start moving the site to the main domain?" />
-      <item value="Hello! Если мы закончили работу. Можем ли мы начать перенос сайта на основной домен?" />
-      <item value="But the main page of the site in Chinese is broken." />
-      <item value="Но главная страница сайта на китайском языке поломана." />
-      <item value="This is not true. All press-release articles in Chinese are displayed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6926" />
+        <entry key="ENGLISH" value="6929" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6926" />
+        <entry key="RUSSIAN" value="6929" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651042358303" />
+    <option name="lastTrimTime" value="1651588552996" />
   </component>
 </application>
