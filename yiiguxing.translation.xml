@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Thanks!" />
+      <item value="Thank you for your help too!" />
+      <item value="Спасибо и вам за помощь!" />
+      <item value="In the latest versions, we made changes at various points in the work of the plugin, but did not test everything before sending it to production." />
+      <item value="В последних версиях мы сделали изменения в разных моментах работы в плагине, но не всё протестировали перед отправкой в производство." />
+      <item value="In the latest versions, we made changes at various points in the work in the plugin, but did not test everything before sending." />
+      <item value="В последних версиях мы сделали изменения в разных моментах работы в плагине, но не всё протестировали перед отправкой." />
+      <item value="Until May 11, I'm on vacation and react to the issues with a big delay." />
+      <item value="Until May 11, I'm on vacation and react to the appeal with a big delay." />
+      <item value="До 11 мая я в отпуске и реагировать на обращение с большой задержкой." />
+      <item value="Я проверил и исправил проблему." />
       <item value="Да. Это обязательно." />
       <item value="Я не знаю. Я не вижу их сайт." />
       <item value="Какая ссылка на их сайт?" />
@@ -44,22 +55,11 @@
       <item value="But the main page of the site in Chinese is broken." />
       <item value="Но главная страница сайта на китайском языке поломана." />
       <item value="This is not true. All press-release articles in Chinese are displayed." />
-      <item value="Это не так. Все press-release статьи на китайском отображаются." />
-      <item value="эти страницы" />
-      <item value="Once all the pages are done, they will need to be added to the menu." />
-      <item value="Как сделаете все страницы их надо будет добавить в меню." />
-      <item value="Once you have did all the pages, it remains to add them to the menu. If you need help please let me know." />
-      <item value="Once you have done all the pages, it remains to add them to the menu. If you need help please let me know." />
-      <item value="Как сделаете все страницы останется добавить их в меню. Если понадобится помощь сообщите мне об этом." />
-      <item value="Things are good? Have you checked?" />
-      <item value="Всё хорошо? Проверили?" />
-      <item value="Это устаревшая информация" />
-      <item value="Red zone: Карандаш означает что статья первод установлена. Blue zone: Язык для этой статьи установлен Китайский." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6917" />
+        <entry key="ENGLISH" value="6926" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6918" />
+        <entry key="RUSSIAN" value="6926" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
