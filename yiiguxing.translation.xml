@@ -5,6 +5,22 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="When I tried to open https:accordauctions.bidspirit.com I got a redirect and thought they changed their profile. Those. nothing needed to be changed?" />
+      <item value="При попытке открыть https:accordauctions.bidspirit.com я получил редирект и решил что они сменили профиль. Т.е. ни чего не надо было менять?" />
+      <item value="I thought that a relations is being established between the domain and the client profile." />
+      <item value="I thought that a connection is being established between the domain and the client profile." />
+      <item value="Я думал что устанавливается связь между доменом и профилем клиента." />
+      <item value="What I emphasized I notice for the first time." />
+      <item value="То что я подчеркнул замечаю впервые." />
+      <item value="Они удалили этот символ" />
+      <item value="Luxeford contacted us with a problem. When studying the problem, I found out that one of the lots has an index of 3107^. As a result, we receive an API request:" />
+      <item value="Luxeford обратились с проблемой к нам. При изучении проблемы я выяснил что один из лотов имеет индекс 3107^. В итоге мы получаем запрос к API:" />
+      <item value="Note that the client also has indexes 3101, but they do not cause problems. Currently, the client has removed the ^ character." />
+      <item value="Обратите внимание что клиент так же имеет индексы 3101, но они не вызывают проблем. На текущий момент клиент удалил символ ^." />
+      <item value="The ^ character is not allowed. When requesting Bidspirit, the Bidspirit server crashes. I will send a ticket to Bidspirit to resolve this issue." />
+      <item value="The ^ character is not allowed. When requesting Bidspirit, the Bidspirit server crashes. Я отправлю обращение в Bidspirit для решения это проблемы." />
+      <item value="The ^ character is not allowed. When requesting Bidspirit, the Bidspirit server crashes." />
+      <item value="Символ ^ не допустим. При запросе в Bidspirit сервер Bidspirit падает." />
       <item value="We thought the client changed their profile to Bidspirit because the client stopped receiving auction updates." />
       <item value="Мы подумали что клиент сменил профиль на Bidspirit, так как клиент перестал получать обновления аукционов." />
       <item value="I need to make corrections to the plugin code so that these characters do not break the site." />
@@ -39,27 +55,11 @@
       <item value="Use WP_Filesystem API to delete files." />
       <item value="lot Insert Or Update" />
       <item value="Это понятно. На Bidspirit это условие уже реализовано?" />
-      <item value="Это понятно. Постараемся реализовать это в ближайшее время." />
-      <item value="It went to my spam folder and I accidentally deleted it." />
-      <item value="Оно пришло в папку со спамом, и я удалил его случайно." />
-      <item value="It ended up in my spam folder and I accidentally deleted it." />
-      <item value="Оно попало в папку со спамом и я удалил его случайно." />
-      <item value="Ok. We will fixed it." />
-      <item value="I set currency on site as HK. It is correct?" />
-      <item value="We do not take into account this condition." />
-      <item value="Такое условие у нас не учитывается" />
-      <item value="It is important to clarify with the user the device, browser and whether it has been updated to the latest version." />
-      <item value="Важно уточнить у пользователя устройство, браузер и обновлён ли он до последней версии." />
-      <item value="Важно уточнить у пользователя устройство и обновлён ли у него браузер до последней версии." />
-      <item value="This error comes from Bidspirit, it does not come from the site." />
-      <item value="Эта ошибка приходит от Bidspirit, она не возникает со стороны сайта." />
-      <item value="I checked the authorization from my account, I did not encounter any problems. Previously, when this problem arose, it was fixed on the side of Bidspirit, there was no error in the plugin. Also, the occurrence of this error is highly dependent on the user's device." />
-      <item value="Я проверил авторизацию со своего аккаунта, проблем не встретил. Раньше когда эта проблема возникала её исправляли на стороне Bidspirit, ошибки в плагине не было. Так же возникновение этой ошибки сильно зависит от устройства пользователя." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6929" />
+        <entry key="ENGLISH" value="6939" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6929" />
+        <entry key="RUSSIAN" value="6939" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
