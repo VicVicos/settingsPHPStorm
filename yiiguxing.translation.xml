@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I can hide the price display with VAT on the site" />
+      <item value="Я могу скрыть на сайте отображение цены с VAT" />
+      <item value="I understand, but the correct commission account must be on Bidspirit. Bidspirit can do this on their side, and we on the site will use the Bidspirit API to get the commission calculation step." />
+      <item value="Я понимаю, но учёт верной комиссии должен быть на Bidspirit. Bidspirit могут сделать это со своей стороны, а мы на сайте будем использовать API Bidspirit для получения шага расчёта комиссии." />
+      <item value="Bidspirit for their part have accounted for this staggered commission?" />
+      <item value="Bidspirit со своей стороны сделали учёт этой ступенчатой комиссии?" />
       <item value="Please use this html code for buttons login and register" />
       <item value="You don't have required html. Form register and login worked. We can create separate pages for form register and login." />
       <item value="We don't have required html. Form register and login worked. We can create separate pages for form register and login." />
@@ -49,17 +55,11 @@
       <item value="Until May 11, I'm on vacation and react to the issues with a big delay." />
       <item value="Until May 11, I'm on vacation and react to the appeal with a big delay." />
       <item value="До 11 мая я в отпуске и реагировать на обращение с большой задержкой." />
-      <item value="Я проверил и исправил проблему." />
-      <item value="Да. Это обязательно." />
-      <item value="Я не знаю. Я не вижу их сайт." />
-      <item value="Какая ссылка на их сайт?" />
-      <item value="Я понял" />
-      <item value="В последних версиях можно создать отдельные страницы с формами авторизации и регистрации" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6950" />
+        <entry key="ENGLISH" value="6953" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6950" />
+        <entry key="RUSSIAN" value="6953" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
