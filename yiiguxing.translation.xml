@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Now you have next settings:" />
+      <item value="I think that the SSL certificate has nothing to do with mail. Check with your mail provider for NS mail settings." />
+      <item value="Я думаю что SSL сертификат ни как не связан с почтой. Уточните у своего mail провайдера NS настройки для почты." />
       <item value="Пожалуйста одобрите мой профиль что бы я имел полный доступ к функциям пользователя." />
       <item value="I can hide the price display with VAT on the site" />
       <item value="Я могу скрыть на сайте отображение цены с VAT" />
@@ -52,14 +55,11 @@
       <item value="In the latest versions, we made changes at various points in the work of the plugin, but did not test everything before sending it to production." />
       <item value="В последних версиях мы сделали изменения в разных моментах работы в плагине, но не всё протестировали перед отправкой в производство." />
       <item value="In the latest versions, we made changes at various points in the work in the plugin, but did not test everything before sending." />
-      <item value="В последних версиях мы сделали изменения в разных моментах работы в плагине, но не всё протестировали перед отправкой." />
-      <item value="Until May 11, I'm on vacation and react to the issues with a big delay." />
-      <item value="Until May 11, I'm on vacation and react to the appeal with a big delay." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6953" />
+        <entry key="ENGLISH" value="6956" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6954" />
+        <entry key="RUSSIAN" value="6956" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
