@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I can not say exactly." />
+      <item value="Точно не могу сказать." />
+      <item value="We passed the information to Bidspirit." />
+      <item value="We pass the information to Bidspirit." />
+      <item value="Hello! We have tested and found the issue in Chrome browser in private window. Pass the information to Bidspirit." />
+      <item value="Мы проверили и выявили проблему в браузере Chrome в приватном окне. Передели информацию в Bdispirit." />
+      <item value="I think the problem is relevant for all customers. Since I checked it on two more sites." />
+      <item value="Думаю проблема актуальна для всех клиентов. Так как я проверил это ещё на двух сайтах." />
+      <item value="Думаю проблема актуальна для всех клиентов." />
+      <item value="We are getting authorization errors on sites in Chrome in a private window. Please check." />
+      <item value="Мы получаем ошибки авторизации на сайтах в Chrome в приватном окне. Пожалуйста, проверьте." />
+      <item value="Вы хотите что мы вернули форму подписки?" />
+      <item value="О каком клиенты вы говорите?" />
       <item value="Hello! I checked for this error on my PC, but I did not encounter any problems with authorization. I will forward this request to Bidspirit tech support." />
       <item value="Hello! Я проверил на наличие этой ошибки на своём PC, но проблем с авторизацией не встретил. Я передам это обращение в техническую поддержку Bidspirit." />
       <item value="In the Google Workspace admin panel, you can create the new mail accounts you need." />
@@ -42,24 +55,11 @@
       <item value="What I emphasized I notice for the first time." />
       <item value="То что я подчеркнул замечаю впервые." />
       <item value="Они удалили этот символ" />
-      <item value="Luxeford contacted us with a problem. When studying the problem, I found out that one of the lots has an index of 3107^. As a result, we receive an API request:" />
-      <item value="Luxeford обратились с проблемой к нам. При изучении проблемы я выяснил что один из лотов имеет индекс 3107^. В итоге мы получаем запрос к API:" />
-      <item value="Note that the client also has indexes 3101, but they do not cause problems. Currently, the client has removed the ^ character." />
-      <item value="Обратите внимание что клиент так же имеет индексы 3101, но они не вызывают проблем. На текущий момент клиент удалил символ ^." />
-      <item value="The ^ character is not allowed. When requesting Bidspirit, the Bidspirit server crashes. I will send a ticket to Bidspirit to resolve this issue." />
-      <item value="The ^ character is not allowed. When requesting Bidspirit, the Bidspirit server crashes. Я отправлю обращение в Bidspirit для решения это проблемы." />
-      <item value="The ^ character is not allowed. When requesting Bidspirit, the Bidspirit server crashes." />
-      <item value="Символ ^ не допустим. При запросе в Bidspirit сервер Bidspirit падает." />
-      <item value="We thought the client changed their profile to Bidspirit because the client stopped receiving auction updates." />
-      <item value="Мы подумали что клиент сменил профиль на Bidspirit, так как клиент перестал получать обновления аукционов." />
-      <item value="I need to make corrections to the plugin code so that these characters do not break the site." />
-      <item value="Then I need to make corrections to the plugin code so that these characters do not break the site." />
-      <item value="Тогда мне надо внести исправления в код плагина что бы эти символы не ломали сайт." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6959" />
+        <entry key="ENGLISH" value="6968" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6959" />
+        <entry key="RUSSIAN" value="6968" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
