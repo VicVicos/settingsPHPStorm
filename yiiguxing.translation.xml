@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I think it can be done. We will discuss this." />
+      <item value="Думаю это можно сделать. Мы обсудим это." />
+      <item value="Это можно сделать" />
+      <item value="About the problem with user authorization. I remember that some other client complained about problems with authorization. If they tried to do this incognito in the Google Chrome browser, then this is not possible." />
+      <item value="О проблеме с авторизацией у пользователей. Помню что какой-то ещё клиент жаловался на проблемы с авторизацией. Если они пытались это сделать в инкогнито в браузере Google Chrome, то это не возможно сделать." />
+      <item value="Ask users not to use incognito winidow." />
+      <item value="Попросите пользователей не использовать incognito winidow." />
+      <item value="Это ответ Bidspirit." />
+      <item value="Authorize in Google Chrome in incognito window Impossible" />
+      <item value="Не возможно" />
+      <item value="Authorize in Google Chrome in incognito window unsuitable" />
+      <item value="Authorize in Google Chrome in incognito window" />
       <item value="I can not say exactly." />
       <item value="Точно не могу сказать." />
       <item value="We passed the information to Bidspirit." />
@@ -43,23 +55,11 @@
       <item value="We also wanted to remind you that when implementing a feature with a picture on the wall, you confuse the width and height of the pictures. Please check it out too." />
       <item value="Так же хотели напомнить вам что при реализации фичи с картиной на стене вы путаете ширину и высоту картин. Пожалуйста, проверьте это тоже." />
       <item value="In order for the auctions to be Online, they must belong to the appropriate category. Can you check this moment?" />
-      <item value="Для того что бы аукционы были Online они должны принадлежать соответствующей категории. Можете проверить этот момент?" />
-      <item value="Устройства имееют разную ширину экрана" />
-      <item value="If we go over here, there's a lot more auctions here." />
-      <item value="Если мы зайдём сюда, тот тут значительно больше аукционов." />
-      <item value="When I tried to open https:accordauctions.bidspirit.com I got a redirect and thought they changed their profile. Those. nothing needed to be changed?" />
-      <item value="При попытке открыть https:accordauctions.bidspirit.com я получил редирект и решил что они сменили профиль. Т.е. ни чего не надо было менять?" />
-      <item value="I thought that a relations is being established between the domain and the client profile." />
-      <item value="I thought that a connection is being established between the domain and the client profile." />
-      <item value="Я думал что устанавливается связь между доменом и профилем клиента." />
-      <item value="What I emphasized I notice for the first time." />
-      <item value="То что я подчеркнул замечаю впервые." />
-      <item value="Они удалили этот символ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6968" />
+        <entry key="ENGLISH" value="6976" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6968" />
+        <entry key="RUSSIAN" value="6976" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
