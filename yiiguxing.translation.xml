@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I'm looking for it" />
+      <item value="Я ищу это" />
+      <item value="The created page must be added to the menu, it does not appear automatically." />
+      <item value="Созданную страницу надо добавить в меню, оно не появляется автоматически." />
       <item value="change width on height" />
       <item value="This can be related to client issue" />
       <item value="I think it can be done. We will discuss this." />
@@ -51,15 +55,11 @@
       <item value="Please use this html code for buttons login and register" />
       <item value="You don't have required html. Form register and login worked. We can create separate pages for form register and login." />
       <item value="We don't have required html. Form register and login worked. We can create separate pages for form register and login." />
-      <item value="We don't have required html. Form register and login worked. We can create separate page for form register and login." />
-      <item value="We also wanted to remind you that when implementing a feature with a picture on the wall, you confuse the width and height of the image. Please check it out too." />
-      <item value="We also wanted to remind you that when implementing a feature with a picture on the wall, you confuse the width and height of the paint. Please check it out too." />
-      <item value="We also wanted to remind you that when implementing a feature with a picture on the wall, you confuse the width and height of the pictures. Please check it out too." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6978" />
+        <entry key="ENGLISH" value="6980" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6978" />
+        <entry key="RUSSIAN" value="6980" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
