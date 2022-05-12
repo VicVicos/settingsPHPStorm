@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unfortunately, your hosting cannot allow stable synchronization due to severe restrictions on the server side." />
+      <item value="К сожалению ваш хостинг не может позволить стабильную работу синхронизации из за жёстких ограничений со стороны сервера." />
+      <item value="OK. We will decide what to do." />
+      <item value="Ok. Будем решать как быть." />
+      <item value="OK. What can be done to be able to do this permanently?" />
+      <item value="Ok. Что можно сделать чтобы была возможность сделать это на постоянно?" />
+      <item value="Good. Let's say 180, but we need it on a regular basis, since we are syncing in the background with wp-cron." />
+      <item value="Хорошо. Давайте 180, но нам надо это на постоянной основе, так как у нас выполняется синхронизация в фоне с помощью wp-cron." />
+      <item value="Upload the plugin from the site's admin panel." />
+      <item value="Загрузите плагин из админ панели сайта." />
+      <item value="You don't need to delete anything. Just load an existing plugin. This procedure takes less than a minute." />
+      <item value="Вам не нужно ни чего удалять. Просто загрузите плагин существующего. Эта процедура занимает времени меньше минуты." />
       <item value="Поддержка вашего хостинга не отвечает." />
       <item value="I need change value for max_execution_time as 360." />
       <item value="I have change value for max_execution_time as 360." />
@@ -43,23 +55,11 @@
       <item value="I checked the authorization in the Edge browser and did not encounter any problems." />
       <item value="Я проверил авторизацию в браузере Edge и проблем не встретил." />
       <item value="OK. I don't have access to the web version of the hosting admin panel yet." />
-      <item value="Ok. Я пока не имею доступа к web версии админ панели хостинга." />
-      <item value="If I upload a zip archive to the root of the site, can you unpack it?" />
-      <item value="Если я залью zip архив в корень сайта, сможете ли вы распаковать его?" />
-      <item value="We have studied this issue. And we got a similar problem only if we tried to log in to Chrome in a incognito window. Bidspirit will not resolve this issue for security reasons." />
-      <item value="Мы изучили эту проблему. И мы получили аналогичную проблему только если мы пытались авторизоваться в Chrome в приватном окне. Bidspirit не будет разрешать эту проблему по причине безопасности." />
-      <item value="Пожалуйста, уточните, какой версией браузера Edge пользуются? Мы изучили эту проблему. И мы получили аналогичную проблему только если мы пытались авторизоваться в Chrome в приватном окне. Bidspirit не будет разрешать эту проблему по причине безопасности." />
-      <item value="Bidspirit will not resolve this issue for security reasons." />
-      <item value="Bidspirit не будет разрешать эту проблему по причине безопасности." />
-      <item value="Please specify which version of the Edge browser are they using?" />
-      <item value="Пожалуйста, уточните, какой версией браузера Edge пользуются?" />
-      <item value="I am working on it now." />
-      <item value="Я работаю над этим сейчас." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7026" />
+        <entry key="ENGLISH" value="7033" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7027" />
+        <entry key="RUSSIAN" value="7033" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
