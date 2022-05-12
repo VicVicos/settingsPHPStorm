@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Server is down" />
+      <item value="At the moment, we still have problems with synchronization. I will need more time to fix this if the server allows me to do this and will not give me errors for simple actions in the Wordpress admin panel." />
+      <item value="На текущий момент мы всё же имеем проблемы с синхронизацией. Мне потрубется ещё время что бы это исправить, если сервер мне позволит это сделать и не будет выдавать мне ошибки на простые действия в админ панели Wordpress." />
+      <item value="На текущий момент мы всё же имеем проблемы с синхронизацией. Мне потрубется ещё время что бы это исправить, если сервер мне позволит это сделать и не будет выдавать мне ошибки." />
+      <item value="This happened when connecting ssl. I'll fix it now." />
+      <item value="Это произошло при подключение ssl. Сейчас исправлю." />
+      <item value="Weird. I made a test order and as a buyer I get messages, but as an administrator I don't." />
+      <item value="Странно. Я сделал тестовый заказ и как покупатель я получаю сообщения, но как администратор нет." />
       <item value="There are no restrictions on our server." />
       <item value="На нашем сервере ограничений нет." />
       <item value="Your hosting provider severely limits the execution time of scripts on the server to 30 seconds. This is very little to sync auctions with Bidspirit." />
@@ -47,19 +55,11 @@
       <item value="Will remove www that i can do." />
       <item value="Will remove www that I can do." />
       <item value="Remove www that I can do. And to connect https, you need to buy an ssl certificate. On your hosting, I did not find a way to connect a free certificate." />
-      <item value="Убрать www это я могу сделать. А подключить https это вам надо покупать ssl сертификат. На вашем хостинге я не нашёл способа подключить бесплатный сертификат." />
-      <item value="Вы говорите о редиректе?" />
-      <item value="Your logo loss" />
-      <item value="I uploaded it to your hosting. Please check." />
-      <item value="Я поднял его на ваш хостинг. Пожалуйста, проверьте." />
-      <item value="I'll take care of this now. Didn't make it yesterday." />
-      <item value="Сейчас займусь этим. Вчера не успел." />
-      <item value="I also need an ssl certificate. Is it possible to install a free Let's Encrypt certificate?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7040" />
+        <entry key="ENGLISH" value="7045" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7040" />
+        <entry key="RUSSIAN" value="7045" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
