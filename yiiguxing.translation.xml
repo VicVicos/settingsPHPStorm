@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="I'm looking for it" />
-      <item value="Я ищу это" />
-      <item value="The created page must be added to the menu, it does not appear automatically." />
-      <item value="Созданную страницу надо добавить в меню, оно не появляется автоматически." />
-      <item value="change width on height" />
-      <item value="This can be related to client issue" />
-      <item value="I think it can be done. We will discuss this." />
-      <item value="Думаю это можно сделать. Мы обсудим это." />
-      <item value="Это можно сделать" />
-      <item value="About the problem with user authorization. I remember that some other client complained about problems with authorization. If they tried to do this incognito in the Google Chrome browser, then this is not possible." />
-      <item value="О проблеме с авторизацией у пользователей. Помню что какой-то ещё клиент жаловался на проблемы с авторизацией. Если они пытались это сделать в инкогнито в браузере Google Chrome, то это не возможно сделать." />
-      <item value="Ask users not to use incognito winidow." />
-      <item value="Попросите пользователей не использовать incognito winidow." />
-      <item value="Это ответ Bidspirit." />
-      <item value="Authorize in Google Chrome in incognito window Impossible" />
-      <item value="Не возможно" />
-      <item value="Authorize in Google Chrome in incognito window unsuitable" />
-      <item value="Authorize in Google Chrome in incognito window" />
-      <item value="I can not say exactly." />
-      <item value="Точно не могу сказать." />
-      <item value="We passed the information to Bidspirit." />
-      <item value="We pass the information to Bidspirit." />
-      <item value="Hello! We have tested and found the issue in Chrome browser in private window. Pass the information to Bidspirit." />
-      <item value="Мы проверили и выявили проблему в браузере Chrome в приватном окне. Передели информацию в Bdispirit." />
-      <item value="I think the problem is relevant for all customers. Since I checked it on two more sites." />
-      <item value="Думаю проблема актуальна для всех клиентов. Так как я проверил это ещё на двух сайтах." />
-      <item value="Думаю проблема актуальна для всех клиентов." />
-      <item value="We are getting authorization errors on sites in Chrome in a private window. Please check." />
-      <item value="Мы получаем ошибки авторизации на сайтах в Chrome в приватном окне. Пожалуйста, проверьте." />
-      <item value="Вы хотите что мы вернули форму подписки?" />
-      <item value="О каком клиенты вы говорите?" />
-      <item value="Hello! I checked for this error on my PC, but I did not encounter any problems with authorization. I will forward this request to Bidspirit tech support." />
-      <item value="Hello! Я проверил на наличие этой ошибки на своём PC, но проблем с авторизацией не встретил. Я передам это обращение в техническую поддержку Bidspirit." />
-      <item value="In the Google Workspace admin panel, you can create the new mail accounts you need." />
-      <item value="В админа панели Google Workspace вы можете создать нужные вам новые почтовые аккаунты." />
-      <item value="We edit NS records from our side in cloudflare. Send us your email settings and I'll make changes." />
-      <item value="NS записи мы редактируем со своей стороны в cloudflare. Отправьте нам настройки вашей почты и я внесу изменения." />
-      <item value="Now you have next settings:" />
-      <item value="I think that the SSL certificate has nothing to do with mail. Check with your mail provider for NS mail settings." />
-      <item value="Я думаю что SSL сертификат ни как не связан с почтой. Уточните у своего mail провайдера NS настройки для почты." />
-      <item value="Пожалуйста одобрите мой профиль что бы я имел полный доступ к функциям пользователя." />
-      <item value="I can hide the price display with VAT on the site" />
-      <item value="Я могу скрыть на сайте отображение цены с VAT" />
-      <item value="I understand, but the correct commission account must be on Bidspirit. Bidspirit can do this on their side, and we on the site will use the Bidspirit API to get the commission calculation step." />
-      <item value="Я понимаю, но учёт верной комиссии должен быть на Bidspirit. Bidspirit могут сделать это со своей стороны, а мы на сайте будем использовать API Bidspirit для получения шага расчёта комиссии." />
-      <item value="Bidspirit for their part have accounted for this staggered commission?" />
-      <item value="Bidspirit со своей стороны сделали учёт этой ступенчатой комиссии?" />
-      <item value="Please use this html code for buttons login and register" />
-      <item value="You don't have required html. Form register and login worked. We can create separate pages for form register and login." />
-      <item value="We don't have required html. Form register and login worked. We can create separate pages for form register and login." />
+      <item value="I also need an ssl certificate. Is it possible to install a free Let's Encrypt certificate?" />
+      <item value="Так же мне нужно ssl сертификат. Есть ли возможность установить бесплатный сертификат Let's Encrypt сертификат?" />
+      <item value="Comprar certificado" />
+      <item value="We will not be able to create scheduled tasks we need to run at all? Maybe you can do it directly via ssh?" />
+      <item value="Мы не сможем создать запускать нужные нам задачи по расписанию вообще? Может быть вы сможете сделать это напрямую через ssh?" />
+      <item value="Can I use ssh command syntax?" />
+      <item value="но задачи не работают при прямом обращении по url, только через обращение к файлу на прямую. cd webalarconsubastas.compublic_htmlwp-contentpluginsuco-auctionscrontasks &amp;&amp; php importBidSpirit.php Могу ли я использовать синтаксис ssh команды?" />
+      <item value="I have create crontasks, but tasks don't" />
+      <item value="Мы обсудим этот момент с командой на ближайшем созвоне." />
+      <item value="Yes, I'm using Filezilla. I will ask the client to unpack the archive. Thank you!" />
+      <item value="Да я использую Filezilla. Попрошу клиента распаковать архив. Спасибо!" />
+      <item value="I checked the authorization in the Edge browser and did not encounter any problems." />
+      <item value="Я проверил авторизацию в браузере Edge и проблем не встретил." />
+      <item value="OK. I don't have access to the web version of the hosting admin panel yet." />
+      <item value="Ok. Я пока не имею доступа к web версии админ панели хостинга." />
+      <item value="If I upload a zip archive to the root of the site, can you unpack it?" />
+      <item value="Если я залью zip архив в корень сайта, сможете ли вы распаковать его?" />
+      <item value="We have studied this issue. And we got a similar problem only if we tried to log in to Chrome in a incognito window. Bidspirit will not resolve this issue for security reasons." />
+      <item value="Мы изучили эту проблему. И мы получили аналогичную проблему только если мы пытались авторизоваться в Chrome в приватном окне. Bidspirit не будет разрешать эту проблему по причине безопасности." />
+      <item value="Пожалуйста, уточните, какой версией браузера Edge пользуются? Мы изучили эту проблему. И мы получили аналогичную проблему только если мы пытались авторизоваться в Chrome в приватном окне. Bidspirit не будет разрешать эту проблему по причине безопасности." />
+      <item value="Bidspirit will not resolve this issue for security reasons." />
+      <item value="Bidspirit не будет разрешать эту проблему по причине безопасности." />
+      <item value="Please specify which version of the Edge browser are they using?" />
+      <item value="Пожалуйста, уточните, какой версией браузера Edge пользуются?" />
+      <item value="I am working on it now." />
+      <item value="Я работаю над этим сейчас." />
+      <item value="Please verify the new version of the Edge browser these users are using." />
+      <item value="Пожалуйста, уточните новой версией браузера Edge используют эти пользователи." />
+      <item value="Can you give me access to the hosting admin panel? This would make things easier for us. I can't get it via chat." />
+      <item value="Вы можете скинуть мне доступы к админ панели хостинга? Это упростило бы нам задачу. Через чат я это получить не смогу." />
+      <item value="I upload file i2.php in public derectory on ftp, but it doesn't open at address http:www.alarconsubastas.comi2.php" />
+      <item value="но он не открывается по адресу" />
+      <item value="I upload file i2.php in public derectory on ftp, but i don't open they in address http:www.alarconsubastas.comi2.php" />
+      <item value="Мы не закончили" />
+      <item value="I'm on chat but Jorge contacted me" />
+      <item value="Я в чате, но со мной связался Jorge" />
+      <item value="I left the chat, but Jorge contacted me" />
+      <item value="Я вышел в чат, но со мной связался Jorge" />
+      <item value="Ok. I will try it." />
+      <item value="If I provide you with a Site Backup, can you deploy it to for client?" />
+      <item value="If I provide you with a Site Backup, can you deploy it to a client?" />
+      <item value="Если я предоставлю вам Backup сайта вы сможете его развернуть для клиента?" />
+      <item value="I have to raise up the site alarconsubastas.com, but with the provided FTP access, I can't do it." />
+      <item value="I have to bring up the site alarconsubastas.com, but with the provided FTP access, I can't do it." />
+      <item value="Я должен поднять сайт alarconsubastas.com, но по предоставленным FTP доступам я не могу это сделать." />
+      <item value="I have to raise the site alarconsubastas.com, but I am not able to access the provided FTP access. Can you help me? I was asked to contact Tony." />
+      <item value="Я должен поднять сайт alarconsubastas.com, но по предоставленным FTP доступам не имею возможности. Вы можете мне помочь? Меня попросили связаться с Tony." />
+      <item value="Now if I upload files of the site via ftp, then they are not determined in any way that this is a site. Ask the hosting support if they can raise the site if I give them a backup?" />
+      <item value="Сейчас если я загружу по ftp файлы сайта, то они ни как не определяться что это сайт. Спросите поддержку хостинга смогут ли они поднять сайт если я передам им backup?" />
+      <item value="I think you have not fully configured your server." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6980" />
+        <entry key="ENGLISH" value="7009" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="6980" />
+        <entry key="RUSSIAN" value="7009" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -90,7 +90,7 @@
         <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
-        <entry key="SPANISH" value="6" />
+        <entry key="SPANISH" value="7" />
         <entry key="HEBREW" value="196" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
