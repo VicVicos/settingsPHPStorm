@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Your logo loss" />
+      <item value="I uploaded it to your hosting. Please check." />
+      <item value="Я поднял его на ваш хостинг. Пожалуйста, проверьте." />
       <item value="I'll take care of this now. Didn't make it yesterday." />
       <item value="Сейчас займусь этим. Вчера не успел." />
       <item value="I also need an ssl certificate. Is it possible to install a free Let's Encrypt certificate?" />
@@ -52,14 +55,11 @@
       <item value="I have to raise up the site alarconsubastas.com, but with the provided FTP access, I can't do it." />
       <item value="I have to bring up the site alarconsubastas.com, but with the provided FTP access, I can't do it." />
       <item value="Я должен поднять сайт alarconsubastas.com, но по предоставленным FTP доступам я не могу это сделать." />
-      <item value="I have to raise the site alarconsubastas.com, but I am not able to access the provided FTP access. Can you help me? I was asked to contact Tony." />
-      <item value="Я должен поднять сайт alarconsubastas.com, но по предоставленным FTP доступам не имею возможности. Вы можете мне помочь? Меня попросили связаться с Tony." />
-      <item value="Now if I upload files of the site via ftp, then they are not determined in any way that this is a site. Ask the hosting support if they can raise the site if I give them a backup?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7010" />
+        <entry key="ENGLISH" value="7013" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7010" />
+        <entry key="RUSSIAN" value="7013" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
