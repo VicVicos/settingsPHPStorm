@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Поддержка вашего хостинга не отвечает." />
+      <item value="I need change value for max_execution_time as 360." />
+      <item value="I have change value for max_execution_time as 360." />
+      <item value="Additional server configuration is required, synchronization will not work with the current configuration." />
+      <item value="Additional server configuration is required, synchronization will not work correctly with the current configuration." />
+      <item value="Требуется дополнительная настройка сервера, с текущей конфигурацией синхронизация не будет работать корректно." />
+      <item value="No. I made a mistake. The auction is not synchronized correctly." />
+      <item value="Нет. Я ошибся. Не корректно синхронизирован аукцион." />
+      <item value="Нет. Не корректно синхронизирован аукцион." />
+      <item value="She works. Things are good." />
+      <item value="Она работает. Всё хорошо." />
+      <item value="It remains to enable synchronization." />
+      <item value="Осталось включить синхронизацию." />
+      <item value="And to connect https, you need to buy an ssl certificate. On your hosting, I did not find a way to connect a free certificate." />
+      <item value="Will remove www that i can do." />
+      <item value="Will remove www that I can do." />
+      <item value="Remove www that I can do. And to connect https, you need to buy an ssl certificate. On your hosting, I did not find a way to connect a free certificate." />
+      <item value="Убрать www это я могу сделать. А подключить https это вам надо покупать ssl сертификат. На вашем хостинге я не нашёл способа подключить бесплатный сертификат." />
       <item value="Вы говорите о редиректе?" />
       <item value="Your logo loss" />
       <item value="I uploaded it to your hosting. Please check." />
@@ -37,29 +55,11 @@
       <item value="Пожалуйста, уточните, какой версией браузера Edge пользуются?" />
       <item value="I am working on it now." />
       <item value="Я работаю над этим сейчас." />
-      <item value="Please verify the new version of the Edge browser these users are using." />
-      <item value="Пожалуйста, уточните новой версией браузера Edge используют эти пользователи." />
-      <item value="Can you give me access to the hosting admin panel? This would make things easier for us. I can't get it via chat." />
-      <item value="Вы можете скинуть мне доступы к админ панели хостинга? Это упростило бы нам задачу. Через чат я это получить не смогу." />
-      <item value="I upload file i2.php in public derectory on ftp, but it doesn't open at address http:www.alarconsubastas.comi2.php" />
-      <item value="но он не открывается по адресу" />
-      <item value="I upload file i2.php in public derectory on ftp, but i don't open they in address http:www.alarconsubastas.comi2.php" />
-      <item value="Мы не закончили" />
-      <item value="I'm on chat but Jorge contacted me" />
-      <item value="Я в чате, но со мной связался Jorge" />
-      <item value="I left the chat, but Jorge contacted me" />
-      <item value="Я вышел в чат, но со мной связался Jorge" />
-      <item value="Ok. I will try it." />
-      <item value="If I provide you with a Site Backup, can you deploy it to for client?" />
-      <item value="If I provide you with a Site Backup, can you deploy it to a client?" />
-      <item value="Если я предоставлю вам Backup сайта вы сможете его развернуть для клиента?" />
-      <item value="I have to raise up the site alarconsubastas.com, but with the provided FTP access, I can't do it." />
-      <item value="I have to bring up the site alarconsubastas.com, but with the provided FTP access, I can't do it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7013" />
+        <entry key="ENGLISH" value="7026" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7014" />
+        <entry key="RUSSIAN" value="7027" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
