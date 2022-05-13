@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Your hosting does not meet the requirements for the plugin, the synchronization cannot work correctly. You will need to rent a VPS server for your website or use our hosting." />
+      <item value="Ваш хостинг не соответствует требованиям для плагина, синхронизация не может работать правильно. Вам надо будет арендовать VPS сервер для вашего сайта или воспользоваться нашим хостингом." />
+      <item value="Your hosting does not meet the requirements for the Bidspirit sync plugin." />
+      <item value="Ваш хостинг не соответствует требованиям для плагина синхронизации Bidspirit." />
+      <item value="I'd like to fix the sync issues before making edits, but I can't fix the issues because the server keeps giving me this error." />
+      <item value="Перед тем как вносить правки я бы хотел исправить проблемы с синхронизацией, но я не могу исправить проблемы, так как сервер всё время отдаёт мне эту ошибку." />
+      <item value="During this month we will finish work on the application for Android." />
+      <item value="В течении этого месяца мы закончим работу над приложением для Android." />
+      <item value="We can disable pagination and load lots on page scroll." />
+      <item value="Мы можем отключить пагинацию и сделать подгрузку лотов при прокрутке страницы." />
       <item value="Server is down" />
       <item value="At the moment, we still have problems with synchronization. I will need more time to fix this if the server allows me to do this and will not give me errors for simple actions in the Wordpress admin panel." />
       <item value="На текущий момент мы всё же имеем проблемы с синхронизацией. Мне потрубется ещё время что бы это исправить, если сервер мне позволит это сделать и не будет выдавать мне ошибки на простые действия в админ панели Wordpress." />
@@ -45,21 +55,11 @@
       <item value="Additional server configuration is required, synchronization will not work correctly with the current configuration." />
       <item value="Требуется дополнительная настройка сервера, с текущей конфигурацией синхронизация не будет работать корректно." />
       <item value="No. I made a mistake. The auction is not synchronized correctly." />
-      <item value="Нет. Я ошибся. Не корректно синхронизирован аукцион." />
-      <item value="Нет. Не корректно синхронизирован аукцион." />
-      <item value="She works. Things are good." />
-      <item value="Она работает. Всё хорошо." />
-      <item value="It remains to enable synchronization." />
-      <item value="Осталось включить синхронизацию." />
-      <item value="And to connect https, you need to buy an ssl certificate. On your hosting, I did not find a way to connect a free certificate." />
-      <item value="Will remove www that i can do." />
-      <item value="Will remove www that I can do." />
-      <item value="Remove www that I can do. And to connect https, you need to buy an ssl certificate. On your hosting, I did not find a way to connect a free certificate." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7045" />
+        <entry key="ENGLISH" value="7050" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7045" />
+        <entry key="RUSSIAN" value="7050" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
