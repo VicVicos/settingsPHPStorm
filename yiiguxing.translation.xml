@@ -3,8 +3,12 @@
     <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hello! I will try to configure the server with the means available to me." />
+      <item value="Я попробую настроить сервер доступными мне средствами." />
+      <item value="Hello, Matteo! If their hosting is weak or the minimum power package is provided, then there may be problems with synchronization." />
+      <item value="Здесь синхронизация будет работать по аналогии с Ansuiniaste. Но если хостинг у них слабый или минимальный пакет мощности предоставлен, то могут быть проблемы с синхронизацией." />
+      <item value="Синхронизация была отключена." />
       <item value="asks about the ability to change the email on the profile page. Does such a possibility exist?" />
       <item value="спрашивает о возможности изменять email на странице профиля. Такая возможность существует?" />
       <item value="Welcome page used only for application" />
@@ -50,16 +54,11 @@
       <item value="Ok. Будем решать как быть." />
       <item value="OK. What can be done to be able to do this permanently?" />
       <item value="Ok. Что можно сделать чтобы была возможность сделать это на постоянно?" />
-      <item value="Good. Let's say 180, but we need it on a regular basis, since we are syncing in the background with wp-cron." />
-      <item value="Хорошо. Давайте 180, но нам надо это на постоянной основе, так как у нас выполняется синхронизация в фоне с помощью wp-cron." />
-      <item value="Upload the plugin from the site's admin panel." />
-      <item value="Загрузите плагин из админ панели сайта." />
-      <item value="You don't need to delete anything. Just load an existing plugin. This procedure takes less than a minute." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7056" />
+        <entry key="ENGLISH" value="7059" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7056" />
+        <entry key="RUSSIAN" value="7059" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652156684396" />
+    <option name="lastTrimTime" value="1652615641975" />
   </component>
 </application>
