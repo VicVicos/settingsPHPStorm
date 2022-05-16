@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Хорошо. Так и сделаю." />
+      <item value="Вы можете помочь с реализацией этой фичи?" />
+      <item value="The client tzoffeys1818.bidspirit.com wants to implement a feature to show a notification on every page of the site before the start or when the auction is already running." />
+      <item value="Клиент tzoffeys1818.bidspirit.com хочет реализовать фичу показать уведомлением на каждой странице сайта перед началом или когда аукцион уже идёт." />
       <item value="Measures that could help are allowed only temporarily, and this is not enough." />
       <item value="The current rate is suitable for a simple blog on Wordpress, but not for a site that needs synchronization with a third-party server." />
       <item value="Текущий тариф подойдёт для простого блога на Wordpress, но не для сайта которому требуется синхронизация со сторонним сервером." />
@@ -50,15 +54,11 @@
       <item value="Хорошо. Но это не решит проблему с жёсткими ограничениями на сервере вашего хостинг провайдера." />
       <item value="Who else should receive messages?" />
       <item value="Кто ещё должен получать сообщения?" />
-      <item value="Have I considered all requests?" />
-      <item value="Все ли запросы я рассмотрел?" />
-      <item value="This block should be a link to q&amp;a page?" />
-      <item value="Этот блок должен быть ссылкой на q&amp;a page?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7065" />
+        <entry key="ENGLISH" value="7067" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7065" />
+        <entry key="RUSSIAN" value="7068" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
