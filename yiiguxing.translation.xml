@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Measures that could help are allowed only temporarily, and this is not enough." />
+      <item value="The current rate is suitable for a simple blog on Wordpress, but not for a site that needs synchronization with a third-party server." />
+      <item value="Текущий тариф подойдёт для простого блога на Wordpress, но не для сайта которому требуется синхронизация со сторонним сервером." />
+      <item value="Another option: you can transfer your domain to our hosting." />
+      <item value="Please check with your hosting provider if they can provide you with a VDS or VPS where we can set up a suitable environment for synchronization processes." />
+      <item value="Ваш хостинг не может обеспечить стабильную работу синхронизации." />
+      <item value="Ваш хостинг не может обеспечить стабильную синхронизацию. Меры, что могли бы помочь разрешены лишь временно, а этого недостаточно. Пожалуйста, уточните у вашего хостинг провайдера могут ли они предоставить вам VDS или VPS где мы смогли бы настроить подходящее окружение для процессов синхронизации. Другой вариант: вы можете перенести свой домен к нам на хостинг." />
       <item value="Hello! I will try to configure the server with the means available to me." />
       <item value="Я попробую настроить сервер доступными мне средствами." />
       <item value="Hello, Matteo! If their hosting is weak or the minimum power package is provided, then there may be problems with synchronization." />
@@ -47,18 +54,11 @@
       <item value="Все ли запросы я рассмотрел?" />
       <item value="This block should be a link to q&amp;a page?" />
       <item value="Этот блок должен быть ссылкой на q&amp;a page?" />
-      <item value="Исправил. Запустил синхронизацию для старых лотов." />
-      <item value="Unfortunately, your hosting cannot allow stable synchronization due to severe restrictions on the server side." />
-      <item value="К сожалению ваш хостинг не может позволить стабильную работу синхронизации из за жёстких ограничений со стороны сервера." />
-      <item value="OK. We will decide what to do." />
-      <item value="Ok. Будем решать как быть." />
-      <item value="OK. What can be done to be able to do this permanently?" />
-      <item value="Ok. Что можно сделать чтобы была возможность сделать это на постоянно?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7059" />
+        <entry key="ENGLISH" value="7065" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7059" />
+        <entry key="RUSSIAN" value="7065" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
