@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="user-plank" />
       <item value="Хорошо. Так и сделаю." />
       <item value="Вы можете помочь с реализацией этой фичи?" />
       <item value="The client tzoffeys1818.bidspirit.com wants to implement a feature to show a notification on every page of the site before the start or when the auction is already running." />
@@ -53,12 +54,11 @@
       <item value="Good. But this will not solve the problem with hard limits on the server of your hosting provider." />
       <item value="Хорошо. Но это не решит проблему с жёсткими ограничениями на сервере вашего хостинг провайдера." />
       <item value="Who else should receive messages?" />
-      <item value="Кто ещё должен получать сообщения?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7067" />
+        <entry key="ENGLISH" value="7068" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
