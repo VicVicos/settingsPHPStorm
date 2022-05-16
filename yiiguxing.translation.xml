@@ -4,6 +4,32 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I checked for updates and there are none." />
+      <item value="Я проверил наличие обновлений и их нет." />
+      <item value="I will report this to Bidspirit's technical department, but the best we can do is recommend that the client use the Google Chrome or Firefox browser." />
+      <item value="Я сообщу в технический отдел Bidspirit об этом, но лучшее что мы можем сделать это порекомендовать клиенту использовать браузер Google Chrome or Firefox." />
+      <item value="Клиент использует плагины блокировки рекламы?" />
+      <item value="So tell them to tell their users not to be in incognito" />
+      <item value="The official response from Bidspirit is that they can't fix it for security reasons. And they said to inform customers that they would not use incognito mode." />
+      <item value="Официальный ответ от Bidspirit то что они не смогут это исправить в целях безопасности. И сказали сообщать клиентам что бы они не использовали режим инкогнито." />
+      <item value="Ask her if she uses incognito mode?" />
+      <item value="Уточните у неё не использует ли она режим инкогнито?" />
+      <item value="Реально Edge для Android?" />
+      <item value="Is there an Edge for Android?" />
+      <item value="Существует Edge для Android?" />
+      <item value="In this case, we have already received a similar request, but when trying to repeat the error using the Edge browser, we did not encounter problems during authorization." />
+      <item value="В таком случае мы уже получали подобное обращение, но при попытке повторить ошибку используя браузер Edge мы не встретили проблем при авторизации." />
+      <item value="Wait. In Internet Explorer, the authorization form does not open. Perhaps customers use the Microsoft Edge browser, but out of habit call it Internet Explorer?" />
+      <item value="Постойте. В Internet Explorer форма авторизации не открывается. Быть может клиенты используют браузер Microsoft Edge, но по привычке называют его Internet Explorer?" />
+      <item value="Inform customers to upgrade Internet Explorer to the version of the Microsoft Edge browser, Microsoft itself will notify them of this. Or to install one of the browsers that are currently supported and updated. Bidspirit no longer supports Internet Explorer web browser." />
+      <item value="Or to install one of the browsers that are currently supported and updated." />
+      <item value="Или что бы установили один из браузеров которые поддерживаются и обновляются в настоящее время." />
+      <item value="Inform customers to upgrade Internet Explorer to the version of the Microsoft Edge browser, Microsoft itself will notify them of this." />
+      <item value="Сообщите клиентам что бы обновили Internet Explorer до версии браузера Microsoft Edge, об этом их уведомит сама Microsoft." />
+      <item value="Bidspirit no longer supports Internet Explorer web browser." />
+      <item value="Bidspirit no longer supports this web browser." />
+      <item value="This browser has not been supported for a long time, which is what this banner on your site says." />
+      <item value="Этот браузер уже давно не поддерживается о чём и говорит этот банер на вашем сайте." />
       <item value="Hello! We know there is a problem. Could you clarify from which browser the clients are trying to log in? The issue exists in Chrome Incognito mode which Bidspirit cannot fix for security purposes." />
       <item value="Проблема существует в Chrome Incognito режиме, которую Bidspirit не может исправить в целях безопасности." />
       <item value="We know there is a problem. Could you clarify from which browser the clients are trying to log in?" />
@@ -28,37 +54,11 @@
       <item value="Я попробую настроить сервер доступными мне средствами." />
       <item value="Hello, Matteo! If their hosting is weak or the minimum power package is provided, then there may be problems with synchronization." />
       <item value="Здесь синхронизация будет работать по аналогии с Ansuiniaste. Но если хостинг у них слабый или минимальный пакет мощности предоставлен, то могут быть проблемы с синхронизацией." />
-      <item value="Синхронизация была отключена." />
-      <item value="asks about the ability to change the email on the profile page. Does such a possibility exist?" />
-      <item value="спрашивает о возможности изменять email на странице профиля. Такая возможность существует?" />
-      <item value="Welcome page used only for application" />
-      <item value="Go to sales" />
-      <item value="Cents are shown on Bidspirit, but in our plugin the price is rounded. Please approve the time of 1 hour for this correction." />
-      <item value="На Bidspirit центы показывается, но в плагине у нас цена округляется. Прошу одобрить время в 1 час на это исправление." />
-      <item value="Client Eclectica asked us to display cents in the price field with commission and tax." />
-      <item value="Client Eclectica обратился к нам с просьбой сделать в отображение центов в поле цены с комиссией и налогом." />
-      <item value="Your hosting does not meet the requirements for the plugin, the synchronization cannot work correctly. You will need to rent a VPS server for your website or use our hosting." />
-      <item value="Ваш хостинг не соответствует требованиям для плагина, синхронизация не может работать правильно. Вам надо будет арендовать VPS сервер для вашего сайта или воспользоваться нашим хостингом." />
-      <item value="Your hosting does not meet the requirements for the Bidspirit sync plugin." />
-      <item value="Ваш хостинг не соответствует требованиям для плагина синхронизации Bidspirit." />
-      <item value="I'd like to fix the sync issues before making edits, but I can't fix the issues because the server keeps giving me this error." />
-      <item value="Перед тем как вносить правки я бы хотел исправить проблемы с синхронизацией, но я не могу исправить проблемы, так как сервер всё время отдаёт мне эту ошибку." />
-      <item value="During this month we will finish work on the application for Android." />
-      <item value="В течении этого месяца мы закончим работу над приложением для Android." />
-      <item value="We can disable pagination and load lots on page scroll." />
-      <item value="Мы можем отключить пагинацию и сделать подгрузку лотов при прокрутке страницы." />
-      <item value="Server is down" />
-      <item value="At the moment, we still have problems with synchronization. I will need more time to fix this if the server allows me to do this and will not give me errors for simple actions in the Wordpress admin panel." />
-      <item value="На текущий момент мы всё же имеем проблемы с синхронизацией. Мне потрубется ещё время что бы это исправить, если сервер мне позволит это сделать и не будет выдавать мне ошибки на простые действия в админ панели Wordpress." />
-      <item value="На текущий момент мы всё же имеем проблемы с синхронизацией. Мне потрубется ещё время что бы это исправить, если сервер мне позволит это сделать и не будет выдавать мне ошибки." />
-      <item value="This happened when connecting ssl. I'll fix it now." />
-      <item value="Это произошло при подключение ssl. Сейчас исправлю." />
-      <item value="Weird. I made a test order and as a buyer I get messages, but as an administrator I don't." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7073" />
+        <entry key="ENGLISH" value="7089" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7073" />
+        <entry key="RUSSIAN" value="7089" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
