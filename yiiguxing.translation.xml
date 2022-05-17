@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Do all auctions need to be resynchronized?" />
+      <item value="Требуется ли пересинхронизировать все аукционы?" />
       <item value="New lots are no longer displayed in the search on the author's page." />
       <item value="Новые лоты перестали отображаться в поиске на странице автора." />
       <item value="Вы должны ещё раз изменить лот и он должен повторно синхронизироваться." />
@@ -52,13 +54,11 @@
       <item value="Клиент tzoffeys1818.bidspirit.com хочет реализовать фичу показать уведомлением на каждой странице сайта перед началом или когда аукцион уже идёт." />
       <item value="Measures that could help are allowed only temporarily, and this is not enough." />
       <item value="The current rate is suitable for a simple blog on Wordpress, but not for a site that needs synchronization with a third-party server." />
-      <item value="Текущий тариф подойдёт для простого блога на Wordpress, но не для сайта которому требуется синхронизация со сторонним сервером." />
-      <item value="Another option: you can transfer your domain to our hosting." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7095" />
+        <entry key="ENGLISH" value="7096" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7095" />
+        <entry key="RUSSIAN" value="7096" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
