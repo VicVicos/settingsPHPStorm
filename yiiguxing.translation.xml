@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="user Plank" />
       <item value="I checked for updates and there are none." />
       <item value="Я проверил наличие обновлений и их нет." />
       <item value="I will report this to Bidspirit's technical department, but the best we can do is recommend that the client use the Google Chrome or Firefox browser." />
@@ -53,12 +54,11 @@
       <item value="Hello! I will try to configure the server with the means available to me." />
       <item value="Я попробую настроить сервер доступными мне средствами." />
       <item value="Hello, Matteo! If their hosting is weak or the minimum power package is provided, then there may be problems with synchronization." />
-      <item value="Здесь синхронизация будет работать по аналогии с Ansuiniaste. Но если хостинг у них слабый или минимальный пакет мощности предоставлен, то могут быть проблемы с синхронизацией." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7089" />
+        <entry key="ENGLISH" value="7090" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7089" />
+        <entry key="RUSSIAN" value="7090" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
