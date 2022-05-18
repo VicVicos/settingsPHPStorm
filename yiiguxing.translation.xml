@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Repeat all steps on the main domain. Elementor does not allow you to transfer elements on different domains." />
+      <item value="Повторить все действия и на основном домене. Переносить элементы Elementor не позволяет на разных доменах." />
       <item value="Custom bakery modules code goes here." />
       <item value="Я запустил" />
       <item value="We've made changes to the plugin to keep the auction url more friendly. Can I get started with this update in production?" />
@@ -52,13 +54,11 @@
       <item value="Мы знаем о существовании проблемы. Не могли бы вы уточнить с какого браузера клиенты пытаются авторизоваться?" />
       <item value="Проблема существует в Chrome Incognito режиме." />
       <item value="There is no such functionality, we can only hide the auction completely. To hide a certain day, we need up to 1 hour for this." />
-      <item value="Такого функционала нет, мы можем скрыть только аукцион полностью. Для скрытия определённого дня нам потребуется на это до 1 часа времени." />
-      <item value="Такого функционала нет, мы можем скрыть только аукцион полностью. Для скрытия определённого дня нам потребуется на это 1 час времени." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7100" />
+        <entry key="ENGLISH" value="7101" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7100" />
+        <entry key="RUSSIAN" value="7101" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
