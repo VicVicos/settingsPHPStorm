@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Please, remove bids from user:" />
+      <item value="We did tests on lots" />
+      <item value="We do tests on lots" />
+      <item value="Мы проводили тесты на лотах" />
       <item value="This is only required for auctions that were completed more than one month ago. For recent or future auctions, the update will happen automatically." />
       <item value="Это требуется только для аукционов которые были завершены более одного месяца назад. Для недавних или будущих аукционов обновление произойдёт автоматически." />
       <item value="The Hebrew page is not the same as the English one. I didn't change anything there." />
@@ -50,15 +54,11 @@
       <item value="Inform customers to upgrade Internet Explorer to the version of the Microsoft Edge browser, Microsoft itself will notify them of this." />
       <item value="Сообщите клиентам что бы обновили Internet Explorer до версии браузера Microsoft Edge, об этом их уведомит сама Microsoft." />
       <item value="Bidspirit no longer supports Internet Explorer web browser." />
-      <item value="Bidspirit no longer supports this web browser." />
-      <item value="This browser has not been supported for a long time, which is what this banner on your site says." />
-      <item value="Этот браузер уже давно не поддерживается о чём и говорит этот банер на вашем сайте." />
-      <item value="Hello! We know there is a problem. Could you clarify from which browser the clients are trying to log in? The issue exists in Chrome Incognito mode which Bidspirit cannot fix for security purposes." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7104" />
+        <entry key="ENGLISH" value="7107" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7104" />
+        <entry key="RUSSIAN" value="7107" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652615641975" />
+    <option name="lastTrimTime" value="1653048523452" />
   </component>
 </application>
