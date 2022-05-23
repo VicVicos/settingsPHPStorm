@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Letters sent from the site reach well." />
+      <item value="Can you send an email from Bidspirit to this email? So we can understand what the problem is." />
+      <item value="Письма отправляемые с сайта хорошо доходят." />
+      <item value="Можете отправить письмо из Bidspirit на этот email? Так мы сможем понять в чём проблема." />
+      <item value="I checked the mailbox with an external resource for the possibility of receiving letters from this domain as spam and letters should not come in spam. NS record set." />
+      <item value="Я проверил почтовый ящик внешним ресурсом на возможность получения писем с этого домена в спам и письма не должны приходить попадать в спам. NS запись установлена." />
       <item value="I checked the page, the page is not blocked for indexing by search engines. How many pages with this error? We will look at this in more detail." />
       <item value="Я проверил страницу, страница не блокируется для индексации поисковиками. Как много страниц с подобной ошибкой? Мы рассмотрим эту подробнее." />
       <item value="Page fetch" />
@@ -48,17 +54,11 @@
       <item value="Is there an Edge for Android?" />
       <item value="Существует Edge для Android?" />
       <item value="In this case, we have already received a similar request, but when trying to repeat the error using the Edge browser, we did not encounter problems during authorization." />
-      <item value="В таком случае мы уже получали подобное обращение, но при попытке повторить ошибку используя браузер Edge мы не встретили проблем при авторизации." />
-      <item value="Wait. In Internet Explorer, the authorization form does not open. Perhaps customers use the Microsoft Edge browser, but out of habit call it Internet Explorer?" />
-      <item value="Постойте. В Internet Explorer форма авторизации не открывается. Быть может клиенты используют браузер Microsoft Edge, но по привычке называют его Internet Explorer?" />
-      <item value="Inform customers to upgrade Internet Explorer to the version of the Microsoft Edge browser, Microsoft itself will notify them of this. Or to install one of the browsers that are currently supported and updated. Bidspirit no longer supports Internet Explorer web browser." />
-      <item value="Or to install one of the browsers that are currently supported and updated." />
-      <item value="Или что бы установили один из браузеров которые поддерживаются и обновляются в настоящее время." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7109" />
+        <entry key="ENGLISH" value="7113" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7109" />
+        <entry key="RUSSIAN" value="7113" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
