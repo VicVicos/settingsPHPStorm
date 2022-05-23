@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I checked the page, the page is not blocked for indexing by search engines. How many pages with this error? We will look at this in more detail." />
+      <item value="Я проверил страницу, страница не блокируется для индексации поисковиками. Как много страниц с подобной ошибкой? Мы рассмотрим эту подробнее." />
+      <item value="Page fetch" />
       <item value="Please, remove bids from user:" />
       <item value="We did tests on lots" />
       <item value="We do tests on lots" />
@@ -51,14 +54,11 @@
       <item value="Inform customers to upgrade Internet Explorer to the version of the Microsoft Edge browser, Microsoft itself will notify them of this. Or to install one of the browsers that are currently supported and updated. Bidspirit no longer supports Internet Explorer web browser." />
       <item value="Or to install one of the browsers that are currently supported and updated." />
       <item value="Или что бы установили один из браузеров которые поддерживаются и обновляются в настоящее время." />
-      <item value="Inform customers to upgrade Internet Explorer to the version of the Microsoft Edge browser, Microsoft itself will notify them of this." />
-      <item value="Сообщите клиентам что бы обновили Internet Explorer до версии браузера Microsoft Edge, об этом их уведомит сама Microsoft." />
-      <item value="Bidspirit no longer supports Internet Explorer web browser." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7107" />
+        <entry key="ENGLISH" value="7109" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7107" />
+        <entry key="RUSSIAN" value="7109" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
