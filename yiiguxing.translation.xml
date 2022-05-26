@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="This gave rise to many other errors. I'll roll back the changes." />
+      <item value="Это породило многие другие ошибки. Я откачу изменения." />
+      <item value="Fixed, but i should do testing on your site." />
+      <item value="Я должен" />
+      <item value="Fixed, but i wade do testing on your site." />
+      <item value="wade" />
+      <item value="Fixed, but i can do testing on your site." />
       <item value="If I do this on my part, then the lots that have a number with these symbols will be lost. This must be done from the side of Bidspirit and resynchronize the auction." />
       <item value="Если я сделаю это со своей стороны, то лоты которые имеют номер с этими символами пропадут. Это надо сделать именно со стороны Bidspirit и пересинхронизировать аукцион." />
       <item value="If you do not need these characters, then you can. Otherwise, I will have to find a solution so that this symbol does not break the work with the Bidspirit API." />
@@ -47,18 +54,11 @@
       <item value="Письма отправляемые с сайта хорошо доходят." />
       <item value="Можете отправить письмо из Bidspirit на этот email? Так мы сможем понять в чём проблема." />
       <item value="I checked the mailbox with an external resource for the possibility of receiving letters from this domain as spam and letters should not come in spam. NS record set." />
-      <item value="Я проверил почтовый ящик внешним ресурсом на возможность получения писем с этого домена в спам и письма не должны приходить попадать в спам. NS запись установлена." />
-      <item value="I checked the page, the page is not blocked for indexing by search engines. How many pages with this error? We will look at this in more detail." />
-      <item value="Я проверил страницу, страница не блокируется для индексации поисковиками. Как много страниц с подобной ошибкой? Мы рассмотрим эту подробнее." />
-      <item value="Page fetch" />
-      <item value="Please, remove bids from user:" />
-      <item value="We did tests on lots" />
-      <item value="We do tests on lots" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7139" />
+        <entry key="ENGLISH" value="7144" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7139" />
+        <entry key="RUSSIAN" value="7144" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
