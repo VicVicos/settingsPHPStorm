@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="No. If the lot has been withdrawn from sale, then we cannot show it. Bidspirit will not return information to us when requesting about this lot." />
+      <item value="No. If the lot has been withdrawn from sale, then we cannot show it. Bidspirit will not return information to us when requesting information about this lot." />
+      <item value="Нет. Если лот был снят с продаж, то мы не можем его показывать. Bidspirit нам не вернёт информацию при запросе информации об этом лоте." />
+      <item value="Да. Я внёс изменения которые должны решить проблему." />
       <item value="Let's check again, I've made some changes." />
       <item value="Давайте ещё проверим, внёс правки." />
       <item value="The solution to the problem is if you remove these characters and stop using them in the lot number. You can move these characters to the lot name." />
@@ -50,15 +54,11 @@
       <item value="Now I can't see it on your site." />
       <item value="Сейчас я не могу этого увидеть это на вашем сайте." />
       <item value="Now I can no longer see it on your site. I will check it on other sites and if there is a mistake I will fix it." />
-      <item value="Сейчас я уже не могу этого увидеть на вашем сайте. Я проверю это на других сайтах и в случае если ошибка есть исправлю её." />
-      <item value="I don't see the time error. Start within this hour." />
-      <item value="Я не вижу ошибки со временем. Начало в течении этого часа." />
-      <item value="Letters sent from the site reach well." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7146" />
+        <entry key="ENGLISH" value="7149" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7146" />
+        <entry key="RUSSIAN" value="7149" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
