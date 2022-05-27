@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="For the test, I have to leave the bet. Can you show the lot where I can do it? Then delete my bid made by user viktor.lakhov@uco.co.il" />
+      <item value="Для проведения теста, я должен оставить ставку. Можете показать лот где я могу это сделать? После удалите мой бид сделанный пользователем viktor.lakhov@uco.co.il" />
       <item value="Good. But you deleted the category that had lots, now there are no lots in the Others category." />
       <item value="Good. But you deleted the category that had products, now there are no products in the Others category." />
       <item value="Хорошо. Но вы удалили ту категорию которые у которой были товары, сейчас в категории Others нет товаров." />
@@ -52,13 +54,11 @@
       <item value="Нет. Я не могу найти страницу на Bidspirit где на странице лота показывается время до начала аукциона." />
       <item value="Here I do not see the time before the auction." />
       <item value="Здесь я не вижу времени до начала аукциона." />
-      <item value="I open the Bidspirit website and I don't see the time until the auction starts on the lot page." />
-      <item value="I open the Bidspirit website and I don't see the time until the auction starts on the listing page." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7156" />
+        <entry key="ENGLISH" value="7157" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7156" />
+        <entry key="RUSSIAN" value="7157" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
