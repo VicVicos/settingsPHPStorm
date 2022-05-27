@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Good. But you deleted the category that had lots, now there are no lots in the Others category." />
+      <item value="Good. But you deleted the category that had products, now there are no products in the Others category." />
+      <item value="Хорошо. Но вы удалили ту категорию которые у которой были товары, сейчас в категории Others нет товаров." />
       <item value="ENVIRONMENTAL AGRICULTURE CERTIFICATIONS" />
       <item value="I will report it to Bidspirit." />
       <item value="Я сообщу об этом в Bidspirit." />
@@ -51,14 +54,11 @@
       <item value="Здесь я не вижу времени до начала аукциона." />
       <item value="I open the Bidspirit website and I don't see the time until the auction starts on the lot page." />
       <item value="I open the Bidspirit website and I don't see the time until the auction starts on the listing page." />
-      <item value="This is open on your phone." />
-      <item value="That is open on your phone." />
-      <item value="The one that is open on your phone." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7154" />
+        <entry key="ENGLISH" value="7156" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7154" />
+        <entry key="RUSSIAN" value="7156" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
