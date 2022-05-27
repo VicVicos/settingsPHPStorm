@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I will report it to Bidspirit." />
+      <item value="Я сообщу об этом в Bidspirit." />
+      <item value="And it will also need to be finalized by Bidspirit, since we do not receive information that this lot has been withdrawn from sale." />
+      <item value="И доработать потребуется и со стороны Bidspirit так как нам не приходит информация о том что этот лот был снят с продажи." />
+      <item value="There is currently no such functionality in the plugin. It will need to be improved." />
+      <item value="Сейчас такого функционала нет в плагине. Надо будет доработать." />
       <item value="Yes, we have hidden the second part of the auction manually at your request." />
       <item value="Да, мы скрыли вторую часть аукциона в ручную по вашему запросу." />
       <item value="Даб мы скрыли вторую часть аукциона в ручную по вашему запросу." />
@@ -48,17 +54,11 @@
       <item value="That is open on your phone." />
       <item value="The one that is open on your phone." />
       <item value="Та что открыта у вас на телефоне." />
-      <item value="Я открывают сайт Bidspirit и не вижу время до начала аукциона на странице лота." />
-      <item value="And can you send me the link of the page from your phone?" />
-      <item value="This is because we do not show minutes on the lot page. I will add a display of minutes. And can you send me the link of the page from your phone?" />
-      <item value="Это потому что на странице лота мы не показываем минуты. Я добавлю отображение минут. И можете скинуть мне ссылку страницы с вашего телефона?" />
-      <item value="I will check it on other sites and if there is a mistake I will fix it." />
-      <item value="Now I can't see it error on your site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7151" />
+        <entry key="ENGLISH" value="7154" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7151" />
+        <entry key="RUSSIAN" value="7154" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
