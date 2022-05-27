@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="ENVIRONMENTAL AGRICULTURE CERTIFICATIONS" />
       <item value="I will report it to Bidspirit." />
       <item value="Я сообщу об этом в Bidspirit." />
       <item value="And it will also need to be finalized by Bidspirit, since we do not receive information that this lot has been withdrawn from sale." />
@@ -53,7 +54,6 @@
       <item value="This is open on your phone." />
       <item value="That is open on your phone." />
       <item value="The one that is open on your phone." />
-      <item value="Та что открыта у вас на телефоне." />
     </histories>
     <option name="languageScores">
       <map>
