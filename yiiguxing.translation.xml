@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="публикация" />
       <item value="this code don't included, it is rezerve" />
       <item value="this code don't included" />
       <item value="this code don't include" />
@@ -53,7 +54,6 @@
       <item value="Делали ли вы какие либо изменения в контенте на сайте?" />
       <item value="I think for this reason we did not know about this error earlier." />
       <item value="Думаю по этой причине мы и не знали ранее об этой ошибке." />
-      <item value="No. I can't find a page on Bidspirit where the lot page shows the time until the auction starts." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7160" />
+        <entry key="RUSSIAN" value="7161" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
