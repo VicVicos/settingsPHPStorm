@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I'll fix it soon. There was no need to edit the contents of the &quot;Do not sync auctions&quot; field, this is a list of auctions that have been completed a long time ago." />
+      <item value="Исправлю в ближайшее время. В редактировании содержимого поля &quot;Do not sync auctions&quot; не было необходимости, это список аукционов которые уже давно были завершены." />
+      <item value="I checked and your next auction is synchronized with the site, but if there were changes after the initial publication, then these changes may not be, as the synchronization script ends with an error." />
+      <item value="Я проверил и ваш следующий аукцион синхронизирован с сайтом, но если были изменения после первичной публикации, то этих изменений может не быть, так как скрипт синхронизации завершается с ошибкой." />
+      <item value="I checked and your next auction is synchronized with the site, but I think that if there were changes, then they are not enough, since the synchronization script ends with an error, I will fix it in the near future. There was no need to edit the contents of the &quot;Do not sync auctions&quot; field, this is a list of auctions that have been completed a long time ago." />
+      <item value="Я проверил и ваш следующий аукцион синхронизирован с сайтом, но думаю что если были изменения, то именно их и не хватает, так как скрипт синхронизации завершается с ошибкой, исправлю в ближайшее время. В редактировании содержимого поля &quot;Do not sync auctions&quot; не было необходимости, это список аукционов которые уже давно были завершены." />
       <item value="публикация" />
       <item value="this code don't included, it is rezerve" />
       <item value="this code don't included" />
@@ -48,17 +54,11 @@
       <item value="Потому что на сайте я ни чего не менял, и ошибка может возникать по двум причинам. Одну из причин я исправил со стороны сайта, другая причина это кеш вашего браузера. Вы попадаете на сайт который уже на нашем сервере или до сих пор попадаете на старый хостинг? Можете очистить кеш вашего браузера" />
       <item value="Я проверю, но я помню что исправлял эту проблему." />
       <item value="Content is in one language." />
-      <item value="Контент у вас на одном языке." />
-      <item value="theme path" />
-      <item value="Have you made any changes to the content on the site?" />
-      <item value="Делали ли вы какие либо изменения в контенте на сайте?" />
-      <item value="I think for this reason we did not know about this error earlier." />
-      <item value="Думаю по этой причине мы и не знали ранее об этой ошибке." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7160" />
+        <entry key="ENGLISH" value="7164" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7161" />
+        <entry key="RUSSIAN" value="7164" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
