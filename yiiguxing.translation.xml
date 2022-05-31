@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Last problems arose when performing this task, and so that they do not arise, refinement is required." />
+      <item value="These problems arose when performing this task, and so that they do not arise, refinement is required." />
+      <item value="Вот эти проблемы возникли при выполнении этой задачи и что бы они не возникали требуется доработка." />
+      <item value="The task to open an active tab with lots when opening the auction page requires an additional 2 hours of work." />
+      <item value="Задача что-бы при открытии страницы аукциона открывалась активная вкладка с лотами требует дополнительные 2 часа работы." />
+      <item value="The task of opening the auction page to open the active tab requires an additional 2 hours of work." />
+      <item value="Для задачи при открытии страницы аукциона открывать активной вкладку требуется дополнительные 2 часа работы." />
       <item value="דפים" />
       <item value="מתוך" />
       <item value="I'll fix it soon. There was no need to edit the contents of the &quot;Do not sync auctions&quot; field, this is a list of auctions that have been completed a long time ago." />
@@ -47,18 +54,11 @@
       <item value="Fixed, but i wade do testing on your site." />
       <item value="wade" />
       <item value="Fixed, but i can do testing on your site." />
-      <item value="If I do this on my part, then the lots that have a number with these symbols will be lost. This must be done from the side of Bidspirit and resynchronize the auction." />
-      <item value="Если я сделаю это со своей стороны, то лоты которые имеют номер с этими символами пропадут. Это надо сделать именно со стороны Bidspirit и пересинхронизировать аукцион." />
-      <item value="If you do not need these characters, then you can. Otherwise, I will have to find a solution so that this symbol does not break the work with the Bidspirit API." />
-      <item value="Если эти символы вам не нужны, то можно. Иначе мне надо будет найти решение что бы этот символ не ломал работу с API Bidspirit." />
-      <item value="Because I didn’t change anything on the site, and the error can occur for two reasons. One of the reasons I fixed on the site side, the other reason is your browser cache. Do you get to a site that is already on our server or do you still get to the old hosting? Сan you clear your browser cache?" />
-      <item value="Because I didn’t change anything on the site, and the error can occur for two reasons. One of the reasons I fixed on the site side, the other reason is your browser cache. Do you get to a site that is already on our server or do you still get to the old hosting? You can clear your browser cache." />
-      <item value="Потому что на сайте я ни чего не менял, и ошибка может возникать по двум причинам. Одну из причин я исправил со стороны сайта, другая причина это кеш вашего браузера. Вы попадаете на сайт который уже на нашем сервере или до сих пор попадаете на старый хостинг? Можете очистить кеш вашего браузера" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7164" />
+        <entry key="ENGLISH" value="7168" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7164" />
+        <entry key="RUSSIAN" value="7168" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653560618741" />
+    <option name="lastTrimTime" value="1653998728739" />
   </component>
 </application>
