@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Виталий может сообщить подробности." />
       <item value="Last problems arose when performing this task, and so that they do not arise, refinement is required." />
       <item value="These problems arose when performing this task, and so that they do not arise, refinement is required." />
       <item value="Вот эти проблемы возникли при выполнении этой задачи и что бы они не возникали требуется доработка." />
@@ -53,7 +54,6 @@
       <item value="Я должен" />
       <item value="Fixed, but i wade do testing on your site." />
       <item value="wade" />
-      <item value="Fixed, but i can do testing on your site." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7168" />
+        <entry key="RUSSIAN" value="7169" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
