@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Have you looked at the site, do you have any notes?" />
+      <item value="Вы посмотрели сайт, есть замечания?" />
       <item value="Search by lot number" />
       <item value="Search lot number" />
       <item value="Search by lot id" />
@@ -52,13 +54,11 @@
       <item value="The solution to the problem is if you remove these characters and stop using them in the lot number. You can move these characters to the lot name." />
       <item value="Решением проблемы будет если вы удалите эти символы и перестанете их использовать в номере лота. Вы можете перенести эти символы в имя лота." />
       <item value="This gave rise to many other errors. I'll roll back the changes." />
-      <item value="Это породило многие другие ошибки. Я откачу изменения." />
-      <item value="Fixed, but i should do testing on your site." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7171" />
+        <entry key="ENGLISH" value="7172" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7171" />
+        <entry key="RUSSIAN" value="7172" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
