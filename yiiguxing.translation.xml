@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Это очень странно, ваш пользователь имеет права администратора. Разбираюсь." />
+      <item value="You are login the site as user houseadmin" />
+      <item value="Вы заходите на сайт из под пользователя houseadmin" />
       <item value="I'll try to reproduce the error and fix it." />
       <item value="Постараюсь воспроизвести ошибку и устранить." />
       <item value="This problem won't happen again." />
@@ -51,14 +54,11 @@
       <item value="For the test, I have to leave the bet. Can you show the lot where I can do it? Then delete my bid made by user viktor.lakhov@uco.co.il" />
       <item value="Для проведения теста, я должен оставить ставку. Можете показать лот где я могу это сделать? После удалите мой бид сделанный пользователем viktor.lakhov@uco.co.il" />
       <item value="Good. But you deleted the category that had lots, now there are no lots in the Others category." />
-      <item value="Good. But you deleted the category that had products, now there are no products in the Others category." />
-      <item value="Хорошо. Но вы удалили ту категорию которые у которой были товары, сейчас в категории Others нет товаров." />
-      <item value="ENVIRONMENTAL AGRICULTURE CERTIFICATIONS" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7183" />
+        <entry key="ENGLISH" value="7184" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7183" />
+        <entry key="RUSSIAN" value="7185" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
