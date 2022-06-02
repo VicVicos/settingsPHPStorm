@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I'll try to reproduce the error and fix it." />
+      <item value="Постараюсь воспроизвести ошибку и устранить." />
       <item value="This problem won't happen again." />
       <item value="Подобная проблема более не будет повторяться." />
       <item value="This is a Wordpress bug, I should have re-saved permalinks in admin panel." />
@@ -52,13 +54,11 @@
       <item value="Good. But you deleted the category that had products, now there are no products in the Others category." />
       <item value="Хорошо. Но вы удалили ту категорию которые у которой были товары, сейчас в категории Others нет товаров." />
       <item value="ENVIRONMENTAL AGRICULTURE CERTIFICATIONS" />
-      <item value="I will report it to Bidspirit." />
-      <item value="Я сообщу об этом в Bidspirit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7182" />
+        <entry key="ENGLISH" value="7183" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7182" />
+        <entry key="RUSSIAN" value="7183" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
