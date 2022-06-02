@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="This problem won't happen again." />
+      <item value="Подобная проблема более не будет повторяться." />
+      <item value="This is a Wordpress bug, I should have re-saved permalinks in admin panel." />
+      <item value="Это ошибка Wordpress, надо было пересохранить permalinks in admin panel." />
+      <item value="Fixed. No, it is don't error sync" />
+      <item value="Вы говорите об этом аукционе?" />
+      <item value="In the latest versions plugin, we have changed the titles for auctions. I will check and make similar headlines as on Bidspirit in the morning." />
+      <item value="В последних версиях мы изменили заголовки для аукционов. Я проверю и сделаю аналогичные заголовки как на Bidspirit утром." />
+      <item value="Let's wait until the vacation is over." />
+      <item value="Thank you! We are not in a hurry. Let's wait until the holiday is over." />
+      <item value="Спасибо! Мы не торопим. Давайте подождём как отпуск закончится." />
+      <item value="Я проверю это утром." />
       <item value="Update to last version after all migrations for all clients" />
       <item value="Add ability to check this plugin's updates automaticaly" />
       <item value="There was a sync error. I updated the plugin and the problem was solved. Synchronization in progress." />
@@ -42,23 +54,11 @@
       <item value="ENVIRONMENTAL AGRICULTURE CERTIFICATIONS" />
       <item value="I will report it to Bidspirit." />
       <item value="Я сообщу об этом в Bidspirit." />
-      <item value="And it will also need to be finalized by Bidspirit, since we do not receive information that this lot has been withdrawn from sale." />
-      <item value="И доработать потребуется и со стороны Bidspirit так как нам не приходит информация о том что этот лот был снят с продажи." />
-      <item value="There is currently no such functionality in the plugin. It will need to be improved." />
-      <item value="Сейчас такого функционала нет в плагине. Надо будет доработать." />
-      <item value="Yes, we have hidden the second part of the auction manually at your request." />
-      <item value="Да, мы скрыли вторую часть аукциона в ручную по вашему запросу." />
-      <item value="Даб мы скрыли вторую часть аукциона в ручную по вашему запросу." />
-      <item value="No. If the lot has been withdrawn from sale, then we cannot show it. Bidspirit will not return information to us when requesting about this lot." />
-      <item value="No. If the lot has been withdrawn from sale, then we cannot show it. Bidspirit will not return information to us when requesting information about this lot." />
-      <item value="Нет. Если лот был снят с продаж, то мы не можем его показывать. Bidspirit нам не вернёт информацию при запросе информации об этом лоте." />
-      <item value="Да. Я внёс изменения которые должны решить проблему." />
-      <item value="Let's check again, I've made some changes." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7175" />
+        <entry key="ENGLISH" value="7182" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7175" />
+        <entry key="RUSSIAN" value="7182" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
