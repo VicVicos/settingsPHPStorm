@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I redid the work of this synchronization." />
+      <item value="Я переделал работу этой синхронизации." />
+      <item value="This is a new feature in Bidspirit created at the request of one of the clients. The essence of manual auctions is that bidding takes place in manual mode, automatic auctions take place automatically." />
+      <item value="Это новая фича в Bidspirit созданная по запросу одного из клиентов. Суть ручных аукционов в том что торги проходят в ручном режиме, автоматические аукционы проходят автоматически." />
       <item value="I checked. Synchronization is working normally." />
       <item value="Я проверил. Синхронизация работает в штатном режиме." />
       <item value="Yes, I received a request from the client that the synchronization did not work and the problem was solved by updating to the latest version." />
@@ -50,15 +54,11 @@
       <item value="מתוך" />
       <item value="I'll fix it soon. There was no need to edit the contents of the &quot;Do not sync auctions&quot; field, this is a list of auctions that have been completed a long time ago." />
       <item value="Исправлю в ближайшее время. В редактировании содержимого поля &quot;Do not sync auctions&quot; не было необходимости, это список аукционов которые уже давно были завершены." />
-      <item value="I checked and your next auction is synchronized with the site, but if there were changes after the initial publication, then these changes may not be, as the synchronization script ends with an error." />
-      <item value="Я проверил и ваш следующий аукцион синхронизирован с сайтом, но если были изменения после первичной публикации, то этих изменений может не быть, так как скрипт синхронизации завершается с ошибкой." />
-      <item value="I checked and your next auction is synchronized with the site, but I think that if there were changes, then they are not enough, since the synchronization script ends with an error, I will fix it in the near future. There was no need to edit the contents of the &quot;Do not sync auctions&quot; field, this is a list of auctions that have been completed a long time ago." />
-      <item value="Я проверил и ваш следующий аукцион синхронизирован с сайтом, но думаю что если были изменения, то именно их и не хватает, так как скрипт синхронизации завершается с ошибкой, исправлю в ближайшее время. В редактировании содержимого поля &quot;Do not sync auctions&quot; не было необходимости, это список аукционов которые уже давно были завершены." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7189" />
+        <entry key="ENGLISH" value="7192" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7189" />
+        <entry key="RUSSIAN" value="7192" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
