@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="When I try to delete the time, I get the following notification:" />
+      <item value="При попытке удалить время я получаю следующее уведомление:" />
+      <item value="How to delete the recorded time that is already synced with an external task tool." />
+      <item value="Как удалить учтённое время которое уже синхронизировано" />
       <item value="Это очень странно, ваш пользователь имеет права администратора. Разбираюсь." />
       <item value="You are login the site as user houseadmin" />
       <item value="Вы заходите на сайт из под пользователя houseadmin" />
@@ -50,15 +54,11 @@
       <item value="this code don't included, it is rezerve" />
       <item value="this code don't included" />
       <item value="this code don't include" />
-      <item value="рецепт" />
-      <item value="For the test, I have to leave the bet. Can you show the lot where I can do it? Then delete my bid made by user viktor.lakhov@uco.co.il" />
-      <item value="Для проведения теста, я должен оставить ставку. Можете показать лот где я могу это сделать? После удалите мой бид сделанный пользователем viktor.lakhov@uco.co.il" />
-      <item value="Good. But you deleted the category that had lots, now there are no lots in the Others category." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7184" />
+        <entry key="ENGLISH" value="7187" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7185" />
+        <entry key="RUSSIAN" value="7187" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
