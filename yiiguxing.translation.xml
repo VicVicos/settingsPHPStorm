@@ -4,6 +4,35 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="You made a lot of mistakes in the html code of this link." />
+      <item value="Вы допустили много ошибок в html коде данной ссылки." />
+      <item value="No, this is a completely different resource, it does not interfere in any way and is not related to the operation of the plugin." />
+      <item value="Нет, это совсем другой ресурс, он ни как не мешает и не связан с работой плагина." />
+      <item value="Вы используете блокировщики рекламы?" />
+      <item value="Или эти два браузера имеют что-то общее, что приводит к проблеме." />
+      <item value="If the problem save, then the problem comes from the Bidspirit API." />
+      <item value="I think that the problem will be only on one device. If the problem persists, then the problem comes from the Bidspirit API." />
+      <item value="Думаю что проблема будет только на одном устройстве. Если же проблема повторится, тогда проблема идёт от API Bidspirit." />
+      <item value="Do you have another Google Chrome device besides your smartphone?" />
+      <item value="У вас есть другое устройство с Google Chrome кроме смартфона?" />
+      <item value="Have you other device with Google Chrome?" />
+      <item value="There are no problems on the sites of other clients and in other browsers." />
+      <item value="На сайтах других клиентов и в других браузерах проблем нет." />
+      <item value="Давайте проверим." />
+      <item value="Yes, it distinguishes this client from others" />
+      <item value="Да, это отличает этого клиента от других" />
+      <item value="writes that he can not log in as a user on the client's site https:danaauctions.bidspirit.com" />
+      <item value="пишет что не может авторизоваться как пользователь на сайте клиента" />
+      <item value="writes that he cannot log in as a user" />
+      <item value="пишет что не может авторизоваться как пользователь https:danaauctions.bidspirit.com" />
+      <item value="There is one point that distinguishes this client from others, I will discuss this point with Bidspirit support" />
+      <item value="Есть один момент который отличает этого клиента от других, обсужу этот момент с Bidspirit support" />
+      <item value="Вы проверяете без использования режима инкогнито?" />
+      <item value="Другие клиенту имеют эту же проблему?" />
+      <item value="I will send message for Bidspirit support." />
+      <item value="I will send message from Bidspirit support." />
+      <item value="This issue is coming from the Bidspirit servers, it is not a bug in the plugin." />
+      <item value="Эта проблема идёт от серверов Bidspirit, это не ошибка в плагине." />
       <item value="If you do not specify a separate page for manual auctions, then all auctions will be displayed as before." />
       <item value="Если вы не указываете отдельную страницу для ручных аукционов, то все аукционы будут отображаться как и раньше." />
       <item value="I redid the work of this synchronization." />
@@ -25,40 +54,11 @@
       <item value="Постараюсь воспроизвести ошибку и устранить." />
       <item value="This problem won't happen again." />
       <item value="Подобная проблема более не будет повторяться." />
-      <item value="This is a Wordpress bug, I should have re-saved permalinks in admin panel." />
-      <item value="Это ошибка Wordpress, надо было пересохранить permalinks in admin panel." />
-      <item value="Fixed. No, it is don't error sync" />
-      <item value="Вы говорите об этом аукционе?" />
-      <item value="In the latest versions plugin, we have changed the titles for auctions. I will check and make similar headlines as on Bidspirit in the morning." />
-      <item value="В последних версиях мы изменили заголовки для аукционов. Я проверю и сделаю аналогичные заголовки как на Bidspirit утром." />
-      <item value="Let's wait until the vacation is over." />
-      <item value="Thank you! We are not in a hurry. Let's wait until the holiday is over." />
-      <item value="Спасибо! Мы не торопим. Давайте подождём как отпуск закончится." />
-      <item value="Я проверю это утром." />
-      <item value="Update to last version after all migrations for all clients" />
-      <item value="Add ability to check this plugin's updates automaticaly" />
-      <item value="There was a sync error. I updated the plugin and the problem was solved. Synchronization in progress." />
-      <item value="Была ошибка в синхронизации. Обновил плагин, и проблема решилась. Синхронизация в процессе." />
-      <item value="Have you looked at the site, do you have any notes?" />
-      <item value="Вы посмотрели сайт, есть замечания?" />
-      <item value="Search by lot number" />
-      <item value="Search lot number" />
-      <item value="Search by lot id" />
-      <item value="Виталий может сообщить подробности." />
-      <item value="Last problems arose when performing this task, and so that they do not arise, refinement is required." />
-      <item value="These problems arose when performing this task, and so that they do not arise, refinement is required." />
-      <item value="Вот эти проблемы возникли при выполнении этой задачи и что бы они не возникали требуется доработка." />
-      <item value="The task to open an active tab with lots when opening the auction page requires an additional 2 hours of work." />
-      <item value="Задача что-бы при открытии страницы аукциона открывалась активная вкладка с лотами требует дополнительные 2 часа работы." />
-      <item value="The task of opening the auction page to open the active tab requires an additional 2 hours of work." />
-      <item value="Для задачи при открытии страницы аукциона открывать активной вкладку требуется дополнительные 2 часа работы." />
-      <item value="דפים" />
-      <item value="מתוך" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7193" />
+        <entry key="ENGLISH" value="7212" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7193" />
+        <entry key="RUSSIAN" value="7212" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653998728739" />
+    <option name="lastTrimTime" value="1654524345175" />
   </component>
 </application>
