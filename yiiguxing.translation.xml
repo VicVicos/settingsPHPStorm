@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Загрузка pdf файла на сайт обязательна." />
+      <item value="You cannot provide a local link to a file from your computer. The site does not have access to your computer files." />
+      <item value="Вы не можете указать локальную ссылку на файл с вашего компьютера. Сайт не имеет доступа к файлам вашего компьютера." />
       <item value="Have you dealt with the question with your domain?" />
       <item value="Have you dealt with the issue with your domain?" />
       <item value="Вы не занимались вопросом с вашим доменом?" />
@@ -51,14 +54,11 @@
       <item value="This is a new feature in Bidspirit created at the request of one of the clients. The essence of manual auctions is that bidding takes place in manual mode, automatic auctions take place automatically." />
       <item value="Это новая фича в Bidspirit созданная по запросу одного из клиентов. Суть ручных аукционов в том что торги проходят в ручном режиме, автоматические аукционы проходят автоматически." />
       <item value="I checked. Synchronization is working normally." />
-      <item value="Я проверил. Синхронизация работает в штатном режиме." />
-      <item value="Yes, I received a request from the client that the synchronization did not work and the problem was solved by updating to the latest version." />
-      <item value="Да я получал обращение от клиента что синхронизация не работала и проблема решилась обновлением до последней версии." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7221" />
+        <entry key="ENGLISH" value="7222" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7221" />
+        <entry key="RUSSIAN" value="7223" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
