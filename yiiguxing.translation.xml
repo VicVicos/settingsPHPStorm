@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="This lot was chosen by me, there are no other lots." />
+      <item value="Этот лот выбрал я, других лотов нет." />
+      <item value="Fixed, but i don't see your six selected lots." />
+      <item value="Fixed, but i don't see your six checked lots." />
+      <item value="At the moment, there is nothing like this in the plans, but you need to talk with Andrey Druz about to plan for it." />
+      <item value="At the moment, there is nothing like this in the plans, but you need to talk with Andrey Druz about what to plan for it." />
+      <item value="На данный момент ни чего такого нет в планах, но о том что бы запланировать это надо говорить с Андреем." />
       <item value="Загрузка pdf файла на сайт обязательна." />
       <item value="You cannot provide a local link to a file from your computer. The site does not have access to your computer files." />
       <item value="Вы не можете указать локальную ссылку на файл с вашего компьютера. Сайт не имеет доступа к файлам вашего компьютера." />
@@ -47,18 +54,11 @@
       <item value="I will send message from Bidspirit support." />
       <item value="This issue is coming from the Bidspirit servers, it is not a bug in the plugin." />
       <item value="Эта проблема идёт от серверов Bidspirit, это не ошибка в плагине." />
-      <item value="If you do not specify a separate page for manual auctions, then all auctions will be displayed as before." />
-      <item value="Если вы не указываете отдельную страницу для ручных аукционов, то все аукционы будут отображаться как и раньше." />
-      <item value="I redid the work of this synchronization." />
-      <item value="Я переделал работу этой синхронизации." />
-      <item value="This is a new feature in Bidspirit created at the request of one of the clients. The essence of manual auctions is that bidding takes place in manual mode, automatic auctions take place automatically." />
-      <item value="Это новая фича в Bidspirit созданная по запросу одного из клиентов. Суть ручных аукционов в том что торги проходят в ручном режиме, автоматические аукционы проходят автоматически." />
-      <item value="I checked. Synchronization is working normally." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7222" />
+        <entry key="ENGLISH" value="7228" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7223" />
+        <entry key="RUSSIAN" value="7228" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
