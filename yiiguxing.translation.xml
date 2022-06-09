@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="рамка" />
       <item value="This lot was chosen by me, there are no other lots." />
       <item value="Этот лот выбрал я, других лотов нет." />
       <item value="Fixed, but i don't see your six selected lots." />
@@ -53,7 +54,6 @@
       <item value="I will send message for Bidspirit support." />
       <item value="I will send message from Bidspirit support." />
       <item value="This issue is coming from the Bidspirit servers, it is not a bug in the plugin." />
-      <item value="Эта проблема идёт от серверов Bidspirit, это не ошибка в плагине." />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="8" />
         <entry key="MALTESE" value="1" />
-        <entry key="MACEDONIAN" value="2" />
+        <entry key="MACEDONIAN" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="9" />
