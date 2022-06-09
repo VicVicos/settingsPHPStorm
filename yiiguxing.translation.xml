@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Или какой вариант вы предпочитаете?" />
+      <item value="Или какой вариант вы предпочтёте?" />
       <item value="For now, I will prepare the site for moving to the domain:" />
       <item value="Я пока подготовлю сайт к переезду на домен:" />
       <item value="Пригласите его присоединиться к группе по ссылке:" />
@@ -52,13 +54,11 @@
       <item value="пишет что не может авторизоваться как пользователь на сайте клиента" />
       <item value="writes that he cannot log in as a user" />
       <item value="пишет что не может авторизоваться как пользователь https:danaauctions.bidspirit.com" />
-      <item value="There is one point that distinguishes this client from others, I will discuss this point with Bidspirit support" />
-      <item value="Есть один момент который отличает этого клиента от других, обсужу этот момент с Bidspirit support" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7231" />
+        <entry key="ENGLISH" value="7232" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7231" />
+        <entry key="RUSSIAN" value="7233" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
