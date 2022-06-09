@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Пригласите его присоединиться к группе по ссылке:" />
+      <item value="Publish a new post of type Post and it should appear on the blog page." />
+      <item value="Опубликуйте новую запись типа Post и она должна появиться на странице блога." />
       <item value="рамка" />
       <item value="This lot was chosen by me, there are no other lots." />
       <item value="Этот лот выбрал я, других лотов нет." />
@@ -51,14 +54,11 @@
       <item value="Есть один момент который отличает этого клиента от других, обсужу этот момент с Bidspirit support" />
       <item value="Вы проверяете без использования режима инкогнито?" />
       <item value="Другие клиенту имеют эту же проблему?" />
-      <item value="I will send message for Bidspirit support." />
-      <item value="I will send message from Bidspirit support." />
-      <item value="This issue is coming from the Bidspirit servers, it is not a bug in the plugin." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7228" />
+        <entry key="ENGLISH" value="7229" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7228" />
+        <entry key="RUSSIAN" value="7230" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
