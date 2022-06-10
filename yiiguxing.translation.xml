@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Did you find the problem? Steve said that you should have worked on this problem." />
+      <item value="Удалось найти проблему? Steve сказал что вы должны были работать над этой проблемой." />
+      <item value="I understand that there is a difference between a domain with www and without." />
+      <item value="Я так понимаю что есть разница между доменом с www и без." />
       <item value="Или какой вариант вы предпочитаете?" />
       <item value="Или какой вариант вы предпочтёте?" />
       <item value="For now, I will prepare the site for moving to the domain:" />
@@ -50,15 +54,11 @@
       <item value="Давайте проверим." />
       <item value="Yes, it distinguishes this client from others" />
       <item value="Да, это отличает этого клиента от других" />
-      <item value="writes that he can not log in as a user on the client's site https:danaauctions.bidspirit.com" />
-      <item value="пишет что не может авторизоваться как пользователь на сайте клиента" />
-      <item value="writes that he cannot log in as a user" />
-      <item value="пишет что не может авторизоваться как пользователь https:danaauctions.bidspirit.com" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7232" />
+        <entry key="ENGLISH" value="7235" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7233" />
+        <entry key="RUSSIAN" value="7235" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
