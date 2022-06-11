@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Он же доступен на сайте" />
       <item value="Did you find the problem? Steve said that you should have worked on this problem." />
       <item value="Удалось найти проблему? Steve сказал что вы должны были работать над этой проблемой." />
       <item value="I understand that there is a difference between a domain with www and without." />
@@ -53,7 +54,6 @@
       <item value="На сайтах других клиентов и в других браузерах проблем нет." />
       <item value="Давайте проверим." />
       <item value="Yes, it distinguishes this client from others" />
-      <item value="Да, это отличает этого клиента от других" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7235" />
+        <entry key="RUSSIAN" value="7236" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -99,6 +99,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654524345175" />
+    <option name="lastTrimTime" value="1654989742349" />
   </component>
 </application>
