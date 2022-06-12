@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I will review the operation of this mode so that this problem does not arise." />
+      <item value="Я пересмотрю работу этого режима, что бы эта проблема не возникала." />
+      <item value="I will review the operation of this mode and try to avoid this problem." />
+      <item value="Я пересмотрю работу этого режима и постараюсь что бы эта проблема не возникала." />
+      <item value="I will review the operation of this mode and try to solve this problem on my own." />
+      <item value="Я пересмотрю работу этого режима и постараюсь что бы эта проблема решалась самостоятельно." />
+      <item value="At this time, a backup copy is made on the server and the load on the server is a little more, because of this, synchronization went into pending mode." />
+      <item value="В это время на сервере делается резервная копия и нагрузка на сервере чуть больше, из-за этого синхронизация уходила в отложенный режим." />
       <item value="Он же доступен на сайте" />
       <item value="Did you find the problem? Steve said that you should have worked on this problem." />
       <item value="Удалось найти проблему? Steve сказал что вы должны были работать над этой проблемой." />
@@ -46,19 +54,11 @@
       <item value="Или эти два браузера имеют что-то общее, что приводит к проблеме." />
       <item value="If the problem save, then the problem comes from the Bidspirit API." />
       <item value="I think that the problem will be only on one device. If the problem persists, then the problem comes from the Bidspirit API." />
-      <item value="Думаю что проблема будет только на одном устройстве. Если же проблема повторится, тогда проблема идёт от API Bidspirit." />
-      <item value="Do you have another Google Chrome device besides your smartphone?" />
-      <item value="У вас есть другое устройство с Google Chrome кроме смартфона?" />
-      <item value="Have you other device with Google Chrome?" />
-      <item value="There are no problems on the sites of other clients and in other browsers." />
-      <item value="На сайтах других клиентов и в других браузерах проблем нет." />
-      <item value="Давайте проверим." />
-      <item value="Yes, it distinguishes this client from others" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7235" />
+        <entry key="ENGLISH" value="7240" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7236" />
+        <entry key="RUSSIAN" value="7240" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
