@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="rotate" />
       <item value="I will review the operation of this mode so that this problem does not arise." />
       <item value="Я пересмотрю работу этого режима, что бы эта проблема не возникала." />
       <item value="I will review the operation of this mode and try to avoid this problem." />
@@ -53,12 +54,11 @@
       <item value="Вы используете блокировщики рекламы?" />
       <item value="Или эти два браузера имеют что-то общее, что приводит к проблеме." />
       <item value="If the problem save, then the problem comes from the Bidspirit API." />
-      <item value="I think that the problem will be only on one device. If the problem persists, then the problem comes from the Bidspirit API." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7240" />
+        <entry key="ENGLISH" value="7241" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7240" />
+        <entry key="RUSSIAN" value="7241" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
