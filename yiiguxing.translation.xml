@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="And please add symbol &quot;&quot; in field Server on settings plugin." />
+      <item value="And please add &quot;&quot; in field Server on settings plugin." />
+      <item value="I checked your site and i see some problems. Your domain don't approve from side Bidspirit, and please add &quot;&quot; in field Server on settings plugin." />
+      <item value="I checked your site and i see some problems." />
+      <item value="Let's hope that the problem will be fixed soon." />
+      <item value="Будем надеяться что проблема будет устранена в ближайшее время." />
+      <item value="One of the servers has crashed, I don't have access to it in this state. At the moment, only Andrey has an understanding of the problem." />
+      <item value="Один из серверов упал, я не имею к нему доступа в таком состоянии. На текущий момент только Андрей имеет понимание о проблеме." />
       <item value="rotate" />
       <item value="I will review the operation of this mode so that this problem does not arise." />
       <item value="Я пересмотрю работу этого режима, что бы эта проблема не возникала." />
@@ -46,19 +54,11 @@
       <item value="All kernel threads created for interface en0 have been scheduled at least once. Proceeding." />
       <item value="Processing" />
       <item value="Less that a minute remaining" />
-      <item value="leaf" />
-      <item value="You made a lot of mistakes in the html code of this link." />
-      <item value="Вы допустили много ошибок в html коде данной ссылки." />
-      <item value="No, this is a completely different resource, it does not interfere in any way and is not related to the operation of the plugin." />
-      <item value="Нет, это совсем другой ресурс, он ни как не мешает и не связан с работой плагина." />
-      <item value="Вы используете блокировщики рекламы?" />
-      <item value="Или эти два браузера имеют что-то общее, что приводит к проблеме." />
-      <item value="If the problem save, then the problem comes from the Bidspirit API." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7241" />
+        <entry key="ENGLISH" value="7247" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7241" />
+        <entry key="RUSSIAN" value="7247" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
