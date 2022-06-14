@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="And there is one important point. If synchronization on the server is performed using wp-cron, then users must visit the site, otherwise synchronization will not work. If the client has the ability to set up synchronization using cron from the server side, then we recommend using this synchronization option." />
+      <item value="И есть один важный момент. Если синхронизация на сервере выполняется с помошью wp-cron, то сайт должны посещать пользователи, без этого синхронизация не будет работать. Если клиент имеет возможность настроить синхронизацию с помощью cron со стороны сервера, то мы рекомендуем использовать этот вариант синхронизации." />
+      <item value="Это поведение по умолчанию" />
+      <item value="In the case of already completed auctions, no, they are synchronized once every five days." />
+      <item value="В случае с уже завершёнными аукционами нет, они синхронизируются 1 раз в пять дней." />
       <item value="Bidspirit has resolved your domain. Please pay attention to setting up synchronization with cron tasks from the server side. Details can be found in the User manual or you can always contact us for help." />
       <item value="Bidspirit разрешил ваш домен. Пожалуйста, обратите внимение на настройку синхронизации с помощью cron задач со стороны сервера. Подробности вы найдёте в User manual или всегда можете обратиться за помощью к нам." />
       <item value="Да, разница в часовых поясах большая." />
@@ -49,16 +54,11 @@
       <item value="Или какой вариант вы предпочитаете?" />
       <item value="Или какой вариант вы предпочтёте?" />
       <item value="For now, I will prepare the site for moving to the domain:" />
-      <item value="Я пока подготовлю сайт к переезду на домен:" />
-      <item value="Пригласите его присоединиться к группе по ссылке:" />
-      <item value="Publish a new post of type Post and it should appear on the blog page." />
-      <item value="Опубликуйте новую запись типа Post и она должна появиться на странице блога." />
-      <item value="рамка" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7261" />
+        <entry key="ENGLISH" value="7264" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7261" />
+        <entry key="RUSSIAN" value="7264" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
