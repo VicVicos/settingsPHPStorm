@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="We cannot provide support for clients who do not host their site with us, second language support is not the main feature of the plugin. Connecting a second language can cause a lot of problems for which clients do not pay." />
+      <item value="Мы не можем оказывать поддержку для клиентов которые не размещают свой сайт у нас, поддержка второго языка не является основной функцией плагина. Подключение второго языка может вызвать множество проблем на решение которых клиенты не платят." />
+      <item value="For felimart there is no problem to do this, for other clients there is a difficulty. I will discuss this with the team and let you know how to deal with Giosi and Ansuini" />
+      <item value="Для felimart проблем нет сделать это, для других клиентов есть сложность. Я обсужу это с командой и сообщу как быть с Giosi и Ansuini" />
+      <item value="О каком клиенте сейчас идёт речь?" />
+      <item value="To activate the second language, you need to change the plugin settings. Multilanguage only works with Polylang." />
+      <item value="Для активации второго языка надо изменить настройки плагина. Мультиязычность работает только с Polylang." />
       <item value="View sheet" />
       <item value="Bitaon" />
       <item value="And there is one important point. If synchronization on the server is performed using wp-cron, then users must visit the site, otherwise synchronization will not work. If the client has the ability to set up synchronization using cron from the server side, then we recommend using this synchronization option." />
@@ -47,18 +54,11 @@
       <item value="I will review the operation of this mode and try to solve this problem on my own." />
       <item value="Я пересмотрю работу этого режима и постараюсь что бы эта проблема решалась самостоятельно." />
       <item value="At this time, a backup copy is made on the server and the load on the server is a little more, because of this, synchronization went into pending mode." />
-      <item value="В это время на сервере делается резервная копия и нагрузка на сервере чуть больше, из-за этого синхронизация уходила в отложенный режим." />
-      <item value="Он же доступен на сайте" />
-      <item value="Did you find the problem? Steve said that you should have worked on this problem." />
-      <item value="Удалось найти проблему? Steve сказал что вы должны были работать над этой проблемой." />
-      <item value="I understand that there is a difference between a domain with www and without." />
-      <item value="Я так понимаю что есть разница между доменом с www и без." />
-      <item value="Или какой вариант вы предпочитаете?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7265" />
+        <entry key="ENGLISH" value="7269" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7265" />
+        <entry key="RUSSIAN" value="7269" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
