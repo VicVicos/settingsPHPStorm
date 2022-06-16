@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Holds the URL of the Tracker API." />
+      <item value="Retrieve the number of posts that not using elementor." />
+      <item value="Get non elementor post usages." />
       <item value="More precisely, I have already made changes and it is necessary to see that there will be no problems with this again." />
       <item value="Точнее я уже внёс правки и надо посмотреть что с этим не возникнет проблем снова." />
       <item value="The synchronization process at some point failed in the allotted time of 1 minute and then the synchronization went into delayed mode for 1 hour. This moment was repeated several times. I will review the work of the deferred mode so that such a problem does not arise." />
@@ -51,14 +54,11 @@
       <item value="I checked your site and i see some problems. Your domain don't approve from side Bidspirit, and please add &quot;&quot; in field Server on settings plugin." />
       <item value="I checked your site and i see some problems." />
       <item value="Let's hope that the problem will be fixed soon." />
-      <item value="Будем надеяться что проблема будет устранена в ближайшее время." />
-      <item value="One of the servers has crashed, I don't have access to it in this state. At the moment, only Andrey has an understanding of the problem." />
-      <item value="Один из серверов упал, я не имею к нему доступа в таком состоянии. На текущий момент только Андрей имеет понимание о проблеме." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7273" />
+        <entry key="ENGLISH" value="7276" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7273" />
+        <entry key="RUSSIAN" value="7276" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
