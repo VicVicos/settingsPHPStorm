@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="MacinCloud.com - Rent a Mac in the Cloud Thank you for using our service. Several important things you need to know: - It is highly recommended that you review the Get Started Guide, FAQ and Knowledge Base on our website www.MacinCloud.com Majority of your questions have already been answered there. Such as: - Not able to connect (check your firewall to make sure port 6000 is not being blocked) - Slow performance (test your network quality using the tools provided on our website. Your &quot;fast&quot; Internet does not guarantee a fast connection with a remote server and the connection quality may also vary) - To change the screen resolution, simply select a different connection file with the proper resolution in the file name (for example, for full HD resolution, double-click the connection file named &quot;MacinCloud_Popup_1920x1080.rdp&quot;. You may also look in the various folder for more connection files fitting your need. - For sound support, use the connection files marked as &quot;withSound&quot; in the &quot;Sound Enabled Connection&quot; folder. - For users who need 4K resolution support, you may purchase 4K addon and utlize the 4K connection files in the &quot;4K Connection&quot; folder. - Video tutorials for common tasks are available on our website. You may also learn from any online tutorials related with using a Mac computer. - If you have questions, simply submit a support ticket on our website, or send an email to support@macincloud.com. Thank you for using our service." />
       <item value="Holds the URL of the Tracker API." />
       <item value="Retrieve the number of posts that not using elementor." />
       <item value="Get non elementor post usages." />
@@ -53,12 +54,11 @@
       <item value="And please add &quot;&quot; in field Server on settings plugin." />
       <item value="I checked your site and i see some problems. Your domain don't approve from side Bidspirit, and please add &quot;&quot; in field Server on settings plugin." />
       <item value="I checked your site and i see some problems." />
-      <item value="Let's hope that the problem will be fixed soon." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7276" />
+        <entry key="ENGLISH" value="7277" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7276" />
+        <entry key="RUSSIAN" value="7277" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
