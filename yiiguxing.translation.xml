@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="clients don't placed on us server" />
+      <item value="clients placed on us server" />
+      <item value="clients when placed on us server" />
+      <item value="Task splited on subtasks" />
+      <item value="Split on subtasks" />
+      <item value="We did estimate for task &quot;Changes in phones&quot;." />
+      <item value="Some auction houses require id and or tax number from a user that wants to participate in their auctions. These requirement may be different if a user is from the same country as the auction house or is from a foreign country, and if the user is a company (i.e. this company field is not empty). use this api when you need to decide which information to force when you collecting information fo the usersupdateDetails api" />
+      <item value="Update hosting clients - 1-hour" />
+      <item value="Code changes and QA - 4 hours Update hosting clients - 1 hour Update plugin client - 1-3 hours" />
+      <item value="Hi, There are few new developments in high priority that we need: Use country code in the phone number: We started to display the phone number in 2 fields: country code and the phone number. The field mobilePhone is going to be deprecated and instead the fields phoneCountryCode + phone need to be used. In order to get all values for phoneCountryCode - use the settingsgetCountriesList. Everything is described in the updated updated API document. Check the updated demo to see how to display and update the phone field In the next phase we will handle phone verification, currently there is no need. Registration per auction with a credit cards: We added an option to register to an auction with a credit card. I made the settings to auction 10 in the QA. You will see that there are 2 new menus for each auction in the admin: Approval requests and Approved participants. Each approved user is added to the Approved participants of the relevant auction. You can find the information in the API document at sections Approval per auction and Working with payment methods. And you can see in the demo the exact implementation. The development should include: A section for the user managing his Payment methods - add and delete (see the demo) When the approval per auction is enabled for a certain auction - add a button to register for the auction. The button opens a registration popup - you can see the implementation in the demo and how we did it in our QA portal. I suggest we will have a short phone call and go over it. Please let me know when you are available." />
       <item value="in Hebrew will look like this" />
       <item value="פתחו את תיבת האוצרות של ההיסטוריה היהודית ופנקו את עצמכם בפיסת היסטוריה." />
       <item value="סיפורים מייצגים" />
@@ -44,21 +54,11 @@
       <item value="We cannot provide support for clients who do not host their site with us, second language support is not the main feature of the plugin. Connecting a second language can cause a lot of problems for which clients do not pay." />
       <item value="Мы не можем оказывать поддержку для клиентов которые не размещают свой сайт у нас, поддержка второго языка не является основной функцией плагина. Подключение второго языка может вызвать множество проблем на решение которых клиенты не платят." />
       <item value="For felimart there is no problem to do this, for other clients there is a difficulty. I will discuss this with the team and let you know how to deal with Giosi and Ansuini" />
-      <item value="Для felimart проблем нет сделать это, для других клиентов есть сложность. Я обсужу это с командой и сообщу как быть с Giosi и Ansuini" />
-      <item value="О каком клиенте сейчас идёт речь?" />
-      <item value="To activate the second language, you need to change the plugin settings. Multilanguage only works with Polylang." />
-      <item value="Для активации второго языка надо изменить настройки плагина. Мультиязычность работает только с Polylang." />
-      <item value="View sheet" />
-      <item value="Bitaon" />
-      <item value="And there is one important point. If synchronization on the server is performed using wp-cron, then users must visit the site, otherwise synchronization will not work. If the client has the ability to set up synchronization using cron from the server side, then we recommend using this synchronization option." />
-      <item value="И есть один важный момент. Если синхронизация на сервере выполняется с помошью wp-cron, то сайт должны посещать пользователи, без этого синхронизация не будет работать. Если клиент имеет возможность настроить синхронизацию с помощью cron со стороны сервера, то мы рекомендуем использовать этот вариант синхронизации." />
-      <item value="Это поведение по умолчанию" />
-      <item value="In the case of already completed auctions, no, they are synchronized once every five days." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7297" />
+        <entry key="ENGLISH" value="7307" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7297" />
+        <entry key="RUSSIAN" value="7307" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
