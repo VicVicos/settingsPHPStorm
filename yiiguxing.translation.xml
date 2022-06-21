@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="in Hebrew will look like this" />
       <item value="פתחו את תיבת האוצרות של ההיסטוריה היהודית ופנקו את עצמכם בפיסת היסטוריה." />
       <item value="סיפורים מייצגים" />
       <item value="Hebrew contacts page" />
@@ -53,12 +54,11 @@
       <item value="И есть один важный момент. Если синхронизация на сервере выполняется с помошью wp-cron, то сайт должны посещать пользователи, без этого синхронизация не будет работать. Если клиент имеет возможность настроить синхронизацию с помощью cron со стороны сервера, то мы рекомендуем использовать этот вариант синхронизации." />
       <item value="Это поведение по умолчанию" />
       <item value="In the case of already completed auctions, no, they are synchronized once every five days." />
-      <item value="В случае с уже завершёнными аукционами нет, они синхронизируются 1 раз в пять дней." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7296" />
+        <entry key="ENGLISH" value="7297" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7296" />
+        <entry key="RUSSIAN" value="7297" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
