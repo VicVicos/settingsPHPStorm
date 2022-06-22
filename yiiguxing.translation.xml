@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Пожалуйста, предоставьте мне ftp доступ к сайту." />
+      <item value="Elementor interrupts the plugin and takes over the page template that is designed for the plugin page." />
+      <item value="Elementor перебивает плагин и забирает на себя шаблон страницы которая расчитана для страницы плагина." />
+      <item value="I see the problem, but haven't figured out how to fix it yet" />
+      <item value="Проблему я вижу, но пока не определил как её исправить" />
+      <item value="You have a lot of links to this site:" />
+      <item value="У вас очень много ссылок на этот сайт:" />
+      <item value="You have very a lot link on this site:" />
+      <item value="You have very a lot" />
+      <item value="Мы рекомендуем включить синхронизацию на стороне сервера с помощью cron." />
+      <item value="We recommend enable sync on server side help cron." />
+      <item value="Today we will start updating the plugin for all clients." />
+      <item value="Сегодня начанём обновлять у всех клиентов плагин." />
       <item value="Phone code" />
       <item value="clients don't placed on us server" />
       <item value="clients placed on us server" />
@@ -41,24 +54,11 @@
       <item value="The keyboard doesn't work. All keystrokes show the cursor as ? sign." />
       <item value="Не работает клавиатура. Все нажатия клавиш показывают курсор в виде ? знака." />
       <item value="MacinCloud.com - Rent a Mac in the Cloud Thank you for using our service. Several important things you need to know: - It is highly recommended that you review the Get Started Guide, FAQ and Knowledge Base on our website www.MacinCloud.com Majority of your questions have already been answered there. Such as: - Not able to connect (check your firewall to make sure port 6000 is not being blocked) - Slow performance (test your network quality using the tools provided on our website. Your &quot;fast&quot; Internet does not guarantee a fast connection with a remote server and the connection quality may also vary) - To change the screen resolution, simply select a different connection file with the proper resolution in the file name (for example, for full HD resolution, double-click the connection file named &quot;MacinCloud_Popup_1920x1080.rdp&quot;. You may also look in the various folder for more connection files fitting your need. - For sound support, use the connection files marked as &quot;withSound&quot; in the &quot;Sound Enabled Connection&quot; folder. - For users who need 4K resolution support, you may purchase 4K addon and utlize the 4K connection files in the &quot;4K Connection&quot; folder. - Video tutorials for common tasks are available on our website. You may also learn from any online tutorials related with using a Mac computer. - If you have questions, simply submit a support ticket on our website, or send an email to support@macincloud.com. Thank you for using our service." />
-      <item value="Holds the URL of the Tracker API." />
-      <item value="Retrieve the number of posts that not using elementor." />
-      <item value="Get non elementor post usages." />
-      <item value="More precisely, I have already made changes and it is necessary to see that there will be no problems with this again." />
-      <item value="Точнее я уже внёс правки и надо посмотреть что с этим не возникнет проблем снова." />
-      <item value="The synchronization process at some point failed in the allotted time of 1 minute and then the synchronization went into delayed mode for 1 hour. This moment was repeated several times. I will review the work of the deferred mode so that such a problem does not arise." />
-      <item value="Процесс синхронизации в какой то момент не справился в отведённые ему время в 1 минуту и дальше синхронизация ушла в отложенный режим на 1 час. Этот момент повторялся несколько раз. Я пересмотрю работу отложенного режима что бы такой проблемы не возникало." />
-      <item value="If they are not in arrears in paying for hosting, I will." />
-      <item value="Если они не имеют просрочек по оплате за хостинг, сделаю." />
-      <item value="I will put the work of connecting a second language for Felimart to the queue for execution." />
-      <item value="Работу по подключении второго языка для Felimart я поставлю в очередь на исполнение." />
-      <item value="We cannot provide support for clients who do not host their site with us, second language support is not the main feature of the plugin. Connecting a second language can cause a lot of problems for which clients do not pay." />
-      <item value="Мы не можем оказывать поддержку для клиентов которые не размещают свой сайт у нас, поддержка второго языка не является основной функцией плагина. Подключение второго языка может вызвать множество проблем на решение которых клиенты не платят." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7308" />
+        <entry key="ENGLISH" value="7316" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7308" />
+        <entry key="RUSSIAN" value="7317" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655450836824" />
+    <option name="lastTrimTime" value="1655894499392" />
   </component>
 </application>
