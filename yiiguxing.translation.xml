@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Please check and update plugin UCO - Auctions to version 1.9.4.12. Bidspirit has made important changes to the APIs we've added in this release." />
       <item value="Bidspirit has made important changes to the APIs we've added in this release." />
       <item value="Bidspirit внёс важные изменения в API которые мы добавили в этой версии." />
       <item value="Please check and update plugin UCO - Auctions to version 1.9.4.12." />
@@ -53,12 +54,11 @@
       <item value="Что нового появилось в этом плане?" />
       <item value="We would like to acknowledge that we have received your support request and a ticket has been created. A support representative will be reviewing your request and respond to you as soon as possible. You can review the status of the ticket by logging in to your portal account, or visit the ticket URL: https:support.macincloud.comsupportticketspublic436e177e53eb951db87a05b44b5149c477d4ecc8421e3e386a6f97386cebccc1 If you have not already provided us detailed descriptions and screenshots of the issue you may be experiencing, please reply to this email with those details and relevant screenshots. This will allow us to better exam the issue and help you promptly. Please make sure to provide the specific server name and user name of your server account, as well as contacting us from the original account owner email to prevent support delays. Here are a few tips for common issues. They maybe helpful for you: 1. New Apple App Store submission requirement starts April 25 (reference: https:developer.apple.comnews?id=5zb13auf). If you need to use Xcode 13.x, you should select a plan with macOS Monterey (12.x). If you have a plan with an earlier macOS, please back up your files using a cloud service such as Dropbox.com, Backup and Sync by Google, or other service such as Git, and obtain a new plan with macOS Monterey. The pricing is outlined here: https:checkout.macincloud.comselectmanaged . If you need help, simply confirm that you wish to switch to a newer macOS once you have completed your backup, and we will issue you a new macOS Monterey plan replacing your existing plan. 2. If you are using Visual Studio for Mac and encountering errors regarding the new Xamarin.iOS requirement for Xcode 13.x. Please review topic 1 discussed above. You will need to switch to a newer macOS. 3. If you are encountering app signing issues related to WWDR Certificates, please contact us with your server and account name for assistance. 4. If you are facing server connection issues, please make sure to submit your support request with your server name, user name, and detailed descriptions of the specific error(s) you are encountering. This allows us to quickly identify your server and help you. Please also make sure that you are not behind a home or office firewall that blocks your remote access. 5. If you have not received any new account email with your server access credentials after purchasing a plan, please first check your email SPAM folder. You may find your new account email there. To explore other solutions, you may also visit our Knowledge Base by clicking HERE. To add comments to this support request, you may simply reply to this email. To view the status of the ticket or add online, please login to our Support Portal using the same email that you created the ticket with, or visit: https:support.macincloud.comsupportticketspublic436e177e53eb951db87a05b44b5149c477d4ecc8421e3e386a6f97386cebccc1 Thank you for your patience." />
       <item value="It is not necessary to remove and disable the old version, just install over the version you have." />
-      <item value="Удалять и отключать старую версию не обязательно, просто установите поверх имеющейся у вас версии." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7319" />
+        <entry key="ENGLISH" value="7320" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7319" />
+        <entry key="RUSSIAN" value="7320" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
