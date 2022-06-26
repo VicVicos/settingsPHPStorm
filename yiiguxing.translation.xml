@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Yes, thank you for understand." />
+      <item value="Thanks for the reminder, we forgot about it. I will raise this issue at the next team call with Andrey." />
+      <item value="Thanks for the reminder, we forgot about it. I will raise this issue at the next phone call with Andrey." />
+      <item value="Спасибо что напомнили, мы забыли об этом. Я подниму этот вопрос на ближайшем созвоне с Андреем." />
+      <item value="You can specify what time zone you live in so that I would not write messages at the wrong time." />
+      <item value="Можно уточнить по какому часовому поясу вы проживаете, что бы я не писал сообщений в не подходящее время." />
       <item value="I completed your solution and fixed the conflict." />
       <item value="Я дополнил ваше решение и устранил конфликт." />
       <item value="Я проверил ваше обращение и выявил конфликт с другим плагином: Ultimate Member." />
@@ -48,17 +54,11 @@
       <item value="Hebrew contacts page" />
       <item value="What you mean describe this issue?" />
       <item value="What you mean" />
-      <item value="Hebrew Label phone" />
-      <item value="He Label phone" />
-      <item value="Ask your hosting UDomain what the spf record should be." />
-      <item value="Ask your hosting mail what the spf record should be." />
-      <item value="Ask your hosting provider what the spf record should be." />
-      <item value="Уточните у хостинг провайдера какая должна быть spf запись." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7326" />
+        <entry key="ENGLISH" value="7330" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7326" />
+        <entry key="RUSSIAN" value="7330" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
