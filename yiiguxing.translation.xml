@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I will pass on the requirements for the task and provide an estimate of the time." />
+      <item value="Я передам требования к задаче и сообщу оценку времени." />
+      <item value="Верно понимаю?" />
+      <item value="The Shop page can show unsold items from recently completed auctions, but those auctions will also show up on the archive page, this is the first group. The second group is auctions that are for direct sales only and this group will not be shown on the archives page." />
+      <item value="Страница Shop может отображаться в себе не проданные лоты с аукционов которые недавно завершены, но эти аукционы так же будут отображаться на странице архива это первая группа. Вторая группа это аукционы которые предназначены только для прямых продаж и эта группа не будет показываться на странице архивов." />
+      <item value="Do you want to display the same auction on both the archives page and the &quot;Store&quot; (Shop) page?" />
+      <item value="Т.е. вы хостите отображать один аукцион и на странице архивов и на странице &quot;Store&quot; (Shop)?" />
+      <item value="Those. you host to display one auction on both the archives page and the &quot;Store&quot; (Shop) page" />
+      <item value="Т.е. вы хостите отображать один аукцион и на странице архивов и на странице &quot;Store&quot; (Shop)" />
       <item value="We have completed the discussion and can offer an option." />
       <item value="Мы завершили обсуждение и можем предложить вариант." />
       <item value="We completed discus and" />
@@ -45,20 +54,11 @@
       <item value="Today we will start updating the plugin for all clients." />
       <item value="Сегодня начанём обновлять у всех клиентов плагин." />
       <item value="Phone code" />
-      <item value="clients don't placed on us server" />
-      <item value="clients placed on us server" />
-      <item value="clients when placed on us server" />
-      <item value="Task splited on subtasks" />
-      <item value="Split on subtasks" />
-      <item value="We did estimate for task &quot;Changes in phones&quot;." />
-      <item value="Some auction houses require id and or tax number from a user that wants to participate in their auctions. These requirement may be different if a user is from the same country as the auction house or is from a foreign country, and if the user is a company (i.e. this company field is not empty). use this api when you need to decide which information to force when you collecting information fo the usersupdateDetails api" />
-      <item value="Update hosting clients - 1-hour" />
-      <item value="Code changes and QA - 4 hours Update hosting clients - 1 hour Update plugin client - 1-3 hours" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7334" />
+        <entry key="ENGLISH" value="7339" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7334" />
+        <entry key="RUSSIAN" value="7339" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
