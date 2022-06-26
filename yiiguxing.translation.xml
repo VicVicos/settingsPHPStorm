@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="I completed your solution and fixed the conflict." />
+      <item value="Я дополнил ваше решение и устранил конфликт." />
+      <item value="Я проверил ваше обращение и выявил конфликт с другим плагином: Ultimate Member." />
       <item value="Stackoverflow link level support." />
       <item value="then the application will have to be finalized." />
       <item value="Stackoverflow link level support. Forced to abandon this product and use another solution to solve problems. The application itself is suitable only for static sites, if something is more complex, then the application will have to be finalized." />
@@ -51,14 +54,11 @@
       <item value="Ask your hosting mail what the spf record should be." />
       <item value="Ask your hosting provider what the spf record should be." />
       <item value="Уточните у хостинг провайдера какая должна быть spf запись." />
-      <item value="несколько дней" />
-      <item value="is More Days" />
-      <item value="as slider" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7324" />
+        <entry key="ENGLISH" value="7326" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7324" />
+        <entry key="RUSSIAN" value="7326" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
