@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Stackoverflow link level support." />
+      <item value="then the application will have to be finalized." />
+      <item value="Stackoverflow link level support. Forced to abandon this product and use another solution to solve problems. The application itself is suitable only for static sites, if something is more complex, then the application will have to be finalized." />
+      <item value="Поддержка уровня ссылки на stackoverflow. Вынуждены отказаться от этого продукта и использовать другое решения для решения задач. Само приложение подходит только для статичных сайтов, если что-то более сложное, то придётся дорабатывать приложение." />
       <item value="עלינו בתקשורת" />
       <item value="This does not seem to be a WordPress installation." />
       <item value="Please check and update plugin UCO - Auctions to version 1.9.4.12. Bidspirit has made important changes to the APIs we've added in this release." />
@@ -50,15 +54,11 @@
       <item value="несколько дней" />
       <item value="is More Days" />
       <item value="as slider" />
-      <item value="Uncomment when Pro uses the new hook." />
-      <item value="We received a message from a Bidpirit Arbel Raz representative that there are problems registering new users in the Google Chrome browser. We will need time to check and find out the reasons." />
-      <item value="Мы получили сообщение от представителя Bidpirit Arbel Raz сообщение о том что есть проблемы при регистрации новых пользователей в браузере Google Chrome. Нам потребуется время на проверку и выяснение причин." />
-      <item value="Что нового появилось в этом плане?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7321" />
+        <entry key="ENGLISH" value="7324" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7321" />
+        <entry key="RUSSIAN" value="7324" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
