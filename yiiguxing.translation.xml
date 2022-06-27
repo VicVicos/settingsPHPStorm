@@ -4,6 +4,26 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="טלפון" />
+      <item value="שם מלא" />
+      <item value="В таком случае только настройки могут влиять на эту ошибку." />
+      <item value="I would not like to climb in your browser." />
+      <item value="Я бы не хотел лазить в вашем браузере." />
+      <item value="Can you find that extension?" />
+      <item value="Can you find it extension?" />
+      <item value="So that the Bidspirit programmer can reproduce this problem and fix this error." />
+      <item value="Что бы программист Bidspirit смог воспроизвести у себя эту проблему и исправить эту ошибку." />
+      <item value="We need a Bidspirit programmer to be able to reproduce this problem and fix this error." />
+      <item value="Нам надо что бы программист Bidspirit смог воспроизвести у себя эту проблему и исправить эту ошибку." />
+      <item value="Надо найти расширение которое вызывает проблему." />
+      <item value="Have you other device where you try login on site?" />
+      <item value="Have you other device where you try login on site" />
+      <item value="Have you other device when you try login on site" />
+      <item value="We've seen this issue before but can't figure out why it's happening in the Chrome browser and coming from Bidspirit. I logged in without any problems." />
+      <item value="Мы уже встречали эту проблему, но не можем понять из-за чего это происходит в браузере Chrome и исходит от Bidspirit. Я без проблем авторизовался." />
+      <item value="We have already met this problem, but we cannot understand why this is happening in the Chrome browser, since I logged in without any problems." />
+      <item value="Мы уже встречали эту проблему, но не можем понять из за чего жто происходит в браузере Chrome, так как я без проблем авторизовался." />
+      <item value="Hello! Can you try in other browser - Firefox?" />
       <item value="I will pass on the requirements for the task and provide an estimate of the time." />
       <item value="Я передам требования к задаче и сообщу оценку времени." />
       <item value="Верно понимаю?" />
@@ -34,31 +54,11 @@
       <item value="Stackoverflow link level support. Forced to abandon this product and use another solution to solve problems. The application itself is suitable only for static sites, if something is more complex, then the application will have to be finalized." />
       <item value="Поддержка уровня ссылки на stackoverflow. Вынуждены отказаться от этого продукта и использовать другое решения для решения задач. Само приложение подходит только для статичных сайтов, если что-то более сложное, то придётся дорабатывать приложение." />
       <item value="עלינו בתקשורת" />
-      <item value="This does not seem to be a WordPress installation." />
-      <item value="Please check and update plugin UCO - Auctions to version 1.9.4.12. Bidspirit has made important changes to the APIs we've added in this release." />
-      <item value="Bidspirit has made important changes to the APIs we've added in this release." />
-      <item value="Bidspirit внёс важные изменения в API которые мы добавили в этой версии." />
-      <item value="Please check and update plugin UCO - Auctions to version 1.9.4.12." />
-      <item value="Please check and update plugin UCO - Auctions from version 1.9.4.12." />
-      <item value="Пожалуйста, предоставьте мне ftp доступ к сайту." />
-      <item value="Elementor interrupts the plugin and takes over the page template that is designed for the plugin page." />
-      <item value="Elementor перебивает плагин и забирает на себя шаблон страницы которая расчитана для страницы плагина." />
-      <item value="I see the problem, but haven't figured out how to fix it yet" />
-      <item value="Проблему я вижу, но пока не определил как её исправить" />
-      <item value="You have a lot of links to this site:" />
-      <item value="У вас очень много ссылок на этот сайт:" />
-      <item value="You have very a lot link on this site:" />
-      <item value="You have very a lot" />
-      <item value="Мы рекомендуем включить синхронизацию на стороне сервера с помощью cron." />
-      <item value="We recommend enable sync on server side help cron." />
-      <item value="Today we will start updating the plugin for all clients." />
-      <item value="Сегодня начанём обновлять у всех клиентов плагин." />
-      <item value="Phone code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7339" />
+        <entry key="ENGLISH" value="7352" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7339" />
+        <entry key="RUSSIAN" value="7352" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -91,7 +91,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="7" />
-        <entry key="HEBREW" value="201" />
+        <entry key="HEBREW" value="203" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655894499392" />
+    <option name="lastTrimTime" value="1656328782786" />
   </component>
 </application>
