@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Если найдётся клиент имеющий версию плагина меньше 1.8.5.5" />
+      <item value="Точно знаю что надо проверить для heartlandartifacts.com." />
+      <item value="Starting July 4, support for some APIs in Bidspirit will be discontinued." />
+      <item value="С 4 июля будет прекращена поддержка некоторых API в Bidspirit." />
+      <item value="It is important to check the plugin version and update to the latest 1.9.4.12 for clients that are not hosted on our server." />
+      <item value="Важно проверить версию плагина и обновить до последней 1.9.4.12 у клиентов которые не размещены у нас на сервере." />
+      <item value="Сообщите нам когда мы сможем продолжить с решением проблемы возникшей на вашем сайте." />
+      <item value="Hello! Support for the old API will stop working on July 4th. Please update to the latest plugin version 1.9.4.12 from your site's admin panel." />
+      <item value="Please update to the latest plugin version 1.9.4.12 from your site's admin panel." />
+      <item value="Пожалуйста обновитесь до последней версии плагина 1.9.4.12 из админ панели вашего сайта." />
+      <item value="Support for the old API will stop working on July 4th." />
+      <item value="Поддержка работы старого API перестанет работать 4 июля." />
       <item value="Вы сменили NS записи?" />
       <item value="Should highlights be displayed from this auction?" />
       <item value="Хайлайты должны отображаться их этого аукциона?" />
@@ -42,23 +54,11 @@
       <item value="We have completed the discussion and can offer an option." />
       <item value="Мы завершили обсуждение и можем предложить вариант." />
       <item value="We completed discus and" />
-      <item value="On Bidspirit, this will be a past auction with the post sale option active." />
-      <item value="На Bidspirit это будет уже прошедший аукцион у которого активна опция пост продажа." />
-      <item value="We can make a separate page for auctions that will be displayed as a store." />
-      <item value="Мы можем сделать отдельную страницу для аукционов которые будем отображаться как магазин." />
-      <item value="Yes, thank you for understand." />
-      <item value="Thanks for the reminder, we forgot about it. I will raise this issue at the next team call with Andrey." />
-      <item value="Thanks for the reminder, we forgot about it. I will raise this issue at the next phone call with Andrey." />
-      <item value="Спасибо что напомнили, мы забыли об этом. Я подниму этот вопрос на ближайшем созвоне с Андреем." />
-      <item value="You can specify what time zone you live in so that I would not write messages at the wrong time." />
-      <item value="Можно уточнить по какому часовому поясу вы проживаете, что бы я не писал сообщений в не подходящее время." />
-      <item value="I completed your solution and fixed the conflict." />
-      <item value="Я дополнил ваше решение и устранил конфликт." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7356" />
+        <entry key="ENGLISH" value="7365" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7357" />
+        <entry key="RUSSIAN" value="7366" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
