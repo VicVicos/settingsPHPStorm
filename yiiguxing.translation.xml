@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="redirectos" />
       <item value="Если найдётся клиент имеющий версию плагина меньше 1.8.5.5" />
       <item value="Точно знаю что надо проверить для heartlandartifacts.com." />
       <item value="Starting July 4, support for some APIs in Bidspirit will be discontinued." />
@@ -53,7 +54,6 @@
       <item value="Т.е. вы хостите отображать один аукцион и на странице архивов и на странице &quot;Store&quot; (Shop)" />
       <item value="We have completed the discussion and can offer an option." />
       <item value="Мы завершили обсуждение и можем предложить вариант." />
-      <item value="We completed discus and" />
     </histories>
     <option name="languageScores">
       <map>
@@ -90,7 +90,7 @@
         <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
-        <entry key="SPANISH" value="7" />
+        <entry key="SPANISH" value="8" />
         <entry key="HEBREW" value="203" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
