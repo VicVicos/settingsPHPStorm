@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="And approve time on 4 hour." />
+      <item value="I want approve url structure for redirect links" />
       <item value="redirectos" />
       <item value="Если найдётся клиент имеющий версию плагина меньше 1.8.5.5" />
       <item value="Точно знаю что надо проверить для heartlandartifacts.com." />
@@ -52,13 +54,11 @@
       <item value="Т.е. вы хостите отображать один аукцион и на странице архивов и на странице &quot;Store&quot; (Shop)?" />
       <item value="Those. you host to display one auction on both the archives page and the &quot;Store&quot; (Shop) page" />
       <item value="Т.е. вы хостите отображать один аукцион и на странице архивов и на странице &quot;Store&quot; (Shop)" />
-      <item value="We have completed the discussion and can offer an option." />
-      <item value="Мы завершили обсуждение и можем предложить вариант." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7365" />
+        <entry key="ENGLISH" value="7367" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7366" />
+        <entry key="RUSSIAN" value="7367" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
