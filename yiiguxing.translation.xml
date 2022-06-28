@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="You have published a duplicate of the main page. I copied the element and moved it to the main main." />
+      <item value="Вы опубликовали дубль главной страницы. Я скопировал элемент и перенёс на основную главную." />
+      <item value="Я помогу вам" />
       <item value="processing" />
       <item value="обработка" />
       <item value="Probably some chrome extensions, try to disable extensions." />
@@ -52,14 +55,11 @@
       <item value="Что бы программист Bidspirit смог воспроизвести у себя эту проблему и исправить эту ошибку." />
       <item value="We need a Bidspirit programmer to be able to reproduce this problem and fix this error." />
       <item value="Нам надо что бы программист Bidspirit смог воспроизвести у себя эту проблему и исправить эту ошибку." />
-      <item value="Надо найти расширение которое вызывает проблему." />
-      <item value="Have you other device where you try login on site?" />
-      <item value="Have you other device where you try login on site" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7378" />
+        <entry key="ENGLISH" value="7380" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7378" />
+        <entry key="RUSSIAN" value="7380" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
