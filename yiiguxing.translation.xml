@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="Probably some chrome extensions, try to disable extensions." />
+      <item value="Probably some chrome extensions, try to disable extensions.ф" />
+      <item value="When a customer makes a bet, the condition is accepted in conjunction with clicking the &quot;I Agree&quot; button." />
+      <item value="Когда клиент делает ставки, то условие принимается совместно с нажатием кнопки &quot;I Agree&quot;." />
+      <item value="On the site, we do not ask you to accept the Terms &amp; Conditions twice." />
+      <item value="When registering, we ask you to accept the consent to the processing of personal data." />
+      <item value="When a client makes a bid, there is a condition along with clicking the &quot;I Agree&quot; button." />
+      <item value="On the site, we do not ask client to accept the Terms &amp; Conditions twice. When registering, we ask you to accept the consent to the processing of personal data. When a client makes a bid, there is a condition along with clicking the &quot;I Agree&quot; button." />
+      <item value="On the site, we do not ask you to accept the Terms &amp; Conditions twice. When registering, we ask you to accept the consent to the processing of personal data. When a client makes a bid, there is a condition along with clicking the &quot;I Agree&quot; button." />
+      <item value="На сайте мы не просим принимать Terms &amp; Conditions дважды. При регистрации мы просим принять согласие обработкой персональных данных. Когда клиент делает ставки, то там идёт условие совместно с нажатием кнопки &quot;I Agree&quot;" />
+      <item value="We would like to clarify exactly where the problem occurs for customers. Can you record a video?" />
+      <item value="Мы бы хотели уточнить где именно возникает проблема у клиентов. Вы можете записать видео?" />
+      <item value="Ask client to send video" />
       <item value="And approve time on 4 hour." />
       <item value="I want approve url structure for redirect links" />
       <item value="redirectos" />
@@ -41,24 +54,11 @@
       <item value="Have you other device where you try login on site" />
       <item value="Have you other device when you try login on site" />
       <item value="We've seen this issue before but can't figure out why it's happening in the Chrome browser and coming from Bidspirit. I logged in without any problems." />
-      <item value="Мы уже встречали эту проблему, но не можем понять из-за чего это происходит в браузере Chrome и исходит от Bidspirit. Я без проблем авторизовался." />
-      <item value="We have already met this problem, but we cannot understand why this is happening in the Chrome browser, since I logged in without any problems." />
-      <item value="Мы уже встречали эту проблему, но не можем понять из за чего жто происходит в браузере Chrome, так как я без проблем авторизовался." />
-      <item value="Hello! Can you try in other browser - Firefox?" />
-      <item value="I will pass on the requirements for the task and provide an estimate of the time." />
-      <item value="Я передам требования к задаче и сообщу оценку времени." />
-      <item value="Верно понимаю?" />
-      <item value="The Shop page can show unsold items from recently completed auctions, but those auctions will also show up on the archive page, this is the first group. The second group is auctions that are for direct sales only and this group will not be shown on the archives page." />
-      <item value="Страница Shop может отображаться в себе не проданные лоты с аукционов которые недавно завершены, но эти аукционы так же будут отображаться на странице архива это первая группа. Вторая группа это аукционы которые предназначены только для прямых продаж и эта группа не будет показываться на странице архивов." />
-      <item value="Do you want to display the same auction on both the archives page and the &quot;Store&quot; (Shop) page?" />
-      <item value="Т.е. вы хостите отображать один аукцион и на странице архивов и на странице &quot;Store&quot; (Shop)?" />
-      <item value="Those. you host to display one auction on both the archives page and the &quot;Store&quot; (Shop) page" />
-      <item value="Т.е. вы хостите отображать один аукцион и на странице архивов и на странице &quot;Store&quot; (Shop)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7367" />
+        <entry key="ENGLISH" value="7377" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7367" />
+        <entry key="RUSSIAN" value="7376" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
