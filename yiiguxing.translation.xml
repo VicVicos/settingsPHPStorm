@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="processing" />
+      <item value="обработка" />
       <item value="Probably some chrome extensions, try to disable extensions." />
       <item value="Probably some chrome extensions, try to disable extensions.ф" />
       <item value="When a customer makes a bet, the condition is accepted in conjunction with clicking the &quot;I Agree&quot; button." />
@@ -52,13 +55,11 @@
       <item value="Надо найти расширение которое вызывает проблему." />
       <item value="Have you other device where you try login on site?" />
       <item value="Have you other device where you try login on site" />
-      <item value="Have you other device when you try login on site" />
-      <item value="We've seen this issue before but can't figure out why it's happening in the Chrome browser and coming from Bidspirit. I logged in without any problems." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7377" />
+        <entry key="ENGLISH" value="7378" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -66,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7376" />
+        <entry key="RUSSIAN" value="7378" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
