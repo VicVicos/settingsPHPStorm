@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bidspirit redirect links" />
       <item value="rewrite rules" />
       <item value="referal link" />
       <item value="referer link" />
@@ -54,12 +55,11 @@
       <item value="Я бы не хотел лазить в вашем браузере." />
       <item value="Can you find that extension?" />
       <item value="Can you find it extension?" />
-      <item value="So that the Bidspirit programmer can reproduce this problem and fix this error." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7382" />
+        <entry key="ENGLISH" value="7383" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7382" />
+        <entry key="RUSSIAN" value="7383" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
