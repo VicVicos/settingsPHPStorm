@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rewrite rules" />
       <item value="referal link" />
       <item value="referer link" />
       <item value="You have published a duplicate of the main page. I copied the element and moved it to the main main." />
@@ -54,12 +55,11 @@
       <item value="Can you find that extension?" />
       <item value="Can you find it extension?" />
       <item value="So that the Bidspirit programmer can reproduce this problem and fix this error." />
-      <item value="Что бы программист Bidspirit смог воспроизвести у себя эту проблему и исправить эту ошибку." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7381" />
+        <entry key="ENGLISH" value="7382" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7381" />
+        <entry key="RUSSIAN" value="7382" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
