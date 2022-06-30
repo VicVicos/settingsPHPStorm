@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I also will check this point from our side." />
+      <item value="When changing the cnd server, the lastUpdate field is updated? I will check this point from our side." />
+      <item value="Я проверю этот момент с нашей стороны." />
+      <item value="When changing the cnd server, the lastUpdate field is updated?" />
+      <item value="При смене cnd сервера происходит обновление поля lastUpdate?" />
       <item value="Improved UI for sync process" />
       <item value="Improved UI" />
       <item value="UI Improved" />
@@ -50,16 +55,11 @@
       <item value="Точно знаю что надо проверить для heartlandartifacts.com." />
       <item value="Starting July 4, support for some APIs in Bidspirit will be discontinued." />
       <item value="С 4 июля будет прекращена поддержка некоторых API в Bidspirit." />
-      <item value="It is important to check the plugin version and update to the latest 1.9.4.12 for clients that are not hosted on our server." />
-      <item value="Важно проверить версию плагина и обновить до последней 1.9.4.12 у клиентов которые не размещены у нас на сервере." />
-      <item value="Сообщите нам когда мы сможем продолжить с решением проблемы возникшей на вашем сайте." />
-      <item value="Hello! Support for the old API will stop working on July 4th. Please update to the latest plugin version 1.9.4.12 from your site's admin panel." />
-      <item value="Please update to the latest plugin version 1.9.4.12 from your site's admin panel." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7395" />
+        <entry key="ENGLISH" value="7398" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7395" />
+        <entry key="RUSSIAN" value="7398" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
