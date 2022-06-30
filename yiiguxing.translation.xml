@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No. We still have not made a description of these functions in the user manual." />
+      <item value="Нет. Описание этих функций в инструкции пользователя мы всё ещё не сделали." />
+      <item value="И аналогичный шорткод для формы авторизации" />
+      <item value="And there is a similar shortcode for the authorization form" />
+      <item value="И существует аналогичный шорткод для формы авторизации" />
+      <item value="They can use the [bp_register_form] shortcode when creating a landing page." />
+      <item value="They can use the [bp_register_form] shortcode when creating a single page." />
+      <item value="Они могут использовать shortcode [bp_register_form] при создании отдельной страницы." />
+      <item value="We need to make a separate page with the registration form and change the link in the site header to this page. Right?" />
+      <item value="Нам надо сделать отдельную страницу с формой регистрации и изменить ссылку в шапке сайта на эту страницу. Верно?" />
       <item value="Bidspirit redirect links" />
       <item value="rewrite rules" />
       <item value="referal link" />
@@ -45,21 +55,11 @@
       <item value="Вы сменили NS записи?" />
       <item value="Should highlights be displayed from this auction?" />
       <item value="Хайлайты должны отображаться их этого аукциона?" />
-      <item value="Hailights must be display from this auction?" />
-      <item value="Hailights can be display from this auction?" />
-      <item value="That's all, stop editing! Happy publishing." />
-      <item value="טלפון" />
-      <item value="שם מלא" />
-      <item value="В таком случае только настройки могут влиять на эту ошибку." />
-      <item value="I would not like to climb in your browser." />
-      <item value="Я бы не хотел лазить в вашем браузере." />
-      <item value="Can you find that extension?" />
-      <item value="Can you find it extension?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7383" />
+        <entry key="ENGLISH" value="7389" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7383" />
+        <entry key="RUSSIAN" value="7389" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
