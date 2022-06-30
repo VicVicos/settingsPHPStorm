@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Meta Migrate" />
+      <item value="meta migrate" />
+      <item value="migrate Meta" />
       <item value="No. We still have not made a description of these functions in the user manual." />
       <item value="Нет. Описание этих функций в инструкции пользователя мы всё ещё не сделали." />
       <item value="И аналогичный шорткод для формы авторизации" />
@@ -52,14 +55,11 @@
       <item value="Пожалуйста обновитесь до последней версии плагина 1.9.4.12 из админ панели вашего сайта." />
       <item value="Support for the old API will stop working on July 4th." />
       <item value="Поддержка работы старого API перестанет работать 4 июля." />
-      <item value="Вы сменили NS записи?" />
-      <item value="Should highlights be displayed from this auction?" />
-      <item value="Хайлайты должны отображаться их этого аукциона?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7389" />
+        <entry key="ENGLISH" value="7392" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7389" />
+        <entry key="RUSSIAN" value="7392" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
