@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Something went wrong" />
+      <item value="אופס" />
       <item value="Возможно вы уже отправляли запрос или его не приняли." />
       <item value="Ваш запрос успешно отправлен." />
       <item value="You request send success" />
@@ -53,13 +55,11 @@
       <item value="Ask client to send video" />
       <item value="And approve time on 4 hour." />
       <item value="I want approve url structure for redirect links" />
-      <item value="redirectos" />
-      <item value="Если найдётся клиент имеющий версию плагина меньше 1.8.5.5" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7400" />
+        <entry key="ENGLISH" value="7402" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7401" />
+        <entry key="RUSSIAN" value="7402" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -92,7 +92,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="8" />
-        <entry key="HEBREW" value="203" />
+        <entry key="HEBREW" value="204" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
