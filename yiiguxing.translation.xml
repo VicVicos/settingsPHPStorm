@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Планирование" />
       <item value="Something went wrong" />
       <item value="אופס" />
       <item value="Возможно вы уже отправляли запрос или его не приняли." />
@@ -54,7 +55,6 @@
       <item value="Мы бы хотели уточнить где именно возникает проблема у клиентов. Вы можете записать видео?" />
       <item value="Ask client to send video" />
       <item value="And approve time on 4 hour." />
-      <item value="I want approve url structure for redirect links" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7402" />
+        <entry key="RUSSIAN" value="7403" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
