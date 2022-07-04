@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="should be sanitized" />
       <item value="We will investigate this issue and fix it in one of the next plugin updates." />
       <item value="I changed the sync settings and this problem should not occur." />
       <item value="Я изменил настройки синхронизации и подобная проблема не должна будет возникать." />
@@ -54,12 +55,11 @@
       <item value="On the site, we do not ask you to accept the Terms &amp; Conditions twice." />
       <item value="When registering, we ask you to accept the consent to the processing of personal data." />
       <item value="When a client makes a bid, there is a condition along with clicking the &quot;I Agree&quot; button." />
-      <item value="On the site, we do not ask client to accept the Terms &amp; Conditions twice. When registering, we ask you to accept the consent to the processing of personal data. When a client makes a bid, there is a condition along with clicking the &quot;I Agree&quot; button." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7408" />
+        <entry key="ENGLISH" value="7409" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7408" />
+        <entry key="RUSSIAN" value="7409" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
