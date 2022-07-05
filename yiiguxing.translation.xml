@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="На портале я также получаю ошибку. Я так понимаю что это и есть обновление работы с API которое надо доработать в плагине. Как мне разрешить ставки для пользователей на портале?" />
+      <item value="2) Так же я пытался сделать ставки пользователем на demo сайте, но получил ответ" />
+      <item value="1) The user adds a payment method on the demo page, but there is no such payment method on the portal profile. Similarly, if a user adds a payment method on the Bidspirit portal, then it does not appear on the site." />
+      <item value="Bidspirit portal" />
+      <item value="I was trying to figure out the API and the task &quot;Credit card approval to auction&quot; and ran into a number of problems. Checked on the demo page. 1) The user adds a payment method on the demo page, but there is no such payment method on the portal profile. Similarly, if a user adds a payment method on the portal, then it does not appear on the site." />
+      <item value="Я пытался разобраться с API и задачей &quot;Сredit card approval to auction&quot; и столкнулся с рядом проблем. Проверял на demo странице. 1) Пользователь добавляет способ оплаты на demo странице, но на портале в профиле этого способа оплаты нет. Аналогично если пользователь добавит способ оплаты на портале, то на сайте он не появляется." />
+      <item value="Сredit card approval to auction" />
       <item value="Fix indexes created" />
       <item value="Fix index created" />
       <item value="Fix created indexes" />
@@ -48,18 +55,11 @@
       <item value="And there is a similar shortcode for the authorization form" />
       <item value="И существует аналогичный шорткод для формы авторизации" />
       <item value="They can use the [bp_register_form] shortcode when creating a landing page." />
-      <item value="They can use the [bp_register_form] shortcode when creating a single page." />
-      <item value="Они могут использовать shortcode [bp_register_form] при создании отдельной страницы." />
-      <item value="We need to make a separate page with the registration form and change the link in the site header to this page. Right?" />
-      <item value="Нам надо сделать отдельную страницу с формой регистрации и изменить ссылку в шапке сайта на эту страницу. Верно?" />
-      <item value="Bidspirit redirect links" />
-      <item value="rewrite rules" />
-      <item value="referal link" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7420" />
+        <entry key="ENGLISH" value="7425" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7420" />
+        <entry key="RUSSIAN" value="7426" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
