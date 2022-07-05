@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Placing absentee bids is done with the itemsplaceBid api. On a successful attempt the response will also include an indication if the new absentee bid is also the current leading bid or not." />
+      <item value="Bidspirit users should manager their payment methods in the portal" />
+      <item value="Removes a user payment method. NOTE! if a user used a payment method to get approval for an auction his approval would be canceled. the user should be warned about this before he proceeds with the payment method deletion. Also - a user cannot remove his payment method if he has unpaid bills." />
+      <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
       <item value="для вызова нужной формы" />
       <item value="Hello, Can we continue working with your site?" />
       <item value="Could you clarify how things are with the installation of the plugin at the Ma San client, they have not responded to us for quite some time." />
@@ -51,15 +55,11 @@
       <item value="Вы опубликовали дубль главной страницы. Я скопировал элемент и перенёс на основную главную." />
       <item value="Я помогу вам" />
       <item value="processing" />
-      <item value="обработка" />
-      <item value="Probably some chrome extensions, try to disable extensions." />
-      <item value="Probably some chrome extensions, try to disable extensions.ф" />
-      <item value="When a customer makes a bet, the condition is accepted in conjunction with clicking the &quot;I Agree&quot; button." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7411" />
+        <entry key="ENGLISH" value="7415" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7412" />
+        <entry key="RUSSIAN" value="7415" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
