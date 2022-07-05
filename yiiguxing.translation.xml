@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ok. Then it's okay." />
+      <item value="Тогда это нормально." />
       <item value="На портале я также получаю ошибку. Я так понимаю что это и есть обновление работы с API которое надо доработать в плагине. Как мне разрешить ставки для пользователей на портале?" />
       <item value="2) Так же я пытался сделать ставки пользователем на demo сайте, но получил ответ" />
       <item value="1) The user adds a payment method on the demo page, but there is no such payment method on the portal profile. Similarly, if a user adds a payment method on the Bidspirit portal, then it does not appear on the site." />
@@ -53,13 +55,11 @@
       <item value="Нет. Описание этих функций в инструкции пользователя мы всё ещё не сделали." />
       <item value="И аналогичный шорткод для формы авторизации" />
       <item value="And there is a similar shortcode for the authorization form" />
-      <item value="И существует аналогичный шорткод для формы авторизации" />
-      <item value="They can use the [bp_register_form] shortcode when creating a landing page." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7425" />
+        <entry key="ENGLISH" value="7427" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7426" />
+        <entry key="RUSSIAN" value="7427" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
