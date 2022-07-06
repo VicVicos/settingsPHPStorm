@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Check it in admin panel" />
       <item value="This browser uses the Chrome engine and can be downloaded from this link." />
       <item value="Этот браузер использует движок Chrome и скачать его можно по этой ссылке." />
       <item value="I understood why this situation should not have arisen." />
@@ -54,12 +55,11 @@
       <item value="Мы изучим возникновение этой проблемы и решим её в одном из следующих обновлений плагина." />
       <item value="I changed the sync settings and this problem will not occur." />
       <item value="Исправлено! Я изменил настройки синхронизации и подобная проблема не будет возникать. Мы изучим возникновение этой проблемы и решим её в одном из следующих обновлений плагина." />
-      <item value="Планирование" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7443" />
+        <entry key="ENGLISH" value="7444" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7443" />
+        <entry key="RUSSIAN" value="7444" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
