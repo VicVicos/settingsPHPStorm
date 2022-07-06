@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I understood why this situation should not have arisen." />
+      <item value="Я понял почему такой ситуации не должно было возникнуть." />
+      <item value="This is related to this point that was discussed yesterday." />
+      <item value="Это связано с этим моментом что обсуждали вчера." />
+      <item value="a) Adding the user's credit cards to the profile. - 8 hours." />
+      <item value="b) Changes in the work of bids, with user approved. Now nothing happens if the user not approved places a bet. - 1 hour." />
+      <item value="b) Changes in the work of rates, with user approved. Now nothing happens if the user not approved places a bet. - 1 hour." />
+      <item value="with user approved" />
+      <item value="user approved" />
+      <item value="b) Changes in the work of rates, with user confirmation. Now nothing happens if the user places a bet." />
+      <item value="Сейчас не происходит ни чего если пользователь делает ставку." />
+      <item value="Changes in the work of rates, without user confirmation." />
+      <item value="Changes in the work of rates, without user confirmation in the Bidspirit admin panel, it is now impossible to place a bet." />
+      <item value="Тестирование и отладка." />
+      <item value="Изменения в работе ставок, без подтверждения пользователя в админке Bidspirit, ставку сделать теперь нельзя." />
+      <item value="Adding the user's credit cards to the profile." />
+      <item value="часов" />
+      <item value="Добавление кредитных карт пользователя в профиле." />
       <item value="Ok. Then it's okay." />
       <item value="Тогда это нормально." />
       <item value="На портале я также получаю ошибку. Я так понимаю что это и есть обновление работы с API которое надо доработать в плагине. Как мне разрешить ставки для пользователей на портале?" />
@@ -37,29 +55,11 @@
       <item value="Планирование" />
       <item value="Something went wrong" />
       <item value="אופס" />
-      <item value="Возможно вы уже отправляли запрос или его не приняли." />
-      <item value="Ваш запрос успешно отправлен." />
-      <item value="You request send success" />
-      <item value="I also will check this point from our side." />
-      <item value="When changing the cnd server, the lastUpdate field is updated? I will check this point from our side." />
-      <item value="Я проверю этот момент с нашей стороны." />
-      <item value="When changing the cnd server, the lastUpdate field is updated?" />
-      <item value="При смене cnd сервера происходит обновление поля lastUpdate?" />
-      <item value="Improved UI for sync process" />
-      <item value="Improved UI" />
-      <item value="UI Improved" />
-      <item value="Meta Migrate" />
-      <item value="meta migrate" />
-      <item value="migrate Meta" />
-      <item value="No. We still have not made a description of these functions in the user manual." />
-      <item value="Нет. Описание этих функций в инструкции пользователя мы всё ещё не сделали." />
-      <item value="И аналогичный шорткод для формы авторизации" />
-      <item value="And there is a similar shortcode for the authorization form" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7427" />
+        <entry key="ENGLISH" value="7442" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7427" />
+        <entry key="RUSSIAN" value="7442" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
