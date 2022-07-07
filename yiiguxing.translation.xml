@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Мета данные не сохранились" />
+      <item value="Meta data will not saved" />
       <item value="Isset" />
       <item value="is Isset Row" />
       <item value="Check it in admin panel" />
@@ -53,13 +55,11 @@
       <item value="should be sanitized" />
       <item value="We will investigate this issue and fix it in one of the next plugin updates." />
       <item value="I changed the sync settings and this problem should not occur." />
-      <item value="Я изменил настройки синхронизации и подобная проблема не должна будет возникать." />
-      <item value="Мы изучим возникновение этой проблемы и решим её в одном из следующих обновлений плагина." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7446" />
+        <entry key="ENGLISH" value="7447" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7446" />
+        <entry key="RUSSIAN" value="7448" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
