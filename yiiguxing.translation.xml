@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cleaner" />
+      <item value="suppress filters" />
       <item value="bids Pirit" />
       <item value="bid Spirit" />
       <item value="featured" />
@@ -53,13 +55,11 @@
       <item value="Fix created indexes" />
       <item value="Probably tasks will be displayed hour after sync, please add manual time after." />
       <item value="DESCRIBE IF;" />
-      <item value="Placing absentee bids is done with the itemsplaceBid api. On a successful attempt the response will also include an indication if the new absentee bid is also the current leading bid or not." />
-      <item value="Bidspirit users should manager their payment methods in the portal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7456" />
+        <entry key="ENGLISH" value="7458" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7456" />
+        <entry key="RUSSIAN" value="7458" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
