@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="featured" />
+      <item value="feature" />
       <item value="No need, already spoke with client" />
       <item value="Ok. We already talked about the store." />
       <item value="OK. We already talked about the store." />
@@ -53,13 +55,11 @@
       <item value="Bidspirit users should manager their payment methods in the portal" />
       <item value="Removes a user payment method. NOTE! if a user used a payment method to get approval for an auction his approval would be canceled. the user should be warned about this before he proceeds with the payment method deletion. Also - a user cannot remove his payment method if he has unpaid bills." />
       <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
-      <item value="для вызова нужной формы" />
-      <item value="Hello, Can we continue working with your site?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7452" />
+        <entry key="ENGLISH" value="7454" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7452" />
+        <entry key="RUSSIAN" value="7454" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -101,6 +101,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656862573411" />
+    <option name="lastTrimTime" value="1657447853047" />
   </component>
 </application>
