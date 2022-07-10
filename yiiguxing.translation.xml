@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bids Pirit" />
+      <item value="bid Spirit" />
       <item value="featured" />
       <item value="feature" />
       <item value="No need, already spoke with client" />
@@ -53,13 +55,11 @@
       <item value="DESCRIBE IF;" />
       <item value="Placing absentee bids is done with the itemsplaceBid api. On a successful attempt the response will also include an indication if the new absentee bid is also the current leading bid or not." />
       <item value="Bidspirit users should manager their payment methods in the portal" />
-      <item value="Removes a user payment method. NOTE! if a user used a payment method to get approval for an auction his approval would be canceled. the user should be warned about this before he proceeds with the payment method deletion. Also - a user cannot remove his payment method if he has unpaid bills." />
-      <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7454" />
+        <entry key="ENGLISH" value="7456" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7454" />
+        <entry key="RUSSIAN" value="7456" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
