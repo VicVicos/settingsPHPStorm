@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="table per object" />
       <item value="tabel per object" />
       <item value="cleaner" />
       <item value="suppress filters" />
@@ -54,12 +55,11 @@
       <item value="Fix indexes created" />
       <item value="Fix index created" />
       <item value="Fix created indexes" />
-      <item value="Probably tasks will be displayed hour after sync, please add manual time after." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7458" />
+        <entry key="ENGLISH" value="7459" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
