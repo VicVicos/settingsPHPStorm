@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tabel per object" />
       <item value="cleaner" />
       <item value="suppress filters" />
       <item value="bids Pirit" />
@@ -54,7 +55,6 @@
       <item value="Fix index created" />
       <item value="Fix created indexes" />
       <item value="Probably tasks will be displayed hour after sync, please add manual time after." />
-      <item value="DESCRIBE IF;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,12 +67,12 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7458" />
+        <entry key="RUSSIAN" value="7459" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
-        <entry key="DUTCH" value="3" />
+        <entry key="DUTCH" value="4" />
         <entry key="CATALAN" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="2" />
