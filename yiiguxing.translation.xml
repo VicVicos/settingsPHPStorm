@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="их домен" />
       <item value="Пользователи Bidspirit не хранятся на сайте." />
       <item value="But maybe you mean users registered with Bidspirit?" />
       <item value="Но может вы имеете в виду пользователей зерегестрированных в Bidspirit?" />
@@ -54,12 +55,11 @@
       <item value="Добавление кредитных карт пользователя в профиле." />
       <item value="Ok. Then it's okay." />
       <item value="Тогда это нормально." />
-      <item value="На портале я также получаю ошибку. Я так понимаю что это и есть обновление работы с API которое надо доработать в плагине. Как мне разрешить ставки для пользователей на портале?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7465" />
+        <entry key="ENGLISH" value="7466" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7466" />
+        <entry key="RUSSIAN" value="7467" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
