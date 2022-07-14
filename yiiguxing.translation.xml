@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="prepare a &lt;form id=&quot;stripePaymentElement&quot;&gt;&lt;form&gt; element in your html. also include a button that will submit the credit card, something like:" />
+      <item value="use something like the following code to create the credit card form:" />
+      <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
       <item value="перебор всех постов" />
       <item value="create Bp Meta Table Indexes" />
       <item value="Another page with a similar name was installed there. It confused me a lot too. I would delete those blank pages." />
@@ -52,14 +55,11 @@
       <item value="b) Changes in the work of rates, with user confirmation. Now nothing happens if the user places a bet." />
       <item value="Сейчас не происходит ни чего если пользователь делает ставку." />
       <item value="Changes in the work of rates, without user confirmation." />
-      <item value="Changes in the work of rates, without user confirmation in the Bidspirit admin panel, it is now impossible to place a bet." />
-      <item value="Тестирование и отладка." />
-      <item value="Изменения в работе ставок, без подтверждения пользователя в админке Bidspirit, ставку сделать теперь нельзя." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7470" />
+        <entry key="ENGLISH" value="7473" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7471" />
+        <entry key="RUSSIAN" value="7473" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
