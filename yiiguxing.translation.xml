@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="תודה! ההודעה נשלחה." />
+      <item value="תודה! ההודעה נשלחה.'" />
+      <item value="שלח" />
+      <item value="I confirm receipt of advertising materials by email or SMS" />
+      <item value="הנני מאשר קבלת חומרים פרסומיים במייל או ב- SMS" />
+      <item value="הערה" />
+      <item value="טלפון" />
+      <item value="שם מלא" />
       <item value="prepare a &lt;form id=&quot;stripePaymentElement&quot;&gt;&lt;form&gt; element in your html. also include a button that will submit the credit card, something like:" />
       <item value="use something like the following code to create the credit card form:" />
       <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
@@ -47,19 +55,11 @@
       <item value="Я понял почему такой ситуации не должно было возникнуть." />
       <item value="This is related to this point that was discussed yesterday." />
       <item value="Это связано с этим моментом что обсуждали вчера." />
-      <item value="a) Adding the user's credit cards to the profile. - 8 hours." />
-      <item value="b) Changes in the work of bids, with user approved. Now nothing happens if the user not approved places a bet. - 1 hour." />
-      <item value="b) Changes in the work of rates, with user approved. Now nothing happens if the user not approved places a bet. - 1 hour." />
-      <item value="with user approved" />
-      <item value="user approved" />
-      <item value="b) Changes in the work of rates, with user confirmation. Now nothing happens if the user places a bet." />
-      <item value="Сейчас не происходит ни чего если пользователь делает ставку." />
-      <item value="Changes in the work of rates, without user confirmation." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7473" />
+        <entry key="ENGLISH" value="7474" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7473" />
+        <entry key="RUSSIAN" value="7474" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -92,7 +92,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="8" />
-        <entry key="HEBREW" value="204" />
+        <entry key="HEBREW" value="211" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
