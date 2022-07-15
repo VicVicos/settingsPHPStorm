@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="With this implementation, will we need to remove the Shop auction from the list of auctions and make visual changes to the product cards and on the product page?" />
+      <item value="С данной реализацией нам надо будет убрать аукцион Shop из списка аукционов и сделать визуальные изменения с карточками товаров и на странице товара?" />
+      <item value="With this implementation, we will need to remove the Shop auction from the list of auctions and make the font display larger." />
+      <item value="С данной реализацией нам надо будет убрать аукцион Shop из списка аукционов и сделать отображение шрифта большего размера." />
+      <item value="Я сейчас подумаю над этим." />
       <item value="תודה! ההודעה נשלחה." />
       <item value="תודה! ההודעה נשלחה.'" />
       <item value="שלח" />
@@ -50,16 +55,11 @@
       <item value="is Isset Row" />
       <item value="Check it in admin panel" />
       <item value="This browser uses the Chrome engine and can be downloaded from this link." />
-      <item value="Этот браузер использует движок Chrome и скачать его можно по этой ссылке." />
-      <item value="I understood why this situation should not have arisen." />
-      <item value="Я понял почему такой ситуации не должно было возникнуть." />
-      <item value="This is related to this point that was discussed yesterday." />
-      <item value="Это связано с этим моментом что обсуждали вчера." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7474" />
+        <entry key="ENGLISH" value="7477" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7474" />
+        <entry key="RUSSIAN" value="7477" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
