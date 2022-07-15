@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="פרויקטים בשיווק" />
       <item value="We will double-check the filter operation, at the moment we are aware of one error in the filter operation related to pagination." />
       <item value="Работу фильтра мы перепроверим, на текущий момент нам известна одна ошибка в работе фильтра связанная с пагинацией." />
       <item value="This variant for implementing a store on the site will be the simplest. If the client and site users do not need anything else, then it will be possible to proceed with the implementation." />
@@ -54,7 +55,6 @@
       <item value="featured" />
       <item value="feature" />
       <item value="No need, already spoke with client" />
-      <item value="Ok. We already talked about the store." />
     </histories>
     <option name="languageScores">
       <map>
@@ -92,7 +92,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="8" />
-        <entry key="HEBREW" value="211" />
+        <entry key="HEBREW" value="212" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
