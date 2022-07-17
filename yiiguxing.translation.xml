@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Я проверю в чём проблема сейчас" />
+      <item value="We are currently working on an update that will help optimize performance, but at the moment it is in the process of testing." />
+      <item value="We are aware of problems with the speed of the site in some moments of work." />
+      <item value="Мы в курсе проблем со скоростью работы сайта в некоторых моменты работы. Мы сейчас работаем над обновлением которое поможет оптимизировать работу, но на текущий момент оно находится в процессе тестирования." />
       <item value="Now I've broken the demo site with an update. I'll fix it over the weekend." />
       <item value="Сейчас я сломал обновлением демо сайт. Исправлю на выходных." />
       <item value="Сейчас я поломал обновлением демо сайт. Исправлю на выходных." />
@@ -51,15 +55,11 @@
       <item value="I have everything to get started" />
       <item value="У меня есть всё для начала работы" />
       <item value="У меня есть всё для работы" />
-      <item value="Сейчас проверю все доступы." />
-      <item value="prepare Options From File" />
-      <item value="table per object" />
-      <item value="tabel per object" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7487" />
+        <entry key="ENGLISH" value="7489" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7487" />
+        <entry key="RUSSIAN" value="7490" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
