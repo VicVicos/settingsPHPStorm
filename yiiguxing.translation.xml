@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I would also like to clarify about the stripePublicKey account, where do we get it from? Should we create this key for each client ourselves?" />
+      <item value="Так же хотел бы уточнить на счёт stripePublicKey, от куда нам его получать? Должны ли мы для каждого клиента создавать этот ключ самостоятельно?" />
+      <item value="From parameters I pass SessionID." />
+      <item value="Из параметров я передаю SessionID." />
+      <item value="When working with the userspaymentMethodsgetStripeSetupSecret API, very often I get an error in response." />
+      <item value="При работе с API userspaymentMethodsgetStripeSetupSecret, очень часто в ответ я получаю ошибку." />
       <item value="Я проверю в чём проблема сейчас" />
       <item value="We are currently working on an update that will help optimize performance, but at the moment it is in the process of testing." />
       <item value="We are aware of problems with the speed of the site in some moments of work." />
@@ -49,17 +55,11 @@
       <item value="Завершённых аукционов нет" />
       <item value="их домен" />
       <item value="Пользователи Bidspirit не хранятся на сайте." />
-      <item value="But maybe you mean users registered with Bidspirit?" />
-      <item value="Но может вы имеете в виду пользователей зерегестрированных в Bidspirit?" />
-      <item value="I have everything to get started working" />
-      <item value="I have everything to get started" />
-      <item value="У меня есть всё для начала работы" />
-      <item value="У меня есть всё для работы" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7489" />
+        <entry key="ENGLISH" value="7493" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7490" />
+        <entry key="RUSSIAN" value="7493" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
