@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="if the user tried to enter a card of a blocked user" />
       <item value="extanshion" />
       <item value="extanshion Checkout" />
       <item value="denied Callback" />
@@ -54,12 +55,11 @@
       <item value="I confirm receipt of advertising materials by email or SMS" />
       <item value="הנני מאשר קבלת חומרים פרסומיים במייל או ב- SMS" />
       <item value="הערה" />
-      <item value="טלפון" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7502" />
+        <entry key="ENGLISH" value="7503" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
