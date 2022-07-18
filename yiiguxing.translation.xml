@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="extanshion" />
+      <item value="extanshion Checkout" />
       <item value="denied Callback" />
       <item value="if this field contains a value you need to show an error message to the user. possible values: ALREADY_EXISTS (if the user already have this payment method) NOT_ALLOWED (if the user tried to enter a card of a blocked user) or GENERAL_ERROR" />
       <item value="Removes a user payment method. NOTE! if a user used a payment method to get approval for an auction his approval would be canceled. the user should be warned about this before he proceeds with the payment method deletion. Also - a user cannot remove his payment method if he has unpaid bills, or absentee bids in non ended auctions (if he will try the server would return an error PAYMENT_METHOD_IN_USE)." />
@@ -53,13 +55,11 @@
       <item value="הנני מאשר קבלת חומרים פרסומיים במייל או ב- SMS" />
       <item value="הערה" />
       <item value="טלפון" />
-      <item value="שם מלא" />
-      <item value="prepare a &lt;form id=&quot;stripePaymentElement&quot;&gt;&lt;form&gt; element in your html. also include a button that will submit the credit card, something like:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7501" />
+        <entry key="ENGLISH" value="7502" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7501" />
+        <entry key="RUSSIAN" value="7503" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -85,6 +85,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="9" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="CEBUANO" value="1" />
