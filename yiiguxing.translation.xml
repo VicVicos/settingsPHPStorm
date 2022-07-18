@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I didn't have to save these methods by calling userspaymentMethodscheckPaymentMethodSaved API" />
+      <item value="I didn't have time to save these methods by calling userspaymentMethodscheckPaymentMethodSaved API" />
+      <item value="Я не успел сохранить эти методы вызовом API userspaymentMethodscheckPaymentMethodSaved" />
+      <item value="When a successful payment method is saved, Stripe server is supposed to contact bidspirit server and give the user card details. until this process is complete the card is not saved in bidspirit. You need to wait until bidspirit server confirms it received a valid payment method. This is done by the api userspaymentMethodscheckPaymentMethodSaved with the stripePaymentMethodId you got in the previous stage. this method will return a success, error or pending reply. in case of a pending reply - wait one second and call the api again." />
+      <item value="in the handle response function you can check if there was an error in the payment method submission. if there is no error, you should get a stripePaymentMethodId variable from the response object:" />
+      <item value="How can I remove a user's added payment methods on the Bidspirit Portal?" />
+      <item value="Как я могу удалить добавленные способами оплаты пользователя на Bidspirit портале?" />
       <item value="handle Response" />
       <item value="if required" />
       <item value="открыто ранее" />
@@ -48,18 +55,11 @@
       <item value="Но думаю что будет лучше если мы выделим для этого отдельное поле. И что насчёт оформления заказа? Нет требований делать оплату на сайте клиента?" />
       <item value="Excellent! In the field you need to specify the id of the wordpress taxonomy." />
       <item value="Отлично! В поле нужно указать id таксономии wordpress." />
-      <item value="With this implementation, will we need to remove the Shop auction from the list of auctions and make visual changes to the product cards and on the product page?" />
-      <item value="С данной реализацией нам надо будет убрать аукцион Shop из списка аукционов и сделать визуальные изменения с карточками товаров и на странице товара?" />
-      <item value="With this implementation, we will need to remove the Shop auction from the list of auctions and make the font display larger." />
-      <item value="С данной реализацией нам надо будет убрать аукцион Shop из списка аукционов и сделать отображение шрифта большего размера." />
-      <item value="Я сейчас подумаю над этим." />
-      <item value="תודה! ההודעה נשלחה." />
-      <item value="תודה! ההודעה נשלחה.'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7506" />
+        <entry key="ENGLISH" value="7512" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7506" />
+        <entry key="RUSSIAN" value="7512" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
