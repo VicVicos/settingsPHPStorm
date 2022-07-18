@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="method-delete" />
+      <item value="delete-method" />
       <item value="1) Today this problem does not arise. 2) I looked at the implementation on the example site and this key comes in response when requesting settingsgetSettings" />
       <item value="1) Сегодня этой проблемы не возникает. 2) Я посмотрел реализацию на сайте примере и этот ключ приходит в ответ при запросе settingsgetSettings" />
       <item value="locale should be a string. You specified: [object Object]." />
@@ -53,13 +55,11 @@
       <item value="use something like the following code to create the credit card form:" />
       <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
       <item value="перебор всех постов" />
-      <item value="create Bp Meta Table Indexes" />
-      <item value="Another page with a similar name was installed there. It confused me a lot too. I would delete those blank pages." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7496" />
+        <entry key="ENGLISH" value="7498" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7496" />
+        <entry key="RUSSIAN" value="7498" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
