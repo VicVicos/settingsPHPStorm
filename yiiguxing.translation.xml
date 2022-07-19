@@ -5,10 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="When a successful payment method is saved, Stripe server is supposed to contact bidspirit server and give the user card details. until this process is complete the card is not saved in bidspirit. You need to wait until bidspirit server confirms it received a valid payment method. This is done by the api userspaymentMethodscheckPaymentMethodSaved with the stripePaymentMethodId you got in the previous stage. this method will return a success, error or pending reply. in case of a pending reply - wait one second and call the api again." />
+      <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
       <item value="portant note. I did not save these payment methods using userspaymentMethodscheckPaymentMethodSaved" />
       <item value="Важное замечание. Эти методы оплаты я не сохранял с помощью userspaymentMethodscheckPaymentMethodSaved" />
       <item value="true if the payment method was not saved. in this case you need to call this api again after one second" />
-      <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
       <item value="Я добавляю их, но удалить не могу." />
       <item value="How do I manage user payment methods in the Bidspirit portal?" />
       <item value="How do I manage user-added payment methods in the Bidspirit portal?" />
@@ -17,7 +18,6 @@
       <item value="I didn't have to save these methods by calling userspaymentMethodscheckPaymentMethodSaved API" />
       <item value="I didn't have time to save these methods by calling userspaymentMethodscheckPaymentMethodSaved API" />
       <item value="Я не успел сохранить эти методы вызовом API userspaymentMethodscheckPaymentMethodSaved" />
-      <item value="When a successful payment method is saved, Stripe server is supposed to contact bidspirit server and give the user card details. until this process is complete the card is not saved in bidspirit. You need to wait until bidspirit server confirms it received a valid payment method. This is done by the api userspaymentMethodscheckPaymentMethodSaved with the stripePaymentMethodId you got in the previous stage. this method will return a success, error or pending reply. in case of a pending reply - wait one second and call the api again." />
       <item value="in the handle response function you can check if there was an error in the payment method submission. if there is no error, you should get a stripePaymentMethodId variable from the response object:" />
       <item value="Как я могу удалить добавленные способами оплаты пользователя на Bidspirit портале?" />
       <item value="handle Response" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7518" />
+        <entry key="ENGLISH" value="7520" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7518" />
+        <entry key="RUSSIAN" value="7520" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
