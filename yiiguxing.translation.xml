@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I will create a task and enable in plan to check this problem. As soon as information becomes available, I will let you know." />
+      <item value="I will create a task and set up in plan to check this problem. As soon as information becomes available, I will let you know." />
+      <item value="Я создам задачу на проверку этой проблемы. Как появится информация, я сообщу вам." />
+      <item value="I set up a redirect and the problem should go away." />
+      <item value="I think I found the problem. Users from mobile devices got to the version of the site with the http protocol. Set up a redirect and the problem should go away." />
+      <item value="Я думаю я нашёл проблему. Пользователи с мобильных устройств попадали на версию сайта с http протоколом. Настроил редирект и проблема должна уйти." />
+      <item value="what os are the users with the problem using?" />
+      <item value="Какую ОС используют пользователи с проблемой?" />
       <item value="lang-change" />
       <item value="node" />
       <item value="When a successful payment method is saved, Stripe server is supposed to contact bidspirit server and give the user card details. until this process is complete the card is not saved in bidspirit. You need to wait until bidspirit server confirms it received a valid payment method. This is done by the api userspaymentMethodscheckPaymentMethodSaved with the stripePaymentMethodId you got in the previous stage. this method will return a success, error or pending reply. in case of a pending reply - wait one second and call the api again." />
@@ -47,19 +55,11 @@
       <item value="Я проверю в чём проблема сейчас" />
       <item value="We are currently working on an update that will help optimize performance, but at the moment it is in the process of testing." />
       <item value="We are aware of problems with the speed of the site in some moments of work." />
-      <item value="Мы в курсе проблем со скоростью работы сайта в некоторых моменты работы. Мы сейчас работаем над обновлением которое поможет оптимизировать работу, но на текущий момент оно находится в процессе тестирования." />
-      <item value="Now I've broken the demo site with an update. I'll fix it over the weekend." />
-      <item value="Сейчас я сломал обновлением демо сайт. Исправлю на выходных." />
-      <item value="Сейчас я поломал обновлением демо сайт. Исправлю на выходных." />
-      <item value="I understood what the problem is." />
-      <item value="Я понял в чём проблема." />
-      <item value="This is strange." />
-      <item value="Это странно." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7521" />
+        <entry key="ENGLISH" value="7527" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7522" />
+        <entry key="RUSSIAN" value="7527" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
