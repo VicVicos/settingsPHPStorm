@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Если с ним возникнут проблемы, сообщите пожалуйста мне об этом." />
+      <item value="We plan to implement a shortcode to add these links to the site. Or I can throw off the html code that they can insert into the site so that it works." />
+      <item value="Или могу скинуть html код который они смогут вставить на сайт что бы это работало." />
+      <item value="We plan to implement a shortcode to add these links to the site." />
+      <item value="У нас в планах стоит задача по реализации shortcode для добавлении этих ссылок на сайт." />
+      <item value="And I will remind Andrey about the &quot;shop&quot; task and I think he will agree to add it to the work plan for the near future. But next week I'm going on vacation and I think that only when I return will I start working on this task." />
+      <item value="И я напомню Андрею о задаче с &quot;shop&quot; и думаю он согласится добавить его в план работ на ближайшее время. Но следующую неделю я ухожу в отпуск и думаю что только во возвращении я начну работу над этой задачей." />
+      <item value="We have urgent task on Bidspirit request." />
       <item value="I get this kind of error when I try to place a bet on a test site. I have to improve the display of such errors in the plugin, since now the user will not understand anything if he encounters a similar problem." />
       <item value="Я получаю подобного рода ошибки при попытке сделать ставку на тестовой площадке. Я должен доработать отображение подобных ошибок в плагине, так как сейчас пользователь ни чего не поймёт если встретится с подобной проблемой." />
       <item value="Not allowed to bid on this lot (Items limit reached)" />
@@ -47,19 +55,11 @@
       <item value="method-delete" />
       <item value="delete-method" />
       <item value="1) Today this problem does not arise. 2) I looked at the implementation on the example site and this key comes in response when requesting settingsgetSettings" />
-      <item value="1) Сегодня этой проблемы не возникает. 2) Я посмотрел реализацию на сайте примере и этот ключ приходит в ответ при запросе settingsgetSettings" />
-      <item value="locale should be a string. You specified: [object Object]." />
-      <item value="See the working example and stripe docs for more information and examples about this process" />
-      <item value="I would also like to clarify about the stripePublicKey account, where do we get it from? Should we create this key for each client ourselves?" />
-      <item value="Так же хотел бы уточнить на счёт stripePublicKey, от куда нам его получать? Должны ли мы для каждого клиента создавать этот ключ самостоятельно?" />
-      <item value="From parameters I pass SessionID." />
-      <item value="Из параметров я передаю SessionID." />
-      <item value="When working with the userspaymentMethodsgetStripeSetupSecret API, very often I get an error in response." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7530" />
+        <entry key="ENGLISH" value="7535" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7530" />
+        <entry key="RUSSIAN" value="7536" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
