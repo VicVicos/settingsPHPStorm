@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="By clicking &quot;Send&quot; I agree to the terms of use and allows home The sales of Tirosh to send me Information via e-mail" />
       <item value="I will create a task and enable in plan to check this problem. As soon as information becomes available, I will let you know." />
       <item value="I will create a task and set up in plan to check this problem. As soon as information becomes available, I will let you know." />
       <item value="Я создам задачу на проверку этой проблемы. Как появится информация, я сообщу вам." />
@@ -54,12 +55,11 @@
       <item value="При работе с API userspaymentMethodsgetStripeSetupSecret, очень часто в ответ я получаю ошибку." />
       <item value="Я проверю в чём проблема сейчас" />
       <item value="We are currently working on an update that will help optimize performance, but at the moment it is in the process of testing." />
-      <item value="We are aware of problems with the speed of the site in some moments of work." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7527" />
+        <entry key="ENGLISH" value="7528" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7527" />
+        <entry key="RUSSIAN" value="7528" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
