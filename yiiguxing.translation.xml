@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I have to finish implementing an approval request from the auction pages." />
+      <item value="I have to finish implementing an auction approval request from the auction pages." />
+      <item value="I have to finish implementing an auction request from the auction pages." />
+      <item value="Я должен доделать отправку запроса на участие в аукционах со станиц аукциона." />
       <item value="NOT REQUESTED" />
       <item value="APPROVAL_REQUESTED, NOT_REQUESTED or APPROVED" />
       <item value="approval Actions" />
@@ -51,15 +55,11 @@
       <item value="How can I remove a user's added payment methods on the Bidspirit Portal?" />
       <item value="I didn't have to save these methods by calling userspaymentMethodscheckPaymentMethodSaved API" />
       <item value="I didn't have time to save these methods by calling userspaymentMethodscheckPaymentMethodSaved API" />
-      <item value="Я не успел сохранить эти методы вызовом API userspaymentMethodscheckPaymentMethodSaved" />
-      <item value="in the handle response function you can check if there was an error in the payment method submission. if there is no error, you should get a stripePaymentMethodId variable from the response object:" />
-      <item value="Как я могу удалить добавленные способами оплаты пользователя на Bidspirit портале?" />
-      <item value="handle Response" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7546" />
+        <entry key="ENGLISH" value="7549" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7546" />
+        <entry key="RUSSIAN" value="7549" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
