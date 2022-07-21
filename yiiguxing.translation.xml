@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_legacy" />
       <item value="Please wait for you approved" />
       <item value="I think what problem with your internet provider. Can you check it with help on mobile operator?" />
       <item value="оператор мобильной связи" />
@@ -54,12 +55,11 @@
       <item value="Важное замечание. Эти методы оплаты я не сохранял с помощью userspaymentMethodscheckPaymentMethodSaved" />
       <item value="true if the payment method was not saved. in this case you need to call this api again after one second" />
       <item value="Я добавляю их, но удалить не могу." />
-      <item value="How do I manage user payment methods in the Bidspirit portal?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7553" />
+        <entry key="ENGLISH" value="7554" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7553" />
+        <entry key="RUSSIAN" value="7554" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
