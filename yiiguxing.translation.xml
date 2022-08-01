@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="setup intent unexpected state" />
       <item value="It will always be the variation ID if this is a variation." />
       <item value="Напомнить" />
       <item value="Мы можем помочь, но вам надо зарегистрироваться на" />
@@ -54,12 +55,11 @@
       <item value="node" />
       <item value="When a successful payment method is saved, Stripe server is supposed to contact bidspirit server and give the user card details. until this process is complete the card is not saved in bidspirit. You need to wait until bidspirit server confirms it received a valid payment method. This is done by the api userspaymentMethodscheckPaymentMethodSaved with the stripePaymentMethodId you got in the previous stage. this method will return a success, error or pending reply. in case of a pending reply - wait one second and call the api again." />
       <item value="gets a secret for stripe js api, which will allow the user to add a payment method" />
-      <item value="portant note. I did not save these payment methods using userspaymentMethodscheckPaymentMethodSaved" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7556" />
+        <entry key="ENGLISH" value="7557" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7556" />
+        <entry key="RUSSIAN" value="7557" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
