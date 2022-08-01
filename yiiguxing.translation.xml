@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This link appears on the lot page, but if the user is logged in and has the NOT_ALLOWED status" />
+      <item value="Эта ссылка появляется на странице лота, но если пользователь авторизован и имеет статус NOT_ALLOWED" />
+      <item value="Temporary solution it that change the IP address for the A record of their domain." />
+      <item value="Problem with connectivity on server farm. We trying to resolve it with server farm. Temporary solution it is necessary that change the IP address for the A record of their domain." />
+      <item value="Временное решение" />
+      <item value="It is necessary that change the IP address for the A record of their domain." />
+      <item value="Our server has crashed and we are transferring them temporarily to another one. It is necessary that clients change the IP address for the A record of their domain." />
+      <item value="Our server has crashed again and we are transferring them temporarily to another one. It is necessary that clients change the IP address for the A record of their domain." />
+      <item value="У нас снова упал сервер и мы переносим их временно на другой. Надо что бы клиенты изменили IP адрес для A записи своего домена." />
       <item value="Problem with connectivity on server farm. We trying to resolve it with server farm." />
       <item value="If you used this payment method to get approved to an auction your approval would be cancelled. are you sure you want to continue?" />
       <item value="You need a payment method to participate in this auction" />
@@ -46,20 +55,11 @@
       <item value="У нас в планах стоит задача по реализации shortcode для добавлении этих ссылок на сайт." />
       <item value="And I will remind Andrey about the &quot;shop&quot; task and I think he will agree to add it to the work plan for the near future. But next week I'm going on vacation and I think that only when I return will I start working on this task." />
       <item value="И я напомню Андрею о задаче с &quot;shop&quot; и думаю он согласится добавить его в план работ на ближайшее время. Но следующую неделю я ухожу в отпуск и думаю что только во возвращении я начну работу над этой задачей." />
-      <item value="We have urgent task on Bidspirit request." />
-      <item value="I get this kind of error when I try to place a bet on a test site. I have to improve the display of such errors in the plugin, since now the user will not understand anything if he encounters a similar problem." />
-      <item value="Я получаю подобного рода ошибки при попытке сделать ставку на тестовой площадке. Я должен доработать отображение подобных ошибок в плагине, так как сейчас пользователь ни чего не поймёт если встретится с подобной проблемой." />
-      <item value="Not allowed to bid on this lot (Items limit reached)" />
-      <item value="By clicking &quot;Send&quot; I agree to the terms of use and allows home The sales of Tirosh to send me Information via e-mail" />
-      <item value="I will create a task and enable in plan to check this problem. As soon as information becomes available, I will let you know." />
-      <item value="I will create a task and set up in plan to check this problem. As soon as information becomes available, I will let you know." />
-      <item value="Я создам задачу на проверку этой проблемы. Как появится информация, я сообщу вам." />
-      <item value="I set up a redirect and the problem should go away." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7567" />
+        <entry key="ENGLISH" value="7576" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7567" />
+        <entry key="RUSSIAN" value="7576" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
