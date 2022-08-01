@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If you used this payment method to get approved to an auction your approval would be cancelled. are you sure you want to continue?" />
+      <item value="You need a payment method to participate in this auction" />
       <item value="Click here to request participation in this auction" />
       <item value="You are approved to bid in this auction" />
       <item value="Please wait for you approved" />
@@ -53,13 +55,11 @@
       <item value="Я создам задачу на проверку этой проблемы. Как появится информация, я сообщу вам." />
       <item value="I set up a redirect and the problem should go away." />
       <item value="I think I found the problem. Users from mobile devices got to the version of the site with the http protocol. Set up a redirect and the problem should go away." />
-      <item value="Я думаю я нашёл проблему. Пользователи с мобильных устройств попадали на версию сайта с http протоколом. Настроил редирект и проблема должна уйти." />
-      <item value="what os are the users with the problem using?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7564" />
+        <entry key="ENGLISH" value="7566" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7564" />
+        <entry key="RUSSIAN" value="7566" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
