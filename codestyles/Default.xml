@@ -28,6 +28,8 @@
   </DBN-SQL>
   <HTMLCodeStyleSettings>
     <option name="HTML_KEEP_BLANK_LINES" value="4" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,img,input" />
+    <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,kbd,label,q,s,samp,select,small,span,strike,strong,sub,sup,textarea,tt,u,var" />
   </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
