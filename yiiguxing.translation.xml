@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Думаю что я упустил такой момент." />
+      <item value="Какой параметр за это отвечает?" />
+      <item value="Или я могу сказать что нужно сделать что бы мы могли перенести домен?" />
       <item value="This link appears on the lot page, but if the user is logged in and has the NOT_ALLOWED status" />
       <item value="Эта ссылка появляется на странице лота, но если пользователь авторизован и имеет статус NOT_ALLOWED" />
       <item value="Temporary solution it that change the IP address for the A record of their domain." />
@@ -52,14 +55,11 @@
       <item value="We plan to implement a shortcode to add these links to the site. Or I can throw off the html code that they can insert into the site so that it works." />
       <item value="Или могу скинуть html код который они смогут вставить на сайт что бы это работало." />
       <item value="We plan to implement a shortcode to add these links to the site." />
-      <item value="У нас в планах стоит задача по реализации shortcode для добавлении этих ссылок на сайт." />
-      <item value="And I will remind Andrey about the &quot;shop&quot; task and I think he will agree to add it to the work plan for the near future. But next week I'm going on vacation and I think that only when I return will I start working on this task." />
-      <item value="И я напомню Андрею о задаче с &quot;shop&quot; и думаю он согласится добавить его в план работ на ближайшее время. Но следующую неделю я ухожу в отпуск и думаю что только во возвращении я начну работу над этой задачей." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7576" />
+        <entry key="ENGLISH" value="7578" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7576" />
+        <entry key="RUSSIAN" value="7579" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
