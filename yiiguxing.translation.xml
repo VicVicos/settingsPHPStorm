@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Web 2 Extends" />
       <item value="Это больше не требуется." />
       <item value="Но через 1 час я уже должен буду уйти." />
       <item value="Can you stay in touch for the next hour?" />
@@ -54,12 +55,11 @@
       <item value="approval Actions" />
       <item value="Some auction houses require the user to request an approval for each auction specifically. This is determined by the approvalRequired field of an auctionInfo object. In addition, an auction house may require the user to provide a payment method in order to participate in the auction. This is determined by the paymentMethodRequired field. see “Working with payment methods” for information on how to handle payment methods in the system. To request participation in an auction use the approvalsrequestToParticipateInAuction api. to check if the user is approved use the approvalsgetAuctionApprovalState api." />
       <item value="Andrey approved the work on the task with the store if this solution fully suits us." />
-      <item value="Andrey approved the work on the problem with the store if this solution fully suits us." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7585" />
+        <entry key="ENGLISH" value="7586" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
