@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Нам надо будет этот момент обсудить с Андреем Druz" />
+      <item value="Does this apply to all auctions?" />
+      <item value="Это уже касается всех аукционов?" />
+      <item value="Я добавлю это условие" />
+      <item value="I will consider this condition" />
+      <item value="Я учту это условие" />
+      <item value="I will take this moment" />
+      <item value="Я учту этот момент" />
       <item value="Add Link and Source Name" />
       <item value="YOUR DESIRED LOCATION" />
       <item value="Web 2 Extends" />
@@ -47,19 +55,11 @@
       <item value="I think what problem with your internet provider. Can you check it with help on mobile operator?" />
       <item value="оператор мобильной связи" />
       <item value="I think what problem with your internet provider. Can you check it with help on mobile devices provider." />
-      <item value="I think what problem with your internet connect." />
-      <item value="I have to finish implementing an approval request from the auction pages." />
-      <item value="I have to finish implementing an auction approval request from the auction pages." />
-      <item value="I have to finish implementing an auction request from the auction pages." />
-      <item value="Я должен доделать отправку запроса на участие в аукционах со станиц аукциона." />
-      <item value="NOT REQUESTED" />
-      <item value="APPROVAL_REQUESTED, NOT_REQUESTED or APPROVED" />
-      <item value="approval Actions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7588" />
+        <entry key="ENGLISH" value="7592" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7588" />
+        <entry key="RUSSIAN" value="7593" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
