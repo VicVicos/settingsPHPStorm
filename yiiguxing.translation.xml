@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If this happens again we will look into it." />
+      <item value="Если подобное произойдёт снова будем разбираться." />
+      <item value="Now everything is in place, but I don't know why the lots went into drafts." />
+      <item value="Теперь все на месте, но я не знаю, почему лоты ушли в черновики." />
+      <item value="Now all lots in place, but i don't know what" />
+      <item value="Have you changed anything in the publication of the auction?" />
+      <item value="Вы ни чего не меняли в публикации аукциона?" />
+      <item value="Лоты на месте." />
       <item value="Thank you! Your submission has been received!" />
       <item value="According to the work plan, this week is packed with an urgent task not related to auctions, as soon as I finish it, I will continue working with auctions." />
       <item value="По плану работ эта неделя забита срочной задачей не связанной с аукционами, как закончу с ней, продолжу работу с аукционами." />
@@ -47,19 +55,11 @@
       <item value="Click here to request participation in this auction" />
       <item value="You are approved to bid in this auction" />
       <item value="Please wait for you approved" />
-      <item value="Request to bid in auction" />
-      <item value="You need a payment method in order to be approved to bid in this auction" />
-      <item value="then" />
-      <item value="setup intent unexpected state" />
-      <item value="It will always be the variation ID if this is a variation." />
-      <item value="Напомнить" />
-      <item value="Мы можем помочь, но вам надо зарегистрироваться на" />
-      <item value="_legacy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7595" />
+        <entry key="ENGLISH" value="7601" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7595" />
+        <entry key="RUSSIAN" value="7601" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
