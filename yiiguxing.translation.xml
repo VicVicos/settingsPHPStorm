@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="But i will check it on." />
+      <item value="This is a feature of how Wordpress works. The publication date was in the future after the time zone change, so the WP core considered that the items should be published in the future." />
+      <item value="Это особенность работы Wordpress. Дата публикации оказалась в будущем после смены часового пояса, поэтому ядро WP посчитало что лоты должны быть опубликованы в будущем." />
+      <item value="Я займусь этим" />
+      <item value="I understand. Really! This can send lots to drafts after a time zone change. We do not take this option into account when synchronizing." />
+      <item value="Мы не учитываем эту опцию при синхронизации." />
+      <item value="I understand. Really! This can send lots to drafts after a time zone change." />
+      <item value="Я понял. Действительно! Это может отправлять лоты в черновики после смены часового пояса." />
       <item value="Смена часового пояса не влияет на это" />
       <item value="Пожалуйста! Но почему так получилось нам надо будет ещё выяснить если это будет повторяться." />
       <item value="If this happens again we will look into it." />
@@ -47,19 +55,11 @@
       <item value="Temporary solution it that change the IP address for the A record of their domain." />
       <item value="Problem with connectivity on server farm. We trying to resolve it with server farm. Temporary solution it is necessary that change the IP address for the A record of their domain." />
       <item value="Временное решение" />
-      <item value="It is necessary that change the IP address for the A record of their domain." />
-      <item value="Our server has crashed and we are transferring them temporarily to another one. It is necessary that clients change the IP address for the A record of their domain." />
-      <item value="Our server has crashed again and we are transferring them temporarily to another one. It is necessary that clients change the IP address for the A record of their domain." />
-      <item value="У нас снова упал сервер и мы переносим их временно на другой. Надо что бы клиенты изменили IP адрес для A записи своего домена." />
-      <item value="Problem with connectivity on server farm. We trying to resolve it with server farm." />
-      <item value="If you used this payment method to get approved to an auction your approval would be cancelled. are you sure you want to continue?" />
-      <item value="You need a payment method to participate in this auction" />
-      <item value="Click here to request participation in this auction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7602" />
+        <entry key="ENGLISH" value="7608" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7603" />
+        <entry key="RUSSIAN" value="7608" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
