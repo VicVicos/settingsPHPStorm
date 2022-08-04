@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Please do not take any action. I have to follow the process." />
+      <item value="Пожалуйста, не предпринимайте ни каких действий. Я должен проследить за процессом." />
+      <item value="I don't understand why this is happening. I think that our previous assumption is wrong." />
+      <item value="Я не пойму причину происходящего. Думаю что наше прошлое предположение ошибочно." />
       <item value="Настройки положения фона" />
       <item value="Position background settings" />
       <item value="Settings position background" />
@@ -51,15 +55,11 @@
       <item value="Web 2 Extends" />
       <item value="Это больше не требуется." />
       <item value="Но через 1 час я уже должен буду уйти." />
-      <item value="Can you stay in touch for the next hour?" />
-      <item value="Вы можете оставаться на связи ближайший час?" />
-      <item value="It will take time to connect the ssl certificate." />
-      <item value="Для подключения ssl сертификата потребуется время." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7617" />
+        <entry key="ENGLISH" value="7620" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7618" />
+        <entry key="RUSSIAN" value="7620" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
