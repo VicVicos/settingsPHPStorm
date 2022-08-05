@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="And change domain for confiscatedassetsauctioneers also tommorow." />
+      <item value="I detect out the issue with lots on Cascobay. I'll work with this problem in the morning." />
+      <item value="I detect out the issue with lots on Cascobay. I'll deal with this problem in the morning." />
+      <item value="I detect out the issue with the listings on Cascobay. I'll deal with this problem in the morning." />
+      <item value="I figured out the issue with the listings on Cascobay. I'll deal with this problem in the morning." />
+      <item value="Я выяснил проблему с лотами на Cascobay. Я займусь решением этой проблемы утром." />
       <item value="Please do not take any action. I have to follow the process." />
       <item value="Пожалуйста, не предпринимайте ни каких действий. Я должен проследить за процессом." />
       <item value="I don't understand why this is happening. I think that our previous assumption is wrong." />
@@ -49,17 +55,11 @@
       <item value="I will consider this condition" />
       <item value="Я учту это условие" />
       <item value="I will take this moment" />
-      <item value="Я учту этот момент" />
-      <item value="Add Link and Source Name" />
-      <item value="YOUR DESIRED LOCATION" />
-      <item value="Web 2 Extends" />
-      <item value="Это больше не требуется." />
-      <item value="Но через 1 час я уже должен буду уйти." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7620" />
+        <entry key="ENGLISH" value="7625" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7620" />
+        <entry key="RUSSIAN" value="7625" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
