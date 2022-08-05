@@ -5,6 +5,28 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="И не переуставнавливайте плагин на этом сайте." />
+      <item value="I have dump the database. Since I still have to do some checks before I go to work on a test site." />
+      <item value="I have dumped the database. Since I still have to do some checks before I go to work on a test site." />
+      <item value="Я сделал dump базы данных. Так как мне ещё предстоит сделать некоторые проверки перед тем как я перейду работать на тестовый сайт." />
+      <item value="Сейчас все лоты на местах." />
+      <item value="Yes, this will help avoid problems in the future." />
+      <item value="Да, это поможет избежать проблем в будущем." />
+      <item value="Now all the lots are in place. I will double-check that all lots are in place." />
+      <item value="Сейчас всё лоты на месте. Перепроверю что все лоты на местах." />
+      <item value="Это моя ошибка в происходящем." />
+      <item value="I have to apologize for what happened." />
+      <item value="Я должен принести извинения за то что так получилось" />
+      <item value="And I detect the problem of what is happening, I will finalize the plugin and such a problem will not arise." />
+      <item value="And I identified the problem of what is happening, I will finalize the plugin and such a problem will not arise." />
+      <item value="И я выявил проблему происходящего, доработаю плагин и такой проблемы не будет возникать." />
+      <item value="It was necessary to allocate more working hours while my daughter sleeps." />
+      <item value="Надо было выделить больше рабочего времени пока моя дочь спит." />
+      <item value="No, I split my sleep into two part on day." />
+      <item value="No, I split my sleep into two part." />
+      <item value="No, I split my sleep into two a day." />
+      <item value="No, I split my sleep into two meals a day." />
+      <item value="Нет, я разбиваю сон на два раза в день." />
       <item value="And change domain for confiscatedassetsauctioneers also tommorow." />
       <item value="I detect out the issue with lots on Cascobay. I'll work with this problem in the morning." />
       <item value="I detect out the issue with lots on Cascobay. I'll deal with this problem in the morning." />
@@ -33,33 +55,11 @@
       <item value="Я займусь этим" />
       <item value="I understand. Really! This can send lots to drafts after a time zone change. We do not take this option into account when synchronizing." />
       <item value="Мы не учитываем эту опцию при синхронизации." />
-      <item value="I understand. Really! This can send lots to drafts after a time zone change." />
-      <item value="Я понял. Действительно! Это может отправлять лоты в черновики после смены часового пояса." />
-      <item value="Смена часового пояса не влияет на это" />
-      <item value="Пожалуйста! Но почему так получилось нам надо будет ещё выяснить если это будет повторяться." />
-      <item value="If this happens again we will look into it." />
-      <item value="Если подобное произойдёт снова будем разбираться." />
-      <item value="Now everything is in place, but I don't know why the lots went into drafts." />
-      <item value="Теперь все на месте, но я не знаю, почему лоты ушли в черновики." />
-      <item value="Now all lots in place, but i don't know what" />
-      <item value="Have you changed anything in the publication of the auction?" />
-      <item value="Вы ни чего не меняли в публикации аукциона?" />
-      <item value="Лоты на месте." />
-      <item value="Thank you! Your submission has been received!" />
-      <item value="According to the work plan, this week is packed with an urgent task not related to auctions, as soon as I finish it, I will continue working with auctions." />
-      <item value="По плану работ эта неделя забита срочной задачей не связанной с аукционами, как закончу с ней, продолжу работу с аукционами." />
-      <item value="Нам надо будет этот момент обсудить с Андреем Druz" />
-      <item value="Does this apply to all auctions?" />
-      <item value="Это уже касается всех аукционов?" />
-      <item value="Я добавлю это условие" />
-      <item value="I will consider this condition" />
-      <item value="Я учту это условие" />
-      <item value="I will take this moment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7625" />
+        <entry key="ENGLISH" value="7639" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7625" />
+        <entry key="RUSSIAN" value="7640" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
