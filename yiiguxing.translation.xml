@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MX записи остались без изменений." />
       <item value="И не переуставнавливайте плагин на этом сайте." />
       <item value="I have dump the database. Since I still have to do some checks before I go to work on a test site." />
       <item value="I have dumped the database. Since I still have to do some checks before I go to work on a test site." />
@@ -54,12 +55,11 @@
       <item value="Это особенность работы Wordpress. Дата публикации оказалась в будущем после смены часового пояса, поэтому ядро WP посчитало что лоты должны быть опубликованы в будущем." />
       <item value="Я займусь этим" />
       <item value="I understand. Really! This can send lots to drafts after a time zone change. We do not take this option into account when synchronizing." />
-      <item value="Мы не учитываем эту опцию при синхронизации." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7639" />
+        <entry key="ENGLISH" value="7640" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7640" />
+        <entry key="RUSSIAN" value="7641" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -102,6 +102,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659279861117" />
+    <option name="lastTrimTime" value="1659721469168" />
   </component>
 </application>
