@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Some auction houses require the user to request an approval for each auction specifically. This is determined by the approvalRequired field of an auctionInfo object. In addition, an auction house may require the user to provide a payment method in order to participate in the auction. This is determined by the paymentMethodRequired field. see “Working with payment methods” for information on how to handle payment methods in the system. To request participation in an auction use the approvalsrequestToParticipateInAuction api. to check if the user is approved use the approvalsgetAuctionApprovalState api." />
       <item value="How can I tell if credit card approval is disabled in settings? And can I change this option myself?" />
       <item value="И могу ли я самостоятельно менять эту опцию?" />
       <item value="How can I tell if credit card approval is disabled in settings?" />
@@ -54,12 +55,11 @@
       <item value="Прошлые аукционы синхронизируются реже, я запустил этот процесс в ручную. Сейчас он восстанавливается. Я прослежу что бы всё встало на свои места." />
       <item value="This option should publish lots regardless of their status. But this parameter will not affect if WP decides to send items to draft on its own. I think this condition should be checked." />
       <item value="Этот параметр должен публиковать лоты вне зависимости от их статуса. Но этот параметр не повлияет если WP самостоятельно решит отправить лоты в черновик. Думаю это условие надо проверить." />
-      <item value="But i will check it on." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7643" />
+        <entry key="ENGLISH" value="7644" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7643" />
+        <entry key="RUSSIAN" value="7644" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
