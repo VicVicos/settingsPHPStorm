@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="We temporarily disabled synchronization on the server, now I have turned it on." />
+      <item value="We temporarily disabled synchronization on the server, now I have turned it on, so everything will work out in the near future" />
+      <item value="Мы отключали временно синхронизацию на сервере, сейчас я её включил, так что в ближайшее время всё наладится" />
       <item value="Я подниму его" />
       <item value="I'm in touch, in the event of a site crash, we can quickly respond." />
       <item value="Я на связи, на случай падения сайта мы сможем оперативно отреагировать." />
@@ -52,14 +55,11 @@
       <item value="Я выяснил проблему с лотами на Cascobay. Я займусь решением этой проблемы утром." />
       <item value="Please do not take any action. I have to follow the process." />
       <item value="Пожалуйста, не предпринимайте ни каких действий. Я должен проследить за процессом." />
-      <item value="I don't understand why this is happening. I think that our previous assumption is wrong." />
-      <item value="Я не пойму причину происходящего. Думаю что наше прошлое предположение ошибочно." />
-      <item value="Настройки положения фона" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7656" />
+        <entry key="ENGLISH" value="7659" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7657" />
+        <entry key="RUSSIAN" value="7659" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
