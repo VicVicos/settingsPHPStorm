@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="но символ валюты не стой стороны." />
       <item value="We temporarily disabled synchronization on the server, now I have turned it on." />
       <item value="We temporarily disabled synchronization on the server, now I have turned it on, so everything will work out in the near future" />
       <item value="Мы отключали временно синхронизацию на сервере, сейчас я её включил, так что в ближайшее время всё наладится" />
@@ -54,7 +55,6 @@
       <item value="I figured out the issue with the listings on Cascobay. I'll deal with this problem in the morning." />
       <item value="Я выяснил проблему с лотами на Cascobay. Я займусь решением этой проблемы утром." />
       <item value="Please do not take any action. I have to follow the process." />
-      <item value="Пожалуйста, не предпринимайте ни каких действий. Я должен проследить за процессом." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7659" />
+        <entry key="RUSSIAN" value="7660" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
