@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Lot count to sync" />
+      <item value="Count lot to sync" />
+      <item value="Counted to sync" />
+      <item value="Count to sync" />
+      <item value="Number to sync" />
+      <item value="Count lot sync" />
       <item value="Sync any lots" />
       <item value="Sync mode" />
       <item value="force-sync" />
@@ -49,17 +55,11 @@
       <item value="Это моя ошибка в происходящем." />
       <item value="I have to apologize for what happened." />
       <item value="Я должен принести извинения за то что так получилось" />
-      <item value="And I detect the problem of what is happening, I will finalize the plugin and such a problem will not arise." />
-      <item value="And I identified the problem of what is happening, I will finalize the plugin and such a problem will not arise." />
-      <item value="И я выявил проблему происходящего, доработаю плагин и такой проблемы не будет возникать." />
-      <item value="It was necessary to allocate more working hours while my daughter sleeps." />
-      <item value="Надо было выделить больше рабочего времени пока моя дочь спит." />
-      <item value="No, I split my sleep into two part on day." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7669" />
+        <entry key="ENGLISH" value="7675" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7669" />
+        <entry key="RUSSIAN" value="7675" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
