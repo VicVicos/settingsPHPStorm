@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Sync can work for all data or changed data. See &quot;Force sync&quot; setting in settings" />
       <item value="Lot count to sync" />
       <item value="Count lot to sync" />
       <item value="Counted to sync" />
@@ -54,12 +55,11 @@
       <item value="Сейчас всё лоты на месте. Перепроверю что все лоты на местах." />
       <item value="Это моя ошибка в происходящем." />
       <item value="I have to apologize for what happened." />
-      <item value="Я должен принести извинения за то что так получилось" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7675" />
+        <entry key="ENGLISH" value="7676" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7675" />
+        <entry key="RUSSIAN" value="7676" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -102,6 +102,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659721469168" />
+    <option name="lastTrimTime" value="1660196564390" />
   </component>
 </application>
