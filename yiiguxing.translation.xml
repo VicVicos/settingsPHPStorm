@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I will clarify this point in technical support Bidspirit." />
+      <item value="Я уточню этот момент" />
+      <item value="Also in his letter it is said that you can not change the email in the profile. But here it seems the Bidspirit API does not allow this." />
+      <item value="Так же у него в письме речь идёт о том что нельзя изменять email в профиле. Но тут кажется API Bidspirit не позволяет этого делать." />
+      <item value="Похоже на то" />
+      <item value="But I think your solution is also good." />
+      <item value="But i think what your resolve is good." />
+      <item value="Но я думаю что ваше решение тоже хорошее." />
+      <item value="But i think what your resolve good." />
+      <item value="OK. To solve this problem, it was necessary to assign the Contacts page in the settings for the plugin." />
+      <item value="Ok. Для решения этой проблемы надо было назначить страницу Контакты в настройках для плагина." />
+      <item value="I received an email from Fairhillauction. And he describes a problem on the site that I couldn't reproduce. Do you know anything about this problem?" />
+      <item value="Я получил письмо от Fairhillauction. И он описывает проблему на сайте которую я не смог воспроизвести. Вы знаете что либо об этой проблеме?" />
       <item value="Sync can work for all data or changed data. See &quot;Force sync&quot; setting in settings" />
       <item value="Lot count to sync" />
       <item value="Count lot to sync" />
@@ -42,24 +55,11 @@
       <item value="How can I tell if credit card approval is disabled in settings? And can I change this option myself?" />
       <item value="И могу ли я самостоятельно менять эту опцию?" />
       <item value="How can I tell if credit card approval is disabled in settings?" />
-      <item value="Как мне определить что в настройках отключено подтверждение на участие с помощью кредитной карты" />
-      <item value="MX записи остались без изменений." />
-      <item value="И не переуставнавливайте плагин на этом сайте." />
-      <item value="I have dump the database. Since I still have to do some checks before I go to work on a test site." />
-      <item value="I have dumped the database. Since I still have to do some checks before I go to work on a test site." />
-      <item value="Я сделал dump базы данных. Так как мне ещё предстоит сделать некоторые проверки перед тем как я перейду работать на тестовый сайт." />
-      <item value="Сейчас все лоты на местах." />
-      <item value="Yes, this will help avoid problems in the future." />
-      <item value="Да, это поможет избежать проблем в будущем." />
-      <item value="Now all the lots are in place. I will double-check that all lots are in place." />
-      <item value="Сейчас всё лоты на месте. Перепроверю что все лоты на местах." />
-      <item value="Это моя ошибка в происходящем." />
-      <item value="I have to apologize for what happened." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7676" />
+        <entry key="ENGLISH" value="7684" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7676" />
+        <entry key="RUSSIAN" value="7684" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
