@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I could not find how it feature is implemented from your side." />
+      <item value="We received a request from the fairhillauction client that there is no way to change the user's email address in the plugin. At the moment, we have not implemented the usersupdateEmail.api API call. I could not find how it is implemented from your side." />
+      <item value="Мы получили запрос от клиента fairhillauction, что в плагине нет возможности изменить Email адрес пользователя. На текущий момент мы не реализовали API вызов usersupdateEmail.api. Я не смог найти как это реализовано с вашей стороны." />
+      <item value="We received a request from the fairhillauction client that there is no way to change the user's email address in the plugin. At the moment, we have not implemented the usersupdateEmail.api API call. To see how it is implemented on your part, I could not find it." />
+      <item value="Мы получили запрос от клиента fairhillauction, что в плагине нет возможности изменить Email адрес пользователя. На текущий момент мы не реализовали API вызов usersupdateEmail.api. Посмотреть как это реализовано с вашей стороны я не смог найти этого." />
+      <item value="Мы получили запрос от клиента, что в плагине нет возможности изменить Email адрес пользователя." />
+      <item value="Пожалуйста, подтвердите, что мы можем опубликовать функции с кредитной картой." />
+      <item value="Please approve that features with credit card implement we can published." />
+      <item value="Please approve why features with credit card implement we can published." />
+      <item value="Please approve what features with credit card implement we can published." />
       <item value="Doing gitlab maintenance for 30 min" />
       <item value="uc-core extends" />
       <item value="Я тоже не заметил проблем. Сейчас перепроверю ещё раз." />
@@ -45,21 +55,11 @@
       <item value="но символ валюты не стой стороны." />
       <item value="We temporarily disabled synchronization on the server, now I have turned it on." />
       <item value="We temporarily disabled synchronization on the server, now I have turned it on, so everything will work out in the near future" />
-      <item value="Мы отключали временно синхронизацию на сервере, сейчас я её включил, так что в ближайшее время всё наладится" />
-      <item value="Я подниму его" />
-      <item value="I'm in touch, in the event of a site crash, we can quickly respond." />
-      <item value="Я на связи, на случай падения сайта мы сможем оперативно отреагировать." />
-      <item value="A payment method is required in order to be approved to bid in this auction" />
-      <item value="Please wait for the auction house to process your approval request" />
-      <item value="A payment method is required to participate in this auction" />
-      <item value="need payment method to participate" />
-      <item value="payment method to participate" />
-      <item value="You need a payment method to participate in this auction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7688" />
+        <entry key="ENGLISH" value="7699" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7688" />
+        <entry key="RUSSIAN" value="7699" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
