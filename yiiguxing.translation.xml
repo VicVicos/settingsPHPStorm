@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Do you mean a specific block or the entire page?" />
+      <item value="Вы имеете в виду какой-то конкретный блок или всю страницу целиком?" />
       <item value="Did you find how to change this picture?" />
       <item value="Вы нашли как изменить этй картинку?" />
       <item value="1) We will add the feature to change Email on the profile page." />
@@ -53,13 +55,11 @@
       <item value="force-sync" />
       <item value="We were contacted by Nitzan with the fact that the site of the client uniquesandantiques.com went down. We raised the morning Backup on another server and switched DNS to it. After we raised other clients that were on the server. The server went down due to internet connection problems with the hosting provider." />
       <item value="К нам обратился Nitzan с тем что сайт клиента uniquesandantiques.com упал. Мы подняли утренний Backup на другом сервере и переключили на него DNS. После мы подняли других клиентов которые были на сервере. Сервер упал по причине проблем соединения с интернетом хостинг провайдера." />
-      <item value="We were contacted by Nitzan with the fact that the site of the client uniquesandantiques.com went down. We raised the morning Backup on another server and switched DNS to it. After we raised other clients that were on that server." />
-      <item value="К нам обратился Nitzan с тем что сайт клиента uniquesandantiques.com упал. Мы подняли утренний Backup на другом сервере и переключили на него DNS. После мы подняли других клиентов которые были на том сервере." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7703" />
+        <entry key="ENGLISH" value="7704" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7703" />
+        <entry key="RUSSIAN" value="7704" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
