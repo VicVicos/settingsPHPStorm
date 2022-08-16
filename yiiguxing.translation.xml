@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Только опишите что надо сделать." />
       <item value="Please don't change this option until we fix the bug with lots going to future publish." />
       <item value="Please don't change this option until we fix the bug with lots going to future posts." />
       <item value="Please don't change this option until we fix the bug with items going to pending posts." />
@@ -54,7 +55,6 @@
       <item value="Count to sync" />
       <item value="Number to sync" />
       <item value="Count lot sync" />
-      <item value="Sync any lots" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7707" />
+        <entry key="RUSSIAN" value="7708" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
