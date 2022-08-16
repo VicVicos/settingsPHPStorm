@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Forgive me" />
+      <item value="Простите меня" />
+      <item value="These changes lead to a bug." />
+      <item value="These changes lead to a similar bug." />
+      <item value="Эти изменения приводят к подобному багу." />
       <item value="As for the recent requests about the work of the plugin, I answered in emails." />
       <item value="As for the recent requests about the work of the plugin, I answered in letters." />
       <item value="Что касается надавних обращений по поводу работы плагина я ответил в письмах." />
@@ -50,16 +55,11 @@
       <item value="But I think your solution is also good." />
       <item value="But i think what your resolve is good." />
       <item value="Но я думаю что ваше решение тоже хорошее." />
-      <item value="But i think what your resolve good." />
-      <item value="OK. To solve this problem, it was necessary to assign the Contacts page in the settings for the plugin." />
-      <item value="Ok. Для решения этой проблемы надо было назначить страницу Контакты в настройках для плагина." />
-      <item value="I received an email from Fairhillauction. And he describes a problem on the site that I couldn't reproduce. Do you know anything about this problem?" />
-      <item value="Я получил письмо от Fairhillauction. И он описывает проблему на сайте которую я не смог воспроизвести. Вы знаете что либо об этой проблеме?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7712" />
+        <entry key="ENGLISH" value="7715" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7712" />
+        <entry key="RUSSIAN" value="7715" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
