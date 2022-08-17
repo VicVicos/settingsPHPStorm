@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Sorry! Someone has placed a bid on this Lot before you" />
+      <item value="Какая ссылка должна быть для аукциона на Иврите?" />
       <item value="Те же самые действия. Переходите в этот аукцион и нажимаете редактировать" />
       <item value="The registration process is intended for your security and privacy, and to enable optimal use of our site. Please follow instructions carefully." />
       <item value="Enter your such email below and click" />
@@ -53,13 +55,11 @@
       <item value="Please approve why features with credit card implement we can published." />
       <item value="Please approve what features with credit card implement we can published." />
       <item value="Doing gitlab maintenance for 30 min" />
-      <item value="uc-core extends" />
-      <item value="Я тоже не заметил проблем. Сейчас перепроверю ещё раз." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7723" />
+        <entry key="ENGLISH" value="7725" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7724" />
+        <entry key="RUSSIAN" value="7725" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
