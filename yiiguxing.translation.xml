@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If the synchronization process received these lots, then you made it available. You can hide the auction in the plugin settings by specifying the Wordpress taxonomy ID in the appropriate field. Don't forget to remove it when you want to post an auction." />
+      <item value="Если процесс синхронизации получил эти лоты, значит вы сделали доступным его. Скрыть аукцион можно в настройках плагина указав ID таксономии Wordpress в соответствующее поле. Не забудьте удалить его когда захотите опубликовать аукцион." />
       <item value="Sorry! Someone has placed a bid on this Lot before you" />
       <item value="Какая ссылка должна быть для аукциона на Иврите?" />
       <item value="Те же самые действия. Переходите в этот аукцион и нажимаете редактировать" />
@@ -53,13 +55,11 @@
       <item value="Пожалуйста, подтвердите, что мы можем опубликовать функции с кредитной картой." />
       <item value="Please approve that features with credit card implement we can published." />
       <item value="Please approve why features with credit card implement we can published." />
-      <item value="Please approve what features with credit card implement we can published." />
-      <item value="Doing gitlab maintenance for 30 min" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7725" />
+        <entry key="ENGLISH" value="7726" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7725" />
+        <entry key="RUSSIAN" value="7726" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
