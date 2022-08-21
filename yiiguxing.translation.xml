@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I think that if this plugin meets the requirements of the client, then so be it. If problems arise, we will deal with it. The login page can be protected with reCaptcha." />
+      <item value="Страницу авторизации можно защитить с помощью reCaptcha." />
+      <item value="I think that if this plugin meets the requirements of the client, then so be it. If problems arise, we will deal with it." />
+      <item value="В случае если проблемы появятся, то будем разбираться с этим." />
+      <item value="I think that if this plugin meets the requirements of the client, then so be it. If there are any problems, we will deal with it. The login page can be protected with reCaptcha." />
+      <item value="Я думаю что если этот плагин отвечает требованиям клиента, то пусть будет. В случае если возникнут проблемы, то будем разбираться с этим. Страницу авторизации можно защитить reCaptcha." />
+      <item value="No, but this is done for the security of the site." />
+      <item value="Нет, но это сделано для безопасности сайта." />
+      <item value="No, but it did to from secure site." />
+      <item value="There were problems with the server and to make the site work we did it." />
+      <item value="Были проблемы с сервером и что бы сайт работал мы сделали это." />
+      <item value="Yes. There were switching between the backup server and the current one. We can check for your edits on another server." />
+      <item value="Да. Были переключения между резервным сервером и текущим. Можем проверить наличие ваших правок на другом сервере." />
+      <item value="Что вы хотите сделать?" />
       <item value="Enter to live auction" />
       <item value="Enter live auction" />
       <item value="Past auction" />
@@ -41,25 +55,11 @@
       <item value="As for the recent requests about the work of the plugin, I answered in letters." />
       <item value="Что касается надавних обращений по поводу работы плагина я ответил в письмах." />
       <item value="The functionality of hidden auctions in the plugin is implemented separately from Bidspirit. In order to hide the auction, you need to specify the WordPress taxonomy ID in the plugin settings. I am attaching a couple of screenshots for clarification." />
-      <item value="Функционал скрытых аукционов в плагине реализован отдельно от Bidspirit. Для того что бы скрыть аукцион, надо в настройках плагина указать ID таксономии WordPress. Прикладываю пару скриншотов для пояснения." />
-      <item value="The auction works like a post auction, but is displayed in the archives. Display it on the page of future sales as it is done on Bidspirit, we do not have such functionality in the plugin." />
-      <item value="Аукцион работает как post auction, но отображается в архивных. Отображать его на странице будущих продаж как это сделано на Bidspirit такого функционала у нас нет в плагине." />
-      <item value="Только опишите что надо сделать." />
-      <item value="Please don't change this option until we fix the bug with lots going to future publish." />
-      <item value="Please don't change this option until we fix the bug with lots going to future posts." />
-      <item value="Please don't change this option until we fix the bug with items going to pending posts." />
-      <item value="Пожалуйста, не изменяй эту опцию пока мы не исправим баг с тем что лоты уходят в отложенные публикации." />
-      <item value="Do you mean a specific block or the entire page?" />
-      <item value="Вы имеете в виду какой-то конкретный блок или всю страницу целиком?" />
-      <item value="Did you find how to change this picture?" />
-      <item value="Вы нашли как изменить этй картинку?" />
-      <item value="1) We will add the feature to change Email on the profile page." />
-      <item value="Мы добавим возможность изменять Email на странице профиля." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7736" />
+        <entry key="ENGLISH" value="7745" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7736" />
+        <entry key="RUSSIAN" value="7745" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
