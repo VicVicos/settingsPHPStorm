@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="You. We don't have access for your domain dns records." />
+      <item value="We don't have access for your domain dns records." />
       <item value="We have launched a new server for your site. Please change the A records for your domain to ip: 161.97.104.29" />
       <item value="Мы подняли новый сервер для вашего сайта. Пожалуйста, поменяйте A записи для вашего домена на ip: 161.97.104.29" />
       <item value="Мы подняли новый сервер. Пожалуйста поменяйте A записи для вашего домена на ip: 161.97.104.29" />
@@ -53,13 +55,11 @@
       <item value="Подскажите, пожалуйста есть ли у клиента на Bidspirit контент на двух языках? То контент что я получил идёт в перемешку Английский и Иврит." />
       <item value="greed Switch" />
       <item value="grid Switch" />
-      <item value="Forgive me" />
-      <item value="Простите меня" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7749" />
+        <entry key="ENGLISH" value="7751" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7749" />
+        <entry key="RUSSIAN" value="7751" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
