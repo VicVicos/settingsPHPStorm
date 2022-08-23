@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ok. We had problems with the previous server and we had to fix this problem. Now the site is on another server where there should be no problems with the Internet connection and the site transfers will stop." />
+      <item value="Ok. Мы имели проблемы с прошлым сервером, и мы должны были решить эту проблему. Сейчас сайт на другом сервере где не должно быть проблем с интернет соединением и переносы сайта прекратятся." />
+      <item value="Yes, I got the message you sent to Nitzan." />
+      <item value="Yes, мне передали сообщение которое вы направили для Nitzan." />
+      <item value="Do you know what changes 2bidonit.com made on the site that we lost when restoring a backup?" />
+      <item value="Вы знаете какие изменения на сайте делали 2bidonit.com которые мы теряли с восстановлением резервной копии?" />
       <item value="You. We don't have access for your domain dns records." />
       <item value="We don't have access for your domain dns records." />
       <item value="We have launched a new server for your site. Please change the A records for your domain to ip: 161.97.104.29" />
@@ -49,17 +55,11 @@
       <item value="Enter your such email below and click" />
       <item value="Enter your such email below and click \&quot;Forgot your password?\&quot; again" />
       <item value="This is a common block for all Overview" />
-      <item value="Это общий блок для всех Overview" />
-      <item value="Мультиязычности нет?" />
-      <item value="Can you please tell me if the client on Bidspirit has content in two languages? The content that I received is a mix of English and Hebrew." />
-      <item value="Подскажите, пожалуйста есть ли у клиента на Bidspirit контент на двух языках? То контент что я получил идёт в перемешку Английский и Иврит." />
-      <item value="greed Switch" />
-      <item value="grid Switch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7751" />
+        <entry key="ENGLISH" value="7754" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7751" />
+        <entry key="RUSSIAN" value="7754" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
