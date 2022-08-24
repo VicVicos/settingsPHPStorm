@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="It is difficult for me to say how to describe it in English, I will bring Vitaly up to date." />
+      <item value="Мне сложно сказать описать это на Английском, я введу в курс дела Виталия." />
+      <item value="The plugin has been automatically updated, cannot do this on your site without prior preparation." />
+      <item value="The plugin has been automatically updated, you cannot do this on your site without prior preparation." />
+      <item value="Произошло автоматическое обновление плагина, на вашем сайте без предварительной подготовки этого нельзя делать." />
+      <item value="I will return the state of the site in the morning." />
+      <item value="Я верну состояние сайта на утро." />
+      <item value="Я откачу состояние сайта на утро." />
       <item value="Have you made any changes to the site today?" />
       <item value="Сегодня вы вносили какие либо изменения на сайте?" />
       <item value="Да. С этим могут возникнуть проблемы в случае если на сервере большая нагрузка." />
@@ -47,19 +55,11 @@
       <item value="Вы знаете какие изменения на сайте делали 2bidonit.com которые мы теряли с восстановлением резервной копии?" />
       <item value="You. We don't have access for your domain dns records." />
       <item value="We don't have access for your domain dns records." />
-      <item value="We have launched a new server for your site. Please change the A records for your domain to ip: 161.97.104.29" />
-      <item value="Мы подняли новый сервер для вашего сайта. Пожалуйста, поменяйте A записи для вашего домена на ip: 161.97.104.29" />
-      <item value="Мы подняли новый сервер. Пожалуйста поменяйте A записи для вашего домена на ip: 161.97.104.29" />
-      <item value="Do you want us to improve this feature using the auction number?" />
-      <item value="Вы хотите что бы мы доработали эту фичу с использованием номера аукциона?" />
-      <item value="Do you want us to finalize it using the auction number?" />
-      <item value="Вы хотите что бы мы доработали это с использованием номера аукциона?" />
-      <item value="I think that if this plugin meets the requirements of the client, then so be it. If problems arise, we will deal with it. The login page can be protected with reCaptcha." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7780" />
+        <entry key="ENGLISH" value="7785" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7780" />
+        <entry key="RUSSIAN" value="7785" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
