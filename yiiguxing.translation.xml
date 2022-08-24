@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Interesting: This is a redesigned manual synchronization process, it is at the bottom of the history page." />
+      <item value="Из интересного: это переработанный процесс ручной синхронизации, он находится внизу страницы истории." />
+      <item value="We have published a major update to the plugin which includes a lot of sync changes. We tested it for a long time before publishing, but still would like to notify about it." />
+      <item value="Мы опубликовали большое обновление для плагина, которое включает в себя множество изменений с синхронизацией. Мы долгое время тестировали его перед публикацией, но всё равно хотел бы уведомить об этом." />
       <item value="headers_sent will return false if no HTTP headers have already been sent or true otherwise." />
       <item value="class Trigger" />
       <item value="This is a conflict from the old version of the plugin and some changes in the template for this client. In the future, with updates, this problem will not arise." />
@@ -51,15 +55,11 @@
       <item value="No, but it did to from secure site." />
       <item value="There were problems with the server and to make the site work we did it." />
       <item value="Были проблемы с сервером и что бы сайт работал мы сделали это." />
-      <item value="Yes. There were switching between the backup server and the current one. We can check for your edits on another server." />
-      <item value="Да. Были переключения между резервным сервером и текущим. Можем проверить наличие ваших правок на другом сервере." />
-      <item value="Что вы хотите сделать?" />
-      <item value="Enter to live auction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7771" />
+        <entry key="ENGLISH" value="7773" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7771" />
+        <entry key="RUSSIAN" value="7773" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
