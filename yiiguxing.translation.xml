@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Да. С этим могут возникнуть проблемы в случае если на сервере большая нагрузка." />
+      <item value="I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
+      <item value="After this update, the plugin starts migrating to a more streamlined sync process and once completed you can experiment with values up to 100 with new auctions. I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
+      <item value="После этого обновления плагин начинает миграцию на более оптимизированный процесс синхронизации и после завершения вы можете поэкспериментировать со значениями до 100 с новыми аукционами. Индикацию о завершении миграции я пока не реализовал, постараюсь добавить её в следующем обновлении." />
+      <item value="After this update, the plugin starts migrating to a more streamlined sync process and once completed you can experiment with values up to 100 on new auction days. I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
+      <item value="После этого обновления плагин начинает миграцию на более оптимизированный процесс синхронизации и после завершения вы можете поэкспериментировать со значениями до 100 в дни публикации новых аукционов. Индикацию о завершении миграции я пока не реализовал, постараюсь добавить её в следующем обновлении." />
+      <item value="This is the number of records that will be updated when the Sync data process starts." />
+      <item value="Это количество записей которое будет обновлено при запуске Sync data процесса." />
       <item value="Interesting: This is a redesigned manual synchronization process, it is at the bottom of the history page." />
       <item value="Из интересного: это переработанный процесс ручной синхронизации, он находится внизу страницы истории." />
       <item value="We have published a major update to the plugin which includes a lot of sync changes. We tested it for a long time before publishing, but still would like to notify about it." />
@@ -47,19 +55,11 @@
       <item value="I think that if this plugin meets the requirements of the client, then so be it. If problems arise, we will deal with it. The login page can be protected with reCaptcha." />
       <item value="Страницу авторизации можно защитить с помощью reCaptcha." />
       <item value="I think that if this plugin meets the requirements of the client, then so be it. If problems arise, we will deal with it." />
-      <item value="В случае если проблемы появятся, то будем разбираться с этим." />
-      <item value="I think that if this plugin meets the requirements of the client, then so be it. If there are any problems, we will deal with it. The login page can be protected with reCaptcha." />
-      <item value="Я думаю что если этот плагин отвечает требованиям клиента, то пусть будет. В случае если возникнут проблемы, то будем разбираться с этим. Страницу авторизации можно защитить reCaptcha." />
-      <item value="No, but this is done for the security of the site." />
-      <item value="Нет, но это сделано для безопасности сайта." />
-      <item value="No, but it did to from secure site." />
-      <item value="There were problems with the server and to make the site work we did it." />
-      <item value="Были проблемы с сервером и что бы сайт работал мы сделали это." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7773" />
+        <entry key="ENGLISH" value="7778" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7773" />
+        <entry key="RUSSIAN" value="7779" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
