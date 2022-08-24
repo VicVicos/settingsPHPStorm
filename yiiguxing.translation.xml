@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Have you made any changes to the site today?" />
+      <item value="Сегодня вы вносили какие либо изменения на сайте?" />
       <item value="Да. С этим могут возникнуть проблемы в случае если на сервере большая нагрузка." />
       <item value="I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
       <item value="After this update, the plugin starts migrating to a more streamlined sync process and once completed you can experiment with values up to 100 with new auctions. I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
@@ -53,13 +55,11 @@
       <item value="Do you want us to finalize it using the auction number?" />
       <item value="Вы хотите что бы мы доработали это с использованием номера аукциона?" />
       <item value="I think that if this plugin meets the requirements of the client, then so be it. If problems arise, we will deal with it. The login page can be protected with reCaptcha." />
-      <item value="Страницу авторизации можно защитить с помощью reCaptcha." />
-      <item value="I think that if this plugin meets the requirements of the client, then so be it. If problems arise, we will deal with it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7778" />
+        <entry key="ENGLISH" value="7780" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7779" />
+        <entry key="RUSSIAN" value="7780" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
