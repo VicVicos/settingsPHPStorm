@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This is a conflict from the old version of the plugin and some changes in the template for this client. In the future, with updates, this problem will not arise." />
+      <item value="Это конфликт от старой версии плагина и некоторых изменений в шаблоне для этого клиента. В дальнейшем с обновлениями такой проблемы не возникнет." />
       <item value="I can test this code on another site to see if it works and I haven't missed anything." />
       <item value="Я могу проверить этот код на другом сайте, что бы проверить что он работает и я ни чего не упустил." />
       <item value="Approve and that you will be able to contact the client to create an FTP account. I previously had access to their hosting and created access, but now it is blocked." />
@@ -53,13 +55,11 @@
       <item value="Enter to live auction" />
       <item value="Enter live auction" />
       <item value="Past auction" />
-      <item value="upcoming" />
-      <item value="There may be one client with no scheduled auctions that received this update as a test." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7767" />
+        <entry key="ENGLISH" value="7769" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7767" />
+        <entry key="RUSSIAN" value="7769" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
