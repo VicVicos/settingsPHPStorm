@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This we have discussed with regard to the label with percentages. And what is the problem with noname, I can’t even imagine here, I have to look." />
+      <item value="Это мы обсудили что касается лэйбла с процентами. А что за проблема с noname, тут даже представить не могу, надо смотреть." />
+      <item value="масса" />
+      <item value="вес" />
+      <item value="объём" />
       <item value="The cause of this problem has been corrected." />
       <item value="Причину возникновения этой проблемы исправил." />
       <item value="adjust the object to correct timestamp" />
@@ -50,16 +55,11 @@
       <item value="Thanks! I fined problem. One moment." />
       <item value="Thanks! I founded problem. One moment." />
       <item value="Auction is skipped. pdf-replace" />
-      <item value="Ok. We had problems with the previous server and we had to fix this problem. Now the site is on another server where there should be no problems with the Internet connection and the site transfers will stop." />
-      <item value="Ok. Мы имели проблемы с прошлым сервером, и мы должны были решить эту проблему. Сейчас сайт на другом сервере где не должно быть проблем с интернет соединением и переносы сайта прекратятся." />
-      <item value="Yes, I got the message you sent to Nitzan." />
-      <item value="Yes, мне передали сообщение которое вы направили для Nitzan." />
-      <item value="Do you know what changes 2bidonit.com made on the site that we lost when restoring a backup?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7787" />
+        <entry key="ENGLISH" value="7791" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7787" />
+        <entry key="RUSSIAN" value="7791" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
