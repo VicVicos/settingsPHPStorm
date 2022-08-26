@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="arrow Parens" />
       <item value="I will restart the sync on the old server." />
       <item value="Я перезапущу синхронизацию на старом сервере." />
       <item value="I see that you have not changed the NS records and your site is still accessible from the old server. I checked and there are no problems with duplicate lots." />
@@ -54,7 +55,6 @@
       <item value="Я не могу использовать плагин FTP для этого, так как если я ошибусь, то весь сайт упадёт." />
       <item value="Но учетные данные FTP не работают" />
       <item value="Но учетные данные FTP не подходят" />
-      <item value="But FTP credentials don't clear" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7793" />
+        <entry key="RUSSIAN" value="7794" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -77,7 +77,7 @@
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="2" />
         <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="8" />
         <entry key="MALTESE" value="1" />
