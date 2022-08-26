@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Duplicate lots on danaauction have disappeared. I did not have time to understand why they arose." />
+      <item value="Дубли лотов на danaauction исчезли. Я не успел понять по какой причине они возникли." />
       <item value="Я нашёл этот параметр" />
       <item value="Which parameter determines if the bidding confirmation function with a credit card is active?" />
       <item value="Which parameter determines if the bidding confirmation function with a credit card is active? We've run into an issue where the confiscatedassets client needs to have this feature disabled. I did not find this option in the documentation." />
@@ -53,13 +55,11 @@
       <item value="class Trigger" />
       <item value="This is a conflict from the old version of the plugin and some changes in the template for this client. In the future, with updates, this problem will not arise." />
       <item value="Это конфликт от старой версии плагина и некоторых изменений в шаблоне для этого клиента. В дальнейшем с обновлениями такой проблемы не возникнет." />
-      <item value="I can test this code on another site to see if it works and I haven't missed anything." />
-      <item value="Я могу проверить этот код на другом сайте, что бы проверить что он работает и я ни чего не упустил." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7800" />
+        <entry key="ENGLISH" value="7802" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7801" />
+        <entry key="RUSSIAN" value="7802" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
