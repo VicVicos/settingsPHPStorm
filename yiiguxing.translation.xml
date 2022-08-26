@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="What is the default value for vat commission?" />
+      <item value="What is the default value for tax commission?" />
+      <item value="Какое дефолтное значение для комиссии на налог?" />
       <item value="arrow Parens" />
       <item value="I will restart the sync on the old server." />
       <item value="Я перезапущу синхронизацию на старом сервере." />
@@ -52,14 +55,11 @@
       <item value="Я должен предупредить." />
       <item value="There is one moment. If I'm wrong, the whole site may crash and we'll be forced to look for FTP access." />
       <item value="Есть один момент. Если я ошибусь, то весь сайт может упасть и мы будем вынуждены искать FTP доступ." />
-      <item value="Я не могу использовать плагин FTP для этого, так как если я ошибусь, то весь сайт упадёт." />
-      <item value="Но учетные данные FTP не работают" />
-      <item value="Но учетные данные FTP не подходят" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7793" />
+        <entry key="ENGLISH" value="7796" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7794" />
+        <entry key="RUSSIAN" value="7796" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
