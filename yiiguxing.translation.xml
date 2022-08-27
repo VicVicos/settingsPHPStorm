@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I fixed it and am ready to post an update where this bug is fixed." />
+      <item value="Я исправил это и готов опубликовать обновление, где эта ошибка исправлена." />
+      <item value="I've prepared an update with this fix, but haven't made it public yet. I will do it tomorrow." />
+      <item value="Я подготовил обновление с этим исправлением, но пока не стал публиковать его. Я сделаю это завтра." />
       <item value="Duplicate lots on danaauction have disappeared. I did not have time to understand why they arose." />
       <item value="Дубли лотов на danaauction исчезли. Я не успел понять по какой причине они возникли." />
       <item value="Я нашёл этот параметр" />
@@ -51,15 +55,11 @@
       <item value="Из интересного: это переработанный процесс ручной синхронизации, он находится внизу страницы истории." />
       <item value="We have published a major update to the plugin which includes a lot of sync changes. We tested it for a long time before publishing, but still would like to notify about it." />
       <item value="Мы опубликовали большое обновление для плагина, которое включает в себя множество изменений с синхронизацией. Мы долгое время тестировали его перед публикацией, но всё равно хотел бы уведомить об этом." />
-      <item value="headers_sent will return false if no HTTP headers have already been sent or true otherwise." />
-      <item value="class Trigger" />
-      <item value="This is a conflict from the old version of the plugin and some changes in the template for this client. In the future, with updates, this problem will not arise." />
-      <item value="Это конфликт от старой версии плагина и некоторых изменений в шаблоне для этого клиента. В дальнейшем с обновлениями такой проблемы не возникнет." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7802" />
+        <entry key="ENGLISH" value="7804" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7802" />
+        <entry key="RUSSIAN" value="7804" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -102,6 +102,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661099813842" />
+    <option name="lastTrimTime" value="1661532800776" />
   </component>
 </application>
