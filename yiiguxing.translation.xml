@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Это не проблема. После обновления установится 0.9 версия." />
       <item value="I'll check it out a bit later as well." />
       <item value="Я тоже займусь проверками чуть позднее." />
       <item value="I fixed it and am ready to post an update where this bug is fixed." />
@@ -54,7 +55,6 @@
       <item value="This is the number of records that will be updated when the Sync data process starts." />
       <item value="Это количество записей которое будет обновлено при запуске Sync data процесса." />
       <item value="Interesting: This is a redesigned manual synchronization process, it is at the bottom of the history page." />
-      <item value="Из интересного: это переработанный процесс ручной синхронизации, он находится внизу страницы истории." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7805" />
+        <entry key="RUSSIAN" value="7806" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
