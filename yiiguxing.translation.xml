@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Yes, after the plugin update we lost your favorites lots. I posted random lots. Can you tell us the lot numbers that should be displayed here?" />
+      <item value="Yes, after the plugin update we lost your favorites. I posted random lots. Can you tell us the lot numbers that should be displayed here?" />
+      <item value="Yes, after the plugin update we lost our favorites. I posted random lots. Can you tell us the lot numbers that should be displayed here?" />
+      <item value="Да, после обновления плагина мы потеряли избранные лоты. Я выставил произвольные лоты. Вы можете сообщить нам номера лотов которые должны быть здесь отображены?" />
       <item value="Это не проблема. После обновления установится 0.9 версия." />
       <item value="I'll check it out a bit later as well." />
       <item value="Я тоже займусь проверками чуть позднее." />
@@ -51,15 +55,11 @@
       <item value="After this update, the plugin starts migrating to a more streamlined sync process and once completed you can experiment with values up to 100 with new auctions. I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
       <item value="После этого обновления плагин начинает миграцию на более оптимизированный процесс синхронизации и после завершения вы можете поэкспериментировать со значениями до 100 с новыми аукционами. Индикацию о завершении миграции я пока не реализовал, постараюсь добавить её в следующем обновлении." />
       <item value="After this update, the plugin starts migrating to a more streamlined sync process and once completed you can experiment with values up to 100 on new auction days. I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
-      <item value="После этого обновления плагин начинает миграцию на более оптимизированный процесс синхронизации и после завершения вы можете поэкспериментировать со значениями до 100 в дни публикации новых аукционов. Индикацию о завершении миграции я пока не реализовал, постараюсь добавить её в следующем обновлении." />
-      <item value="This is the number of records that will be updated when the Sync data process starts." />
-      <item value="Это количество записей которое будет обновлено при запуске Sync data процесса." />
-      <item value="Interesting: This is a redesigned manual synchronization process, it is at the bottom of the history page." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7805" />
+        <entry key="ENGLISH" value="7809" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7806" />
+        <entry key="RUSSIAN" value="7809" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
