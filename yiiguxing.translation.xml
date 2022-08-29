@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I specified the condition that buyout price &gt;= start price" />
+      <item value="Я указал условие что buyout price &gt;= start price" />
+      <item value="Я указал не корректную цену выкупа." />
       <item value="You can check? Is everything taken into account or is there something else that needs to be done?" />
       <item value="Можете проверить? Всё учтено или что-то надо ещё сделать?" />
       <item value="OK. Unless the condition is the purchase price. Do I need to get all lots with a set buyout price in order to display them on the shop page? I think this will be a problem. Or are we going to specify a separate auction for this?" />
@@ -52,14 +55,11 @@
       <item value="The cause of this problem has been corrected." />
       <item value="Причину возникновения этой проблемы исправил." />
       <item value="adjust the object to correct timestamp" />
-      <item value="It is difficult for me to say how to describe it in English, I will bring Vitaly up to date." />
-      <item value="Мне сложно сказать описать это на Английском, я введу в курс дела Виталия." />
-      <item value="The plugin has been automatically updated, cannot do this on your site without prior preparation." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7818" />
+        <entry key="ENGLISH" value="7820" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7818" />
+        <entry key="RUSSIAN" value="7820" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
