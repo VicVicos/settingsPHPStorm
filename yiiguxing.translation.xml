@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Auction From Settings" />
+      <item value="get Auction From Options" />
+      <item value="Auctions as shop" />
       <item value="Это состояние на странице сохраняется сейчас?" />
       <item value="after delete" />
       <item value="after Delete" />
@@ -52,14 +55,11 @@
       <item value="Я верну состояние сайта на утро." />
       <item value="Я откачу состояние сайта на утро." />
       <item value="Have you made any changes to the site today?" />
-      <item value="Сегодня вы вносили какие либо изменения на сайте?" />
-      <item value="Да. С этим могут возникнуть проблемы в случае если на сервере большая нагрузка." />
-      <item value="I have not yet implemented an indication of the completion of the migration, I will try to add it in the next update." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7811" />
+        <entry key="ENGLISH" value="7814" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7812" />
+        <entry key="RUSSIAN" value="7814" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
