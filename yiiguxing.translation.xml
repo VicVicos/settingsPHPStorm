@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="You can check? Is everything taken into account or is there something else that needs to be done?" />
+      <item value="Можете проверить? Всё учтено или что-то надо ещё сделать?" />
       <item value="OK. Unless the condition is the purchase price. Do I need to get all lots with a set buyout price in order to display them on the shop page? I think this will be a problem. Or are we going to specify a separate auction for this?" />
       <item value="Ok. Если только условием будет цена покупки. Мне нужно получить все лоты с установленной ценой выкупа для отображения их на странице магазина? Думаю с этим будет проблема. Или всё же мы для этого будем указывать отдельную аукцион?" />
       <item value="Ok. If only condition will be purchase price. I need get all lots with" />
@@ -53,13 +55,11 @@
       <item value="It is difficult for me to say how to describe it in English, I will bring Vitaly up to date." />
       <item value="Мне сложно сказать описать это на Английском, я введу в курс дела Виталия." />
       <item value="The plugin has been automatically updated, cannot do this on your site without prior preparation." />
-      <item value="The plugin has been automatically updated, you cannot do this on your site without prior preparation." />
-      <item value="Произошло автоматическое обновление плагина, на вашем сайте без предварительной подготовки этого нельзя делать." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7817" />
+        <entry key="ENGLISH" value="7818" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7817" />
+        <entry key="RUSSIAN" value="7818" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
