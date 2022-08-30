@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Added shop feature and other fixes" />
+      <item value="Added feature shop and other fixes" />
+      <item value="Могу сделать это сейчас." />
       <item value="Tag List Woocommerce" />
       <item value="Do I understand correctly that on this tab you want to display the hours of the auction?" />
       <item value="Правильно ли я понимаю что на этой вкладке вы хотите отображать часы проведения аукциона?" />
@@ -52,14 +55,11 @@
       <item value="Yes, after the plugin update we lost our favorites. I posted random lots. Can you tell us the lot numbers that should be displayed here?" />
       <item value="Да, после обновления плагина мы потеряли избранные лоты. Я выставил произвольные лоты. Вы можете сообщить нам номера лотов которые должны быть здесь отображены?" />
       <item value="Это не проблема. После обновления установится 0.9 версия." />
-      <item value="I'll check it out a bit later as well." />
-      <item value="Я тоже займусь проверками чуть позднее." />
-      <item value="I fixed it and am ready to post an update where this bug is fixed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7837" />
+        <entry key="ENGLISH" value="7839" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7837" />
+        <entry key="RUSSIAN" value="7839" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
