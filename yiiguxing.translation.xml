@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="styles for grid types" />
+      <item value="Это обновление пока не доступно для других аукционных домов." />
       <item value="Can. I'll ask Arbel Raz about it. He solves such issues." />
       <item value="Можем. Я спрошу об этом Arbel Raz. Он решает такие вопросы." />
       <item value="Can, i send this asked for Arbel Raz. He" />
@@ -53,13 +55,11 @@
       <item value="Я должен отойти на 1 час, вернусь и исправлю этот момент." />
       <item value="Я должен уточнить это у Bidspirit" />
       <item value="What is the default value for vat commission?" />
-      <item value="What is the default value for tax commission?" />
-      <item value="Какое дефолтное значение для комиссии на налог?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7828" />
+        <entry key="ENGLISH" value="7829" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7828" />
+        <entry key="RUSSIAN" value="7829" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
