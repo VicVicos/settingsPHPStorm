@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="We can use the presence of a token for webhooks for this." />
+      <item value="Можем использовать для этого наличие токена для вебхуков." />
+      <item value="Yes, Stephen Binkley wanted to discuss this feature and says that it is not needed on the sites." />
+      <item value="But Steve wanted to discuss this feature and says that it is not needed on the sites. He said he would talk to you about it." />
+      <item value="Но Стив хотел обсудить эту фичу и говорит что она не нужна на сайтах. Сказал поговорит с вами на счёт этого." />
+      <item value="How can I enable auction Info.payment Method Required for auction 254 for us demo account?" />
+      <item value="Как я могу включить auctionInfo.paymentMethodRequired для аукциона 254 for us demo account?" />
       <item value="web 2_grid type switch module" />
       <item value="web2_grid_type_switch web2_grid_type_switch web2_grid_type_switch" />
       <item value="styles for grid types" />
@@ -48,18 +55,11 @@
       <item value="Я исправил это и готов опубликовать обновление, где эта ошибка исправлена." />
       <item value="I've prepared an update with this fix, but haven't made it public yet. I will do it tomorrow." />
       <item value="Я подготовил обновление с этим исправлением, но пока не стал публиковать его. Я сделаю это завтра." />
-      <item value="Duplicate lots on danaauction have disappeared. I did not have time to understand why they arose." />
-      <item value="Дубли лотов на danaauction исчезли. Я не успел понять по какой причине они возникли." />
-      <item value="Я нашёл этот параметр" />
-      <item value="Which parameter determines if the bidding confirmation function with a credit card is active?" />
-      <item value="Which parameter determines if the bidding confirmation function with a credit card is active? We've run into an issue where the confiscatedassets client needs to have this feature disabled. I did not find this option in the documentation." />
-      <item value="Какой параметр определяет активна ли функция подтверждения участия в торгах с помощью кредитной карты? Мы столкнулись с проблемой, что для клиента confiscatedassets.bidspirit.com эта функция должна быть отключена. В документации я не нашёл этот параметр." />
-      <item value="Я должен отойти на 1 час, вернусь и исправлю этот момент." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7831" />
+        <entry key="ENGLISH" value="7835" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7831" />
+        <entry key="RUSSIAN" value="7835" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
