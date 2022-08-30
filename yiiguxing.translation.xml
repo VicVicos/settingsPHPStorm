@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Can. I'll ask Arbel Raz about it. He solves such issues." />
+      <item value="Можем. Я спрошу об этом Arbel Raz. Он решает такие вопросы." />
+      <item value="Can, i send this asked for Arbel Raz. He" />
+      <item value="This interacts with the Bidspirit API. Applications for auction houses are under development. We're having some issues with the iOS implementation, but we'll fix the issues soon." />
+      <item value="У нас возникли проблемы с реализацией для iOS, но скоро решим проблемы." />
+      <item value="This interacts with the Bidspirit API. Applications for auction houses are under development. We're having some issues with the iOS implementation, but we'll get to that soon." />
+      <item value="Это взаимодействует с API Bidspirit. Приложения для аукционных домов в процессе разработки. У нас возникли проблемы с реализацией для iOS, но скоро мы с этим разберёмся." />
+      <item value="Это взаимодействует с API Bidspirit. Приложения для аукционных домов в процессе разработки. У нас возникли проблемы с реализацией для iOS." />
+      <item value="We were asked to add this feature." />
+      <item value="Нас попросили добавить эту фичу." />
+      <item value="Я думаю это в общем уведомления от Bidspirit." />
+      <item value="Is everything taken into account? Can we finish this task?" />
+      <item value="Всё учтёно? Можем заканчивать с этой задачей?" />
       <item value="I specified the condition that buyout price &gt;= start price" />
       <item value="Я указал условие что buyout price &gt;= start price" />
       <item value="Я указал не корректную цену выкупа." />
@@ -42,24 +55,11 @@
       <item value="What is the default value for vat commission?" />
       <item value="What is the default value for tax commission?" />
       <item value="Какое дефолтное значение для комиссии на налог?" />
-      <item value="arrow Parens" />
-      <item value="I will restart the sync on the old server." />
-      <item value="Я перезапущу синхронизацию на старом сервере." />
-      <item value="I see that you have not changed the NS records and your site is still accessible from the old server. I checked and there are no problems with duplicate lots." />
-      <item value="Я вижу что вы не изменили NS записи и ваш сайт всё ещё доступен со старого сервера. Я проверил и там проблемы с дублями лотов нет." />
-      <item value="This we have discussed with regard to the label with percentages. And what is the problem with noname, I can’t even imagine here, I have to look." />
-      <item value="Это мы обсудили что касается лэйбла с процентами. А что за проблема с noname, тут даже представить не могу, надо смотреть." />
-      <item value="масса" />
-      <item value="вес" />
-      <item value="объём" />
-      <item value="The cause of this problem has been corrected." />
-      <item value="Причину возникновения этой проблемы исправил." />
-      <item value="adjust the object to correct timestamp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7820" />
+        <entry key="ENGLISH" value="7828" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7820" />
+        <entry key="RUSSIAN" value="7828" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
