@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="We are working on a plugin with Bidspirit. Please contact with Stephen Binkley" />
+      <item value="Мы работаем над плагином совместно с Bidspirit." />
+      <item value="Please contact with Stephen Binkley" />
+      <item value="Вы не состоите в группе WhatApp appelauction.com" />
+      <item value="Я разработчик плагина UCO Auctions. Моя учётная запись создана лишь для тестов на сайте." />
+      <item value="I'm not very good at spoken English." />
+      <item value="Я не очень силён в разговорном английском." />
       <item value="Это должно было быть исправлено" />
       <item value="Added shop feature and other fixes" />
       <item value="Added feature shop and other fixes" />
@@ -48,18 +55,11 @@
       <item value="get Auction From Settings" />
       <item value="get Auction From Options" />
       <item value="Auctions as shop" />
-      <item value="Это состояние на странице сохраняется сейчас?" />
-      <item value="after delete" />
-      <item value="after Delete" />
-      <item value="Yes, after the plugin update we lost your favorites lots. I posted random lots. Can you tell us the lot numbers that should be displayed here?" />
-      <item value="Yes, after the plugin update we lost your favorites. I posted random lots. Can you tell us the lot numbers that should be displayed here?" />
-      <item value="Yes, after the plugin update we lost our favorites. I posted random lots. Can you tell us the lot numbers that should be displayed here?" />
-      <item value="Да, после обновления плагина мы потеряли избранные лоты. Я выставил произвольные лоты. Вы можете сообщить нам номера лотов которые должны быть здесь отображены?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7839" />
+        <entry key="ENGLISH" value="7844" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7840" />
+        <entry key="RUSSIAN" value="7844" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
