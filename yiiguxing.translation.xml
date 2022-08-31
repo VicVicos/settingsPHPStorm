@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Maquetador de temas" />
+      <item value="Ajustes del sitio" />
       <item value="Downloading backup archives through the browser is disabled by default because it's likely that another plugin or PHP may add unexpected date at the beginning or the end of the backup archive. This would corrupt (break) the backup archives you download through the browser, making them impossible to restore." />
       <item value="We are working on a plugin with Bidspirit. Please contact with Stephen Binkley" />
       <item value="Мы работаем над плагином совместно с Bidspirit." />
@@ -53,8 +55,6 @@
       <item value="Ok. Если только условием будет цена покупки. Мне нужно получить все лоты с установленной ценой выкупа для отображения их на странице магазина? Думаю с этим будет проблема. Или всё же мы для этого будем указывать отдельную аукцион?" />
       <item value="Ok. If only condition will be purchase price. I need get all lots with" />
       <item value="is Auction Shop" />
-      <item value="get Auction From Settings" />
-      <item value="get Auction From Options" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7845" />
+        <entry key="RUSSIAN" value="7846" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -92,7 +92,7 @@
         <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
-        <entry key="SPANISH" value="8" />
+        <entry key="SPANISH" value="10" />
         <entry key="HEBREW" value="213" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
