@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="auctions Count" />
+      <item value="auction Count" />
+      <item value="I made a required requirement in the php 7.4 version plugin. I will have to fix this in future versions." />
+      <item value="I made it a required requirement in the php 7.4 version plugin. I will have to fix this in future versions." />
+      <item value="Я сделал обязательным требованием в плагине версии php 7.4. Я должен буду это исправить в следующих версиях." />
+      <item value="Проблему с ошибкой в плагине исправлю." />
+      <item value="Please check if php version 7.4 is available on your hosting provider? If possible, switch it." />
+      <item value="Please check if php version 7.4 is available on your hosting provider? If possible, switch your site." />
+      <item value="Пожалуйста проверьте доступна ли php версия 7.4 на вашем хостинг провайдере? Если есть возможность переключите ваш сайт." />
       <item value="We moved the discussion of this issue to next week. And if you have questions about development, send messages to the group with the client, do not write to me personally." />
       <item value="We moved the discussion of this problem to next week. And if you have questions about development, send messages to the group with the client, do not write to me personally." />
       <item value="Мы вынесли обсуждение этой задачи на следующую неделю. И в случае если возникают вопросы по разработке присылайте сообщения в группу с клиентом, не пишите лично мне." />
@@ -46,20 +55,11 @@
       <item value="But Steve wanted to discuss this feature and says that it is not needed on the sites. He said he would talk to you about it." />
       <item value="Но Стив хотел обсудить эту фичу и говорит что она не нужна на сайтах. Сказал поговорит с вами на счёт этого." />
       <item value="How can I enable auction Info.payment Method Required for auction 254 for us demo account?" />
-      <item value="Как я могу включить auctionInfo.paymentMethodRequired для аукциона 254 for us demo account?" />
-      <item value="web 2_grid type switch module" />
-      <item value="web2_grid_type_switch web2_grid_type_switch web2_grid_type_switch" />
-      <item value="styles for grid types" />
-      <item value="Это обновление пока не доступно для других аукционных домов." />
-      <item value="Can. I'll ask Arbel Raz about it. He solves such issues." />
-      <item value="Можем. Я спрошу об этом Arbel Raz. Он решает такие вопросы." />
-      <item value="Can, i send this asked for Arbel Raz. He" />
-      <item value="This interacts with the Bidspirit API. Applications for auction houses are under development. We're having some issues with the iOS implementation, but we'll fix the issues soon." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7863" />
+        <entry key="ENGLISH" value="7870" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7863" />
+        <entry key="RUSSIAN" value="7870" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
