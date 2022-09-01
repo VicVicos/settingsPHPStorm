@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="After the user confirms his email he is redirected to a page where he can add more details - phone, address, etc. only after the user completes his details, a request is sent to the auction house admin to approve the user. The details will be saved in bidspirit system through the usersupdateDetails api" />
+      <item value="Resend the confirmation mail - through the usersresendConfirmationMail api Change his email (e.g. in case the user had a type in his email) - through the usersupdateEmail api. A new confirmation mail will be sent to the user." />
+      <item value="Bidspirit system send a confirmation email to the user. Until the user confirms his email he cannot proceed with the registration, and the auction house admin will not get notified on the new registration. At this point the user can do 2 things:" />
+      <item value="User fills basic details (name, email and password) . this is achieved with the usersregister api If the user tries to register with an existing user in the auction house environment an error response code USER_EXIST" />
+      <item value="Did not confirmed his email yet" />
       <item value="Maquetador de temas" />
       <item value="Ajustes del sitio" />
       <item value="Downloading backup archives through the browser is disabled by default because it's likely that another plugin or PHP may add unexpected date at the beginning or the end of the backup archive. This would corrupt (break) the backup archives you download through the browser, making them impossible to restore." />
@@ -50,16 +55,11 @@
       <item value="Я указал условие что buyout price &gt;= start price" />
       <item value="Я указал не корректную цену выкупа." />
       <item value="You can check? Is everything taken into account or is there something else that needs to be done?" />
-      <item value="Можете проверить? Всё учтено или что-то надо ещё сделать?" />
-      <item value="OK. Unless the condition is the purchase price. Do I need to get all lots with a set buyout price in order to display them on the shop page? I think this will be a problem. Or are we going to specify a separate auction for this?" />
-      <item value="Ok. Если только условием будет цена покупки. Мне нужно получить все лоты с установленной ценой выкупа для отображения их на странице магазина? Думаю с этим будет проблема. Или всё же мы для этого будем указывать отдельную аукцион?" />
-      <item value="Ok. If only condition will be purchase price. I need get all lots with" />
-      <item value="is Auction Shop" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7845" />
+        <entry key="ENGLISH" value="7850" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7846" />
+        <entry key="RUSSIAN" value="7850" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -102,6 +102,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661532800776" />
+    <option name="lastTrimTime" value="1662005270481" />
   </component>
 </application>
