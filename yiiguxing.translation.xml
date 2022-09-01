@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="unupdated" />
+      <item value="logged Info" />
       <item value="time" />
       <item value="process is finished" />
       <item value="Sync data from ImportHistory table to posts" />
@@ -53,13 +55,11 @@
       <item value="This interacts with the Bidspirit API. Applications for auction houses are under development. We're having some issues with the iOS implementation, but we'll get to that soon." />
       <item value="Это взаимодействует с API Bidspirit. Приложения для аукционных домов в процессе разработки. У нас возникли проблемы с реализацией для iOS, но скоро мы с этим разберёмся." />
       <item value="Это взаимодействует с API Bidspirit. Приложения для аукционных домов в процессе разработки. У нас возникли проблемы с реализацией для iOS." />
-      <item value="We were asked to add this feature." />
-      <item value="Нас попросили добавить эту фичу." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7857" />
+        <entry key="ENGLISH" value="7860" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7857" />
+        <entry key="RUSSIAN" value="7860" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
