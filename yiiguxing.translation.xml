@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="agro don't open" />
       <item value="auctions Count" />
       <item value="auction Count" />
       <item value="I made a required requirement in the php 7.4 version plugin. I will have to fix this in future versions." />
@@ -54,12 +55,11 @@
       <item value="Yes, Stephen Binkley wanted to discuss this feature and says that it is not needed on the sites." />
       <item value="But Steve wanted to discuss this feature and says that it is not needed on the sites. He said he would talk to you about it." />
       <item value="Но Стив хотел обсудить эту фичу и говорит что она не нужна на сайтах. Сказал поговорит с вами на счёт этого." />
-      <item value="How can I enable auction Info.payment Method Required for auction 254 for us demo account?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7870" />
+        <entry key="ENGLISH" value="7871" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7870" />
+        <entry key="RUSSIAN" value="7871" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
