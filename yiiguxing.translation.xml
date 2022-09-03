@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="try register" />
+      <item value="register try" />
+      <item value="Trying register" />
+      <item value="Registration attempts" />
+      <item value="Попытки регистраций" />
+      <item value="Tryings register" />
+      <item value="Trying registers" />
+      <item value="Trys" />
+      <item value="Try register" />
+      <item value="Try Register Saver" />
+      <item value="register Try Saver" />
+      <item value="register Try Safe" />
       <item value="agro don't open" />
       <item value="auctions Count" />
       <item value="auction Count" />
@@ -43,23 +55,11 @@
       <item value="Я разработчик плагина UCO Auctions. Моя учётная запись создана лишь для тестов на сайте." />
       <item value="I'm not very good at spoken English." />
       <item value="Я не очень силён в разговорном английском." />
-      <item value="Это должно было быть исправлено" />
-      <item value="Added shop feature and other fixes" />
-      <item value="Added feature shop and other fixes" />
-      <item value="Могу сделать это сейчас." />
-      <item value="Tag List Woocommerce" />
-      <item value="Do I understand correctly that on this tab you want to display the hours of the auction?" />
-      <item value="Правильно ли я понимаю что на этой вкладке вы хотите отображать часы проведения аукциона?" />
-      <item value="We can use the presence of a token for webhooks for this." />
-      <item value="Можем использовать для этого наличие токена для вебхуков." />
-      <item value="Yes, Stephen Binkley wanted to discuss this feature and says that it is not needed on the sites." />
-      <item value="But Steve wanted to discuss this feature and says that it is not needed on the sites. He said he would talk to you about it." />
-      <item value="Но Стив хотел обсудить эту фичу и говорит что она не нужна на сайтах. Сказал поговорит с вами на счёт этого." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7871" />
+        <entry key="ENGLISH" value="7882" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7871" />
+        <entry key="RUSSIAN" value="7882" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -78,7 +78,7 @@
         <entry key="CORSICAN" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="3" />
-        <entry key="LITHUANIAN" value="1" />
+        <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="8" />
         <entry key="MALTESE" value="1" />
         <entry key="MACEDONIAN" value="3" />
