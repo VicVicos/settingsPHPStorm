@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="New registration try" />
+      <item value="Please check your email for verification and account activation" />
       <item value="טלפון" />
       <item value="Git is in a detached head state. Using branch &quot;default&quot;." />
       <item value="try register" />
@@ -53,13 +55,11 @@
       <item value="We are working on a plugin with Bidspirit. Please contact with Stephen Binkley" />
       <item value="Мы работаем над плагином совместно с Bidspirit." />
       <item value="Please contact with Stephen Binkley" />
-      <item value="Вы не состоите в группе WhatApp appelauction.com" />
-      <item value="Я разработчик плагина UCO Auctions. Моя учётная запись создана лишь для тестов на сайте." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7883" />
+        <entry key="ENGLISH" value="7885" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7883" />
+        <entry key="RUSSIAN" value="7885" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
