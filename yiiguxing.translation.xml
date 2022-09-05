@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="טלפון" />
+      <item value="Git is in a detached head state. Using branch &quot;default&quot;." />
       <item value="try register" />
       <item value="register try" />
       <item value="Trying register" />
@@ -53,13 +55,11 @@
       <item value="Please contact with Stephen Binkley" />
       <item value="Вы не состоите в группе WhatApp appelauction.com" />
       <item value="Я разработчик плагина UCO Auctions. Моя учётная запись создана лишь для тестов на сайте." />
-      <item value="I'm not very good at spoken English." />
-      <item value="Я не очень силён в разговорном английском." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7882" />
+        <entry key="ENGLISH" value="7883" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7882" />
+        <entry key="RUSSIAN" value="7883" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -93,7 +93,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="10" />
-        <entry key="HEBREW" value="213" />
+        <entry key="HEBREW" value="214" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
