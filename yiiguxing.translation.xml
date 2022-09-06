@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I have enabled pagination. The option to load lots on page scroll contains a bug that has been fixed in the next plugin update. This update is currently in testing and will be available for updates soon." />
+      <item value="Я включил пагинацию. Опция с подгрузкой лотов при прокрутке страницы содержит ошибку, которая исправлена в следующем обновлении плагина. Это обновление сейчас находится в стадии тестирования и скоро станет доступной для обновления." />
+      <item value="Can you show us what the client has at the moment and what he wants to receive in the end? We'd like to set up a joint call and discuss this together." />
+      <item value="Вы можете показать нам что клиент имеет на данный момент и что в итоге хочет получить? Мы бы хотели назначить совместный созвон и обсудить это вместе." />
+      <item value="About task from 2bidonit." />
+      <item value="The link to the catalog file is gone after the next synchronization. There was no error in the work of the plugin. Can you set up server-side synchronization as described in the plugin instructions?" />
+      <item value="Ссылка на файл каталога ушла после очередной синхронизации. Здесь не было ни какой ошибки в работе плагина. Вы можете настроить синхронизацию со стороны сервера как описано в инструкции плагина?" />
       <item value="Проблему с хостингом? Наверное." />
       <item value="Думаю он тоже может помочь" />
       <item value="temp redirect" />
@@ -48,18 +55,11 @@
       <item value="Sync Upcoming auction start" />
       <item value="disable Un Updated Lots" />
       <item value="After the user confirms his email he is redirected to a page where he can add more details - phone, address, etc. only after the user completes his details, a request is sent to the auction house admin to approve the user. The details will be saved in bidspirit system through the usersupdateDetails api" />
-      <item value="Resend the confirmation mail - through the usersresendConfirmationMail api Change his email (e.g. in case the user had a type in his email) - through the usersupdateEmail api. A new confirmation mail will be sent to the user." />
-      <item value="Bidspirit system send a confirmation email to the user. Until the user confirms his email he cannot proceed with the registration, and the auction house admin will not get notified on the new registration. At this point the user can do 2 things:" />
-      <item value="User fills basic details (name, email and password) . this is achieved with the usersregister api If the user tries to register with an existing user in the auction house environment an error response code USER_EXIST" />
-      <item value="Did not confirmed his email yet" />
-      <item value="Maquetador de temas" />
-      <item value="Ajustes del sitio" />
-      <item value="Downloading backup archives through the browser is disabled by default because it's likely that another plugin or PHP may add unexpected date at the beginning or the end of the backup archive. This would corrupt (break) the backup archives you download through the browser, making them impossible to restore." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7887" />
+        <entry key="ENGLISH" value="7892" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7888" />
+        <entry key="RUSSIAN" value="7892" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
