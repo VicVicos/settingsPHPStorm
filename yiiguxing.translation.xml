@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="избранное изображение - изменить избранное изображение для страницы. Страница предстоящего аукциона по умолчанию." />
+      <item value="featured image - change featured image for page. Page upcoming auction as default." />
+      <item value="Я добавлял этот шорткод на другой сайт и там всё работало" />
+      <item value="Я добавлял этот шорткод на другой сайт и там всё работалою" />
       <item value="Add a profile page to your menu or add the [bp_login_buttons] shortcode to your site header to display buttons on the login and registration forms." />
       <item value="Добавьте страницу профиля в меню или добавьте шорткод [bp_login_buttons] в шапку вашего сайта для отображения кнопок на формы логина и регистрации." />
       <item value="We also encountered similar problems in some Chrome browser profiles, if you change the profile to guest, the problem goes away." />
@@ -51,15 +55,11 @@
       <item value="Пожалуйста проверьте доступна ли php версия 7.4 на вашем хостинг провайдере? Если есть возможность переключите ваш сайт." />
       <item value="We moved the discussion of this issue to next week. And if you have questions about development, send messages to the group with the client, do not write to me personally." />
       <item value="We moved the discussion of this problem to next week. And if you have questions about development, send messages to the group with the client, do not write to me personally." />
-      <item value="Мы вынесли обсуждение этой задачи на следующую неделю. И в случае если возникают вопросы по разработке присылайте сообщения в группу с клиентом, не пишите лично мне." />
-      <item value="Раздельная загрузка изображений от дилеров" />
-      <item value="unupdated" />
-      <item value="logged Info" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7896" />
+        <entry key="ENGLISH" value="7898" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7896" />
+        <entry key="RUSSIAN" value="7899" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
