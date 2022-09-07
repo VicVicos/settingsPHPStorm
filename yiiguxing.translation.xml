@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Plugin UCO Auctions disabled" />
       <item value="Let us know the time of the meeting that is convenient for you. Several dates." />
       <item value="Сообщите нам удобное для вас время проведения встречи. Несколько дат." />
       <item value="избранное изображение - изменить избранное изображение для страницы. Страница предстоящего аукциона по умолчанию." />
@@ -54,12 +55,11 @@
       <item value="Проблему с ошибкой в плагине исправлю." />
       <item value="Please check if php version 7.4 is available on your hosting provider? If possible, switch it." />
       <item value="Please check if php version 7.4 is available on your hosting provider? If possible, switch your site." />
-      <item value="Пожалуйста проверьте доступна ли php версия 7.4 на вашем хостинг провайдере? Если есть возможность переключите ваш сайт." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7900" />
+        <entry key="ENGLISH" value="7901" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7900" />
+        <entry key="RUSSIAN" value="7901" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
