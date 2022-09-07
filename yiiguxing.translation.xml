@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Также у меня есть несколько вопросов, которые я хотел бы обсудить." />
+      <item value="Also i have some questions what i need will discus." />
       <item value="fixes patch" />
       <item value="Plugin UCO Auctions disabled" />
       <item value="Let us know the time of the meeting that is convenient for you. Several dates." />
@@ -53,13 +55,11 @@
       <item value="I made a required requirement in the php 7.4 version plugin. I will have to fix this in future versions." />
       <item value="I made it a required requirement in the php 7.4 version plugin. I will have to fix this in future versions." />
       <item value="Я сделал обязательным требованием в плагине версии php 7.4. Я должен буду это исправить в следующих версиях." />
-      <item value="Проблему с ошибкой в плагине исправлю." />
-      <item value="Please check if php version 7.4 is available on your hosting provider? If possible, switch it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7902" />
+        <entry key="ENGLISH" value="7903" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7902" />
+        <entry key="RUSSIAN" value="7904" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
