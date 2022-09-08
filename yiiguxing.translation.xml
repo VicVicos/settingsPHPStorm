@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="גינה" />
       <item value="Please tell me what I can do to help identify the problem." />
       <item value="Скажите что я могу сделать чтобы помочь определить проблему." />
       <item value="In the white window, the result of the request from the plugin, from the client server side. There is no such problem on the test http:z-auctions.ln13.tempurl.info" />
@@ -54,7 +55,6 @@
       <item value="Trys" />
       <item value="Try register" />
       <item value="Try Register Saver" />
-      <item value="register Try Saver" />
     </histories>
     <option name="languageScores">
       <map>
@@ -93,7 +93,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="10" />
-        <entry key="HEBREW" value="214" />
+        <entry key="HEBREW" value="215" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
