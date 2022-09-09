@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Пожалуйста, проверьте наличие этого сайта в белом списке" />
+      <item value="Please check white list in it site for ." />
+      <item value="I will check it, the site is currently in error." />
+      <item value="Сейчас на сайте сохраняется ошибка." />
+      <item value="I will check it, now on site" />
+      <item value="house Admin" />
       <item value="גינה" />
       <item value="Please tell me what I can do to help identify the problem." />
       <item value="Скажите что я могу сделать чтобы помочь определить проблему." />
@@ -49,17 +55,11 @@
       <item value="register try" />
       <item value="Trying register" />
       <item value="Registration attempts" />
-      <item value="Попытки регистраций" />
-      <item value="Tryings register" />
-      <item value="Trying registers" />
-      <item value="Trys" />
-      <item value="Try register" />
-      <item value="Try Register Saver" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7908" />
+        <entry key="ENGLISH" value="7912" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7908" />
+        <entry key="RUSSIAN" value="7913" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
