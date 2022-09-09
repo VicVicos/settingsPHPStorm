@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If there is only one task, then create a cron task for importData.php every minute." />
+      <item value="Если только одна задача, тогда создайте cron task для importData.php каждую минуту." />
+      <item value="Do you want to combine all tasks into one?" />
+      <item value="Вы хотите объединить все задачи в одну?" />
       <item value="Пожалуйста, проверьте наличие этого сайта в белом списке" />
       <item value="Please check white list in it site for ." />
       <item value="I will check it, the site is currently in error." />
@@ -51,15 +55,11 @@
       <item value="Please check your email for verification and account activation" />
       <item value="טלפון" />
       <item value="Git is in a detached head state. Using branch &quot;default&quot;." />
-      <item value="try register" />
-      <item value="register try" />
-      <item value="Trying register" />
-      <item value="Registration attempts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7912" />
+        <entry key="ENGLISH" value="7915" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7913" />
+        <entry key="RUSSIAN" value="7915" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
