@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Inside there is a dump database." />
+      <item value="Внутри есть dump database." />
       <item value="Extensions" />
       <item value="Будем следить за здоровьем сервера." />
       <item value="Did not confirmed his email yet" />
@@ -53,13 +55,11 @@
       <item value="We are aware of this problem and I can say for sure that it occurs in a private window of the Chrome browser." />
       <item value="Нам известна эта проблема и точно могу сказать что она возникает в приватном окне браузера Chrome." />
       <item value="I have enabled pagination. The option to load lots on page scroll contains a bug that has been fixed in the next plugin update. This update is currently in testing and will be available for updates soon." />
-      <item value="Я включил пагинацию. Опция с подгрузкой лотов при прокрутке страницы содержит ошибку, которая исправлена в следующем обновлении плагина. Это обновление сейчас находится в стадии тестирования и скоро станет доступной для обновления." />
-      <item value="Can you show us what the client has at the moment and what he wants to receive in the end? We'd like to set up a joint call and discuss this together." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7921" />
+        <entry key="ENGLISH" value="7922" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7921" />
+        <entry key="RUSSIAN" value="7922" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
