@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Extensions" />
+      <item value="Будем следить за здоровьем сервера." />
       <item value="Did not confirmed his email yet" />
       <item value="Хорошо. Давайте проведём встречу, я буду наблюдать." />
       <item value="If you record with a client without me. My level of spoken English is very weak." />
@@ -53,13 +55,11 @@
       <item value="I have enabled pagination. The option to load lots on page scroll contains a bug that has been fixed in the next plugin update. This update is currently in testing and will be available for updates soon." />
       <item value="Я включил пагинацию. Опция с подгрузкой лотов при прокрутке страницы содержит ошибку, которая исправлена в следующем обновлении плагина. Это обновление сейчас находится в стадии тестирования и скоро станет доступной для обновления." />
       <item value="Can you show us what the client has at the moment and what he wants to receive in the end? We'd like to set up a joint call and discuss this together." />
-      <item value="Вы можете показать нам что клиент имеет на данный момент и что в итоге хочет получить? Мы бы хотели назначить совместный созвон и обсудить это вместе." />
-      <item value="About task from 2bidonit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7920" />
+        <entry key="ENGLISH" value="7921" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7920" />
+        <entry key="RUSSIAN" value="7921" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -102,6 +102,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662458619500" />
+    <option name="lastTrimTime" value="1662950887582" />
   </component>
 </application>
