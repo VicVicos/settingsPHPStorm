@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="be back" />
       <item value="Проблема с доступом в админ панели решена." />
       <item value="Я могу это исправить после того, как вы предоставите доступ к вашему серверу." />
       <item value="Я нашёл проблему о которой говорил Виталий." />
@@ -54,12 +55,11 @@
       <item value="Сообщите нам удобное для вас время проведения встречи. Несколько дат." />
       <item value="избранное изображение - изменить избранное изображение для страницы. Страница предстоящего аукциона по умолчанию." />
       <item value="featured image - change featured image for page. Page upcoming auction as default." />
-      <item value="Я добавлял этот шорткод на другой сайт и там всё работало" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7928" />
+        <entry key="ENGLISH" value="7929" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
