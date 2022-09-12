@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Проблема с доступом в админ панели решена." />
+      <item value="Я могу это исправить после того, как вы предоставите доступ к вашему серверу." />
+      <item value="Я нашёл проблему о которой говорил Виталий." />
+      <item value="Vitaliy said that you are having problems accessing the administrative part of the site. Have you solved it?" />
+      <item value="Vitaliy сказал что у вас возникли проблемы с доступом в административную часть сайта. Вы решили её?" />
+      <item value="No, we do not have access to the server. We also do not have access to the administrative part of the site. It would be nice to have ssh access to the site to work with." />
+      <item value="Нет, у нас нет доступа к серверу. Так же у нас нет доступа к административной части сайта. Было бы хорошо иметь ssh доступ к сайту для работы с ним." />
       <item value="I attach video as i try it." />
       <item value="I noticed a bug in Bidspirit when changing Email. The email confirmation link that comes after changing the email does not work, it only works after the email is resent." />
       <item value="Я заметил баг в Bidspirit при смене Email. Ссылка для подтверждения Email которая приходит после изменения Email не работает, она работает только после повторной отправки email." />
@@ -48,18 +55,11 @@
       <item value="избранное изображение - изменить избранное изображение для страницы. Страница предстоящего аукциона по умолчанию." />
       <item value="featured image - change featured image for page. Page upcoming auction as default." />
       <item value="Я добавлял этот шорткод на другой сайт и там всё работало" />
-      <item value="Я добавлял этот шорткод на другой сайт и там всё работалою" />
-      <item value="Add a profile page to your menu or add the [bp_login_buttons] shortcode to your site header to display buttons on the login and registration forms." />
-      <item value="Добавьте страницу профиля в меню или добавьте шорткод [bp_login_buttons] в шапку вашего сайта для отображения кнопок на формы логина и регистрации." />
-      <item value="We also encountered similar problems in some Chrome browser profiles, if you change the profile to guest, the problem goes away." />
-      <item value="Так же мы сталкивались с подобными проблемами в некоторых профилях браузера Chrome, если сменить профиль на гостевой проблема уходит." />
-      <item value="This error comes from Bidspirit and is not a plugin error." />
-      <item value="Эта ошибка идёт от Bidspirit и это не является ошибкой плагина." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7924" />
+        <entry key="ENGLISH" value="7928" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7924" />
+        <entry key="RUSSIAN" value="7929" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
