@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I attach video as i try it." />
+      <item value="I noticed a bug in Bidspirit when changing Email. The email confirmation link that comes after changing the email does not work, it only works after the email is resent." />
+      <item value="Я заметил баг в Bidspirit при смене Email. Ссылка для подтверждения Email которая приходит после изменения Email не работает, она работает только после повторной отправки email." />
       <item value="Inside there is a dump database." />
       <item value="Внутри есть dump database." />
       <item value="Extensions" />
@@ -52,14 +55,11 @@
       <item value="Так же мы сталкивались с подобными проблемами в некоторых профилях браузера Chrome, если сменить профиль на гостевой проблема уходит." />
       <item value="This error comes from Bidspirit and is not a plugin error." />
       <item value="Эта ошибка идёт от Bidspirit и это не является ошибкой плагина." />
-      <item value="We are aware of this problem and I can say for sure that it occurs in a private window of the Chrome browser." />
-      <item value="Нам известна эта проблема и точно могу сказать что она возникает в приватном окне браузера Chrome." />
-      <item value="I have enabled pagination. The option to load lots on page scroll contains a bug that has been fixed in the next plugin update. This update is currently in testing and will be available for updates soon." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7922" />
+        <entry key="ENGLISH" value="7924" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7922" />
+        <entry key="RUSSIAN" value="7924" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
