@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Вы не смотрели видео, что я прислал?" />
       <item value="init - you can init any event" />
       <item value="And we are finalizing the functionality with auto-completion of fields if the user is authorized." />
       <item value="И дорабатываем функционал с автозаполнением полей если пользователь авторизован." />
@@ -54,7 +55,6 @@
       <item value="Other tasks can be completed manually when a new auction is published." />
       <item value="Другие задачи можно выполнить в ручную при публикации нового аукциона." />
       <item value="If there is only one task, then create a cron task for importData.php every minute." />
-      <item value="Если только одна задача, тогда создайте cron task для importData.php каждую минуту." />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7946" />
+        <entry key="RUSSIAN" value="7947" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
