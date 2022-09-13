@@ -5,6 +5,29 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="And we are finalizing the functionality with auto-completion of fields if the user is authorized." />
+      <item value="И дорабатываем функционал с автозаполнением полей если пользователь авторизован." />
+      <item value="We leave this form with the ability to upload a zip file." />
+      <item value="Мы оставляем эту форму с возможностью загружать zip файл." />
+      <item value="Which form we be used?" />
+      <item value="Whitch form we be used?" />
+      <item value="Не надо было?" />
+      <item value="This form does not send an email with a zip file." />
+      <item value="Эта форма не присылает письмо с zip файлом." />
+      <item value="I will add your email to the list of recipients so that you can understand how it will be if an email arrives with 100+ pictures in the attachment." />
+      <item value="Я добавлю ваш email в список получателей что бы вы могли понимать как это будет если придёт письмо с 100+ картинок во вложении." />
+      <item value="It is inconvenient to receive a letter with a bunch of files. Much more convenient if it is one zip archive." />
+      <item value="Неудобно получать письмо с кучей файлов. Куда удобнее если это будет один zip архив." />
+      <item value="Я создам пример на основе этого плагина." />
+      <item value="I created option base on this plugin" />
+      <item value="Да, если клиенты будут загружать более 100 файлов такой вариант не удобен." />
+      <item value="Yes, if clients will be upload 100+ files it is don't worry" />
+      <item value="архивацию на стороне сервера" />
+      <item value="Wouldn't it be reasonable to upload a zip archive in this case?" />
+      <item value="Не будет ли разумным в таком случае загружать zip архив?" />
+      <item value="We can offer to add a regular contact form on the page with file uploads." />
+      <item value="Мы можем предложить добавить на странице обычную контактную форму с загрузкой файлов." />
+      <item value="Проблему с email на 2bidonit мы исправили" />
       <item value="be back" />
       <item value="Проблема с доступом в админ панели решена." />
       <item value="Я могу это исправить после того, как вы предоставите доступ к вашему серверу." />
@@ -32,34 +55,11 @@
       <item value="If there is only one task, then create a cron task for importData.php every minute." />
       <item value="Если только одна задача, тогда создайте cron task для importData.php каждую минуту." />
       <item value="Do you want to combine all tasks into one?" />
-      <item value="Вы хотите объединить все задачи в одну?" />
-      <item value="Пожалуйста, проверьте наличие этого сайта в белом списке" />
-      <item value="Please check white list in it site for ." />
-      <item value="I will check it, the site is currently in error." />
-      <item value="Сейчас на сайте сохраняется ошибка." />
-      <item value="I will check it, now on site" />
-      <item value="house Admin" />
-      <item value="גינה" />
-      <item value="Please tell me what I can do to help identify the problem." />
-      <item value="Скажите что я могу сделать чтобы помочь определить проблему." />
-      <item value="In the white window, the result of the request from the plugin, from the client server side. There is no such problem on the test http:z-auctions.ln13.tempurl.info" />
-      <item value="В белом окне результат запроса из плагина, со стороны сервера клиента. На тестовом http:z-auctions.ln13.tempurl.info такой проблемы нет." />
-      <item value="Создам задачу по этому запросу." />
-      <item value="On the test, there is no problem with this. And on the client site, this request returns false." />
-      <item value="на тестовом с этим нет проблем. А на сайте клиента этот запрос возвращает false." />
-      <item value="Также у меня есть несколько вопросов, которые я хотел бы обсудить." />
-      <item value="Also i have some questions what i need will discus." />
-      <item value="fixes patch" />
-      <item value="Plugin UCO Auctions disabled" />
-      <item value="Let us know the time of the meeting that is convenient for you. Several dates." />
-      <item value="Сообщите нам удобное для вас время проведения встречи. Несколько дат." />
-      <item value="избранное изображение - изменить избранное изображение для страницы. Страница предстоящего аукциона по умолчанию." />
-      <item value="featured image - change featured image for page. Page upcoming auction as default." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7929" />
+        <entry key="ENGLISH" value="7945" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7929" />
+        <entry key="RUSSIAN" value="7945" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
