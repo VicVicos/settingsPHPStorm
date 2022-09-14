@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Apparently some margin are still there even though it's hidden" />
+      <item value="There is nothing wrong with this, this is a message about the completion of the backup copy of the site" />
+      <item value="В этом ни чего страшного нет, это сообщение об завершении резервной копии сайта" />
       <item value="To import the 4 page demo templates showcased on our demos follow these steps: Go to Admin - Tools - Import Select and import the file property_demo_templates.xml from demo_contentdemo property templates folder The pages will show in admin - pages Then you can assign any of the 4 demo templates to your properties Or you can edit them with existing shortcodes" />
       <item value="Вы не смотрели видео, что я прислал?" />
       <item value="init - you can init any event" />
@@ -52,14 +55,11 @@
       <item value="Если вы сделаете запись с клиентом без меня. Мой уровень разговорного английского очень слаб." />
       <item value="but without Andrey, I will be of no use at the meeting." />
       <item value="но без Андрея от меня на встрече не будет толку." />
-      <item value="max Heighter" />
-      <item value="Other tasks can be completed manually when a new auction is published." />
-      <item value="Другие задачи можно выполнить в ручную при публикации нового аукциона." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7947" />
+        <entry key="ENGLISH" value="7949" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7947" />
+        <entry key="RUSSIAN" value="7949" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
