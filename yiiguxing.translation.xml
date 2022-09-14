@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="To import the 4 page demo templates showcased on our demos follow these steps: Go to Admin - Tools - Import Select and import the file property_demo_templates.xml from demo_contentdemo property templates folder The pages will show in admin - pages Then you can assign any of the 4 demo templates to your properties Or you can edit them with existing shortcodes" />
       <item value="Вы не смотрели видео, что я прислал?" />
       <item value="init - you can init any event" />
       <item value="And we are finalizing the functionality with auto-completion of fields if the user is authorized." />
@@ -54,12 +55,11 @@
       <item value="max Heighter" />
       <item value="Other tasks can be completed manually when a new auction is published." />
       <item value="Другие задачи можно выполнить в ручную при публикации нового аукциона." />
-      <item value="If there is only one task, then create a cron task for importData.php every minute." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7946" />
+        <entry key="ENGLISH" value="7947" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
