@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Possibility to bid on the catalog page" />
+      <item value="Возможность делать ставку на странице каталога" />
       <item value="And with instructions on how to make a zip archive, will they set it up on their own?" />
       <item value="И с инструкцией как сделать zip архив они самостоятельно настроят?" />
       <item value="I didn't finish setting it up and hid the page." />
@@ -53,13 +55,11 @@
       <item value="I attach video as i try it." />
       <item value="I noticed a bug in Bidspirit when changing Email. The email confirmation link that comes after changing the email does not work, it only works after the email is resent." />
       <item value="Я заметил баг в Bidspirit при смене Email. Ссылка для подтверждения Email которая приходит после изменения Email не работает, она работает только после повторной отправки email." />
-      <item value="Inside there is a dump database." />
-      <item value="Внутри есть dump database." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7955" />
+        <entry key="ENGLISH" value="7956" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7955" />
+        <entry key="RUSSIAN" value="7956" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
