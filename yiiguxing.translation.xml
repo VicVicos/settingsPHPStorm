@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="המוכר: לבריאות" />
       <item value="כפר ורבורג" />
       <item value="Logo facade" />
       <item value="Facade logo" />
@@ -54,7 +55,6 @@
       <item value="Я нашёл проблему о которой говорил Виталий." />
       <item value="Vitaliy said that you are having problems accessing the administrative part of the site. Have you solved it?" />
       <item value="Vitaliy сказал что у вас возникли проблемы с доступом в административную часть сайта. Вы решили её?" />
-      <item value="No, we do not have access to the server. We also do not have access to the administrative part of the site. It would be nice to have ssh access to the site to work with." />
     </histories>
     <option name="languageScores">
       <map>
@@ -93,7 +93,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="10" />
-        <entry key="HEBREW" value="216" />
+        <entry key="HEBREW" value="217" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
