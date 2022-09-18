@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="patch with fixes" />
+      <item value="fixes with patch" />
+      <item value="fixes patch" />
       <item value="And about this issue. We need a video or a link to a website where we can see how it all works and can fully appreciate the task." />
       <item value="И на счёт этой задачи. Нам нужно видео или ссылка на сайт где бы мы могли увидеть как всё это работает и могли бы полностью оценить задачу." />
       <item value="Now we will send an invoice to the client." />
@@ -52,14 +55,11 @@
       <item value="архивацию на стороне сервера" />
       <item value="Wouldn't it be reasonable to upload a zip archive in this case?" />
       <item value="Не будет ли разумным в таком случае загружать zip архив?" />
-      <item value="We can offer to add a regular contact form on the page with file uploads." />
-      <item value="Мы можем предложить добавить на странице обычную контактную форму с загрузкой файлов." />
-      <item value="Проблему с email на 2bidonit мы исправили" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7962" />
+        <entry key="ENGLISH" value="7965" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7962" />
+        <entry key="RUSSIAN" value="7965" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
@@ -102,6 +102,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662950887582" />
+    <option name="lastTrimTime" value="1663506106249" />
   </component>
 </application>
