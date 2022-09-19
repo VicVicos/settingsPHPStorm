@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I don't know anything about these options and I can't suggest anything." />
+      <item value="Я про эти опции ни чего не знаю и подсказать не могу." />
       <item value="patch with fixes" />
       <item value="fixes with patch" />
       <item value="fixes patch" />
@@ -53,13 +55,11 @@
       <item value="Да, если клиенты будут загружать более 100 файлов такой вариант не удобен." />
       <item value="Yes, if clients will be upload 100+ files it is don't worry" />
       <item value="архивацию на стороне сервера" />
-      <item value="Wouldn't it be reasonable to upload a zip archive in this case?" />
-      <item value="Не будет ли разумным в таком случае загружать zip архив?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="7965" />
+        <entry key="ENGLISH" value="7966" />
         <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="7965" />
+        <entry key="RUSSIAN" value="7966" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
