@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="להגיש מועמדות פעולה" />
+      <item value="שד שנבחר לעגלה" />
       <item value="Fixed. Will be continue ckecked." />
       <item value="I don't know anything about these options and I can't suggest anything." />
       <item value="Я про эти опции ни чего не знаю и подсказать не могу." />
@@ -53,8 +55,6 @@
       <item value="Неудобно получать письмо с кучей файлов. Куда удобнее если это будет один zip архив." />
       <item value="Я создам пример на основе этого плагина." />
       <item value="I created option base on this plugin" />
-      <item value="Да, если клиенты будут загружать более 100 файлов такой вариант не удобен." />
-      <item value="Yes, if clients will be upload 100+ files it is don't worry" />
     </histories>
     <option name="languageScores">
       <map>
@@ -93,7 +93,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="10" />
-        <entry key="HEBREW" value="217" />
+        <entry key="HEBREW" value="219" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="4" />
