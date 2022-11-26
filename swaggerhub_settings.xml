@@ -1,0 +1,5 @@
+<application>
+  <component name="com.smartbear.swaggerhub.intellij.plugin.settings.PluginSettings">
+    <option name="host" value="https://app.swaggerhub.com/apis/U2134/Bidspirit/1.0" />
+  </component>
+</application>

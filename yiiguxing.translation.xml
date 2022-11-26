@@ -1,103 +1,107 @@
 <application>
   <component name="AppStorage">
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="1095" />
+    <option name="newTranslationDialogY" value="618" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="widget-title" />
-      <item value="rich text" />
-      <item value="We also supplemented the &quot;Database Structure&quot; BRAND &quot;with&quot; Bonuses &quot;" />
-      <item value="If exist mobile version" />
-      <item value="Здравствуйте! Если вы хотите запустить сайт к началу аукциона, мы должны заняться переносом домена уже сейчас. Фичи что мы не успели сделать сейчас будут позднее." />
-      <item value="Общее" />
-      <item value="wrp Lot Tools" />
-      <item value="Можно настроить функционал формы &quot;Subscribe&quot; таким образом что бы указанные email сохранялись для рассылки. Регестрировать этих пользователей нет необходимости." />
-      <item value="Этот функционал доступен в плагине. Вам остаётся только настроить это в backoffice Bidpsirit." />
-      <item value="foo" />
-      <item value="Остальные фичи по сути это контентные страницы - можем сделать их." />
-      <item value="About this." />
-      <item value="They wanted to remind about pictures." />
-      <item value="У Bidspirit есть возможность продавать лоты до начала аукциона или его завершения. Поговорите об этом с вашим менеджером Bidspirit." />
-      <item value="Для исправления были внесены следующие изменения." />
-      <item value="Это как раз связано со сменой имени аукциона." />
-      <item value="You changed the auction number, now this auction is synchronized on the site, soon it will be completely loaded." />
-      <item value="Вы изменили номер аукциона, сейчас этот аукцион заново синхронизируется на сайте, скоро он полностью будет загружен." />
-      <item value="Please clarify if I missed any of the edits on the site?" />
-      <item value="Пожалуйста уточните не упустил ли я что либо из правок по сайту?" />
-      <item value="Judging by the logs, this is the problem. A new auction cannot appear for this reason." />
-      <item value="Судя по логам в этом проблема. Новый аукцион не может появится по этой причине." />
-      <item value="Check the &quot;Number&quot; fields for auctions and make sure this field is unique across all auctions." />
-      <item value="Проверьте поля &quot;Number&quot; для аукционов и убедитесь в том что это поле уникально для всех аукционов." />
-      <item value="How long ago did you publish a new auction?" />
-      <item value="Как давно вы опубликовали новый аукцион?" />
-      <item value="Эта информация тянется из Bidspirit. Мне надо её исключить из названия?" />
-      <item value="Or should the date be placed in the title?" />
-      <item value="Или дату надо поместить в заголовок?" />
-      <item value="Should it be like this?" />
-      <item value="Должно быть вот так?" />
-      <item value="CASINOS" />
-      <item value="I changed displaying title for auctions, please check if I understand correctly." />
-      <item value="Я изменил отображаемое название для аукционов, проверьте правильно ли я понимаю." />
-      <item value="I changed displaying title for auctions, please check correctly I'm understand." />
-      <item value="I changed displaying title for auctions, please check correctly i understand." />
-      <item value="outer-swiper-options" />
-      <item value="At Bidspirit we cannot change anything." />
-      <item value="I see differences in the &quot;Cadmore Auctions&quot; prefix and the lack of a &quot;part X&quot; batch number." />
-      <item value="No. I see differences in the &quot;Cadmore Auctions&quot; prefix and the lack of a &quot;part X&quot; batch number. At Bidspirit we cannot change anything." />
-      <item value="Нет. Я вижу отличия в префиксе &quot;Cadmore Auctions&quot; и отсутсвием номером партии &quot;part X&quot;. На Bidspirit мы ни чего не можем менять." />
-      <item value="What do you want to do about it?" />
-      <item value="Что вы хотите сделать с этим?" />
-      <item value="What do you suggest? We see the same auction names on Bidspirit." />
-      <item value="Что вы предлагаете? Такие же имена аукционов мы видим и на Bidspirit." />
-      <item value="Вы можете отредактировать это самостоятельно, пожалуйста ознакомьтесь с видео инструкцией по работе с сайтом." />
-      <item value="After the new auction appears, the required lots will need to be marked." />
-      <item value="После того как новый аукцион появится, нужные лоты надо будет отметить." />
-      <item value="I want learn a new technologies" />
-      <item value="I want learn a new technology" />
+      <item value="להגיש מועמדות פעולה" />
+      <item value="שד שנבחר לעגלה" />
+      <item value="Fixed. Will be continue ckecked." />
+      <item value="I don't know anything about these options and I can't suggest anything." />
+      <item value="Я про эти опции ни чего не знаю и подсказать не могу." />
+      <item value="patch with fixes" />
+      <item value="fixes with patch" />
+      <item value="fixes patch" />
+      <item value="And about this issue. We need a video or a link to a website where we can see how it all works and can fully appreciate the task." />
+      <item value="И на счёт этой задачи. Нам нужно видео или ссылка на сайт где бы мы могли увидеть как всё это работает и могли бы полностью оценить задачу." />
+      <item value="Now we will send an invoice to the client." />
+      <item value="Сейчас мы отправим инвойс клиенту." />
+      <item value="Is there anything else that needs to be improved in this form?" />
+      <item value="Что либо требуется ещё дорабатывать в этой форме?" />
+      <item value="המוכר: לבריאות" />
+      <item value="כפר ורבורג" />
+      <item value="Logo facade" />
+      <item value="Facade logo" />
+      <item value="Preview logo" />
+      <item value="Possibility to bid on the catalog page" />
+      <item value="Возможность делать ставку на странице каталога" />
+      <item value="And with instructions on how to make a zip archive, will they set it up on their own?" />
+      <item value="И с инструкцией как сделать zip архив они самостоятельно настроят?" />
+      <item value="I didn't finish setting it up and hid the page." />
+      <item value="Я не завершил её настройку и скрыл страницу." />
+      <item value="I assume that one of the widgets on the main page of the admin panel leads to problems." />
+      <item value="admin panel leads to problems." />
+      <item value="Предполагаю что какой то из виджетов на главной странице админки приводит к проблемам." />
+      <item value="Array and string offset access syntax with curly braces is no longer supported in" />
+      <item value="Apparently some margin are still there even though it's hidden" />
+      <item value="There is nothing wrong with this, this is a message about the completion of the backup copy of the site" />
+      <item value="В этом ни чего страшного нет, это сообщение об завершении резервной копии сайта" />
+      <item value="To import the 4 page demo templates showcased on our demos follow these steps: Go to Admin - Tools - Import Select and import the file property_demo_templates.xml from demo_contentdemo property templates folder The pages will show in admin - pages Then you can assign any of the 4 demo templates to your properties Or you can edit them with existing shortcodes" />
+      <item value="Вы не смотрели видео, что я прислал?" />
+      <item value="init - you can init any event" />
+      <item value="And we are finalizing the functionality with auto-completion of fields if the user is authorized." />
+      <item value="И дорабатываем функционал с автозаполнением полей если пользователь авторизован." />
+      <item value="We leave this form with the ability to upload a zip file." />
+      <item value="Мы оставляем эту форму с возможностью загружать zip файл." />
+      <item value="Which form we be used?" />
+      <item value="Whitch form we be used?" />
+      <item value="Не надо было?" />
+      <item value="This form does not send an email with a zip file." />
+      <item value="Эта форма не присылает письмо с zip файлом." />
+      <item value="I will add your email to the list of recipients so that you can understand how it will be if an email arrives with 100+ pictures in the attachment." />
+      <item value="Я добавлю ваш email в список получателей что бы вы могли понимать как это будет если придёт письмо с 100+ картинок во вложении." />
+      <item value="It is inconvenient to receive a letter with a bunch of files. Much more convenient if it is one zip archive." />
+      <item value="Неудобно получать письмо с кучей файлов. Куда удобнее если это будет один zip архив." />
+      <item value="Я создам пример на основе этого плагина." />
+      <item value="I created option base on this plugin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4943" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="7967" />
+        <entry key="ARABIC" value="1" />
         <entry key="AZERBAIJANI" value="4" />
         <entry key="BELARUSIAN" value="1" />
-        <entry key="BULGARIAN" value="2" />
+        <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="4943" />
-        <entry key="FRENCH" value="6" />
+        <entry key="GERMAN" value="2" />
+        <entry key="RUSSIAN" value="7967" />
+        <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
-        <entry key="DUTCH" value="3" />
+        <entry key="DUTCH" value="4" />
         <entry key="CATALAN" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="2" />
         <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="2" />
-        <entry key="LITHUANIAN" value="1" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="LATIN" value="3" />
+        <entry key="LITHUANIAN" value="2" />
+        <entry key="ROMANIAN" value="8" />
         <entry key="MALTESE" value="1" />
-        <entry key="MACEDONIAN" value="2" />
+        <entry key="MACEDONIAN" value="3" />
         <entry key="BENGALI" value="1" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="4" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="9" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="CEBUANO" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="2" />
-        <entry key="SPANISH" value="3" />
-        <entry key="HEBREW" value="160" />
-        <entry key="ITALIAN" value="4" />
+        <entry key="SPANISH" value="10" />
+        <entry key="HEBREW" value="219" />
+        <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
-        <entry key="INDONESIAN" value="3" />
+        <entry key="INDONESIAN" value="4" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631778456947" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1663506106249" />
   </component>
 </application>

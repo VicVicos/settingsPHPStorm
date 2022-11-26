@@ -5,6 +5,7 @@
       <mapping pattern="var_dump-2021-03-02-12-18-47" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
       <mapping pattern="var_dump-2021-03-05-02-57-07" type="AUTO_DETECTED" />
+      <mapping pattern="galaxy" type="AUTO_DETECTED" />
       <mapping pattern="lot-list-new-2021-04-20-05-05-04" type="AUTO_DETECTED" />
       <mapping pattern="var_dump-2021-04-22-07-36-00" type="AUTO_DETECTED" />
       <mapping pattern="var_dump-2020-06-19-07-39-57" type="Native" />
@@ -28,6 +29,7 @@
       <mapping pattern="var_dump-2019-12-24-12-06-22" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2019-12-24-12-35-25" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2020-07-24-14-19-58" type="PLAIN_TEXT" />
+      <mapping pattern="var_dump-2021-11-06-11-23-30" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2020-06-19-07-41-04" type="PLAIN_TEXT" />
       <mapping pattern="var_dump-2020-05-06-15-33-23" type="PLAIN_TEXT" />
       <mapping pattern="kOAa4t8unJ0SRxj7FYyDUarvbDnpP3LmDoa03Hkr" type="PLAIN_TEXT" />
@@ -37,6 +39,7 @@
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
