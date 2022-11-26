@@ -3,8 +3,10 @@
     <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="618" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I think we are dealing with Bidspirit bug. It is necessary to reduce auctions. One of the auction home of the UK had a similar problem" />
+      <item value="Я думаю мы имеем дело с багом на Bidspirit. Надо переопубликовать аукционы. Подобная проблема была у одного из аукционных домой Великобритании" />
+      <item value="text" />
       <item value="להגיש מועמדות פעולה" />
       <item value="שד שנבחר לעגלה" />
       <item value="Fixed. Will be continue ckecked." />
@@ -52,9 +54,6 @@
       <item value="I will add your email to the list of recipients so that you can understand how it will be if an email arrives with 100+ pictures in the attachment." />
       <item value="Я добавлю ваш email в список получателей что бы вы могли понимать как это будет если придёт письмо с 100+ картинок во вложении." />
       <item value="It is inconvenient to receive a letter with a bunch of files. Much more convenient if it is one zip archive." />
-      <item value="Неудобно получать письмо с кучей файлов. Куда удобнее если это будет один zip архив." />
-      <item value="Я создам пример на основе этого плагина." />
-      <item value="I created option base on this plugin" />
     </histories>
     <option name="languageScores">
       <map>
